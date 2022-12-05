@@ -1,0 +1,2633 @@
+{
+  "accession_id": "S-BIAD473",
+  "title": "E-cadherin mediated Apical Membrane Initiation Site localisation: mESCs cultured in Matrigel. IF and live imaging dataset",
+  "description": "mESC image datasets used for publication (currently in revision in EMBO J, original on BioRxiv https://doi.org/10.1101/2021.11.30.470571)",
+  "organism": "Mus musculus (mouse)",
+  "release_date": "2022-06-07",
+  "imaging_type": "confocal microscopy",
+  "example_image_uri": "S-BIAD473-example.png",
+  "images": {
+    "IM1": {
+      "id": "IM1",
+      "original_relpath": "Image Data/Fig 1/Fig 1H/Mitomycin GM130.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM1",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 1/Fig 1H/Mitomycin GM130.tif",
+          "size": 262356,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "GM130",
+        "md5": "4EABF6C402CEB71D7195AA6F01BF7E1C"
+      }
+    },
+    "IM2": {
+      "id": "IM2",
+      "original_relpath": "Image Data/Fig 1/Fig 1H/Control GM130.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM2",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 1/Fig 1H/Control GM130.tif",
+          "size": 262356,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "GM130",
+        "md5": "F7C93976B29DE1D0EEBB10F3C40A2707"
+      }
+    },
+    "IM3": {
+      "id": "IM3",
+      "original_relpath": "Image Data/Fig 1/Fig 1H/Mitomycin ZO1.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM3",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 1/Fig 1H/Mitomycin ZO1.tif",
+          "size": 262356,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "ZO-1",
+        "md5": "6423934605B7E43FD3F11547487FA5C3"
+      }
+    },
+    "IM4": {
+      "id": "IM4",
+      "original_relpath": "Image Data/Fig 1/Fig 1H/Control ZO1.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM4",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 1/Fig 1H/Control ZO1.tif",
+          "size": 262356,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "ZO-1",
+        "md5": "DE6310A647247BA005751D4A1FEE9C30"
+      }
+    },
+    "IM5": {
+      "id": "IM5",
+      "original_relpath": "Image Data/Fig 1/Fig 1C/PAR3 Mito 4-cell P.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM5",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 1/Fig 1C/PAR3 Mito 4-cell P.tif",
+          "size": 791035,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "2A1183E1A0C47727E4F1639BF9017F5D"
+      }
+    },
+    "IM6": {
+      "id": "IM6",
+      "original_relpath": "Image Data/Fig 1/Fig 1C/PAR3 Mito 2-cell P.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM6",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 1/Fig 1C/PAR3 Mito 2-cell P.tif",
+          "size": 791046,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "D67E2EA95788BA0CF85D922F71B95ADB"
+      }
+    },
+    "IM7": {
+      "id": "IM7",
+      "original_relpath": "Image Data/Fig 1/Fig 1C/PAR3 Con 2-cell P.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM7",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 1/Fig 1C/PAR3 Con 2-cell P.tif",
+          "size": 791018,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "C87C5ED00264DDC7010C0489FBE23B29"
+      }
+    },
+    "IM8": {
+      "id": "IM8",
+      "original_relpath": "Image Data/Fig 1/Fig 1C/PAR3 Con 4-cell P.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM8",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 1/Fig 1C/PAR3 Con 4-cell P.tif",
+          "size": 789463,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "2E72C0D331777BAD5D3FAE9E4F84B2F2"
+      }
+    },
+    "IM9": {
+      "id": "IM9",
+      "original_relpath": "Image Data/Fig 1/Fig 1J/Mito rTub.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM9",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 1/Fig 1J/Mito rTub.tif",
+          "size": 262356,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "\u03b3-tubulin ",
+        "md5": "71CB241548B17F74A73DEEFE4B46884A"
+      }
+    },
+    "IM10": {
+      "id": "IM10",
+      "original_relpath": "Image Data/Fig 1/Fig 1J/Con rTub.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM10",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 1/Fig 1J/Con rTub.tif",
+          "size": 262356,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "\u03b3-tubulin ",
+        "md5": "D5842A00F57C0EFB84849514D1B5A93D"
+      }
+    },
+    "IM11": {
+      "id": "IM11",
+      "original_relpath": "Image Data/Fig 2/Fig 2B/Con 2-cell.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM11",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 2/Fig 2B/Con 2-cell.tif",
+          "size": 524811,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "mChy-PAR-6B",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-6B",
+        "md5": "1D22B6A54B82C2A4CDB3F8CA664F6715"
+      }
+    },
+    "IM12": {
+      "id": "IM12",
+      "original_relpath": "Image Data/Fig 2/Fig 2B/Mito 2-cell.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM12",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 2/Fig 2B/Mito 2-cell.tif",
+          "size": 524801,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "mChy-PAR-6B",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-6B",
+        "md5": "01AFC24B89BC7261A8E3D41AF9C5C472"
+      }
+    },
+    "IM13": {
+      "id": "IM13",
+      "original_relpath": "Image Data/Fig 2/Fig 2B/Mito 4-cell.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM13",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 2/Fig 2B/Mito 4-cell.tif",
+          "size": 524811,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "mChy-PAR-6B",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-6B",
+        "md5": "97A7BC3AEC225BA5CF419224C0AF1706"
+      }
+    },
+    "IM14": {
+      "id": "IM14",
+      "original_relpath": "Image Data/Fig 2/Fig 2B/Con 4-cell.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM14",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 2/Fig 2B/Con 4-cell.tif",
+          "size": 524801,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "mChy-PAR-6B",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-6B",
+        "md5": "8DC7F7B58DCC7AE0621F2F75086A544D"
+      }
+    },
+    "IM15": {
+      "id": "IM15",
+      "original_relpath": "Image Data/Fig 2/Fig 2A/mCherry-Pard6b 72hrs.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM15",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 2/Fig 2A/mCherry-Pard6b 72hrs.tif",
+          "size": 263978,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "mChy-PAR-6B",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-6B",
+        "md5": "E02C3ED332EBB3E6B7149FBF461C8093"
+      }
+    },
+    "IM16": {
+      "id": "IM16",
+      "original_relpath": "Image Data/Fig 2/Fig 2A/mCherry-Pard6b 24hrs 01.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM16",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 2/Fig 2A/mCherry-Pard6b 24hrs 01.tif",
+          "size": 263978,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "mChy-PAR-6B",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-6B",
+        "md5": "3DB1B694733937790AD7580D45A6DA94"
+      }
+    },
+    "IM17": {
+      "id": "IM17",
+      "original_relpath": "Image Data/Fig 2/Fig 2A/mCherry-Pard6b 96hrs.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM17",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 2/Fig 2A/mCherry-Pard6b 96hrs.tif",
+          "size": 263978,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "mChy-PAR-6B",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-6B",
+        "md5": "AF2E114AB3F479B2DB32B3231E95CDBA"
+      }
+    },
+    "IM18": {
+      "id": "IM18",
+      "original_relpath": "Image Data/Fig 2/Fig 2A/mCherry-Pard6b 24hrs 02.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM18",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 2/Fig 2A/mCherry-Pard6b 24hrs 02.tif",
+          "size": 263978,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "mChy-PAR-6B",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-6B",
+        "md5": "81CE11D6365A19D71F0EB521376EC794"
+      }
+    },
+    "IM19": {
+      "id": "IM19",
+      "original_relpath": "Image Data/Fig 2/Fig 2A/mCherry-Pard6b 48hrs.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM19",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 2/Fig 2A/mCherry-Pard6b 48hrs.tif",
+          "size": 263978,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "mChy-PAR-6B",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-6B",
+        "md5": "713E058D3FC0F036720E551DE09E5780"
+      }
+    },
+    "IM20": {
+      "id": "IM20",
+      "original_relpath": "Image Data/Fig 3/Fig 3E/Ecad Factin Chimeric.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM20",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 3/Fig 3E/Ecad Factin Chimeric.tif",
+          "size": 355226,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Cdh1 KO/WT",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "F-actin & E-cadherin",
+        "md5": "878F2E7DF0E9508447A433CA51522055"
+      }
+    },
+    "IM21": {
+      "id": "IM21",
+      "original_relpath": "Image Data/Fig 3/Fig 3E/PAR3 Chimeric.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM21",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 3/Fig 3E/PAR3 Chimeric.tif",
+          "size": 118548,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Cdh1 KO/WT",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "A64880D41FC73A738F88AD455A05C669"
+      }
+    },
+    "IM22": {
+      "id": "IM22",
+      "original_relpath": "Image Data/Fig 3/Fig 3E/Ecad Factin Homo.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM22",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 3/Fig 3E/Ecad Factin Homo.tif",
+          "size": 355226,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT/WT",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "F-actin & E-cadherin",
+        "md5": "AE857E5D510A79F3F0DD67320B2DC164"
+      }
+    },
+    "IM23": {
+      "id": "IM23",
+      "original_relpath": "Image Data/Fig 3/Fig 3E/PAR3 Homo.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM23",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 3/Fig 3E/PAR3 Homo.tif",
+          "size": 118548,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT/WT",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "538DDB30143ED4CCB9133D83C2D3B8BB"
+      }
+    },
+    "IM24": {
+      "id": "IM24",
+      "original_relpath": "Image Data/Fig 3/Fig 3G/Cdh1KO Con ZO1.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM24",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 3/Fig 3G/Cdh1KO Con ZO1.tif",
+          "size": 262356,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Cdh1 KO ",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "ZO-1",
+        "md5": "A02E866F466A8FA7D1986CA2CBC0D289"
+      }
+    },
+    "IM25": {
+      "id": "IM25",
+      "original_relpath": "Image Data/Fig 3/Fig 3G/Cdh1KO Mito ZO1.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM25",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 3/Fig 3G/Cdh1KO Mito ZO1.tif",
+          "size": 262356,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Cdh1 KO ",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "ZO-1",
+        "md5": "AF8FA775375A86A840B17424315AF6A4"
+      }
+    },
+    "IM26": {
+      "id": "IM26",
+      "original_relpath": "Image Data/Fig 3/Fig 3G/Cdh1KO Con Golgi.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM26",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 3/Fig 3G/Cdh1KO Con Golgi.tif",
+          "size": 262356,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Cdh1 KO ",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "GM130",
+        "md5": "E739A6A92C44525B0592028EB8E31E8C"
+      }
+    },
+    "IM27": {
+      "id": "IM27",
+      "original_relpath": "Image Data/Fig 3/Fig 3G/Cdh1KO Mito Golgi.tif.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM27",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 3/Fig 3G/Cdh1KO Mito Golgi.tif.tif",
+          "size": 262356,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Cdh1 KO ",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "GM130",
+        "md5": "A07A410D194AD601FA8725CB96A30FE7"
+      }
+    },
+    "IM28": {
+      "id": "IM28",
+      "original_relpath": "Image Data/Fig 3/Fig 3A/WT Con 2 cell RGB.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM28",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 3/Fig 3A/WT Con 2 cell RGB.tif",
+          "size": 480218,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "F-actin & PAR-3",
+        "md5": "DA40B2522A987AFE29778F84EAC81A43"
+      }
+    },
+    "IM29": {
+      "id": "IM29",
+      "original_relpath": "Image Data/Fig 3/Fig 3A/WT Mito 2 cell RGB.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM29",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 3/Fig 3A/WT Mito 2 cell RGB.tif",
+          "size": 480218,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "F-actin & PAR-3",
+        "md5": "D6B06CA8AEF5DA93D44E2F7A82F2BF05"
+      }
+    },
+    "IM30": {
+      "id": "IM30",
+      "original_relpath": "Image Data/Fig 3/Fig 3A/WT Con 4 cell RGB.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM30",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 3/Fig 3A/WT Con 4 cell RGB.tif",
+          "size": 480218,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "F-actin & PAR-3",
+        "md5": "84CE3BBD32AE6F64792A92A049C46F75"
+      }
+    },
+    "IM31": {
+      "id": "IM31",
+      "original_relpath": "Image Data/Fig 3/Fig 3A/Cdh1KO Con 2 cell RGB.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM31",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 3/Fig 3A/Cdh1KO Con 2 cell RGB.tif",
+          "size": 480218,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Cdh1 KO ",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "F-actin & PAR-3",
+        "md5": "A92C22E837B9631965CF9C7FCF095D07"
+      }
+    },
+    "IM32": {
+      "id": "IM32",
+      "original_relpath": "Image Data/Fig 3/Fig 3A/WT Mito 4 cells RGB.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM32",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 3/Fig 3A/WT Mito 4 cells RGB.tif",
+          "size": 480218,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "F-actin & PAR-3",
+        "md5": "78E415E242120D28DACBC62AE30B8356"
+      }
+    },
+    "IM33": {
+      "id": "IM33",
+      "original_relpath": "Image Data/Fig 3/Fig 3A/Cdh1KO Con 4 cells RGB.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM33",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 3/Fig 3A/Cdh1KO Con 4 cells RGB.tif",
+          "size": 786650,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Cdh1 KO ",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "F-actin & PAR-3",
+        "md5": "D67CEDFBEDD3E46BD645B2D60BA8DB28"
+      }
+    },
+    "IM34": {
+      "id": "IM34",
+      "original_relpath": "Image Data/Fig 3/Fig 3A/Cdh1KO Mito 4 cells RGB.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM34",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 3/Fig 3A/Cdh1KO Mito 4 cells RGB.tif",
+          "size": 786650,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Cdh1 KO ",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "F-actin & PAR-3",
+        "md5": "DB8CE43D6B437F961A0A75FA2AD2BA64"
+      }
+    },
+    "IM35": {
+      "id": "IM35",
+      "original_relpath": "Image Data/Fig 3/Fig 3A/Cdh1KO Mito 2 cell RGB.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM35",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 3/Fig 3A/Cdh1KO Mito 2 cell RGB.tif",
+          "size": 480218,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Cdh1 KO ",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "F-actin & PAR-3",
+        "md5": "90F063FFBDABB449197E17EAA1C969E6"
+      }
+    },
+    "IM36": {
+      "id": "IM36",
+      "original_relpath": "Image Data/Fig 4/Fig 4A/siPcad Pcad.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM36",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 4/Fig 4A/siPcad Pcad.tif",
+          "size": 163428,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "P-cadherin KD",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "P-cadherin",
+        "md5": "4146A5E3F03A22BD51FC4CB39B327FD8"
+      }
+    },
+    "IM37": {
+      "id": "IM37",
+      "original_relpath": "Image Data/Fig 4/Fig 4A/Con PAR3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM37",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 4/Fig 4A/Con PAR3.tif",
+          "size": 163428,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "E0FC9DD25D9736427AB7FBAB0159EA59"
+      }
+    },
+    "IM38": {
+      "id": "IM38",
+      "original_relpath": "Image Data/Fig 4/Fig 4A/siPcadKD + Mito PAR3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM38",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 4/Fig 4A/siPcadKD + Mito PAR3.tif",
+          "size": 122013,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "P-cadherin KD",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "7872AF69E6FA8D7A78C2E6A6DAC44940"
+      }
+    },
+    "IM39": {
+      "id": "IM39",
+      "original_relpath": "Image Data/Fig 4/Fig 4A/siPcad Mito Pcad.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM39",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 4/Fig 4A/siPcad Mito Pcad.tif",
+          "size": 122013,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "P-cadherin KD",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "P-cadherin",
+        "md5": "0B561973389202E48A6E658EF6C7E17D"
+      }
+    },
+    "IM40": {
+      "id": "IM40",
+      "original_relpath": "Image Data/Fig 4/Fig 4A/Con Pcad.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM40",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 4/Fig 4A/Con Pcad.tif",
+          "size": 163428,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "P-cadherin",
+        "md5": "02FB30067291A4EE6903D66A52250A10"
+      }
+    },
+    "IM41": {
+      "id": "IM41",
+      "original_relpath": "Image Data/Fig 4/Fig 4A/siPcad PAR3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM41",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 4/Fig 4A/siPcad PAR3.tif",
+          "size": 163428,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "P-cadherin KD",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "96D641064D63E81FD788C3A4272BB8D9"
+      }
+    },
+    "IM42": {
+      "id": "IM42",
+      "original_relpath": "Image Data/Fig 4/Fig 4A/Mito Pcad.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM42",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 4/Fig 4A/Mito Pcad.tif",
+          "size": 122013,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "P-cadherin",
+        "md5": "8558976120040642576C1E6D968A76EC"
+      }
+    },
+    "IM43": {
+      "id": "IM43",
+      "original_relpath": "Image Data/Fig 4/Fig 4A/Mito PAR3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM43",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 4/Fig 4A/Mito PAR3.tif",
+          "size": 122013,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "AD46FDDD0E191BFF432369C8C1F4D171"
+      }
+    },
+    "IM44": {
+      "id": "IM44",
+      "original_relpath": "Image Data/Fig 4/Fig 4G/siNectin2 Mito Nectin2.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM44",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 4/Fig 4G/siNectin2 Mito Nectin2.tif",
+          "size": 122013,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Nectin-2 KD",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "Nectin-2",
+        "md5": "5DDAD75EC2CA647BB3A76426C668B437"
+      }
+    },
+    "IM45": {
+      "id": "IM45",
+      "original_relpath": "Image Data/Fig 4/Fig 4G/siNectin Nectin2.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM45",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 4/Fig 4G/siNectin Nectin2.tif",
+          "size": 125528,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Nectin-2 KD",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "Nectin-2",
+        "md5": "AF720783CAD4EA4C16596EAF31A3CB47"
+      }
+    },
+    "IM46": {
+      "id": "IM46",
+      "original_relpath": "Image Data/Fig 4/Fig 4G/Con PAR3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM46",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 4/Fig 4G/Con PAR3.tif",
+          "size": 125528,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "A54ECEF0400206DD7796DDFB0DF37FFE"
+      }
+    },
+    "IM47": {
+      "id": "IM47",
+      "original_relpath": "Image Data/Fig 4/Fig 4G/siNectin Mito PAR3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM47",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 4/Fig 4G/siNectin Mito PAR3.tif",
+          "size": 122013,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Nectin-2 KD",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "F551649905D26534A1C07C0C82C4B9CC"
+      }
+    },
+    "IM48": {
+      "id": "IM48",
+      "original_relpath": "Image Data/Fig 4/Fig 4G/siNectin PAR3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM48",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 4/Fig 4G/siNectin PAR3.tif",
+          "size": 125528,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Nectin-2 KD",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "9AACC12510D005A58620C19B594E437F"
+      }
+    },
+    "IM49": {
+      "id": "IM49",
+      "original_relpath": "Image Data/Fig 4/Fig 4G/Con Nectin2.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM49",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 4/Fig 4G/Con Nectin2.tif",
+          "size": 125528,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "Nectin-2",
+        "md5": "69E0AA517C7C98E06F38EE1A2ED1AC27"
+      }
+    },
+    "IM50": {
+      "id": "IM50",
+      "original_relpath": "Image Data/Fig 4/Fig 4G/Mito PAR3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM50",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 4/Fig 4G/Mito PAR3.tif",
+          "size": 122013,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "001A375ABD0BA6DAC0192F42AB7C81F5"
+      }
+    },
+    "IM51": {
+      "id": "IM51",
+      "original_relpath": "Image Data/Fig 4/Fig 4G/Mito Nectin2.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM51",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 4/Fig 4G/Mito Nectin2.tif",
+          "size": 122013,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "Nectin-2",
+        "md5": "7BEFA2D01464FAAFD2356E1EB6EC669C"
+      }
+    },
+    "IM52": {
+      "id": "IM52",
+      "original_relpath": "Image Data/Fig 4/Fig 4D/Con PAR3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM52",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 4/Fig 4D/Con PAR3.tif",
+          "size": 122013,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "CE0A63C97CA1025AA7EB85C821337990"
+      }
+    },
+    "IM53": {
+      "id": "IM53",
+      "original_relpath": "Image Data/Fig 4/Fig 4D/siJAM1 JAM1.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM53",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 4/Fig 4D/siJAM1 JAM1.tif",
+          "size": 122013,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "JAM-1 KD",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "JAM-1",
+        "md5": "F15E55F9EB1ED09DD5269BC9DDBE303B"
+      }
+    },
+    "IM54": {
+      "id": "IM54",
+      "original_relpath": "Image Data/Fig 4/Fig 4D/Con JAM1.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM54",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 4/Fig 4D/Con JAM1.tif",
+          "size": 122013,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "JAM-1",
+        "md5": "AD3DD8404E732DE9BBF8C841E5D44307"
+      }
+    },
+    "IM55": {
+      "id": "IM55",
+      "original_relpath": "Image Data/Fig 4/Fig 4D/siJAM1 PAR3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM55",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 4/Fig 4D/siJAM1 PAR3.tif",
+          "size": 122013,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "JAM-1 KD",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "21B12658733121DE6717B34864AD4A64"
+      }
+    },
+    "IM56": {
+      "id": "IM56",
+      "original_relpath": "Image Data/Fig 4/Fig 4D/siJAM1 Mito PAR3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM56",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 4/Fig 4D/siJAM1 Mito PAR3.tif",
+          "size": 122013,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "JAM-1 KD",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "83BE779A89C0C4CEB9B765C97C69BFAE"
+      }
+    },
+    "IM57": {
+      "id": "IM57",
+      "original_relpath": "Image Data/Fig 4/Fig 4D/Mito JAM1.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM57",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 4/Fig 4D/Mito JAM1.tif",
+          "size": 122013,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "JAM-1",
+        "md5": "7216B404F0298DFC064B1318E68DAC5E"
+      }
+    },
+    "IM58": {
+      "id": "IM58",
+      "original_relpath": "Image Data/Fig 4/Fig 4D/Mito PAR3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM58",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 4/Fig 4D/Mito PAR3.tif",
+          "size": 122013,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "E873DB8C4D4944A5C5D7C1286DD6222C"
+      }
+    },
+    "IM59": {
+      "id": "IM59",
+      "original_relpath": "Image Data/Fig 4/Fig 4D/siJAM1 Mito JAM1.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM59",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 4/Fig 4D/siJAM1 Mito JAM1.tif",
+          "size": 122013,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "JAM-1 KD",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "JAM-1",
+        "md5": "B25D2BCB18311B2410ED2857A2B15A1F"
+      }
+    },
+    "IM60": {
+      "id": "IM60",
+      "original_relpath": "Image Data/Fig 5/Fig 5A/WT Mito Factin.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM60",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5A/WT Mito Factin.tif",
+          "size": 119928,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "No",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "F-actin  ",
+        "md5": "7FF58FE46816FFC75C63AD9AF29353DE"
+      }
+    },
+    "IM61": {
+      "id": "IM61",
+      "original_relpath": "Image Data/Fig 5/Fig 5A/Cdh1KO MitoFactin.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM61",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5A/Cdh1KO MitoFactin.tif",
+          "size": 119928,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Cdh1 KO ",
+        "treatment": "Mitomycin",
+        "Matrigel": "No",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "F-actin  ",
+        "md5": "F5D49E0482A7F636DD616AFA6D4ED037"
+      }
+    },
+    "IM62": {
+      "id": "IM62",
+      "original_relpath": "Image Data/Fig 5/Fig 5A/WT Con Factin.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM62",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5A/WT Con Factin.tif",
+          "size": 119928,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Control",
+        "Matrigel": "No",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "F-actin  ",
+        "md5": "8EC72D8D4D1187B7A8C1FF8260B4789B"
+      }
+    },
+    "IM63": {
+      "id": "IM63",
+      "original_relpath": "Image Data/Fig 5/Fig 5A/Cdh1KO Con Factin.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM63",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5A/Cdh1KO Con Factin.tif",
+          "size": 119928,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Cdh1 KO ",
+        "treatment": "Control",
+        "Matrigel": "No",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "F-actin  ",
+        "md5": "55A12C16A97585704511A4B65E5844EC"
+      }
+    },
+    "IM64": {
+      "id": "IM64",
+      "original_relpath": "Image Data/Fig 5/Fig 5A/WT Mito Par3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM64",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5A/WT Mito Par3.tif",
+          "size": 119928,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "No",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "D63978EB0FA5808630D7196E906BF63F"
+      }
+    },
+    "IM65": {
+      "id": "IM65",
+      "original_relpath": "Image Data/Fig 5/Fig 5A/Cdh1KO Mito Par3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM65",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5A/Cdh1KO Mito Par3.tif",
+          "size": 119928,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Cdh1 KO ",
+        "treatment": "Mitomycin",
+        "Matrigel": "No",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "04BBBF3F735DFA66CD7B7207C252314B"
+      }
+    },
+    "IM66": {
+      "id": "IM66",
+      "original_relpath": "Image Data/Fig 5/Fig 5A/Cdh1KO Con Par3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM66",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5A/Cdh1KO Con Par3.tif",
+          "size": 119928,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Cdh1 KO ",
+        "treatment": "Control",
+        "Matrigel": "No",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "77BB8AE97931DEC840E70488390C731D"
+      }
+    },
+    "IM67": {
+      "id": "IM67",
+      "original_relpath": "Image Data/Fig 5/Fig 5A/WT Con Par3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM67",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5A/WT Con Par3.tif",
+          "size": 119928,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Control",
+        "Matrigel": "No",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "21355BFC15354FF965E78F9B1DEE419F"
+      }
+    },
+    "IM68": {
+      "id": "IM68",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/FN noMatri/FN noMatri 3D.tif (RGB).tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM68",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/FN noMatri/FN noMatri 3D.tif (RGB).tif",
+          "size": 330878,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "No",
+        "glass coating": "Fibronectin",
+        "Antibody/fusion protein": "all",
+        "md5": "E6D7E6AE92E9450E795912ADFF6F4A98"
+      }
+    },
+    "IM69": {
+      "id": "IM69",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/FN noMatri/PAR3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM69",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/FN noMatri/PAR3.tif",
+          "size": 109112,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "No",
+        "glass coating": "Fibronectin",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "B1C57C1148186ECF6047068769E1C5A6"
+      }
+    },
+    "IM70": {
+      "id": "IM70",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/FN noMatri/DAPI.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM70",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/FN noMatri/DAPI.tif",
+          "size": 109112,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "No",
+        "glass coating": "Fibronectin",
+        "Antibody/fusion protein": "DAPI",
+        "md5": "67B87D8EDE7EF3C3E3519150F2B08FF5"
+      }
+    },
+    "IM71": {
+      "id": "IM71",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/FN noMatri/Ecad.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM71",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/FN noMatri/Ecad.tif",
+          "size": 109112,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "No",
+        "glass coating": "Fibronectin",
+        "Antibody/fusion protein": "E-cadherin",
+        "md5": "022EE84B2B5F517E21930E4217D07B03"
+      }
+    },
+    "IM72": {
+      "id": "IM72",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/FN noMatri/Actin.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM72",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/FN noMatri/Actin.tif",
+          "size": 109112,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "No",
+        "glass coating": "Fibronectin",
+        "Antibody/fusion protein": "F-actin",
+        "md5": "B02AD8DCEC30CAA42EAF530CDCFC4787"
+      }
+    },
+    "IM73": {
+      "id": "IM73",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/FN noMatri/FN noMatri XZ.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM73",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/FN noMatri/FN noMatri XZ.tif",
+          "size": 46748,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "No",
+        "glass coating": "Fibronectin",
+        "Antibody/fusion protein": "DAPI, E-cadherin",
+        "md5": "4790A1EAADA103EFC6C8EE04DA0489C5"
+      }
+    },
+    "IM74": {
+      "id": "IM74",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/FN noMatri/XZ PAR3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM74",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/FN noMatri/XZ PAR3.tif",
+          "size": 1631336,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "No",
+        "glass coating": "Fibronectin",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "6C34AE391B7907E834E2B68BAAA0E3BB"
+      }
+    },
+    "IM75": {
+      "id": "IM75",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/FN noMatri/FN noMatri RGB.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM75",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/FN noMatri/FN noMatri RGB.tif",
+          "size": 326918,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "No",
+        "glass coating": "Fibronectin",
+        "Antibody/fusion protein": "DAPI, F-actin",
+        "md5": "4470C97D8EEFE2477C9D2B754A75CEB0"
+      }
+    },
+    "IM76": {
+      "id": "IM76",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/Ecad Matri/PAR3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM76",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/Ecad Matri/PAR3.tif",
+          "size": 129093,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "E-cadherin",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "BF0C19ED39B4BB477FA0F3A6F31A83E7"
+      }
+    },
+    "IM77": {
+      "id": "IM77",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/Ecad Matri/Ecad Matri 3D.tif (RGB).tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM77",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/Ecad Matri/Ecad Matri 3D.tif (RGB).tif",
+          "size": 407324,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "E-cadherin",
+        "Antibody/fusion protein": "all",
+        "md5": "111D550FC4BD4A2697B4E8BCD8128032"
+      }
+    },
+    "IM78": {
+      "id": "IM78",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/Ecad Matri/DAPI.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM78",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/Ecad Matri/DAPI.tif",
+          "size": 129093,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "E-cadherin",
+        "Antibody/fusion protein": "DAPI",
+        "md5": "FB5D943F487DF505611D334C215BF275"
+      }
+    },
+    "IM79": {
+      "id": "IM79",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/Ecad Matri/Ecad.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM79",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/Ecad Matri/Ecad.tif",
+          "size": 129093,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "E-cadherin",
+        "Antibody/fusion protein": "E-cadherin",
+        "md5": "BBF4842BA08123CC707DF89F73FECA11"
+      }
+    },
+    "IM80": {
+      "id": "IM80",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/Ecad Matri/Actin.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM80",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/Ecad Matri/Actin.tif",
+          "size": 129093,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "E-cadherin",
+        "Antibody/fusion protein": "F-actin",
+        "md5": "110F5DB66659BA56BD0F5BFD3F423290"
+      }
+    },
+    "IM81": {
+      "id": "IM81",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/Ecad Matri/XZ PAR3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM81",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/Ecad Matri/XZ PAR3.tif",
+          "size": 1656752,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "E-cadherin",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "56828924685F58AAD4CCBBE507B17307"
+      }
+    },
+    "IM82": {
+      "id": "IM82",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/Ecad Matri/Ecad Matril XZ.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM82",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/Ecad Matri/Ecad Matril XZ.tif",
+          "size": 122996,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "E-cadherin",
+        "Antibody/fusion protein": "all",
+        "md5": "67C5A11F685225DA1E81B254CF59E1D9"
+      }
+    },
+    "IM83": {
+      "id": "IM83",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/Ecad Matri/Ecad matri RGB.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM83",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/Ecad Matri/Ecad matri RGB.tif",
+          "size": 386861,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "E-cadherin",
+        "Antibody/fusion protein": "DAPI, F-actin",
+        "md5": "CCE1703DF784AFE88B92FF624F4FE4C3"
+      }
+    },
+    "IM84": {
+      "id": "IM84",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/FN Matri/PAR3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM84",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/FN Matri/PAR3.tif",
+          "size": 98181,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "Fibronectin",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "1DD97940431849A545F5BBC6E764EDF6"
+      }
+    },
+    "IM85": {
+      "id": "IM85",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/FN Matri/DAPI.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM85",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/FN Matri/DAPI.tif",
+          "size": 98181,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "Fibronectin",
+        "Antibody/fusion protein": "DAPI",
+        "md5": "B0D1728645F52FEFE5966FEB5B827361"
+      }
+    },
+    "IM86": {
+      "id": "IM86",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/FN Matri/Ecad.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM86",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/FN Matri/Ecad.tif",
+          "size": 98181,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "Fibronectin",
+        "Antibody/fusion protein": "E-cadherin",
+        "md5": "C2566CF021392BB167DA243E690543AB"
+      }
+    },
+    "IM87": {
+      "id": "IM87",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/FN Matri/Actin.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM87",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/FN Matri/Actin.tif",
+          "size": 98181,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "Fibronectin",
+        "Antibody/fusion protein": "F-actin",
+        "md5": "1CFFC99890B04FDAEBD1AF5909E2DA13"
+      }
+    },
+    "IM88": {
+      "id": "IM88",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/FN Matri/XZ PAR3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM88",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/FN Matri/XZ PAR3.tif",
+          "size": 1627407,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "Fibronectin",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "0C28FDA04C55FAEA43753CAA338ECF5D"
+      }
+    },
+    "IM89": {
+      "id": "IM89",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/FN Matri/FN Matri 3D.tif (RGB).tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM89",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/FN Matri/FN Matri 3D.tif (RGB).tif",
+          "size": 296942,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "Fibronectin",
+        "Antibody/fusion protein": "all",
+        "md5": "950F2BDEE403106BC2D4ECE097EE79A8"
+      }
+    },
+    "IM90": {
+      "id": "IM90",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/FN Matri/FN Matri RGB.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM90",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/FN Matri/FN Matri RGB.tif",
+          "size": 294125,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "Fibronectin",
+        "Antibody/fusion protein": "DAPI, F-actin",
+        "md5": "26152D1CBC174A729C77EBDB8EF14073"
+      }
+    },
+    "IM91": {
+      "id": "IM91",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/FN Matri/FN Matri XZ.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM91",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/FN Matri/FN Matri XZ.tif",
+          "size": 34961,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "Yes",
+        "glass coating": "Fibronectin",
+        "Antibody/fusion protein": "all",
+        "md5": "89FB2E9B2CF502D19F81740CBF3D6BE3"
+      }
+    },
+    "IM92": {
+      "id": "IM92",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/Ecad noMatri/Ecad noMatri XZ.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM92",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/Ecad noMatri/Ecad noMatri XZ.tif",
+          "size": 77438,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "No",
+        "glass coating": "E-cadherin",
+        "Antibody/fusion protein": "all",
+        "md5": "F13484608FD4A27C0B4A3F3CFD1245B2"
+      }
+    },
+    "IM93": {
+      "id": "IM93",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/Ecad noMatri/PAR3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM93",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/Ecad noMatri/PAR3.tif",
+          "size": 152312,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "No",
+        "glass coating": "E-cadherin",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "4CADEBDBCEF5872D3DDA60EAAC3FE51D"
+      }
+    },
+    "IM94": {
+      "id": "IM94",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/Ecad noMatri/Ecad noMatri 3D.tif (RGB).tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM94",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/Ecad noMatri/Ecad noMatri 3D.tif (RGB).tif",
+          "size": 463538,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "No",
+        "glass coating": "E-cadherin",
+        "Antibody/fusion protein": "all",
+        "md5": "A0D6DCA219B636267CD38146DF44DD17"
+      }
+    },
+    "IM95": {
+      "id": "IM95",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/Ecad noMatri/DAPI.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM95",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/Ecad noMatri/DAPI.tif",
+          "size": 152312,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "No",
+        "glass coating": "E-cadherin",
+        "Antibody/fusion protein": "DAPI",
+        "md5": "F5CD121E9DA77EC54EB731E4029B5E32"
+      }
+    },
+    "IM96": {
+      "id": "IM96",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/Ecad noMatri/Ecad.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM96",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/Ecad noMatri/Ecad.tif",
+          "size": 152312,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "No",
+        "glass coating": "E-cadherin",
+        "Antibody/fusion protein": "E-cadherin",
+        "md5": "5BEF1E713DEB080630EC4886FC333558"
+      }
+    },
+    "IM97": {
+      "id": "IM97",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/Ecad noMatri/Actin.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM97",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/Ecad noMatri/Actin.tif",
+          "size": 152312,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "No",
+        "glass coating": "E-cadherin",
+        "Antibody/fusion protein": "F-actin",
+        "md5": "A7C3402A95EEBC97F4D9DCF51426B2F0"
+      }
+    },
+    "IM98": {
+      "id": "IM98",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/Ecad noMatri/XZ PAR3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM98",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/Ecad noMatri/XZ PAR3.tif",
+          "size": 1641566,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "No",
+        "glass coating": "E-cadherin",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "389BD5F1C827B1D0D0D2729025C52520"
+      }
+    },
+    "IM99": {
+      "id": "IM99",
+      "original_relpath": "Image Data/Fig 5/Fig 5C/Ecad noMatri/Ecad noMatri RGB.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM99",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 5/Fig 5C/Ecad noMatri/Ecad noMatri RGB.tif",
+          "size": 456518,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Mitomycin",
+        "Matrigel": "No",
+        "glass coating": "E-cadherin",
+        "Antibody/fusion protein": "DAPI, F-actin",
+        "md5": "242D1AFBC96E111015C35D940D64B565"
+      }
+    },
+    "IM100": {
+      "id": "IM100",
+      "original_relpath": "Image Data/Fig 6/Fig 6A/PAR3 72hrs Cdh1KO Lumen.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM100",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 6/Fig 6A/PAR3 72hrs Cdh1KO Lumen.tif",
+          "size": 262356,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Cdh1 KO ",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "BDD179EF0F5D7F3F81E166A8F10C57FE"
+      }
+    },
+    "IM101": {
+      "id": "IM101",
+      "original_relpath": "Image Data/Fig 6/Fig 6A/PAR3 48hrs Cdh1KO Unorganised.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM101",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 6/Fig 6A/PAR3 48hrs Cdh1KO Unorganised.tif",
+          "size": 126237,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Cdh1 KO ",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "EDBCCE045FAE011DB3698ED68195B5FD"
+      }
+    },
+    "IM102": {
+      "id": "IM102",
+      "original_relpath": "Image Data/Fig 6/Fig 6A/PAR3 72hrs WT Lumen.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM102",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 6/Fig 6A/PAR3 72hrs WT Lumen.tif",
+          "size": 262356,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "5CD4FA72F97354E28D845ACAAF8C3AE2"
+      }
+    },
+    "IM103": {
+      "id": "IM103",
+      "original_relpath": "Image Data/Fig 6/Fig 6A/PAR3 48hrs Cdh1KO Cup.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM103",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 6/Fig 6A/PAR3 48hrs Cdh1KO Cup.tif",
+          "size": 126237,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Cdh1 KO ",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "9FF83223F2A14A69D26B5820AFCD5C9C"
+      }
+    },
+    "IM104": {
+      "id": "IM104",
+      "original_relpath": "Image Data/Fig 6/Fig 6A/PAR3 48hrs WT Rosette.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM104",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 6/Fig 6A/PAR3 48hrs WT Rosette.tif",
+          "size": 126237,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "E5CCDE05A52C2177EB10E0E96A9C13E1"
+      }
+    },
+    "IM105": {
+      "id": "IM105",
+      "original_relpath": "Image Data/Fig 6/Fig 6A/PAR3 72hrs Cdh1KO Unorganised.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM105",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 6/Fig 6A/PAR3 72hrs Cdh1KO Unorganised.tif",
+          "size": 262356,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Cdh1 KO ",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "6A476D6A8AE327965A22E8F8B1A3AA97"
+      }
+    },
+    "IM106": {
+      "id": "IM106",
+      "original_relpath": "Image Data/Fig 6/Fig 6A/PAR3 72hrs Cdh1KO Cup.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM106",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 6/Fig 6A/PAR3 72hrs Cdh1KO Cup.tif",
+          "size": 262356,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Cdh1 KO ",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "PAR-3",
+        "md5": "977A6A7E8435B0203AF7B81A8B23CA45"
+      }
+    },
+    "IM107": {
+      "id": "IM107",
+      "original_relpath": "Image Data/Fig 6/Fig 6B/24 WT.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM107",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 6/Fig 6B/24 WT.tif",
+          "size": 262356,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "Podocalyxin",
+        "md5": "3F567E452EC0DF87A73D7E4A53C5EF08"
+      }
+    },
+    "IM108": {
+      "id": "IM108",
+      "original_relpath": "Image Data/Fig 6/Fig 6B/96 KO.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM108",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 6/Fig 6B/96 KO.tif",
+          "size": 262356,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Cdh1 KO ",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "Podocalyxin",
+        "md5": "672BC9C7BBA726F72FBBC7FADF64681E"
+      }
+    },
+    "IM109": {
+      "id": "IM109",
+      "original_relpath": "Image Data/Fig 6/Fig 6B/96 WT.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM109",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 6/Fig 6B/96 WT.tif",
+          "size": 262356,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "Podocalyxin",
+        "md5": "FB64DF45E10B1BDAA5FAE65A1B69DF9A"
+      }
+    },
+    "IM110": {
+      "id": "IM110",
+      "original_relpath": "Image Data/Fig 6/Fig 6B/24 KO.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM110",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 6/Fig 6B/24 KO.tif",
+          "size": 262356,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Cdh1 KO ",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "Podocalyxin",
+        "md5": "168F384C9080ADA8DC038F1AD55CFD30"
+      }
+    },
+    "IM111": {
+      "id": "IM111",
+      "original_relpath": "Image Data/Fig 6/Fig 6B/72 WT.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM111",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 6/Fig 6B/72 WT.tif",
+          "size": 262356,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "Podocalyxin",
+        "md5": "0C60FDF91D3351C86A87E45E854D811B"
+      }
+    },
+    "IM112": {
+      "id": "IM112",
+      "original_relpath": "Image Data/Fig 6/Fig 6B/48 WT.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM112",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 6/Fig 6B/48 WT.tif",
+          "size": 262356,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "WT",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "Podocalyxin",
+        "md5": "597F1D919E34A8C64DF721D6E7E39614"
+      }
+    },
+    "IM113": {
+      "id": "IM113",
+      "original_relpath": "Image Data/Fig 6/Fig 6B/48 KO.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM113",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 6/Fig 6B/48 KO.tif",
+          "size": 262356,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Cdh1 KO ",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "Podocalyxin",
+        "md5": "BBFFBAFEB6809C8063B804ADA668DB1B"
+      }
+    },
+    "IM114": {
+      "id": "IM114",
+      "original_relpath": "Image Data/Fig 6/Fig 6B/72 KO.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD473",
+          "image_id": "IM114",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD473/Image Data/Fig 6/Fig 6B/72 KO.tif",
+          "size": 262356,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "genotype": "Cdh1 KO ",
+        "treatment": "Control",
+        "Matrigel": "Yes",
+        "glass coating": "N/A",
+        "Antibody/fusion protein": "Podocalyxin",
+        "md5": "D886423D4D3A6A6EEB15C478645827F9"
+      }
+    }
+  }
+}
