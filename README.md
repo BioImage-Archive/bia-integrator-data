@@ -12,4 +12,4 @@ To enable these for the global BIA Integrator setup, either clone this repositor
 
 or clone directly as:
 
-    git clone $REP_URL ~/.bia-integrator-data
+    git clone git@github.com:BioImage-Archive/bia-integrator-data.git ~/.bia-integrator-data
