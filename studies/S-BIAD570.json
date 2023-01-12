@@ -1,0 +1,4401 @@
+{
+  "accession_id": "S-BIAD570",
+  "title": "A spatially resolved atlas of the human lung characterizes a gland-associated immune niche",
+  "description": "Multiplexed single molecule fluorescence in situ hybridisation (smFISH) using RNAscope protocol with immunohistochemistry (IHC) on human lung and airway tissue fresh frozen in optimum cutting temperature compound. IBEX (iterative bleaching extends multiplexity) multiplex IHC on human lung and airway tissue fixed in paraformaldyhyde and frozen in optimum cutting temperature compound.",
+  "authors": [
+    {
+      "name": "Amanda Oliver"
+    },
+    {
+      "name": "Elo Madissoon"
+    },
+    {
+      "name": "Kerstin Meyer"
+    }
+  ],
+  "organism": "Mus musculus (mouse)",
+  "release_date": "2022-10-24",
+  "imaging_type": "confocal fluorescence microscopy",
+  "attributes": {},
+  "example_image_uri": "S-BIAD570-example.png",
+  "images": {
+    "IM1": {
+      "id": "IM1",
+      "original_relpath": "Gut_AMSbio_IgA_1_2_Nucleus_autofluorescence_IgA_Meas1_A02_F1T0_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM1",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Gut_AMSbio_IgA_1_2_Nucleus_autofluorescence_IgA_Meas1_A02_F1T0_max.ome.tif",
+          "size": 319977430,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data figure 9i",
+        "Species": "Mouse",
+        "Tissue": "Colon",
+        "PatientID": "AMSbio1",
+        "Technology": "IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "CY3",
+        "Target2": "Autofluorescence",
+        "Channel3": "FITC",
+        "Target3": "IgA (protein)",
+        "Channel4": "null",
+        "Target4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "54963E05FC1B11FD05F59C6D7F504A07"
+      }
+    },
+    "IM2": {
+      "id": "IM2",
+      "original_relpath": "Gut_AMSbio_IgA_1_2_Nucleus_autofluorescence_IgA_Meas1_A02_F2T0_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM2",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Gut_AMSbio_IgA_1_2_Nucleus_autofluorescence_IgA_Meas1_A02_F2T0_max.ome.tif",
+          "size": 329767346,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data figure 9i",
+        "Species": "Mouse",
+        "Tissue": "Colon",
+        "PatientID": "AMSbio2",
+        "Technology": "IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "CY3",
+        "Target2": "Autofluorescence",
+        "Channel3": "FITC",
+        "Target3": "IgA (protein)",
+        "Channel4": "null",
+        "Target4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "E4E0B435E6D0B79BA6BCF8863BDF7B55"
+      }
+    },
+    "IM3": {
+      "id": "IM3",
+      "original_relpath": "Gut_AMSbio_IgA_3_Nucleus_autofluorescence_IgA_Meas1_A02_F1T0_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM3",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Gut_AMSbio_IgA_3_Nucleus_autofluorescence_IgA_Meas1_A02_F1T0_max.ome.tif",
+          "size": 329318396,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data figure 9i",
+        "Species": "Mouse",
+        "Tissue": "Colon",
+        "PatientID": "AMSbio3",
+        "Technology": "IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "CY3",
+        "Target2": "Autofluorescence",
+        "Channel3": "FITC",
+        "Target3": "IgA (protein)",
+        "Channel4": "null",
+        "Target4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "175ABD6E6FEA22147B9538074F322912"
+      }
+    },
+    "IM4": {
+      "id": "IM4",
+      "original_relpath": "Gut_AMSbio_neg_Nucleus_autofluorescence_SA_Meas1_A02_F1T0_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM4",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Gut_AMSbio_neg_Nucleus_autofluorescence_SA_Meas1_A02_F1T0_max.ome.tif",
+          "size": 328307022,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data figure 9i",
+        "Species": "Mouse",
+        "Tissue": "Colon",
+        "PatientID": "AMSbio3",
+        "Technology": "IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "CY3",
+        "Target2": "Autofluorescence",
+        "Channel3": "FITC",
+        "Target3": "IgA (protein)",
+        "Channel4": "null",
+        "Target4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "B3C1C9DA05F0EC02B0D8FFC8EBD0E55F"
+      }
+    },
+    "IM5": {
+      "id": "IM5",
+      "original_relpath": "Trachea_AMSbio_IgA_1_2_Nucleus_autofluorescence_IgA_Meas1_A02_F1T0_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM5",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Trachea_AMSbio_IgA_1_2_Nucleus_autofluorescence_IgA_Meas1_A02_F1T0_max.ome.tif",
+          "size": 462355106,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data figure 9i",
+        "Species": "Mouse",
+        "Tissue": "Trachea",
+        "PatientID": "AMSbio1",
+        "Technology": "IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "CY3",
+        "Target2": "Autofluorescence",
+        "Channel3": "FITC",
+        "Target3": "IgA (protein)",
+        "Channel4": "null",
+        "Target4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "79761A2CA161C657C1A374843D73F078"
+      }
+    },
+    "IM6": {
+      "id": "IM6",
+      "original_relpath": "Trachea_AMSbio_IgA_1_2_Nucleus_autofluorescence_IgA_Meas1_A02_F2T0_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM6",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Trachea_AMSbio_IgA_1_2_Nucleus_autofluorescence_IgA_Meas1_A02_F2T0_max.ome.tif",
+          "size": 461009964,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data figure 9i",
+        "Species": "Mouse",
+        "Tissue": "Trachea",
+        "PatientID": "AMSbio2",
+        "Technology": "IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "CY3",
+        "Target2": "Autofluorescence",
+        "Channel3": "FITC",
+        "Target3": "IgA (protein)",
+        "Channel4": "null",
+        "Target4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "C35744A8DF7E309C7607272D9262D5F2"
+      }
+    },
+    "IM7": {
+      "id": "IM7",
+      "original_relpath": "Trachea_AMSbio_IgA_3_Nucleus_autofluorescence_IgA_Meas1_A02_F1T0_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM7",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Trachea_AMSbio_IgA_3_Nucleus_autofluorescence_IgA_Meas1_A02_F1T0_max.ome.tif",
+          "size": 501891952,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data figure 9i",
+        "Species": "Mouse",
+        "Tissue": "Trachea",
+        "PatientID": "AMSbio3",
+        "Technology": "IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "CY3",
+        "Target2": "Autofluorescence",
+        "Channel3": "FITC",
+        "Target3": "IgA (protein)",
+        "Channel4": "null",
+        "Target4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "2E4E06774C36E3301AEFE2EEF0AA7139"
+      }
+    },
+    "IM8": {
+      "id": "IM8",
+      "original_relpath": "Trachea_WT2_Japan_IgA_Nucleus_autofluorescence_IgA_Meas1_A02_F1T0_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM8",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Trachea_WT2_Japan_IgA_Nucleus_autofluorescence_IgA_Meas1_A02_F1T0_max.ome.tif",
+          "size": 435868420,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data figure 9i",
+        "Species": "Mouse",
+        "Tissue": "Trachea",
+        "PatientID": "WT2_Kindai",
+        "Technology": "IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "CY3",
+        "Target2": "Autofluorescence",
+        "Channel3": "FITC",
+        "Target3": "IgA (protein)",
+        "Channel4": "null",
+        "Target4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "04039F7B11572EA39B84B440393BCE31"
+      }
+    },
+    "IM9": {
+      "id": "IM9",
+      "original_relpath": "Trachea_WT3_Japan_IgA_Nucleus_autofluorescence_IgA_Meas1_A02_F1T0_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM9",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Trachea_WT3_Japan_IgA_Nucleus_autofluorescence_IgA_Meas1_A02_F1T0_max.ome.tif",
+          "size": 229590930,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data figure 9i",
+        "Species": "Mouse",
+        "Tissue": "Trachea",
+        "PatientID": "WT3_Kindai",
+        "Technology": "IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "CY3",
+        "Target2": "Autofluorescence",
+        "Channel3": "FITC",
+        "Target3": "IgA (protein)",
+        "Channel4": "null",
+        "Target4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "A119C9E783D85F447F0749EDDF5521A7"
+      }
+    },
+    "IM10": {
+      "id": "IM10",
+      "original_relpath": "Trachea_AMSbio_neg_Nucleus_autofluorescence_SA_Meas1_A02_F1T0_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM10",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Trachea_AMSbio_neg_Nucleus_autofluorescence_SA_Meas1_A02_F1T0_max.ome.tif",
+          "size": 557426964,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data figure 9i",
+        "Species": "Mouse",
+        "Tissue": "Trachea",
+        "PatientID": "AMSbio3",
+        "Technology": "IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "CY3",
+        "Target2": "Autofluorescence",
+        "Channel3": "FITC",
+        "Target3": "IgA (protein)",
+        "Channel4": "null",
+        "Target4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "2B469B6D33A83BC2C45D3E43DE9D2F2A"
+      }
+    },
+    "IM11": {
+      "id": "IM11",
+      "original_relpath": "KM_LNG_1050_A37-LNG_Nucleus_IgA2 (IHC)_CCR10_CCL28_Meas2_A02_F1T1_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM11",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_1050_A37-LNG_Nucleus_IgA2 (IHC)_CCR10_CCL28_Meas2_A02_F1T1_max.ome.tif",
+          "size": 898782712,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 5e/Extended data figure 10b",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A37",
+        "Technology": "RNAscope 2-plex + IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 570",
+        "Target2": "CCR10",
+        "Channel3": "FITC",
+        "Target3": "IgA2 (protein)",
+        "Channel4": "Opal 650",
+        "Target4": "CCL28",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "3BD6D4AE0C4D6EE936B35D02E7CF1E33"
+      }
+    },
+    "IM12": {
+      "id": "IM12",
+      "original_relpath": "KM_LNG_1048_A63-LNG_Nucleus_IgA2 (IHC)_CCR10_CCL28_Meas2_A02_F1T1_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM12",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_1048_A63-LNG_Nucleus_IgA2 (IHC)_CCR10_CCL28_Meas2_A02_F1T1_max.ome.tif",
+          "size": 4967101494,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 5e/Extended data figure 10b",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A63",
+        "Technology": "RNAscope 2-plex + IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 570",
+        "Target2": "CCR10",
+        "Channel3": "FITC",
+        "Target3": "IgA2 (protein)",
+        "Channel4": "Opal 650",
+        "Target4": "CCL28",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "F8C1AF4D6ACF2C9448B1E925C0C11E84"
+      }
+    },
+    "IM13": {
+      "id": "IM13",
+      "original_relpath": "KM_LNG_1051_A47-LNG_Nucleus_IgA2 (IHC)_CCR10_CCL28_Meas2_A02_F1T1_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM13",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_1051_A47-LNG_Nucleus_IgA2 (IHC)_CCR10_CCL28_Meas2_A02_F1T1_max.ome.tif",
+          "size": 1142827566,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 5e/Extended data figure 10b",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A47",
+        "Technology": "RNAscope 2-plex + IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 570",
+        "Target2": "CCR10",
+        "Channel3": "FITC",
+        "Target3": "IgA2 (protein)",
+        "Channel4": "Opal 650",
+        "Target4": "CCL28",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "BA26AF50D929E198598AD93500610B4B"
+      }
+    },
+    "IM14": {
+      "id": "IM14",
+      "original_relpath": "KM_LNG_1049_A42-LNG_Nucleus_IgA2 (IHC)_CCR10_CCL28_Meas2_A02_F1T1_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM14",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_1049_A42-LNG_Nucleus_IgA2 (IHC)_CCR10_CCL28_Meas2_A02_F1T1_max.ome.tif",
+          "size": 429671822,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 5e/Extended data figure 10b",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A42",
+        "Technology": "RNAscope 2-plex + IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 570",
+        "Target2": "CCR10",
+        "Channel3": "FITC",
+        "Target3": "IgA2 (protein)",
+        "Channel4": "Opal 650",
+        "Target4": "CCL28",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "9AF958D12B0B0DBAD8FD6BF9C31DD11C"
+      }
+    },
+    "IM15": {
+      "id": "IM15",
+      "original_relpath": "STAN0B0F6_2022-02-25.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM15",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/STAN0B0F6_2022-02-25.tiff",
+          "size": 4100538364,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data figure 10b",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A63",
+        "Technology": "IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "FITC",
+        "Target2": "IgA2 (protein)",
+        "Channel3": "AF647",
+        "Target3": "CCL28",
+        "Channel4": "null",
+        "Target4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "6A06AA106A7595A29C92F590C444DCA7"
+      }
+    },
+    "IM16": {
+      "id": "IM16",
+      "original_relpath": "STAN-098D2_2022-02-25.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM16",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/STAN-098D2_2022-02-25.tiff",
+          "size": 1034140922,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data figure 10b",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A47",
+        "Technology": "IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "FITC",
+        "Target2": "IgA2 (protein)",
+        "Channel3": "AF647",
+        "Target3": "CCL28",
+        "Channel4": "null",
+        "Target4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "2B99793AD02643A2782691116FDCCA89"
+      }
+    },
+    "IM17": {
+      "id": "IM17",
+      "original_relpath": "STAN-09A27_2022-02-25.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM17",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/STAN-09A27_2022-02-25.tiff",
+          "size": 161070004,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data figure 10b",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A42",
+        "Technology": "IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "FITC",
+        "Target2": "IgA2 (protein)",
+        "Channel3": "AF647",
+        "Target3": "CCL28",
+        "Channel4": "null",
+        "Target4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "755D6796E5897D9B939A0366BDB24E1F"
+      }
+    },
+    "IM18": {
+      "id": "IM18",
+      "original_relpath": "STAN-0991B_2022-02-25.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM18",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/STAN-0991B_2022-02-25.tiff",
+          "size": 1397440837,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data figure 10b",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A37",
+        "Technology": "IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "FITC",
+        "Target2": "IgA2 (protein)",
+        "Channel3": "AF647",
+        "Target3": "CCL28",
+        "Channel4": "null",
+        "Target4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "499229CF67EE043F4187973D098584F4"
+      }
+    },
+    "IM19": {
+      "id": "IM19",
+      "original_relpath": "STAN-0B102_2022-02-25.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM19",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/STAN-0B102_2022-02-25.tiff",
+          "size": 3217102353,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data figure 10b",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A63",
+        "Technology": "IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "FITC",
+        "Target2": "Negative control",
+        "Channel3": "AF647",
+        "Target3": "anti-rabbit IgG AF647",
+        "Channel4": "null",
+        "Target4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "FE2566FDD16460019400AB84A35EDC3A"
+      }
+    },
+    "IM20": {
+      "id": "IM20",
+      "original_relpath": "KM_LNG_1091_STAN-099C0_2022-02-07.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM20",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_1091_STAN-099C0_2022-02-07.tiff",
+          "size": 299510509,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data figure 10e",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A42",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal520",
+        "Target2": "CD79A",
+        "Channel3": "Opal 570",
+        "Target3": "TNFSF13 (APRIL)",
+        "Channel4": "Opal 650",
+        "Target4": "TNFRSF13B (TACI)",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "B5E8A39521D6CCF5E816EFBAD76D3105"
+      }
+    },
+    "IM21": {
+      "id": "IM21",
+      "original_relpath": "KM_LNG_1103_STAN-099FD_2022-02-08.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM21",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_1103_STAN-099FD_2022-02-08.tiff",
+          "size": 114665691,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 5g/Extended data figure 10e",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A42",
+        "Technology": "RNAscope 2-plex + IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "FITC",
+        "Target2": "IgA2 (protein)",
+        "Channel3": "Opal 570",
+        "Target3": "TNFSF13 (APRIL)",
+        "Channel4": "Opal 650",
+        "Target4": "TNFRSF13B (TACI)",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "0243C2D1A853E573FEAAF8B4ECC86C2F"
+      }
+    },
+    "IM22": {
+      "id": "IM22",
+      "original_relpath": "KM_LNG_1092_STAN-09878_2022-02-07.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM22",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_1092_STAN-09878_2022-02-07.tiff",
+          "size": 1298451835,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data figure 10e",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A47",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal520",
+        "Target2": "CD79A",
+        "Channel3": "Opal 570",
+        "Target3": "TNFSF13 (APRIL)",
+        "Channel4": "Opal 650",
+        "Target4": "TNFRSF13B (TACI)",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "88411BAAB059910520905799970F3089"
+      }
+    },
+    "IM23": {
+      "id": "IM23",
+      "original_relpath": "KM_LNG_1104_STAN-098A5_2022-02-08.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM23",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_1104_STAN-098A5_2022-02-08.tiff",
+          "size": 1162631684,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 5g/Extended data figure 10e",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A47",
+        "Technology": "RNAscope 2-plex + IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "FITC",
+        "Target2": "IgA2 (protein)",
+        "Channel3": "Opal 570",
+        "Target3": "TNFSF13 (APRIL)",
+        "Channel4": "Opal 650",
+        "Target4": "TNFRSF13B (TACI)",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "052C4103428B1C17FA99EDD63A38264E"
+      }
+    },
+    "IM24": {
+      "id": "IM24",
+      "original_relpath": "KM_LNG_1093_STAN-0B13F_2022-02-10.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM24",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_1093_STAN-0B13F_2022-02-10.tiff",
+          "size": 9370354183,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data figure 10e",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal520",
+        "Target2": "CD79A",
+        "Channel3": "Opal 570",
+        "Target3": "TNFSF13 (APRIL)",
+        "Channel4": "Opal 650",
+        "Target4": "TNFRSF13B (TACI)",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "6B1E9E0540B8F28131E00B8C63181BFD"
+      }
+    },
+    "IM25": {
+      "id": "IM25",
+      "original_relpath": "KM_LNG_1105_STAN-0B16C_2022-02-08.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM25",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_1105_STAN-0B16C_2022-02-08.tiff",
+          "size": 7524943351,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 5g/Extended data figure 10e",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "RNAscope 2-plex + IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "FITC",
+        "Target2": "IgA2 (protein)",
+        "Channel3": "Opal 570",
+        "Target3": "TNFSF13 (APRIL)",
+        "Channel4": "Opal 650",
+        "Target4": "TNFRSF13B (TACI)",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "C7101276AE75EB69F9D442720895B9AF"
+      }
+    },
+    "IM26": {
+      "id": "IM26",
+      "original_relpath": "KM_LNG_1094_STAN-0B09C_2022-02-10.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM26",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_1094_STAN-0B09C_2022-02-10.tiff",
+          "size": 6847503763,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data figure 10e",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A63",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal520",
+        "Target2": "CD79A",
+        "Channel3": "Opal 570",
+        "Target3": "TNFSF13 (APRIL)",
+        "Channel4": "Opal 650",
+        "Target4": "TNFRSF13B (TACI)",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "BF435DFE4EB20F814FEC60CF83A68819"
+      }
+    },
+    "IM27": {
+      "id": "IM27",
+      "original_relpath": "KM_LNG_1106_STAN-0B0C9_2022-02-08.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM27",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_1106_STAN-0B0C9_2022-02-08.tiff",
+          "size": 7173184760,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 5g/Extended data figure 10e",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A63",
+        "Technology": "RNAscope 2-plex + IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "FITC",
+        "Target2": "IgA2 (protein)",
+        "Channel3": "Opal 570",
+        "Target3": "TNFSF13 (APRIL)",
+        "Channel4": "Opal 650",
+        "Target4": "TNFRSF13B (TACI)",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "FE72C59E072CD195A52AF4CDABAC93D3"
+      }
+    },
+    "IM28": {
+      "id": "IM28",
+      "original_relpath": "KM_LNG_1111_STAN-09A18_2022-02-08.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM28",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_1111_STAN-09A18_2022-02-08.tiff",
+          "size": 87509596,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 5g",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A42",
+        "Technology": "RNAscope 2-plex + IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "FITC",
+        "Target2": "IgA2 (protein)",
+        "Channel3": "Opal 570",
+        "Target3": "IL6",
+        "Channel4": "Opal 650",
+        "Target4": "IL6R",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "9711ADDE0D197F92D9EDB6FC7972811C"
+      }
+    },
+    "IM29": {
+      "id": "IM29",
+      "original_relpath": "KM_LNG_1112_STAN-098C3_2022-02-08.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM29",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_1112_STAN-098C3_2022-02-08.tiff",
+          "size": 1276155984,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 5g",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A47",
+        "Technology": "RNAscope 2-plex + IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "FITC",
+        "Target2": "IgA2 (protein)",
+        "Channel3": "Opal 570",
+        "Target3": "IL6",
+        "Channel4": "Opal 650",
+        "Target4": "IL6R",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "558F460220668881B399B4152010B474"
+      }
+    },
+    "IM30": {
+      "id": "IM30",
+      "original_relpath": "KM_LNG_1113_STAN-0B18A_2022-02-09.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM30",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_1113_STAN-0B18A_2022-02-09.tiff",
+          "size": 9652904549,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 5g",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "RNAscope 2-plex + IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "FITC",
+        "Target2": "IgA2 (protein)",
+        "Channel3": "Opal 570",
+        "Target3": "IL6",
+        "Channel4": "Opal 650",
+        "Target4": "IL6R",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "6E0CED37AB50C96F25B45C7D4B976F23"
+      }
+    },
+    "IM31": {
+      "id": "IM31",
+      "original_relpath": "KM_LNG_1114_STAN-0B0E7_2022-02-10.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM31",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_1114_STAN-0B0E7_2022-02-10.tiff",
+          "size": 8496241869,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 5g",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A63",
+        "Technology": "RNAscope 2-plex + IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "FITC",
+        "Target2": "IgA2 (protein)",
+        "Channel3": "Opal 570",
+        "Target3": "IL6",
+        "Channel4": "Opal 650",
+        "Target4": "IL6R",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "E77093D77A5A5A57C077EDC45BC07DC3"
+      }
+    },
+    "IM32": {
+      "id": "IM32",
+      "original_relpath": "KM_LNG_1095_STAN-099DF_2022-02-08.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM32",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_1095_STAN-099DF_2022-02-08.tiff",
+          "size": 254098719,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 10d",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A42",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "RARRES1",
+        "Channel3": "Opal 570",
+        "Target3": "TNFSF13 (APRIL)",
+        "Channel4": "Opal 650",
+        "Target4": "LPO",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "026A814224EB1C6CBC06F1722A8F5FD3"
+      }
+    },
+    "IM33": {
+      "id": "IM33",
+      "original_relpath": "KM_LNG_1096_STAN-09887_2022-02-08.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM33",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_1096_STAN-09887_2022-02-08.tiff",
+          "size": 1580117519,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 10d",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A47",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "RARRES1",
+        "Channel3": "Opal 570",
+        "Target3": "TNFSF13 (APRIL)",
+        "Channel4": "Opal 650",
+        "Target4": "LPO",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "14A2C6D4CAC5CBAA2EFCBC1E384A1B87"
+      }
+    },
+    "IM34": {
+      "id": "IM34",
+      "original_relpath": "KM_LNG_1097_STAN-0B14E_2022-02-11.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM34",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_1097_STAN-0B14E_2022-02-11.tiff",
+          "size": 12074524798,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 10d",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "RARRES1",
+        "Channel3": "Opal 570",
+        "Target3": "TNFSF13 (APRIL)",
+        "Channel4": "Opal 650",
+        "Target4": "LPO",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "0C247D23907B83CEDC9A9B25FEC2917C"
+      }
+    },
+    "IM35": {
+      "id": "IM35",
+      "original_relpath": "1102_STAN-0B0BA_2022-02-11.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM35",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/1102_STAN-0B0BA_2022-02-11.tiff",
+          "size": 8092986722,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 10d",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A63",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "RARRES1",
+        "Channel3": "Opal 570",
+        "Target3": "TNFSF13 (APRIL)",
+        "Channel4": "Opal 650",
+        "Target4": "LPO",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "D378268351092F4FD07D9BF68B3C3E0C"
+      }
+    },
+    "IM36": {
+      "id": "IM36",
+      "original_relpath": "KM_LNG_1195_STAN-09939_2022-03-02.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM36",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_1195_STAN-09939_2022-03-02.tiff",
+          "size": 601546585,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 10h",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A37",
+        "Technology": "RNAscope 2-plex + IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "RARRES1",
+        "Channel3": "Opal 570",
+        "Target3": "MUC5B",
+        "Channel4": "AF647",
+        "Target4": "HLA-DR (protein)",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "A1B946CBF443803D1F77CEB2A556463D"
+      }
+    },
+    "IM37": {
+      "id": "IM37",
+      "original_relpath": "KM_LNG_1197_STAN-0BEB0_2022-03-02.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM37",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_1197_STAN-0BEB0_2022-03-02.tiff",
+          "size": 335223983,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 10h",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A47",
+        "Technology": "RNAscope 2-plex + IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "RARRES1",
+        "Channel3": "Opal 570",
+        "Target3": "MUC5B",
+        "Channel4": "AF647",
+        "Target4": "HLA-DR (protein)",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "5073E94F5FF7BC3A81343D6018B4BF8B"
+      }
+    },
+    "IM38": {
+      "id": "IM38",
+      "original_relpath": "KM_LNG_1196_STAN-0B1B7_2022-03-02.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM38",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_1196_STAN-0B1B7_2022-03-02.tiff",
+          "size": 7421792765,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 10h",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "RNAscope 2-plex + IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "RARRES1",
+        "Channel3": "Opal 570",
+        "Target3": "MUC5B",
+        "Channel4": "AF647",
+        "Target4": "HLA-DR (protein)",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "6C3CD1849377EBB2510F01D93354692F"
+      }
+    },
+    "IM39": {
+      "id": "IM39",
+      "original_relpath": "KM_LNG_1198_STAN-0BE92_2022-03-02.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM39",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_1198_STAN-0BE92_2022-03-02.tiff",
+          "size": 4613737563,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 10h",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A63",
+        "Technology": "RNAscope 2-plex + IHC",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "RARRES1",
+        "Channel3": "Opal 570",
+        "Target3": "MUC5B",
+        "Channel4": "AF647",
+        "Target4": "HLA-DR (protein)",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "4022BFBC52481F589E1F42323B7EA887"
+      }
+    },
+    "IM40": {
+      "id": "IM40",
+      "original_relpath": "KM_LNG_00PY_A37-LNG_Nucleus_PDZRN4_SCN7A_MLIP_Meas2_A2_F1T1_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM40",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00PY_A37-LNG_Nucleus_PDZRN4_SCN7A_MLIP_Meas2_A2_F1T1_max.ome.tif",
+          "size": 892846556,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 5j",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A37",
+        "Technology": "RNAScope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "PDZRN4",
+        "Channel3": "Opal 570",
+        "Target3": "SCN7A",
+        "Channel4": "Opal 650",
+        "Target4": "MLIP",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "C35E2348D59C979662129FB358585346"
+      }
+    },
+    "IM41": {
+      "id": "IM41",
+      "original_relpath": "KM_LNG_00PZ_A37-LNG_Nucleus_SOX10_SCN7A_SLC2A1_Meas2_A2_F1T1_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM41",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00PZ_A37-LNG_Nucleus_SOX10_SCN7A_SLC2A1_Meas2_A2_F1T1_max.ome.tif",
+          "size": 1005415222,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 5j",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A37",
+        "Technology": "RNAScope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "SOX10",
+        "Channel3": "Opal 570",
+        "Target3": "SCN7A",
+        "Channel4": "Opal 650",
+        "Target4": "SLC2A1",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "AF7916302DB8D1004A57DA74A9F37C9A"
+      }
+    },
+    "IM42": {
+      "id": "IM42",
+      "original_relpath": "KM_LNG_00Q0_A42-LNG_Nucleus_PDZRN4_SCN7A_MLIP_Meas2_A2_F1T1_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM42",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00Q0_A42-LNG_Nucleus_PDZRN4_SCN7A_MLIP_Meas2_A2_F1T1_max.ome.tif",
+          "size": 940539174,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 5j",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A42",
+        "Technology": "RNAScope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "PDZRN4",
+        "Channel3": "Opal 570",
+        "Target3": "SCN7A",
+        "Channel4": "Opal 650",
+        "Target4": "MLIP",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "1C1620975E93C67DC4633F363ABB5892"
+      }
+    },
+    "IM43": {
+      "id": "IM43",
+      "original_relpath": "KM_LNG_00Q1_A42-LNG_Nucleus_SOX10_SCN7A_SLC2A1_Meas4_A2_F1T1_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM43",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00Q1_A42-LNG_Nucleus_SOX10_SCN7A_SLC2A1_Meas4_A2_F1T1_max.ome.tif",
+          "size": 1221661338,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 5j",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A42",
+        "Technology": "RNAScope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "SOX10",
+        "Channel3": "Opal 570",
+        "Target3": "SCN7A",
+        "Channel4": "Opal 650",
+        "Target4": "SLC2A1",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "6DD3B6FF04550A5422C7F4FA79DC0C0B"
+      }
+    },
+    "IM44": {
+      "id": "IM44",
+      "original_relpath": "KM_LNG_00Q2_A41-LNG_Nucleus_PDZRN4_SCN7A_MLIP_Meas3_A2_F1T1_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM44",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00Q2_A41-LNG_Nucleus_PDZRN4_SCN7A_MLIP_Meas3_A2_F1T1_max.ome.tif",
+          "size": 462650974,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 5j",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A41",
+        "Technology": "RNAScope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "PDZRN4",
+        "Channel3": "Opal 570",
+        "Target3": "SCN7A",
+        "Channel4": "Opal 650",
+        "Target4": "MLIP",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "3A4B71744E2E23C3D168CA856812E6B3"
+      }
+    },
+    "IM45": {
+      "id": "IM45",
+      "original_relpath": "KM_LNG_00Q3_A41-LNG_Nucleus_SOX10_SCN7A_SLC2A1_Meas2_A2_F1T1_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM45",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00Q3_A41-LNG_Nucleus_SOX10_SCN7A_SLC2A1_Meas2_A2_F1T1_max.ome.tif",
+          "size": 466251380,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 5j",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A41",
+        "Technology": "RNAScope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "SOX10",
+        "Channel3": "Opal 570",
+        "Target3": "SCN7A",
+        "Channel4": "Opal 650",
+        "Target4": "SLC2A1",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "6F4A7E554F1C2126B5C14638090ADD97"
+      }
+    },
+    "IM46": {
+      "id": "IM46",
+      "original_relpath": "KM_LNG_00Q4_A42-LNG_Nucleus_PDZRN4_SCN7A_MLIP_Meas2_A2_F1T1_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM46",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00Q4_A42-LNG_Nucleus_PDZRN4_SCN7A_MLIP_Meas2_A2_F1T1_max.ome.tif",
+          "size": 762361560,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 5j",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A42",
+        "Technology": "RNAScope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "PDZRN4",
+        "Channel3": "Opal 570",
+        "Target3": "SCN7A",
+        "Channel4": "Opal 650",
+        "Target4": "MLIP",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "4A26CAE43CDF87F05620E58C188BED4E"
+      }
+    },
+    "IM47": {
+      "id": "IM47",
+      "original_relpath": "KM_LNG_00Q5_A42-LNG_Nucleus_SOX10_SCN7A_SLC2A1_Meas2_A2_F1T1_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM47",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00Q5_A42-LNG_Nucleus_SOX10_SCN7A_SLC2A1_Meas2_A2_F1T1_max.ome.tif",
+          "size": 862956222,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 5j",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A42",
+        "Technology": "RNAScope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "SOX10",
+        "Channel3": "Opal 570",
+        "Target3": "SCN7A",
+        "Channel4": "Opal 650",
+        "Target4": "SLC2A1",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "D2BA21AA530CC3E6D8AAC2BCFA341046"
+      }
+    },
+    "IM48": {
+      "id": "IM48",
+      "original_relpath": "KM_LNG_00P5_A47-LNG_Nucleus_CCL21_CCL19_ACKR1_Meas2_A2_F1T0_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM48",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00P5_A47-LNG_Nucleus_CCL21_CCL19_ACKR1_Meas2_A2_F1T0_max.ome.tif",
+          "size": 1275055534,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 3g / extended data 6f",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A47",
+        "Technology": "RNAScope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "CCL21",
+        "Channel3": "Opal 570",
+        "Target3": "CCL19",
+        "Channel4": "Opal 650",
+        "Target4": "ACKR1",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "EC37DDB6848519368CD11484B2AD7791"
+      }
+    },
+    "IM49": {
+      "id": "IM49",
+      "original_relpath": "KM_LNG_00P6_A47-LNG_Nucleus_CCL21_CCL19_ACTA2_Meas2_A2_F1T0_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM49",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00P6_A47-LNG_Nucleus_CCL21_CCL19_ACTA2_Meas2_A2_F1T0_max.ome.tif",
+          "size": 1261549636,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 6f",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A47",
+        "Technology": "RNAScope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "CCL21",
+        "Channel3": "Opal 570",
+        "Target3": "CCL19",
+        "Channel4": "Opal 650",
+        "Target4": "ACTA2",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "121A83ED615A556B92479B171DE351CC"
+      }
+    },
+    "IM50": {
+      "id": "IM50",
+      "original_relpath": "KM_LNG_00NV_A47-LNG_Nucleus_TAGLN_FHOD3_KRT14_Meas2_A2_F1T0_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM50",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00NV_A47-LNG_Nucleus_TAGLN_FHOD3_KRT14_Meas2_A2_F1T0_max.ome.tif",
+          "size": 1103487554,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 7i",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A47",
+        "Technology": "RNAScope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "TAGLN",
+        "Channel3": "Opal 570",
+        "Target3": "FHOD3",
+        "Channel4": "Opal 650",
+        "Target4": "KRT14",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "E8219AB57ED0E6253B9669435E37D826"
+      }
+    },
+    "IM51": {
+      "id": "IM51",
+      "original_relpath": "KM_LNG_00NW_A47-LNG_Nucleus_TAGLN_PLD5_KRT14_Meas2_A2_F2T0_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM51",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00NW_A47-LNG_Nucleus_TAGLN_PLD5_KRT14_Meas2_A2_F2T0_max.ome.tif",
+          "size": 1067807156,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 7i",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A47",
+        "Technology": "RNAScope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "TAGLN",
+        "Channel3": "Opal 570",
+        "Target3": "PLD5",
+        "Channel4": "Opal 650",
+        "Target4": "KRT14",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "F5980BABCE37E29F247D32D9CBB96FAA"
+      }
+    },
+    "IM52": {
+      "id": "IM52",
+      "original_relpath": "KM_LNG_00NX_A47-LNG_Nucleus_FHOD3_ALDH1A3_LPO_Meas2_A2_F1T0_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM52",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00NX_A47-LNG_Nucleus_FHOD3_ALDH1A3_LPO_Meas2_A2_F1T0_max.ome.tif",
+          "size": 1127524190,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 7i",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A47",
+        "Technology": "RNAScope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "FHOD3",
+        "Channel3": "Opal 570",
+        "Target3": "ALDH1A3",
+        "Channel4": "Opal 650",
+        "Target4": "LPO",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "F37CEA567FF0EF554CB460EA9111CD30"
+      }
+    },
+    "IM53": {
+      "id": "IM53",
+      "original_relpath": "KM_LNG_00P4_A47-LNG_Nucleus_PLD5_ALDH1A3_LPO_Meas2_A2_F1T0_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM53",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00P4_A47-LNG_Nucleus_PLD5_ALDH1A3_LPO_Meas2_A2_F1T0_max.ome.tif",
+          "size": 364814342,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 7i",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A47",
+        "Technology": "RNAScope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "PLD5",
+        "Channel3": "Opal 570",
+        "Target3": "ALDH1A3",
+        "Channel4": "Opal 650",
+        "Target4": "LPO",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "7AADCEB5BB152A48DC5319F9639EC6DB"
+      }
+    },
+    "IM54": {
+      "id": "IM54",
+      "original_relpath": "KM_LNG_00PY_A37-LNG_Nucleus_PDZRN4_SCN7A_MLIP_Meas2_A2_F1T1_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM54",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00PY_A37-LNG_Nucleus_PDZRN4_SCN7A_MLIP_Meas2_A2_F1T1_max.ome.tif",
+          "size": 892846556,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 2i",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A37",
+        "Technology": "RNAScope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "PDZRN4",
+        "Channel3": "Opal 570",
+        "Target3": "SCN7A",
+        "Channel4": "Opal 650",
+        "Target4": "MLIP",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "C35E2348D59C979662129FB358585346"
+      }
+    },
+    "IM55": {
+      "id": "IM55",
+      "original_relpath": "KM_LNG_00PZ_A37-LNG_Nucleus_SOX10_SCN7A_SLC2A1_Meas2_A2_F1T1_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM55",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00PZ_A37-LNG_Nucleus_SOX10_SCN7A_SLC2A1_Meas2_A2_F1T1_max.ome.tif",
+          "size": 1005415222,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 2i",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A37",
+        "Technology": "RNAScope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "SOX10",
+        "Channel3": "Opal 570",
+        "Target3": "SCN7A",
+        "Channel4": "Opal 650",
+        "Target4": "SLC2A1",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "AF7916302DB8D1004A57DA74A9F37C9A"
+      }
+    },
+    "IM56": {
+      "id": "IM56",
+      "original_relpath": "KM_LNG_00Q0_A42-LNG_Nucleus_PDZRN4_SCN7A_MLIP_Meas2_A2_F1T1_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM56",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00Q0_A42-LNG_Nucleus_PDZRN4_SCN7A_MLIP_Meas2_A2_F1T1_max.ome.tif",
+          "size": 940539174,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 2i",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A42",
+        "Technology": "RNAScope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "PDZRN4",
+        "Channel3": "Opal 570",
+        "Target3": "SCN7A",
+        "Channel4": "Opal 650",
+        "Target4": "MLIP",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "1C1620975E93C67DC4633F363ABB5892"
+      }
+    },
+    "IM57": {
+      "id": "IM57",
+      "original_relpath": "KM_LNG_00Q1_A42-LNG_Nucleus_SOX10_SCN7A_SLC2A1_Meas4_A2_F1T1_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM57",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00Q1_A42-LNG_Nucleus_SOX10_SCN7A_SLC2A1_Meas4_A2_F1T1_max.ome.tif",
+          "size": 1221661338,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 2i",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A42",
+        "Technology": "RNAScope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "SOX10",
+        "Channel3": "Opal 570",
+        "Target3": "SCN7A",
+        "Channel4": "Opal 650",
+        "Target4": "SLC2A1",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "6DD3B6FF04550A5422C7F4FA79DC0C0B"
+      }
+    },
+    "IM58": {
+      "id": "IM58",
+      "original_relpath": "KM_LNG_00Q2_A41-LNG_Nucleus_PDZRN4_SCN7A_MLIP_Meas3_A2_F1T1_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM58",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00Q2_A41-LNG_Nucleus_PDZRN4_SCN7A_MLIP_Meas3_A2_F1T1_max.ome.tif",
+          "size": 462650974,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 2i",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A41",
+        "Technology": "RNAScope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "PDZRN4",
+        "Channel3": "Opal 570",
+        "Target3": "SCN7A",
+        "Channel4": "Opal 650",
+        "Target4": "MLIP",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "3A4B71744E2E23C3D168CA856812E6B3"
+      }
+    },
+    "IM59": {
+      "id": "IM59",
+      "original_relpath": "KM_LNG_00Q3_A41-LNG_Nucleus_SOX10_SCN7A_SLC2A1_Meas2_A2_F1T1_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM59",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00Q3_A41-LNG_Nucleus_SOX10_SCN7A_SLC2A1_Meas2_A2_F1T1_max.ome.tif",
+          "size": 466251380,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 2i",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A41",
+        "Technology": "RNAScope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "SOX10",
+        "Channel3": "Opal 570",
+        "Target3": "SCN7A",
+        "Channel4": "Opal 650",
+        "Target4": "SLC2A1",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "6F4A7E554F1C2126B5C14638090ADD97"
+      }
+    },
+    "IM60": {
+      "id": "IM60",
+      "original_relpath": "KM_LNG_00Q4_A42-LNG_Nucleus_PDZRN4_SCN7A_MLIP_Meas2_A2_F1T1_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM60",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00Q4_A42-LNG_Nucleus_PDZRN4_SCN7A_MLIP_Meas2_A2_F1T1_max.ome.tif",
+          "size": 762361560,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 2i",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A42",
+        "Technology": "RNAScope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "PDZRN4",
+        "Channel3": "Opal 570",
+        "Target3": "SCN7A",
+        "Channel4": "Opal 650",
+        "Target4": "MLIP",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "4A26CAE43CDF87F05620E58C188BED4E"
+      }
+    },
+    "IM61": {
+      "id": "IM61",
+      "original_relpath": "KM_LNG_00Q5_A42-LNG_Nucleus_SOX10_SCN7A_SLC2A1_Meas2_A2_F1T1_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM61",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00Q5_A42-LNG_Nucleus_SOX10_SCN7A_SLC2A1_Meas2_A2_F1T1_max.ome.tif",
+          "size": 862956222,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 2i",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A42",
+        "Technology": "RNAScope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "SOX10",
+        "Channel3": "Opal 570",
+        "Target3": "SCN7A",
+        "Channel4": "Opal 650",
+        "Target4": "SLC2A1",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "D2BA21AA530CC3E6D8AAC2BCFA341046"
+      }
+    },
+    "IM62": {
+      "id": "IM62",
+      "original_relpath": "KM_LNG_00FS_A37-LNG_Nucleus_MPZ_ANGPTL7_THBS4_Meas2_max_A2_F1T0.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM62",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00FS_A37-LNG_Nucleus_MPZ_ANGPTL7_THBS4_Meas2_max_A2_F1T0.ome.tif",
+          "size": 1671064062,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 2i",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A37",
+        "Technology": "RNAScope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "MPZ",
+        "Channel3": "Opal 570",
+        "Target3": "ANGPTL7",
+        "Channel4": "Opal 650",
+        "Target4": "THBS4",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "489438A34057D153905AC8F6FBE3C40E"
+      }
+    },
+    "IM63": {
+      "id": "IM63",
+      "original_relpath": "KM_LNG_00FT_A42-LNG_Nucleus_MPZ_ANGPTL7_THBS4_Meas2_max_A2_F1T0.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM63",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00FT_A42-LNG_Nucleus_MPZ_ANGPTL7_THBS4_Meas2_max_A2_F1T0.ome.tif",
+          "size": 1450313620,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 2i",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A42",
+        "Technology": "RNAScope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "MPZ",
+        "Channel3": "Opal 570",
+        "Target3": "ANGPTL7",
+        "Channel4": "Opal 650",
+        "Target4": "THBS4",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "686239E49197C2952C5F5BB9449B9EF8"
+      }
+    },
+    "IM64": {
+      "id": "IM64",
+      "original_relpath": "KM_LNG_00FU_A41-LNG_Nucleus_MPZ_ANGPTL7_THBS4_Meas2_max_A2_F1T0.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM64",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00FU_A41-LNG_Nucleus_MPZ_ANGPTL7_THBS4_Meas2_max_A2_F1T0.ome.tif",
+          "size": 635434556,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 2i",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A41",
+        "Technology": "RNAScope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "MPZ",
+        "Channel3": "Opal 570",
+        "Target3": "ANGPTL7",
+        "Channel4": "Opal 650",
+        "Target4": "THBS4",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "252ECE883796A072FFF83E92C589DCB2"
+      }
+    },
+    "IM65": {
+      "id": "IM65",
+      "original_relpath": "KM_LNG_00PW_A37-LNG_Nucleus_ACTA2_PTPRC_CCL21_CCL19_Meas2_A2_F1T0_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM65",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00PW_A37-LNG_Nucleus_ACTA2_PTPRC_CCL21_CCL19_Meas2_A2_F1T0_max.ome.tif",
+          "size": 1300540668,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 3a",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A37",
+        "Technology": "RNAScope 4-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "ACTA2",
+        "Channel3": "Opal 570",
+        "Target3": "PTPRC",
+        "Channel4": "Opal 650",
+        "Target4": "CCL21",
+        "Channel5": "Atto 425",
+        "Target5": "CCL19",
+        "md5": "0264D8A49D67383216B3E968BE277AF8"
+      }
+    },
+    "IM66": {
+      "id": "IM66",
+      "original_relpath": "KM_LNG_00DY_A37-LNG_Nucleus_MUC5B_LPO_ALDH1A3_Meas3_A1_F1T0.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM66",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00DY_A37-LNG_Nucleus_MUC5B_LPO_ALDH1A3_Meas3_A1_F1T0.ome.tif",
+          "size": 1955140670,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 4b",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A37",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "MUC5B",
+        "Channel3": "Opal 570",
+        "Target3": "LPO",
+        "Channel4": "Opal 650",
+        "Target4": "ALDH1A3",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "E807BD7E895C32490729012FE3A14634"
+      }
+    },
+    "IM67": {
+      "id": "IM67",
+      "original_relpath": "KM_LNG_00DZ_A42-LNG_Nucleus_MUC5B_LPO_ALDH1A3_Meas2_A1_F1T0.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM67",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00DZ_A42-LNG_Nucleus_MUC5B_LPO_ALDH1A3_Meas2_A1_F1T0.ome.tif",
+          "size": 2495315534,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 4b",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A42",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "MUC5B",
+        "Channel3": "Opal 570",
+        "Target3": "LPO",
+        "Channel4": "Opal 650",
+        "Target4": "ALDH1A3",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "CB773D980DF7AAA86BD055C5443B5C45"
+      }
+    },
+    "IM68": {
+      "id": "IM68",
+      "original_relpath": "KM_LNG_00H9_A41-LNG_Nucleus_MUC5B_LPO_ALDH1A3_Meas2_A2_F1T0_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM68",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00H9_A41-LNG_Nucleus_MUC5B_LPO_ALDH1A3_Meas2_A2_F1T0_max.ome.tif",
+          "size": 364506252,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 4b",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A41",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "MUC5B",
+        "Channel3": "Opal 570",
+        "Target3": "LPO",
+        "Channel4": "Opal 650",
+        "Target4": "ALDH1A3",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "39F159258BDAC579BD04A601DF336BBF"
+      }
+    },
+    "IM69": {
+      "id": "IM69",
+      "original_relpath": "KM_LNG_00HA_A48-LNG_Nucleus_MUC5B_LPO_ALDH1A3_Meas2_A2_F1T0_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM69",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00HA_A48-LNG_Nucleus_MUC5B_LPO_ALDH1A3_Meas2_A2_F1T0_max.ome.tif",
+          "size": 1325029564,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 4b",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A48",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "MUC5B",
+        "Channel3": "Opal 570",
+        "Target3": "LPO",
+        "Channel4": "Opal 650",
+        "Target4": "ALDH1A3",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "50521BACD978707E60D5B0CE3E2E7624"
+      }
+    },
+    "IM70": {
+      "id": "IM70",
+      "original_relpath": "KM_LNG_00DU_A37-LNG_Nucleus_MUC5B_LPO_RARRES1_Meas2_A1_F1T0.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM70",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00DU_A37-LNG_Nucleus_MUC5B_LPO_RARRES1_Meas2_A1_F1T0.ome.tif",
+          "size": 1807020366,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 4b",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A37",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "MUC5B",
+        "Channel3": "Opal 570",
+        "Target3": "LPO",
+        "Channel4": "Opal 650",
+        "Target4": "RARRES1",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "7891D939203AFFFAA7FFE91626168693"
+      }
+    },
+    "IM71": {
+      "id": "IM71",
+      "original_relpath": "KM_LNG_00DV_A42-LNG_Nucleus_MUC5B_LPO_RARRES1_Meas2_A1_F1T0.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM71",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00DV_A42-LNG_Nucleus_MUC5B_LPO_RARRES1_Meas2_A1_F1T0.ome.tif",
+          "size": 1592092998,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 4b",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A42",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "MUC5B",
+        "Channel3": "Opal 570",
+        "Target3": "LPO",
+        "Channel4": "Opal 650",
+        "Target4": "RARRES1",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "7BA02E246554FF552351867B715A8FA8"
+      }
+    },
+    "IM72": {
+      "id": "IM72",
+      "original_relpath": "KM_LNG_00H7_A41-LNG_Nucleus_MUC5B_LPO_RARRES1_Meas2_A2_F1T0_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM72",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00H7_A41-LNG_Nucleus_MUC5B_LPO_RARRES1_Meas2_A2_F1T0_max.ome.tif",
+          "size": 369862378,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 4b",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A41",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "MUC5B",
+        "Channel3": "Opal 570",
+        "Target3": "LPO",
+        "Channel4": "Opal 650",
+        "Target4": "RARRES1",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "CEF87522C61BA0572862BAB19B94A766"
+      }
+    },
+    "IM73": {
+      "id": "IM73",
+      "original_relpath": "KM_LNG_00H8_A48-LNG_Nucleus_MUC5B_LPO_RARRES1_Meas2_A2_F1T0_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM73",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00H8_A48-LNG_Nucleus_MUC5B_LPO_RARRES1_Meas2_A2_F1T0_max.ome.tif",
+          "size": 1246068122,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 4b",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A48",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "MUC5B",
+        "Channel3": "Opal 570",
+        "Target3": "LPO",
+        "Channel4": "Opal 650",
+        "Target4": "RARRES1",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "F234FCC469C6E2D8F2993CEC2FB9AE67"
+      }
+    },
+    "IM74": {
+      "id": "IM74",
+      "original_relpath": "KM_LNG_00DW_A42-LNG_Nucleus_MUC5B_LPO_MIA_Meas2_A1_F1T0.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM74",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00DW_A42-LNG_Nucleus_MUC5B_LPO_MIA_Meas2_A1_F1T0.ome.tif",
+          "size": 1742579622,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 7d",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A37",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "MUC5B",
+        "Channel3": "Opal 570",
+        "Target3": "LPO",
+        "Channel4": "Opal 650",
+        "Target4": "MIA",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "64E7D24CE948573915AC85E97BBDD69A"
+      }
+    },
+    "IM75": {
+      "id": "IM75",
+      "original_relpath": "KM_LNG_00DX_A42-LNG_Nucleus_MUC5B_LPO_MIA_Meas2_A1_F2T0.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM75",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00DX_A42-LNG_Nucleus_MUC5B_LPO_MIA_Meas2_A1_F2T0.ome.tif",
+          "size": 1474434690,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 7d",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A42",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "MUC5B",
+        "Channel3": "Opal 570",
+        "Target3": "LPO",
+        "Channel4": "Opal 650",
+        "Target4": "MIA",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "35BC02C1FF90D17F274C1C5375D50261"
+      }
+    },
+    "IM76": {
+      "id": "IM76",
+      "original_relpath": "KM_LNG_00H5_A41-LNG_Nucleus_MUC5B_LPO_MIA_Meas2_A2_F1T0_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM76",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00H5_A41-LNG_Nucleus_MUC5B_LPO_MIA_Meas2_A2_F1T0_max.ome.tif",
+          "size": 351419108,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 7d",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A41",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "MUC5B",
+        "Channel3": "Opal 570",
+        "Target3": "LPO",
+        "Channel4": "Opal 650",
+        "Target4": "MIA",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "7055DC14C9CE9BE6A1C80604194E36E1"
+      }
+    },
+    "IM77": {
+      "id": "IM77",
+      "original_relpath": "KM_LNG_00E4_A37-LNG_Nucleus_SCGB1A1_FOXJ1_ALDH1A3_Meas2_A2_F1T0.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM77",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00E4_A37-LNG_Nucleus_SCGB1A1_FOXJ1_ALDH1A3_Meas2_A2_F1T0.ome.tif",
+          "size": 1884282606,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 7d",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A48",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "MUC5B",
+        "Channel3": "Opal 570",
+        "Target3": "LPO",
+        "Channel4": "Opal 650",
+        "Target4": "MIA",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "EFA42765D348B5FCB8F85ED80A389FAE"
+      }
+    },
+    "IM78": {
+      "id": "IM78",
+      "original_relpath": "KM_LNG_00E4_A37-LNG_Nucleus_SCGB1A1_FOXJ1_ALDH1A3_Meas2_A2_F1T0.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM78",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00E4_A37-LNG_Nucleus_SCGB1A1_FOXJ1_ALDH1A3_Meas2_A2_F1T0.ome.tif",
+          "size": 1884282606,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 7e",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A37",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "SCGB1A1",
+        "Channel3": "Opal 570",
+        "Target3": "FOXJ1",
+        "Channel4": "Opal 650",
+        "Target4": "ALDH1A3",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "EFA42765D348B5FCB8F85ED80A389FAE"
+      }
+    },
+    "IM79": {
+      "id": "IM79",
+      "original_relpath": "KM_LNG_00E5_A42-LNG_Nucleus_SCGB1A1_FOXJ1_ALDH1A3_Meas2_A2_F1T0.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM79",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00E5_A42-LNG_Nucleus_SCGB1A1_FOXJ1_ALDH1A3_Meas2_A2_F1T0.ome.tif",
+          "size": 1885552822,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 7e",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A42",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "SCGB1A1",
+        "Channel3": "Opal 570",
+        "Target3": "FOXJ1",
+        "Channel4": "Opal 650",
+        "Target4": "ALDH1A3",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "8A0E9B907C457E8AD24DCD9CB14D3192"
+      }
+    },
+    "IM80": {
+      "id": "IM80",
+      "original_relpath": "KM_LNG_00HF_A41-LNG_Nucleus_SCGB1A1_FOXJ1_ALDH1A3_Meas2_A2_F1T0_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM80",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00HF_A41-LNG_Nucleus_SCGB1A1_FOXJ1_ALDH1A3_Meas2_A2_F1T0_max.ome.tif",
+          "size": 593869456,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 7e",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A41",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "SCGB1A1",
+        "Channel3": "Opal 570",
+        "Target3": "FOXJ1",
+        "Channel4": "Opal 650",
+        "Target4": "ALDH1A3",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "8599393644CA169FE214F257F3F0BC1E"
+      }
+    },
+    "IM81": {
+      "id": "IM81",
+      "original_relpath": "KM_LNG_00HG_A48-LNG_Nucleus_SCGB1A1_FOXJ1_ALDH1A3_Meas2_A2_F1T0_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM81",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00HG_A48-LNG_Nucleus_SCGB1A1_FOXJ1_ALDH1A3_Meas2_A2_F1T0_max.ome.tif",
+          "size": 1791951334,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 7e",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A48",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "SCGB1A1",
+        "Channel3": "Opal 570",
+        "Target3": "FOXJ1",
+        "Channel4": "Opal 650",
+        "Target4": "ALDH1A3",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "B082249654C4DEDDAE1384273E781C3F"
+      }
+    },
+    "IM82": {
+      "id": "IM82",
+      "original_relpath": "KM_LNG_00E2_A37-LNG_Nucleus_SCGB1A1_FOXJ1_RARRES1_Meas2_A2_F1T0.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM82",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00E2_A37-LNG_Nucleus_SCGB1A1_FOXJ1_RARRES1_Meas2_A2_F1T0.ome.tif",
+          "size": 1874411530,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 7e",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A37",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "SCGB1A1",
+        "Channel3": "Opal 570",
+        "Target3": "FOXJ1",
+        "Channel4": "Opal 650",
+        "Target4": "RARRES1",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "703A2E19564423454B44E5E571E1D196"
+      }
+    },
+    "IM83": {
+      "id": "IM83",
+      "original_relpath": "KM_LNG_00E3_A42-LNG_Nucleus_SCGB1A1_FOXJ1_RARRES1_Meas2_A2_F1T0.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM83",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00E3_A42-LNG_Nucleus_SCGB1A1_FOXJ1_RARRES1_Meas2_A2_F1T0.ome.tif",
+          "size": 1769075420,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 7e",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A42",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "SCGB1A1",
+        "Channel3": "Opal 570",
+        "Target3": "FOXJ1",
+        "Channel4": "Opal 650",
+        "Target4": "RARRES1",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "2F7662EBBF660CEA97464CC6BFEE25EA"
+      }
+    },
+    "IM84": {
+      "id": "IM84",
+      "original_relpath": "KM_LNG_00HD_A41-LNG_Nucleus_SCGB1A1_FOXJ1_RARRES1_Meas2_A2_F1T0_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM84",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00HD_A41-LNG_Nucleus_SCGB1A1_FOXJ1_RARRES1_Meas2_A2_F1T0_max.ome.tif",
+          "size": 601904354,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 7e",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A41",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "SCGB1A1",
+        "Channel3": "Opal 570",
+        "Target3": "FOXJ1",
+        "Channel4": "Opal 650",
+        "Target4": "RARRES1",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "70905B11C68AAFBC8FC72D350D24CCA6"
+      }
+    },
+    "IM85": {
+      "id": "IM85",
+      "original_relpath": "KM_LNG_00HE_A48-LNG_Nucleus_SCGB1A1_FOXJ1_RARRES1_Meas2_A2_F1T0_max.ome.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM85",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/KM_LNG_00HE_A48-LNG_Nucleus_SCGB1A1_FOXJ1_RARRES1_Meas2_A2_F1T0_max.ome.tif",
+          "size": 1103217710,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Extended data 7e",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A48",
+        "Technology": "RNAscope 3-plex",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "SCGB1A1",
+        "Channel3": "Opal 570",
+        "Target3": "FOXJ1",
+        "Channel4": "Opal 650",
+        "Target4": "RARRES1",
+        "Channel5": "null",
+        "Target5": "null",
+        "md5": "7873E372225E91332FEA10D0C6CB9B80"
+      }
+    },
+    "IM86": {
+      "id": "IM86",
+      "original_relpath": "Fig4gED10j_Day1-CD19.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM86",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig4gED10j_Day1-CD19.tif",
+          "size": 3311272683,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 4g - extended 10j",
+        "Round of imaging": "First round",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "IBEX",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "CD3",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "PE",
+        "Target3": "CD31",
+        "Laser3": "561nm",
+        "Acquisition gate3": "566-590nm",
+        "Channel4": "AF594",
+        "Target4": "CD19",
+        "Laser4": "594nm",
+        "Acquisition gate4": "599-620nm",
+        "Channel5": "AF647",
+        "Target5": "HLA-DR",
+        "Laser5": "633nm",
+        "Acquisition gate5": "650-800nm",
+        "md5": "B9DBBA2AE85FBED5934DC031CE1018B7"
+      }
+    },
+    "IM87": {
+      "id": "IM87",
+      "original_relpath": "Fig4gED10j_Day1-CD31.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM87",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig4gED10j_Day1-CD31.tif",
+          "size": 3311272683,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 4g - extended 10j",
+        "Round of imaging": "First round",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "IBEX",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "CD3",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "PE",
+        "Target3": "CD31",
+        "Laser3": "561nm",
+        "Acquisition gate3": "566-590nm",
+        "Channel4": "AF594",
+        "Target4": "CD19",
+        "Laser4": "594nm",
+        "Acquisition gate4": "599-620nm",
+        "Channel5": "AF647",
+        "Target5": "HLA-DR",
+        "Laser5": "633nm",
+        "Acquisition gate5": "650-800nm",
+        "md5": "1337BCF99C1530481D93A9B304719286"
+      }
+    },
+    "IM88": {
+      "id": "IM88",
+      "original_relpath": "Fig4gED10j_Day1-CD3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM88",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig4gED10j_Day1-CD3.tif",
+          "size": 3311272683,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 4g - extended 10j",
+        "Round of imaging": "First round",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "IBEX",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "CD3",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "PE",
+        "Target3": "CD31",
+        "Laser3": "561nm",
+        "Acquisition gate3": "566-590nm",
+        "Channel4": "AF594",
+        "Target4": "CD19",
+        "Laser4": "594nm",
+        "Acquisition gate4": "599-620nm",
+        "Channel5": "AF647",
+        "Target5": "HLA-DR",
+        "Laser5": "633nm",
+        "Acquisition gate5": "650-800nm",
+        "md5": "85D6709983CA16E19B5E246612C2D132"
+      }
+    },
+    "IM89": {
+      "id": "IM89",
+      "original_relpath": "Fig4gED10j_Day1-HLA-DR.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM89",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig4gED10j_Day1-HLA-DR.tif",
+          "size": 3311272683,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 4g - extended 10j",
+        "Round of imaging": "First round",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "IBEX",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "CD3",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "PE",
+        "Target3": "CD31",
+        "Laser3": "561nm",
+        "Acquisition gate3": "566-590nm",
+        "Channel4": "AF594",
+        "Target4": "CD19",
+        "Laser4": "594nm",
+        "Acquisition gate4": "599-620nm",
+        "Channel5": "AF647",
+        "Target5": "HLA-DR",
+        "Laser5": "633nm",
+        "Acquisition gate5": "650-800nm",
+        "md5": "A4CF68ED65FDFEC37663CE970F72121C"
+      }
+    },
+    "IM90": {
+      "id": "IM90",
+      "original_relpath": "Fig4gED10j_Day1-Hoechst.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM90",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig4gED10j_Day1-Hoechst.tif",
+          "size": 3311272683,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 4g - extended 10j",
+        "Round of imaging": "First round",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "IBEX",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "CD3",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "PE",
+        "Target3": "CD31",
+        "Laser3": "561nm",
+        "Acquisition gate3": "566-590nm",
+        "Channel4": "AF594",
+        "Target4": "CD19",
+        "Laser4": "594nm",
+        "Acquisition gate4": "599-620nm",
+        "Channel5": "AF647",
+        "Target5": "HLA-DR",
+        "Laser5": "633nm",
+        "Acquisition gate5": "650-800nm",
+        "md5": "D3FCDCC006575D6DBCC21B56306FF17A"
+      }
+    },
+    "IM91": {
+      "id": "IM91",
+      "original_relpath": "Fig4gED10j_Day2-CD4.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM91",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig4gED10j_Day2-CD4.tif",
+          "size": 3313567519,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 4g - extended 10j",
+        "Round of imaging": "Second round",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "IBEX",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "IgD",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "AF647",
+        "Target3": "CD4",
+        "Laser3": "633nm",
+        "Acquisition gate3": "650-800nm",
+        "Channel4": "null",
+        "Target4": "null",
+        "Laser4": "null",
+        "Acquisition gate4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "Laser5": "null",
+        "Acquisition gate5": "null",
+        "md5": "02DB676EA44ABB2A01D7DAA879DA71CE"
+      }
+    },
+    "IM92": {
+      "id": "IM92",
+      "original_relpath": "Fig4gED10j_Day2-Hoechst.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM92",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig4gED10j_Day2-Hoechst.tif",
+          "size": 3313567519,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 4g - extended 10j",
+        "Round of imaging": "Second round",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "IBEX",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "IgD",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "AF647",
+        "Target3": "CD4",
+        "Laser3": "633nm",
+        "Acquisition gate3": "650-800nm",
+        "Channel4": "null",
+        "Target4": "null",
+        "Laser4": "null",
+        "Acquisition gate4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "Laser5": "null",
+        "Acquisition gate5": "null",
+        "md5": "8840AAC951EF6C08A597926ED824378F"
+      }
+    },
+    "IM93": {
+      "id": "IM93",
+      "original_relpath": "Fig4gED10j_Day2-IgD.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM93",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig4gED10j_Day2-IgD.tif",
+          "size": 3313567519,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 4g - extended 10j",
+        "Round of imaging": "Second round",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "IBEX",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "IgD",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "AF647",
+        "Target3": "CD4",
+        "Laser3": "633nm",
+        "Acquisition gate3": "650-800nm",
+        "Channel4": "null",
+        "Target4": "null",
+        "Laser4": "null",
+        "Acquisition gate4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "Laser5": "null",
+        "Acquisition gate5": "null",
+        "md5": "FAB998080C39E366A63314024A1935E3"
+      }
+    },
+    "IM94": {
+      "id": "IM94",
+      "original_relpath": "Fig4gED10j_Day3-EpCAM.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM94",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig4gED10j_Day3-EpCAM.tif",
+          "size": 3321973281,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 4g - extended 10j",
+        "Round of imaging": "Third round",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "IBEX",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "IgA2",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "PE",
+        "Target3": "IgG",
+        "Laser3": "561nm",
+        "Acquisition gate3": "566-590nm",
+        "Channel4": "eF660",
+        "Target4": "EpCAM",
+        "Laser4": "633nm",
+        "Acquisition gate4": "650-800nm",
+        "Channel5": "null",
+        "Target5": "null",
+        "Laser5": "null",
+        "Acquisition gate5": "null",
+        "md5": "9765F41870B65F77FAD2AEC4FB5C23E8"
+      }
+    },
+    "IM95": {
+      "id": "IM95",
+      "original_relpath": "Fig4gED10j_Day3-Hoechst.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM95",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig4gED10j_Day3-Hoechst.tif",
+          "size": 3321973281,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 4g - extended 10j",
+        "Round of imaging": "Third round",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "IBEX",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "IgA2",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "PE",
+        "Target3": "IgG",
+        "Laser3": "561nm",
+        "Acquisition gate3": "566-590nm",
+        "Channel4": "eF660",
+        "Target4": "EpCAM",
+        "Laser4": "633nm",
+        "Acquisition gate4": "650-800nm",
+        "Channel5": "null",
+        "Target5": "null",
+        "Laser5": "null",
+        "Acquisition gate5": "null",
+        "md5": "DACDCB568723A586D990807390A6DFB2"
+      }
+    },
+    "IM96": {
+      "id": "IM96",
+      "original_relpath": "Fig4gED10j_Day3-IgA2.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM96",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig4gED10j_Day3-IgA2.tif",
+          "size": 3321973281,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 4g - extended 10j",
+        "Round of imaging": "Third round",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "IBEX",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "IgA2",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "PE",
+        "Target3": "IgG",
+        "Laser3": "561nm",
+        "Acquisition gate3": "566-590nm",
+        "Channel4": "eF660",
+        "Target4": "EpCAM",
+        "Laser4": "633nm",
+        "Acquisition gate4": "650-800nm",
+        "Channel5": "null",
+        "Target5": "null",
+        "Laser5": "null",
+        "Acquisition gate5": "null",
+        "md5": "A6755511797D37EC1E0392645E5F84D5"
+      }
+    },
+    "IM97": {
+      "id": "IM97",
+      "original_relpath": "Fig4gED10j_Day3-IgG.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM97",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig4gED10j_Day3-IgG.tif",
+          "size": 3321973281,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 4g - extended 10j",
+        "Round of imaging": "Third round",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "IBEX",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "IgA2",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "PE",
+        "Target3": "IgG",
+        "Laser3": "561nm",
+        "Acquisition gate3": "566-590nm",
+        "Channel4": "eF660",
+        "Target4": "EpCAM",
+        "Laser4": "633nm",
+        "Acquisition gate4": "650-800nm",
+        "Channel5": "null",
+        "Target5": "null",
+        "Laser5": "null",
+        "Acquisition gate5": "null",
+        "md5": "6E5A5B71B33A279B603C541598D9FE42"
+      }
+    },
+    "IM98": {
+      "id": "IM98",
+      "original_relpath": "Fig4gED10j_Day4-CD45.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM98",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig4gED10j_Day4-CD45.tif",
+          "size": 3310401701,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 4g - extended 10j",
+        "Round of imaging": "Fourth round",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "IBEX",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "Phalloidin",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "APC",
+        "Target3": "CD45",
+        "Laser3": "633nm",
+        "Acquisition gate3": "650-800nm",
+        "Channel4": "null",
+        "Target4": "null",
+        "Laser4": "null",
+        "Acquisition gate4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "Laser5": "null",
+        "Acquisition gate5": "null",
+        "md5": "B9175E153DBBB91664A7E5F0E5094946"
+      }
+    },
+    "IM99": {
+      "id": "IM99",
+      "original_relpath": "Fig4gED10j_Day4-Hoechst.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM99",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig4gED10j_Day4-Hoechst.tif",
+          "size": 3310401701,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 4g - extended 10j",
+        "Round of imaging": "Fourth round",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "IBEX",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "Phalloidin",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "APC",
+        "Target3": "CD45",
+        "Laser3": "633nm",
+        "Acquisition gate3": "650-800nm",
+        "Channel4": "null",
+        "Target4": "null",
+        "Laser4": "null",
+        "Acquisition gate4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "Laser5": "null",
+        "Acquisition gate5": "null",
+        "md5": "7DA5A6FEC5D894BD316DA5B5C3CEB6C5"
+      }
+    },
+    "IM100": {
+      "id": "IM100",
+      "original_relpath": "Fig4gED10j_Day4-Phalloidin.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM100",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig4gED10j_Day4-Phalloidin.tif",
+          "size": 3310401701,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 4g - extended 10j",
+        "Round of imaging": "Fourth round",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "IBEX",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "Phalloidin",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "APC",
+        "Target3": "CD45",
+        "Laser3": "633nm",
+        "Acquisition gate3": "650-800nm",
+        "Channel4": "null",
+        "Target4": "null",
+        "Laser4": "null",
+        "Acquisition gate4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "Laser5": "null",
+        "Acquisition gate5": "null",
+        "md5": "138ED6E888AEF763569E73D62D8F98E3"
+      }
+    },
+    "IM101": {
+      "id": "IM101",
+      "original_relpath": "Fig5j_637cLNG-2R3-EpCAM.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM101",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig5j_637cLNG-2R3-EpCAM.tif",
+          "size": 316162153,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 5j",
+        "Round of imaging": "NA",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A60",
+        "Technology": "IF",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "eF660",
+        "Target2": "EpCAM",
+        "Laser2": "633nm",
+        "Acquisition gate2": "650-800nm",
+        "Channel3": "null",
+        "Target3": "null",
+        "Laser3": "null",
+        "Acquisition gate3": "null",
+        "Channel4": "null",
+        "Target4": "null",
+        "Laser4": "null",
+        "Acquisition gate4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "Laser5": "null",
+        "Acquisition gate5": "null",
+        "md5": "86E7777833711DB5F334D4BD891784E8"
+      }
+    },
+    "IM102": {
+      "id": "IM102",
+      "original_relpath": "Fig5j_637cLNG-2R3-Hoechst.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM102",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig5j_637cLNG-2R3-Hoechst.tif",
+          "size": 316162153,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 5j",
+        "Round of imaging": "NA",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A60",
+        "Technology": "IF",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "eF660",
+        "Target2": "EpCAM",
+        "Laser2": "633nm",
+        "Acquisition gate2": "650-800nm",
+        "Channel3": "null",
+        "Target3": "null",
+        "Laser3": "null",
+        "Acquisition gate3": "null",
+        "Channel4": "null",
+        "Target4": "null",
+        "Laser4": "null",
+        "Acquisition gate4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "Laser5": "null",
+        "Acquisition gate5": "null",
+        "md5": "3FDC4E4752B9FCF9EFC40E98D42CCE5E"
+      }
+    },
+    "IM103": {
+      "id": "IM103",
+      "original_relpath": "Fig5j_HLA-DR-637LNG-2R3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM103",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig5j_HLA-DR-637LNG-2R3.tif",
+          "size": 97000823,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 5j",
+        "Round of imaging": "NA",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A60",
+        "Technology": "IF",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF647",
+        "Target2": "HLA-DR",
+        "Laser2": "633nm",
+        "Acquisition gate2": "650-800nm",
+        "Channel3": "null",
+        "Target3": "null",
+        "Laser3": "null",
+        "Acquisition gate3": "null",
+        "Channel4": "null",
+        "Target4": "null",
+        "Laser4": "null",
+        "Acquisition gate4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "Laser5": "null",
+        "Acquisition gate5": "null",
+        "md5": "2210EDDF9E4870B120C8CDBB88958CA0"
+      }
+    },
+    "IM104": {
+      "id": "IM104",
+      "original_relpath": "Fig5j_Hoechst-637LNG-2R3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM104",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig5j_Hoechst-637LNG-2R3.tif",
+          "size": 97000823,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 5j",
+        "Round of imaging": "NA",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A60",
+        "Technology": "IF",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF647",
+        "Target2": "HLA-DR",
+        "Laser2": "633nm",
+        "Acquisition gate2": "650-800nm",
+        "Channel3": "null",
+        "Target3": "null",
+        "Laser3": "null",
+        "Acquisition gate3": "null",
+        "Channel4": "null",
+        "Target4": "null",
+        "Laser4": "null",
+        "Acquisition gate4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "Laser5": "null",
+        "Acquisition gate5": "null",
+        "md5": "3D0D5C02BD5B9A43D61D328CCACE8ABE"
+      }
+    },
+    "IM105": {
+      "id": "IM105",
+      "original_relpath": "Fig5kED10i10k_Day1-CD3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM105",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig5kED10i10k_Day1-CD3.tif",
+          "size": 604267526,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 5k - extended 10i - extended 10k",
+        "Round of imaging": "First round",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "IBEX",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "CD45RO",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "PE",
+        "Target3": "CD45RA",
+        "Laser3": "561nm",
+        "Acquisition gate3": "566-590nm",
+        "Channel4": "AF594",
+        "Target4": "CD3",
+        "Laser4": "594nm",
+        "Acquisition gate4": "599-620nm",
+        "Channel5": "AF647",
+        "Target5": "CD4",
+        "Laser5": "633nm",
+        "Acquisition gate5": "650-800nm",
+        "md5": "A941C46473E6B474DE9FF60EF8E1B497"
+      }
+    },
+    "IM106": {
+      "id": "IM106",
+      "original_relpath": "Fig5kED10i10k_Day1-CD45RA.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM106",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig5kED10i10k_Day1-CD45RA.tif",
+          "size": 604267526,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 5k - extended 10i - extended 10k",
+        "Round of imaging": "First round",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "IBEX",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "CD45RO",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "PE",
+        "Target3": "CD45RA",
+        "Laser3": "561nm",
+        "Acquisition gate3": "566-590nm",
+        "Channel4": "AF594",
+        "Target4": "CD3",
+        "Laser4": "594nm",
+        "Acquisition gate4": "599-620nm",
+        "Channel5": "AF647",
+        "Target5": "CD4",
+        "Laser5": "633nm",
+        "Acquisition gate5": "650-800nm",
+        "md5": "C1AB9884E90C73F2438CCB58BCAD4F86"
+      }
+    },
+    "IM107": {
+      "id": "IM107",
+      "original_relpath": "Fig5kED10i10k_Day1-CD45RO.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM107",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig5kED10i10k_Day1-CD45RO.tif",
+          "size": 604267526,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 5k - extended 10i - extended 10k",
+        "Round of imaging": "First round",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "IBEX",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "CD45RO",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "PE",
+        "Target3": "CD45RA",
+        "Laser3": "561nm",
+        "Acquisition gate3": "566-590nm",
+        "Channel4": "AF594",
+        "Target4": "CD3",
+        "Laser4": "594nm",
+        "Acquisition gate4": "599-620nm",
+        "Channel5": "AF647",
+        "Target5": "CD4",
+        "Laser5": "633nm",
+        "Acquisition gate5": "650-800nm",
+        "md5": "9D087275378853FE30DD8EF0011A2215"
+      }
+    },
+    "IM108": {
+      "id": "IM108",
+      "original_relpath": "Fig5kED10i10k_Day1-CD4.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM108",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig5kED10i10k_Day1-CD4.tif",
+          "size": 604267526,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 5k - extended 10i - extended 10k",
+        "Round of imaging": "First round",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "IBEX",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "CD45RO",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "PE",
+        "Target3": "CD45RA",
+        "Laser3": "561nm",
+        "Acquisition gate3": "566-590nm",
+        "Channel4": "AF594",
+        "Target4": "CD3",
+        "Laser4": "594nm",
+        "Acquisition gate4": "599-620nm",
+        "Channel5": "AF647",
+        "Target5": "CD4",
+        "Laser5": "633nm",
+        "Acquisition gate5": "650-800nm",
+        "md5": "102E7A2A6D81165FCEF28326AED3641E"
+      }
+    },
+    "IM109": {
+      "id": "IM109",
+      "original_relpath": "Fig5kED10i10k_Day1-Hoechst.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM109",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig5kED10i10k_Day1-Hoechst.tif",
+          "size": 604267526,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 5k - extended 10i - extended 10k",
+        "Round of imaging": "First round",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "IBEX",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "CD45RO",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "PE",
+        "Target3": "CD45RA",
+        "Laser3": "561nm",
+        "Acquisition gate3": "566-590nm",
+        "Channel4": "AF594",
+        "Target4": "CD3",
+        "Laser4": "594nm",
+        "Acquisition gate4": "599-620nm",
+        "Channel5": "AF647",
+        "Target5": "CD4",
+        "Laser5": "633nm",
+        "Acquisition gate5": "650-800nm",
+        "md5": "0BC95983E6D65AA76A9BEB8D8BC9C2C2"
+      }
+    },
+    "IM110": {
+      "id": "IM110",
+      "original_relpath": "Fig5kED10i10k_Day2-EpCAM.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM110",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig5kED10i10k_Day2-EpCAM.tif",
+          "size": 604148888,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 5k - extended 10i - extended 10k",
+        "Round of imaging": "Second round",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "IBEX",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "IgA2",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "PE",
+        "Target3": "EpCAM",
+        "Laser3": "561nm",
+        "Acquisition gate3": "566-590nm",
+        "Channel4": "AF647",
+        "Target4": "HLA-DR",
+        "Laser4": "633nm",
+        "Acquisition gate4": "650-800nm",
+        "Channel5": "null",
+        "Target5": "null",
+        "Laser5": "null",
+        "Acquisition gate5": "null",
+        "md5": "E8A3012AC21E45DA105D915E7752C02D"
+      }
+    },
+    "IM111": {
+      "id": "IM111",
+      "original_relpath": "Fig5kED10i10k_Day2-HLA-DR.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM111",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig5kED10i10k_Day2-HLA-DR.tif",
+          "size": 604148888,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 5k - extended 10i - extended 10k",
+        "Round of imaging": "Second round",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "IBEX",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "IgA2",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "PE",
+        "Target3": "EpCAM",
+        "Laser3": "561nm",
+        "Acquisition gate3": "566-590nm",
+        "Channel4": "AF647",
+        "Target4": "HLA-DR",
+        "Laser4": "633nm",
+        "Acquisition gate4": "650-800nm",
+        "Channel5": "null",
+        "Target5": "null",
+        "Laser5": "null",
+        "Acquisition gate5": "null",
+        "md5": "1B8CDDCEE71B95E381A36169325D2E74"
+      }
+    },
+    "IM112": {
+      "id": "IM112",
+      "original_relpath": "Fig5kED10i10k_Day2-Hoechst.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM112",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig5kED10i10k_Day2-Hoechst.tif",
+          "size": 604148888,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 5k - extended 10i - extended 10k",
+        "Round of imaging": "Second round",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "IBEX",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "IgA2",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "PE",
+        "Target3": "EpCAM",
+        "Laser3": "561nm",
+        "Acquisition gate3": "566-590nm",
+        "Channel4": "AF647",
+        "Target4": "HLA-DR",
+        "Laser4": "633nm",
+        "Acquisition gate4": "650-800nm",
+        "Channel5": "null",
+        "Target5": "null",
+        "Laser5": "null",
+        "Acquisition gate5": "null",
+        "md5": "BFE8BDA40101B49886EBA2DAC762A2A9"
+      }
+    },
+    "IM113": {
+      "id": "IM113",
+      "original_relpath": "Fig5kED10i10k_Day2-IgA2.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM113",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/Fig5kED10i10k_Day2-IgA2.tif",
+          "size": 604148888,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure 5k - extended 10i - extended 10k",
+        "Round of imaging": "Second round",
+        "Species": "Human",
+        "Tissue": "Bronchi",
+        "PatientID": "A61",
+        "Technology": "IBEX",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "IgA2",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "PE",
+        "Target3": "EpCAM",
+        "Laser3": "561nm",
+        "Acquisition gate3": "566-590nm",
+        "Channel4": "AF647",
+        "Target4": "HLA-DR",
+        "Laser4": "633nm",
+        "Acquisition gate4": "650-800nm",
+        "Channel5": "null",
+        "Target5": "null",
+        "Laser5": "null",
+        "Acquisition gate5": "null",
+        "md5": "4B908C795B43623E775FC97B3A0AE0F5"
+      }
+    },
+    "IM114": {
+      "id": "IM114",
+      "original_relpath": "FigED9h_IgA2image-Hoechst.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM114",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/FigED9h_IgA2image-Hoechst.tif",
+          "size": 264946533,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure extended 9h",
+        "Round of imaging": "NA",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A60",
+        "Technology": "IF",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "IgA2",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "null",
+        "Target3": "null",
+        "Laser3": "null",
+        "Acquisition gate3": "null",
+        "Channel4": "null",
+        "Target4": "null",
+        "Laser4": "null",
+        "Acquisition gate4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "Laser5": "null",
+        "Acquisition gate5": "null",
+        "md5": "9BE799DF20D14AE8F3869222400E8E17"
+      }
+    },
+    "IM115": {
+      "id": "IM115",
+      "original_relpath": "FigED9h_IgA2image-IgA2.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM115",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/FigED9h_IgA2image-IgA2.tif",
+          "size": 264946533,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure extended 9h",
+        "Round of imaging": "NA",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A60",
+        "Technology": "IF",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "IgA2",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "null",
+        "Target3": "null",
+        "Laser3": "null",
+        "Acquisition gate3": "null",
+        "Channel4": "null",
+        "Target4": "null",
+        "Laser4": "null",
+        "Acquisition gate4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "Laser5": "null",
+        "Acquisition gate5": "null",
+        "md5": "93FDB97D33CA22FA7C5D71F52BEBB6E4"
+      }
+    },
+    "IM116": {
+      "id": "IM116",
+      "original_relpath": "FigED9h_IgD+IgGimage-Hoechst.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM116",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/FigED9h_IgD+IgGimage-Hoechst.tif",
+          "size": 439156827,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure extended 9h",
+        "Round of imaging": "NA",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A60",
+        "Technology": "IF",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "IgD",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "PE",
+        "Target3": "IgG",
+        "Laser3": "561nm",
+        "Acquisition gate3": "566-590nm",
+        "Channel4": "null",
+        "Target4": "null",
+        "Laser4": "null",
+        "Acquisition gate4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "Laser5": "null",
+        "Acquisition gate5": "null",
+        "md5": "F90BB6C478A4419682400BA5587922A1"
+      }
+    },
+    "IM117": {
+      "id": "IM117",
+      "original_relpath": "FigED9h_IgD+IgGimage-IgD.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM117",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/FigED9h_IgD+IgGimage-IgD.tif",
+          "size": 439156827,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure extended 9h",
+        "Round of imaging": "NA",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A60",
+        "Technology": "IF",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "IgD",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "PE",
+        "Target3": "IgG",
+        "Laser3": "561nm",
+        "Acquisition gate3": "566-590nm",
+        "Channel4": "null",
+        "Target4": "null",
+        "Laser4": "null",
+        "Acquisition gate4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "Laser5": "null",
+        "Acquisition gate5": "null",
+        "md5": "FA263BC575BEFD3F06173BBBB1156B1B"
+      }
+    },
+    "IM118": {
+      "id": "IM118",
+      "original_relpath": "FigED9h_IgD+IgGimage-IgG.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD570",
+          "image_id": "IM118",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD570/FigED9h_IgD+IgGimage-IgG.tif",
+          "size": 439156827,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {}
+        }
+      ],
+      "attributes": {
+        "Figure": "Figure extended 9h",
+        "Round of imaging": "NA",
+        "Species": "Human",
+        "Tissue": "Trachea",
+        "PatientID": "A60",
+        "Technology": "IF",
+        "Channel1": "Hoechst",
+        "Target1": "Nuclei",
+        "Laser1": "405nm",
+        "Acquisition gate1": "410-550nm",
+        "Channel2": "AF488",
+        "Target2": "IgD",
+        "Laser2": "488nm",
+        "Acquisition gate2": "493-550nm",
+        "Channel3": "PE",
+        "Target3": "IgG",
+        "Laser3": "561nm",
+        "Acquisition gate3": "566-590nm",
+        "Channel4": "null",
+        "Target4": "null",
+        "Laser4": "null",
+        "Acquisition gate4": "null",
+        "Channel5": "null",
+        "Target5": "null",
+        "Laser5": "null",
+        "Acquisition gate5": "null",
+        "md5": "32F7190817974038CFBAE6370FFF5639"
+      }
+    }
+  },
+  "archive_files": {},
+  "other_files": {},
+  "tags": []
+}

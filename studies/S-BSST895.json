@@ -1,0 +1,99 @@
+{
+  "accession_id": "S-BSST895",
+  "title": "Periodic Inhibition of ERK activity Drives Sequential Somite Segmentation",
+  "description": "Sequential segmentation creates modular body plans of diverse metazoan embryos. Somitogenesis establishes segmental pattern of vertebrate body axis. A molecular segmentation clock in the presomitic mesoderm (PSM) sets the pace of somite formation. However, how cells are primed to form a segment boundary at a specific location remained unknown. Here we developed precise reporters for the clock and double phosphorylated ERK (ppERK) gradient in zebrafish. We discovered that the Her1/7 oscillator drives segmental commitment by periodically lowering ppERK, thus projecting its oscillation on the ppERK gradient. Pulsatile inhibition of the ppERK gradient can fully substitute the role of the clock and kinematic clock stripes are dispensable for sequential segmentation. The clock functions upstream of the ppERK, which in turn enables neighboring cells to discretely establish somite boundaries in zebrafish. Molecularly divergent clocks and morphogen gradients were identified in sequentially segmenting species. Our findings imply versatile clocks may establish sequential segmentation in diverse species as long as they inhibit gradients.",
+  "authors": [
+    {
+      "name": "Ertugrul M. Ozbudak"
+    },
+    {
+      "name": "M. Fethullah Simsek"
+    },
+    {
+      "name": "Angad Singh Chandel"
+    },
+    {
+      "name": "Didar Saparov"
+    },
+    {
+      "name": "Oriana Zinani"
+    },
+    {
+      "name": "Nicholas Clason"
+    }
+  ],
+  "organism": "Danio rerio (zebrafish)",
+  "release_date": "2022-09-15",
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "S-BSST895-example.png",
+  "images": {},
+  "archive_files": {
+    "Z1": {
+      "id": "Z1",
+      "original_relpath": "Periodic_Inhibition_of_ERK_activity_Drives_Sequential_Somite_Segmentation/Fig1.zip",
+      "original_size": 32062009826,
+      "attributes": {
+        "Description": "Fig1. Segmentation clock driven dynamics of ppERK gradient in the PSM"
+      },
+      "representations": [
+        {
+          "accession_id": "S-BSST895",
+          "file_id": "Z1",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST895/Periodic_Inhibition_of_ERK_activity_Drives_Sequential_Somite_Segmentation/Fig1.zip",
+          "size": 32062009826
+        }
+      ]
+    },
+    "Z2": {
+      "id": "Z2",
+      "original_relpath": "Periodic_Inhibition_of_ERK_activity_Drives_Sequential_Somite_Segmentation/Fig2.zip",
+      "original_size": 881420814,
+      "attributes": {
+        "Description": "Fig 2 Global periodic inhibition of Fgf signaling is sufficient for sequential segmentation of somites in the absence of clock"
+      },
+      "representations": [
+        {
+          "accession_id": "S-BSST895",
+          "file_id": "Z2",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST895/Periodic_Inhibition_of_ERK_activity_Drives_Sequential_Somite_Segmentation/Fig2.zip",
+          "size": 881420814
+        }
+      ]
+    },
+    "Z3": {
+      "id": "Z3",
+      "original_relpath": "Periodic_Inhibition_of_ERK_activity_Drives_Sequential_Somite_Segmentation/Fig3.zip",
+      "original_size": 4438381360,
+      "attributes": {
+        "Description": "Fig 3 Rescued somites display regular boundaries, epithelization and myofiber lengths"
+      },
+      "representations": [
+        {
+          "accession_id": "S-BSST895",
+          "file_id": "Z3",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST895/Periodic_Inhibition_of_ERK_activity_Drives_Sequential_Somite_Segmentation/Fig3.zip",
+          "size": 4438381360
+        }
+      ]
+    },
+    "Z4": {
+      "id": "Z4",
+      "original_relpath": "Periodic_Inhibition_of_ERK_activity_Drives_Sequential_Somite_Segmentation/Fig4.zip",
+      "original_size": 60598471738,
+      "attributes": {
+        "Description": "Fig 4 Clock discretizes the positional information"
+      },
+      "representations": [
+        {
+          "accession_id": "S-BSST895",
+          "file_id": "Z4",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST895/Periodic_Inhibition_of_ERK_activity_Drives_Sequential_Somite_Segmentation/Fig4.zip",
+          "size": 60598471738
+        }
+      ]
+    }
+  },
+  "other_files": {},
+  "tags": []
+}

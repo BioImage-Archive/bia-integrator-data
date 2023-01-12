@@ -1,0 +1,5905 @@
+{
+  "accession_id": "S-BSST265",
+  "title": "An annotated fluorescence image dataset for training nuclear segmentation methods",
+  "description": "This dataset contains annotated fluorescent nuclear images of different tissue origins and sample preparation types and can be used to train machine-learning based nuclear image segmentation algorithms.",
+  "authors": [],
+  "organism": "Homo sapiens",
+  "release_date": "2020-04-15",
+  "imaging_type": "confocal fluorescence microscopy",
+  "attributes": {},
+  "example_image_uri": "S-BSST265-example.png",
+  "images": {
+    "Z1-IM1": {
+      "id": "Z1-IM1",
+      "original_relpath": "groundtruth/Ganglioneuroblastoma_0.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM1",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2239668,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Ganglioneuroblastoma_0.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM2": {
+      "id": "Z1-IM2",
+      "original_relpath": "groundtruth/Ganglioneuroblastoma_1.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM2",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2239668,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Ganglioneuroblastoma_1.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM3": {
+      "id": "Z1-IM3",
+      "original_relpath": "groundtruth/Ganglioneuroblastoma_10.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM3",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2785648,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Ganglioneuroblastoma_10.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM4": {
+      "id": "Z1-IM4",
+      "original_relpath": "groundtruth/Ganglioneuroblastoma_2.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM4",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2239668,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Ganglioneuroblastoma_2.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM5": {
+      "id": "Z1-IM5",
+      "original_relpath": "groundtruth/Ganglioneuroblastoma_3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM5",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2239668,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Ganglioneuroblastoma_3.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM6": {
+      "id": "Z1-IM6",
+      "original_relpath": "groundtruth/Ganglioneuroblastoma_4.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM6",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2239668,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Ganglioneuroblastoma_4.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM7": {
+      "id": "Z1-IM7",
+      "original_relpath": "groundtruth/Ganglioneuroblastoma_6.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM7",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2785648,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Ganglioneuroblastoma_6.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM8": {
+      "id": "Z1-IM8",
+      "original_relpath": "groundtruth/Ganglioneuroblastoma_7.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM8",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2239668,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Ganglioneuroblastoma_7.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM9": {
+      "id": "Z1-IM9",
+      "original_relpath": "groundtruth/Ganglioneuroblastoma_8.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM9",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2239668,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Ganglioneuroblastoma_8.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM10": {
+      "id": "Z1-IM10",
+      "original_relpath": "groundtruth/Ganglioneuroblastoma_9.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM10",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 473368,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Ganglioneuroblastoma_9.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM11": {
+      "id": "Z1-IM11",
+      "original_relpath": "groundtruth/Neuroblastoma_0.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM11",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Neuroblastoma_0.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM12": {
+      "id": "Z1-IM12",
+      "original_relpath": "groundtruth/Neuroblastoma_1.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM12",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Neuroblastoma_1.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM13": {
+      "id": "Z1-IM13",
+      "original_relpath": "groundtruth/Neuroblastoma_10.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM13",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Neuroblastoma_10.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM14": {
+      "id": "Z1-IM14",
+      "original_relpath": "groundtruth/Neuroblastoma_11.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM14",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Neuroblastoma_11.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM15": {
+      "id": "Z1-IM15",
+      "original_relpath": "groundtruth/Neuroblastoma_12.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM15",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Neuroblastoma_12.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM16": {
+      "id": "Z1-IM16",
+      "original_relpath": "groundtruth/Neuroblastoma_13.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM16",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Neuroblastoma_13.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM17": {
+      "id": "Z1-IM17",
+      "original_relpath": "groundtruth/Neuroblastoma_14.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM17",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Neuroblastoma_14.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM18": {
+      "id": "Z1-IM18",
+      "original_relpath": "groundtruth/Neuroblastoma_15.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM18",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Neuroblastoma_15.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM19": {
+      "id": "Z1-IM19",
+      "original_relpath": "groundtruth/Neuroblastoma_16.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM19",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Neuroblastoma_16.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM20": {
+      "id": "Z1-IM20",
+      "original_relpath": "groundtruth/Neuroblastoma_17.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM20",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Neuroblastoma_17.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM21": {
+      "id": "Z1-IM21",
+      "original_relpath": "groundtruth/Neuroblastoma_2.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM21",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Neuroblastoma_2.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM22": {
+      "id": "Z1-IM22",
+      "original_relpath": "groundtruth/Neuroblastoma_3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM22",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Neuroblastoma_3.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM23": {
+      "id": "Z1-IM23",
+      "original_relpath": "groundtruth/Neuroblastoma_4.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM23",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Neuroblastoma_4.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM24": {
+      "id": "Z1-IM24",
+      "original_relpath": "groundtruth/Neuroblastoma_5.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM24",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Neuroblastoma_5.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM25": {
+      "id": "Z1-IM25",
+      "original_relpath": "groundtruth/Neuroblastoma_6.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM25",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Neuroblastoma_6.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM26": {
+      "id": "Z1-IM26",
+      "original_relpath": "groundtruth/Neuroblastoma_7.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM26",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Neuroblastoma_7.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM27": {
+      "id": "Z1-IM27",
+      "original_relpath": "groundtruth/Neuroblastoma_8.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM27",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Neuroblastoma_8.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM28": {
+      "id": "Z1-IM28",
+      "original_relpath": "groundtruth/Neuroblastoma_9.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM28",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/Neuroblastoma_9.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM29": {
+      "id": "Z1-IM29",
+      "original_relpath": "groundtruth/normal_0.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM29",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_0.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM30": {
+      "id": "Z1-IM30",
+      "original_relpath": "groundtruth/normal_1.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM30",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_1.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM31": {
+      "id": "Z1-IM31",
+      "original_relpath": "groundtruth/normal_10.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM31",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_10.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM32": {
+      "id": "Z1-IM32",
+      "original_relpath": "groundtruth/normal_11.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM32",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_11.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM33": {
+      "id": "Z1-IM33",
+      "original_relpath": "groundtruth/normal_12.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM33",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_12.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM34": {
+      "id": "Z1-IM34",
+      "original_relpath": "groundtruth/normal_13.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM34",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_13.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM35": {
+      "id": "Z1-IM35",
+      "original_relpath": "groundtruth/normal_14.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM35",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_14.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM36": {
+      "id": "Z1-IM36",
+      "original_relpath": "groundtruth/normal_15.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM36",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_15.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM37": {
+      "id": "Z1-IM37",
+      "original_relpath": "groundtruth/normal_16.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM37",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_16.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM38": {
+      "id": "Z1-IM38",
+      "original_relpath": "groundtruth/normal_17.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM38",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_17.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM39": {
+      "id": "Z1-IM39",
+      "original_relpath": "groundtruth/normal_18.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM39",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_18.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM40": {
+      "id": "Z1-IM40",
+      "original_relpath": "groundtruth/normal_19.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM40",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_19.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM41": {
+      "id": "Z1-IM41",
+      "original_relpath": "groundtruth/normal_2.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM41",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_2.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM42": {
+      "id": "Z1-IM42",
+      "original_relpath": "groundtruth/normal_20.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM42",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_20.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM43": {
+      "id": "Z1-IM43",
+      "original_relpath": "groundtruth/normal_21.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM43",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_21.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM44": {
+      "id": "Z1-IM44",
+      "original_relpath": "groundtruth/normal_22.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM44",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_22.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM45": {
+      "id": "Z1-IM45",
+      "original_relpath": "groundtruth/normal_23.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM45",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_23.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM46": {
+      "id": "Z1-IM46",
+      "original_relpath": "groundtruth/normal_24.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM46",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_24.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM47": {
+      "id": "Z1-IM47",
+      "original_relpath": "groundtruth/normal_25.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM47",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_25.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM48": {
+      "id": "Z1-IM48",
+      "original_relpath": "groundtruth/normal_26.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM48",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_26.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM49": {
+      "id": "Z1-IM49",
+      "original_relpath": "groundtruth/normal_27.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM49",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_27.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM50": {
+      "id": "Z1-IM50",
+      "original_relpath": "groundtruth/normal_28.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM50",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_28.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM51": {
+      "id": "Z1-IM51",
+      "original_relpath": "groundtruth/normal_29.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM51",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_29.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM52": {
+      "id": "Z1-IM52",
+      "original_relpath": "groundtruth/normal_3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM52",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_3.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM53": {
+      "id": "Z1-IM53",
+      "original_relpath": "groundtruth/normal_30.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM53",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_30.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM54": {
+      "id": "Z1-IM54",
+      "original_relpath": "groundtruth/normal_31.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM54",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_31.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM55": {
+      "id": "Z1-IM55",
+      "original_relpath": "groundtruth/normal_32.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM55",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_32.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM56": {
+      "id": "Z1-IM56",
+      "original_relpath": "groundtruth/normal_33.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM56",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_33.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM57": {
+      "id": "Z1-IM57",
+      "original_relpath": "groundtruth/normal_34.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM57",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2785648,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_34.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM58": {
+      "id": "Z1-IM58",
+      "original_relpath": "groundtruth/normal_35.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM58",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2785648,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_35.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM59": {
+      "id": "Z1-IM59",
+      "original_relpath": "groundtruth/normal_36.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM59",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2785648,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_36.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM60": {
+      "id": "Z1-IM60",
+      "original_relpath": "groundtruth/normal_37.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM60",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2785648,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_37.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM61": {
+      "id": "Z1-IM61",
+      "original_relpath": "groundtruth/normal_38.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM61",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2785648,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_38.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM62": {
+      "id": "Z1-IM62",
+      "original_relpath": "groundtruth/normal_39.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM62",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2785648,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_39.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM63": {
+      "id": "Z1-IM63",
+      "original_relpath": "groundtruth/normal_4.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM63",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_4.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM64": {
+      "id": "Z1-IM64",
+      "original_relpath": "groundtruth/normal_40.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM64",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2785648,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_40.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM65": {
+      "id": "Z1-IM65",
+      "original_relpath": "groundtruth/normal_5.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM65",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_5.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM66": {
+      "id": "Z1-IM66",
+      "original_relpath": "groundtruth/normal_6.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM66",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_6.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM67": {
+      "id": "Z1-IM67",
+      "original_relpath": "groundtruth/normal_7.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM67",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_7.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM68": {
+      "id": "Z1-IM68",
+      "original_relpath": "groundtruth/normal_8.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM68",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_8.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM69": {
+      "id": "Z1-IM69",
+      "original_relpath": "groundtruth/normal_9.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM69",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/normal_9.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM70": {
+      "id": "Z1-IM70",
+      "original_relpath": "groundtruth/otherspecimen_0.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM70",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/otherspecimen_0.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM71": {
+      "id": "Z1-IM71",
+      "original_relpath": "groundtruth/otherspecimen_1.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM71",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/otherspecimen_1.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM72": {
+      "id": "Z1-IM72",
+      "original_relpath": "groundtruth/otherspecimen_2.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM72",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2621808,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/otherspecimen_2.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM73": {
+      "id": "Z1-IM73",
+      "original_relpath": "groundtruth/otherspecimen_3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM73",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1568128,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/otherspecimen_3.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM74": {
+      "id": "Z1-IM74",
+      "original_relpath": "groundtruth/otherspecimen_4.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM74",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2097520,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/otherspecimen_4.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM75": {
+      "id": "Z1-IM75",
+      "original_relpath": "groundtruth/otherspecimen_5.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM75",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2097520,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/otherspecimen_5.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM76": {
+      "id": "Z1-IM76",
+      "original_relpath": "groundtruth/otherspecimen_6.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM76",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2097520,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/otherspecimen_6.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM77": {
+      "id": "Z1-IM77",
+      "original_relpath": "groundtruth/otherspecimen_7.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM77",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2097520,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/otherspecimen_7.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM78": {
+      "id": "Z1-IM78",
+      "original_relpath": "groundtruth/otherspecimen_8.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM78",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2097520,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/otherspecimen_8.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM79": {
+      "id": "Z1-IM79",
+      "original_relpath": "groundtruth/otherspecimen_9.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM79",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 2097520,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "groundtruth/otherspecimen_9.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM80": {
+      "id": "Z1-IM80",
+      "original_relpath": "rawimages/Ganglioneuroblastoma_0.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM80",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 466798,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Ganglioneuroblastoma_0.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM81": {
+      "id": "Z1-IM81",
+      "original_relpath": "rawimages/Ganglioneuroblastoma_1.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM81",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 521580,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Ganglioneuroblastoma_1.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM82": {
+      "id": "Z1-IM82",
+      "original_relpath": "rawimages/Ganglioneuroblastoma_10.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM82",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1393214,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Ganglioneuroblastoma_10.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM83": {
+      "id": "Z1-IM83",
+      "original_relpath": "rawimages/Ganglioneuroblastoma_2.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM83",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 539370,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Ganglioneuroblastoma_2.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM84": {
+      "id": "Z1-IM84",
+      "original_relpath": "rawimages/Ganglioneuroblastoma_3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM84",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 582358,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Ganglioneuroblastoma_3.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM85": {
+      "id": "Z1-IM85",
+      "original_relpath": "rawimages/Ganglioneuroblastoma_4.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM85",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 504152,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Ganglioneuroblastoma_4.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM86": {
+      "id": "Z1-IM86",
+      "original_relpath": "rawimages/Ganglioneuroblastoma_6.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM86",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1393214,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Ganglioneuroblastoma_6.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM87": {
+      "id": "Z1-IM87",
+      "original_relpath": "rawimages/Ganglioneuroblastoma_7.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM87",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 679604,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Ganglioneuroblastoma_7.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM88": {
+      "id": "Z1-IM88",
+      "original_relpath": "rawimages/Ganglioneuroblastoma_8.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM88",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 386164,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Ganglioneuroblastoma_8.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM89": {
+      "id": "Z1-IM89",
+      "original_relpath": "rawimages/Ganglioneuroblastoma_9.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM89",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 447368,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Ganglioneuroblastoma_9.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM90": {
+      "id": "Z1-IM90",
+      "original_relpath": "rawimages/Neuroblastoma_0.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM90",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Neuroblastoma_0.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM91": {
+      "id": "Z1-IM91",
+      "original_relpath": "rawimages/Neuroblastoma_1.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM91",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Neuroblastoma_1.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM92": {
+      "id": "Z1-IM92",
+      "original_relpath": "rawimages/Neuroblastoma_10.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM92",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Neuroblastoma_10.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM93": {
+      "id": "Z1-IM93",
+      "original_relpath": "rawimages/Neuroblastoma_11.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM93",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Neuroblastoma_11.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM94": {
+      "id": "Z1-IM94",
+      "original_relpath": "rawimages/Neuroblastoma_12.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM94",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Neuroblastoma_12.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM95": {
+      "id": "Z1-IM95",
+      "original_relpath": "rawimages/Neuroblastoma_13.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM95",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Neuroblastoma_13.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM96": {
+      "id": "Z1-IM96",
+      "original_relpath": "rawimages/Neuroblastoma_14.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM96",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Neuroblastoma_14.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM97": {
+      "id": "Z1-IM97",
+      "original_relpath": "rawimages/Neuroblastoma_15.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM97",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Neuroblastoma_15.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM98": {
+      "id": "Z1-IM98",
+      "original_relpath": "rawimages/Neuroblastoma_16.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM98",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Neuroblastoma_16.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM99": {
+      "id": "Z1-IM99",
+      "original_relpath": "rawimages/Neuroblastoma_17.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM99",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Neuroblastoma_17.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM100": {
+      "id": "Z1-IM100",
+      "original_relpath": "rawimages/Neuroblastoma_2.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM100",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Neuroblastoma_2.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM101": {
+      "id": "Z1-IM101",
+      "original_relpath": "rawimages/Neuroblastoma_3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM101",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Neuroblastoma_3.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM102": {
+      "id": "Z1-IM102",
+      "original_relpath": "rawimages/Neuroblastoma_4.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM102",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Neuroblastoma_4.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM103": {
+      "id": "Z1-IM103",
+      "original_relpath": "rawimages/Neuroblastoma_5.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM103",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Neuroblastoma_5.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM104": {
+      "id": "Z1-IM104",
+      "original_relpath": "rawimages/Neuroblastoma_6.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM104",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Neuroblastoma_6.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM105": {
+      "id": "Z1-IM105",
+      "original_relpath": "rawimages/Neuroblastoma_7.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM105",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Neuroblastoma_7.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM106": {
+      "id": "Z1-IM106",
+      "original_relpath": "rawimages/Neuroblastoma_8.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM106",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Neuroblastoma_8.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM107": {
+      "id": "Z1-IM107",
+      "original_relpath": "rawimages/Neuroblastoma_9.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM107",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/Neuroblastoma_9.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM108": {
+      "id": "Z1-IM108",
+      "original_relpath": "rawimages/normal_0.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM108",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_0.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM109": {
+      "id": "Z1-IM109",
+      "original_relpath": "rawimages/normal_1.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM109",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_1.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM110": {
+      "id": "Z1-IM110",
+      "original_relpath": "rawimages/normal_10.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM110",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_10.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM111": {
+      "id": "Z1-IM111",
+      "original_relpath": "rawimages/normal_11.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM111",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_11.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM112": {
+      "id": "Z1-IM112",
+      "original_relpath": "rawimages/normal_12.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM112",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_12.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM113": {
+      "id": "Z1-IM113",
+      "original_relpath": "rawimages/normal_13.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM113",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_13.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM114": {
+      "id": "Z1-IM114",
+      "original_relpath": "rawimages/normal_14.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM114",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_14.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM115": {
+      "id": "Z1-IM115",
+      "original_relpath": "rawimages/normal_15.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM115",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_15.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM116": {
+      "id": "Z1-IM116",
+      "original_relpath": "rawimages/normal_16.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM116",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_16.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM117": {
+      "id": "Z1-IM117",
+      "original_relpath": "rawimages/normal_17.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM117",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_17.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM118": {
+      "id": "Z1-IM118",
+      "original_relpath": "rawimages/normal_18.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM118",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_18.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM119": {
+      "id": "Z1-IM119",
+      "original_relpath": "rawimages/normal_19.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM119",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_19.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM120": {
+      "id": "Z1-IM120",
+      "original_relpath": "rawimages/normal_2.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM120",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_2.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM121": {
+      "id": "Z1-IM121",
+      "original_relpath": "rawimages/normal_20.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM121",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_20.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM122": {
+      "id": "Z1-IM122",
+      "original_relpath": "rawimages/normal_21.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM122",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_21.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM123": {
+      "id": "Z1-IM123",
+      "original_relpath": "rawimages/normal_22.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM123",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_22.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM124": {
+      "id": "Z1-IM124",
+      "original_relpath": "rawimages/normal_23.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM124",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_23.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM125": {
+      "id": "Z1-IM125",
+      "original_relpath": "rawimages/normal_24.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM125",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_24.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM126": {
+      "id": "Z1-IM126",
+      "original_relpath": "rawimages/normal_25.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM126",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_25.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM127": {
+      "id": "Z1-IM127",
+      "original_relpath": "rawimages/normal_26.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM127",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_26.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM128": {
+      "id": "Z1-IM128",
+      "original_relpath": "rawimages/normal_27.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM128",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_27.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM129": {
+      "id": "Z1-IM129",
+      "original_relpath": "rawimages/normal_28.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM129",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_28.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM130": {
+      "id": "Z1-IM130",
+      "original_relpath": "rawimages/normal_29.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM130",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_29.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM131": {
+      "id": "Z1-IM131",
+      "original_relpath": "rawimages/normal_3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM131",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_3.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM132": {
+      "id": "Z1-IM132",
+      "original_relpath": "rawimages/normal_30.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM132",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_30.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM133": {
+      "id": "Z1-IM133",
+      "original_relpath": "rawimages/normal_31.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM133",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_31.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM134": {
+      "id": "Z1-IM134",
+      "original_relpath": "rawimages/normal_32.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM134",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_32.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM135": {
+      "id": "Z1-IM135",
+      "original_relpath": "rawimages/normal_33.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM135",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_33.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM136": {
+      "id": "Z1-IM136",
+      "original_relpath": "rawimages/normal_34.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM136",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1393214,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_34.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM137": {
+      "id": "Z1-IM137",
+      "original_relpath": "rawimages/normal_35.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM137",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1393214,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_35.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM138": {
+      "id": "Z1-IM138",
+      "original_relpath": "rawimages/normal_36.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM138",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1393214,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_36.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM139": {
+      "id": "Z1-IM139",
+      "original_relpath": "rawimages/normal_37.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM139",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1393214,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_37.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM140": {
+      "id": "Z1-IM140",
+      "original_relpath": "rawimages/normal_38.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM140",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1393214,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_38.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM141": {
+      "id": "Z1-IM141",
+      "original_relpath": "rawimages/normal_39.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM141",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1393214,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_39.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM142": {
+      "id": "Z1-IM142",
+      "original_relpath": "rawimages/normal_4.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM142",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_4.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM143": {
+      "id": "Z1-IM143",
+      "original_relpath": "rawimages/normal_40.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM143",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1393214,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_40.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM144": {
+      "id": "Z1-IM144",
+      "original_relpath": "rawimages/normal_5.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM144",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_5.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM145": {
+      "id": "Z1-IM145",
+      "original_relpath": "rawimages/normal_6.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM145",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_6.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM146": {
+      "id": "Z1-IM146",
+      "original_relpath": "rawimages/normal_7.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM146",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_7.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM147": {
+      "id": "Z1-IM147",
+      "original_relpath": "rawimages/normal_8.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM147",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_8.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM148": {
+      "id": "Z1-IM148",
+      "original_relpath": "rawimages/normal_9.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM148",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/normal_9.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM149": {
+      "id": "Z1-IM149",
+      "original_relpath": "rawimages/otherspecimen_0.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM149",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/otherspecimen_0.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM150": {
+      "id": "Z1-IM150",
+      "original_relpath": "rawimages/otherspecimen_1.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM150",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/otherspecimen_1.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM151": {
+      "id": "Z1-IM151",
+      "original_relpath": "rawimages/otherspecimen_2.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM151",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1311278,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/otherspecimen_2.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM152": {
+      "id": "Z1-IM152",
+      "original_relpath": "rawimages/otherspecimen_3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM152",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 795148,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/otherspecimen_3.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM153": {
+      "id": "Z1-IM153",
+      "original_relpath": "rawimages/otherspecimen_4.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM153",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1073216,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/otherspecimen_4.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM154": {
+      "id": "Z1-IM154",
+      "original_relpath": "rawimages/otherspecimen_5.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM154",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1074376,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/otherspecimen_5.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM155": {
+      "id": "Z1-IM155",
+      "original_relpath": "rawimages/otherspecimen_6.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM155",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1049262,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/otherspecimen_6.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM156": {
+      "id": "Z1-IM156",
+      "original_relpath": "rawimages/otherspecimen_7.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM156",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1049262,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/otherspecimen_7.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM157": {
+      "id": "Z1-IM157",
+      "original_relpath": "rawimages/otherspecimen_8.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM157",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1049262,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/otherspecimen_8.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM158": {
+      "id": "Z1-IM158",
+      "original_relpath": "rawimages/otherspecimen_9.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM158",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 1049262,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "rawimages/otherspecimen_9.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM159": {
+      "id": "Z1-IM159",
+      "original_relpath": "singlecell_groundtruth/Ganglioneuroblastoma_10singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM159",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 5570928,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/Ganglioneuroblastoma_10singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM160": {
+      "id": "Z1-IM160",
+      "original_relpath": "singlecell_groundtruth/Ganglioneuroblastoma_4singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM160",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 4478968,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/Ganglioneuroblastoma_4singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM161": {
+      "id": "Z1-IM161",
+      "original_relpath": "singlecell_groundtruth/Ganglioneuroblastoma_6singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM161",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 5570928,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/Ganglioneuroblastoma_6singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM162": {
+      "id": "Z1-IM162",
+      "original_relpath": "singlecell_groundtruth/Ganglioneuroblastoma_7singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM162",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 4478968,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/Ganglioneuroblastoma_7singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM163": {
+      "id": "Z1-IM163",
+      "original_relpath": "singlecell_groundtruth/Ganglioneuroblastoma_8singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM163",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 4478968,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/Ganglioneuroblastoma_8singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM164": {
+      "id": "Z1-IM164",
+      "original_relpath": "singlecell_groundtruth/Ganglioneuroblastoma_9singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM164",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 946368,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/Ganglioneuroblastoma_9singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM165": {
+      "id": "Z1-IM165",
+      "original_relpath": "singlecell_groundtruth/Neuroblastoma_12singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM165",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 5243248,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/Neuroblastoma_12singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM166": {
+      "id": "Z1-IM166",
+      "original_relpath": "singlecell_groundtruth/Neuroblastoma_13singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM166",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 5243248,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/Neuroblastoma_13singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM167": {
+      "id": "Z1-IM167",
+      "original_relpath": "singlecell_groundtruth/Neuroblastoma_14singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM167",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 5243248,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/Neuroblastoma_14singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM168": {
+      "id": "Z1-IM168",
+      "original_relpath": "singlecell_groundtruth/Neuroblastoma_15singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM168",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 5243248,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/Neuroblastoma_15singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM169": {
+      "id": "Z1-IM169",
+      "original_relpath": "singlecell_groundtruth/Neuroblastoma_16singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM169",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 5243248,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/Neuroblastoma_16singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM170": {
+      "id": "Z1-IM170",
+      "original_relpath": "singlecell_groundtruth/Neuroblastoma_17singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM170",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 5243248,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/Neuroblastoma_17singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM171": {
+      "id": "Z1-IM171",
+      "original_relpath": "singlecell_groundtruth/normal_26singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM171",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 5243248,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/normal_26singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM172": {
+      "id": "Z1-IM172",
+      "original_relpath": "singlecell_groundtruth/normal_27singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM172",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 5243248,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/normal_27singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM173": {
+      "id": "Z1-IM173",
+      "original_relpath": "singlecell_groundtruth/normal_28singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM173",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 5243248,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/normal_28singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM174": {
+      "id": "Z1-IM174",
+      "original_relpath": "singlecell_groundtruth/normal_29singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM174",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 5243248,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/normal_29singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM175": {
+      "id": "Z1-IM175",
+      "original_relpath": "singlecell_groundtruth/normal_30singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM175",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 5243248,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/normal_30singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM176": {
+      "id": "Z1-IM176",
+      "original_relpath": "singlecell_groundtruth/normal_31singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM176",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 5243248,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/normal_31singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM177": {
+      "id": "Z1-IM177",
+      "original_relpath": "singlecell_groundtruth/normal_32singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM177",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 5243248,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/normal_32singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM178": {
+      "id": "Z1-IM178",
+      "original_relpath": "singlecell_groundtruth/normal_33singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM178",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 5243248,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/normal_33singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM179": {
+      "id": "Z1-IM179",
+      "original_relpath": "singlecell_groundtruth/normal_34singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM179",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 5570928,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/normal_34singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM180": {
+      "id": "Z1-IM180",
+      "original_relpath": "singlecell_groundtruth/normal_35singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM180",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 5570928,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/normal_35singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM181": {
+      "id": "Z1-IM181",
+      "original_relpath": "singlecell_groundtruth/normal_36singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM181",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 5570928,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/normal_36singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM182": {
+      "id": "Z1-IM182",
+      "original_relpath": "singlecell_groundtruth/normal_38singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM182",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 5570928,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/normal_38singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM183": {
+      "id": "Z1-IM183",
+      "original_relpath": "singlecell_groundtruth/normal_39singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM183",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 5570928,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/normal_39singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM184": {
+      "id": "Z1-IM184",
+      "original_relpath": "singlecell_groundtruth/normal_40singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM184",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 5570928,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/normal_40singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM185": {
+      "id": "Z1-IM185",
+      "original_relpath": "singlecell_groundtruth/otherspecimen_0singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM185",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 5243248,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/otherspecimen_0singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM186": {
+      "id": "Z1-IM186",
+      "original_relpath": "singlecell_groundtruth/otherspecimen_1singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM186",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 5243248,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/otherspecimen_1singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM187": {
+      "id": "Z1-IM187",
+      "original_relpath": "singlecell_groundtruth/otherspecimen_2singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM187",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 5243248,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/otherspecimen_2singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM188": {
+      "id": "Z1-IM188",
+      "original_relpath": "singlecell_groundtruth/otherspecimen_3singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM188",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 3112928,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/otherspecimen_3singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM189": {
+      "id": "Z1-IM189",
+      "original_relpath": "singlecell_groundtruth/otherspecimen_4singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM189",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 4194672,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/otherspecimen_4singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM190": {
+      "id": "Z1-IM190",
+      "original_relpath": "singlecell_groundtruth/otherspecimen_5singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM190",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 4194672,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/otherspecimen_5singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM191": {
+      "id": "Z1-IM191",
+      "original_relpath": "singlecell_groundtruth/otherspecimen_6singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM191",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 4194672,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/otherspecimen_6singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM192": {
+      "id": "Z1-IM192",
+      "original_relpath": "singlecell_groundtruth/otherspecimen_7singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM192",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 4194672,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/otherspecimen_7singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM193": {
+      "id": "Z1-IM193",
+      "original_relpath": "singlecell_groundtruth/otherspecimen_8singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM193",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 4194672,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/otherspecimen_8singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM194": {
+      "id": "Z1-IM194",
+      "original_relpath": "singlecell_groundtruth/otherspecimen_9singlemask.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM194",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 4194672,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "singlecell_groundtruth/otherspecimen_9singlemask.tif"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM195": {
+      "id": "Z1-IM195",
+      "original_relpath": "visualized_groundtruth/Ganglioneuroblastoma_0.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM195",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 22424,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Ganglioneuroblastoma_0.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM196": {
+      "id": "Z1-IM196",
+      "original_relpath": "visualized_groundtruth/Ganglioneuroblastoma_1.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM196",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 25966,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Ganglioneuroblastoma_1.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM197": {
+      "id": "Z1-IM197",
+      "original_relpath": "visualized_groundtruth/Ganglioneuroblastoma_10.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM197",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 11012,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Ganglioneuroblastoma_10.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM198": {
+      "id": "Z1-IM198",
+      "original_relpath": "visualized_groundtruth/Ganglioneuroblastoma_2.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM198",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 25254,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Ganglioneuroblastoma_2.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM199": {
+      "id": "Z1-IM199",
+      "original_relpath": "visualized_groundtruth/Ganglioneuroblastoma_3.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM199",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 29028,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Ganglioneuroblastoma_3.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM200": {
+      "id": "Z1-IM200",
+      "original_relpath": "visualized_groundtruth/Ganglioneuroblastoma_4.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM200",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 24379,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Ganglioneuroblastoma_4.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM201": {
+      "id": "Z1-IM201",
+      "original_relpath": "visualized_groundtruth/Ganglioneuroblastoma_6.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM201",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 12622,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Ganglioneuroblastoma_6.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM202": {
+      "id": "Z1-IM202",
+      "original_relpath": "visualized_groundtruth/Ganglioneuroblastoma_7.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM202",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 38535,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Ganglioneuroblastoma_7.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM203": {
+      "id": "Z1-IM203",
+      "original_relpath": "visualized_groundtruth/Ganglioneuroblastoma_8.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM203",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 17784,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Ganglioneuroblastoma_8.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM204": {
+      "id": "Z1-IM204",
+      "original_relpath": "visualized_groundtruth/Ganglioneuroblastoma_9.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM204",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 15451,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Ganglioneuroblastoma_9.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM205": {
+      "id": "Z1-IM205",
+      "original_relpath": "visualized_groundtruth/Neuroblastoma_0.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM205",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 12947,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Neuroblastoma_0.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM206": {
+      "id": "Z1-IM206",
+      "original_relpath": "visualized_groundtruth/Neuroblastoma_1.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM206",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 10469,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Neuroblastoma_1.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM207": {
+      "id": "Z1-IM207",
+      "original_relpath": "visualized_groundtruth/Neuroblastoma_10.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM207",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 10331,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Neuroblastoma_10.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM208": {
+      "id": "Z1-IM208",
+      "original_relpath": "visualized_groundtruth/Neuroblastoma_11.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM208",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 18986,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Neuroblastoma_11.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM209": {
+      "id": "Z1-IM209",
+      "original_relpath": "visualized_groundtruth/Neuroblastoma_12.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM209",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 11627,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Neuroblastoma_12.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM210": {
+      "id": "Z1-IM210",
+      "original_relpath": "visualized_groundtruth/Neuroblastoma_13.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM210",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 10528,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Neuroblastoma_13.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM211": {
+      "id": "Z1-IM211",
+      "original_relpath": "visualized_groundtruth/Neuroblastoma_14.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM211",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 16221,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Neuroblastoma_14.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM212": {
+      "id": "Z1-IM212",
+      "original_relpath": "visualized_groundtruth/Neuroblastoma_15.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM212",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 24667,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Neuroblastoma_15.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM213": {
+      "id": "Z1-IM213",
+      "original_relpath": "visualized_groundtruth/Neuroblastoma_16.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM213",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 9935,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Neuroblastoma_16.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM214": {
+      "id": "Z1-IM214",
+      "original_relpath": "visualized_groundtruth/Neuroblastoma_17.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM214",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 9265,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Neuroblastoma_17.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM215": {
+      "id": "Z1-IM215",
+      "original_relpath": "visualized_groundtruth/Neuroblastoma_2.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM215",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 17506,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Neuroblastoma_2.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM216": {
+      "id": "Z1-IM216",
+      "original_relpath": "visualized_groundtruth/Neuroblastoma_3.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM216",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 15059,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Neuroblastoma_3.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM217": {
+      "id": "Z1-IM217",
+      "original_relpath": "visualized_groundtruth/Neuroblastoma_4.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM217",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 13013,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Neuroblastoma_4.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM218": {
+      "id": "Z1-IM218",
+      "original_relpath": "visualized_groundtruth/Neuroblastoma_5.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM218",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 10800,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Neuroblastoma_5.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM219": {
+      "id": "Z1-IM219",
+      "original_relpath": "visualized_groundtruth/Neuroblastoma_6.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM219",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 12634,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Neuroblastoma_6.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM220": {
+      "id": "Z1-IM220",
+      "original_relpath": "visualized_groundtruth/Neuroblastoma_7.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM220",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 19696,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Neuroblastoma_7.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM221": {
+      "id": "Z1-IM221",
+      "original_relpath": "visualized_groundtruth/Neuroblastoma_8.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM221",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 14628,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Neuroblastoma_8.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM222": {
+      "id": "Z1-IM222",
+      "original_relpath": "visualized_groundtruth/Neuroblastoma_9.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM222",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 17013,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/Neuroblastoma_9.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM223": {
+      "id": "Z1-IM223",
+      "original_relpath": "visualized_groundtruth/normal_0.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM223",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 13113,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_0.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM224": {
+      "id": "Z1-IM224",
+      "original_relpath": "visualized_groundtruth/normal_1.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM224",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 14600,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_1.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM225": {
+      "id": "Z1-IM225",
+      "original_relpath": "visualized_groundtruth/normal_10.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM225",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 13707,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_10.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM226": {
+      "id": "Z1-IM226",
+      "original_relpath": "visualized_groundtruth/normal_11.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM226",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 12559,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_11.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM227": {
+      "id": "Z1-IM227",
+      "original_relpath": "visualized_groundtruth/normal_12.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM227",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 14090,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_12.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM228": {
+      "id": "Z1-IM228",
+      "original_relpath": "visualized_groundtruth/normal_13.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM228",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 12026,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_13.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM229": {
+      "id": "Z1-IM229",
+      "original_relpath": "visualized_groundtruth/normal_14.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM229",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 12294,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_14.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM230": {
+      "id": "Z1-IM230",
+      "original_relpath": "visualized_groundtruth/normal_15.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM230",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 11141,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_15.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM231": {
+      "id": "Z1-IM231",
+      "original_relpath": "visualized_groundtruth/normal_16.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM231",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 13710,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_16.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM232": {
+      "id": "Z1-IM232",
+      "original_relpath": "visualized_groundtruth/normal_17.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM232",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 11828,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_17.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM233": {
+      "id": "Z1-IM233",
+      "original_relpath": "visualized_groundtruth/normal_18.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM233",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 13076,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_18.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM234": {
+      "id": "Z1-IM234",
+      "original_relpath": "visualized_groundtruth/normal_19.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM234",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 12924,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_19.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM235": {
+      "id": "Z1-IM235",
+      "original_relpath": "visualized_groundtruth/normal_2.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM235",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 12456,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_2.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM236": {
+      "id": "Z1-IM236",
+      "original_relpath": "visualized_groundtruth/normal_20.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM236",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 17612,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_20.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM237": {
+      "id": "Z1-IM237",
+      "original_relpath": "visualized_groundtruth/normal_21.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM237",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 14667,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_21.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM238": {
+      "id": "Z1-IM238",
+      "original_relpath": "visualized_groundtruth/normal_22.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM238",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 17703,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_22.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM239": {
+      "id": "Z1-IM239",
+      "original_relpath": "visualized_groundtruth/normal_23.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM239",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 13316,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_23.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM240": {
+      "id": "Z1-IM240",
+      "original_relpath": "visualized_groundtruth/normal_24.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM240",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 13358,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_24.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM241": {
+      "id": "Z1-IM241",
+      "original_relpath": "visualized_groundtruth/normal_25.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM241",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 15351,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_25.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM242": {
+      "id": "Z1-IM242",
+      "original_relpath": "visualized_groundtruth/normal_26.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM242",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 14639,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_26.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM243": {
+      "id": "Z1-IM243",
+      "original_relpath": "visualized_groundtruth/normal_27.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM243",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 13762,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_27.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM244": {
+      "id": "Z1-IM244",
+      "original_relpath": "visualized_groundtruth/normal_28.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM244",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 12160,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_28.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM245": {
+      "id": "Z1-IM245",
+      "original_relpath": "visualized_groundtruth/normal_29.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM245",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 11944,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_29.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM246": {
+      "id": "Z1-IM246",
+      "original_relpath": "visualized_groundtruth/normal_3.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM246",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 14438,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_3.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM247": {
+      "id": "Z1-IM247",
+      "original_relpath": "visualized_groundtruth/normal_30.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM247",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 16579,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_30.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM248": {
+      "id": "Z1-IM248",
+      "original_relpath": "visualized_groundtruth/normal_31.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM248",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 11609,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_31.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM249": {
+      "id": "Z1-IM249",
+      "original_relpath": "visualized_groundtruth/normal_32.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM249",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 15629,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_32.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM250": {
+      "id": "Z1-IM250",
+      "original_relpath": "visualized_groundtruth/normal_33.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM250",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 13829,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_33.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM251": {
+      "id": "Z1-IM251",
+      "original_relpath": "visualized_groundtruth/normal_34.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM251",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 40183,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_34.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM252": {
+      "id": "Z1-IM252",
+      "original_relpath": "visualized_groundtruth/normal_35.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM252",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 15862,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_35.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM253": {
+      "id": "Z1-IM253",
+      "original_relpath": "visualized_groundtruth/normal_36.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM253",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 15003,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_36.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM254": {
+      "id": "Z1-IM254",
+      "original_relpath": "visualized_groundtruth/normal_37.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM254",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 15908,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_37.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM255": {
+      "id": "Z1-IM255",
+      "original_relpath": "visualized_groundtruth/normal_38.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM255",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 16267,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_38.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM256": {
+      "id": "Z1-IM256",
+      "original_relpath": "visualized_groundtruth/normal_39.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM256",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 15285,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_39.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM257": {
+      "id": "Z1-IM257",
+      "original_relpath": "visualized_groundtruth/normal_4.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM257",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 10338,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_4.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM258": {
+      "id": "Z1-IM258",
+      "original_relpath": "visualized_groundtruth/normal_40.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM258",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 16756,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_40.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM259": {
+      "id": "Z1-IM259",
+      "original_relpath": "visualized_groundtruth/normal_5.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM259",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 12719,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_5.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM260": {
+      "id": "Z1-IM260",
+      "original_relpath": "visualized_groundtruth/normal_6.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM260",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 17948,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_6.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM261": {
+      "id": "Z1-IM261",
+      "original_relpath": "visualized_groundtruth/normal_7.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM261",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 14257,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_7.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM262": {
+      "id": "Z1-IM262",
+      "original_relpath": "visualized_groundtruth/normal_8.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM262",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 16043,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_8.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM263": {
+      "id": "Z1-IM263",
+      "original_relpath": "visualized_groundtruth/normal_9.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM263",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 13188,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/normal_9.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM264": {
+      "id": "Z1-IM264",
+      "original_relpath": "visualized_groundtruth/otherspecimen_0.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM264",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 12519,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/otherspecimen_0.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM265": {
+      "id": "Z1-IM265",
+      "original_relpath": "visualized_groundtruth/otherspecimen_1.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM265",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 20523,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/otherspecimen_1.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM266": {
+      "id": "Z1-IM266",
+      "original_relpath": "visualized_groundtruth/otherspecimen_2.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM266",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 29312,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/otherspecimen_2.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM267": {
+      "id": "Z1-IM267",
+      "original_relpath": "visualized_groundtruth/otherspecimen_3.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM267",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 22170,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/otherspecimen_3.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM268": {
+      "id": "Z1-IM268",
+      "original_relpath": "visualized_groundtruth/otherspecimen_4.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM268",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 15476,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/otherspecimen_4.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM269": {
+      "id": "Z1-IM269",
+      "original_relpath": "visualized_groundtruth/otherspecimen_5.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM269",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 10928,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/otherspecimen_5.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM270": {
+      "id": "Z1-IM270",
+      "original_relpath": "visualized_groundtruth/otherspecimen_6.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM270",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 39173,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/otherspecimen_6.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM271": {
+      "id": "Z1-IM271",
+      "original_relpath": "visualized_groundtruth/otherspecimen_7.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM271",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 20864,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/otherspecimen_7.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM272": {
+      "id": "Z1-IM272",
+      "original_relpath": "visualized_groundtruth/otherspecimen_8.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM272",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 22246,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/otherspecimen_8.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM273": {
+      "id": "Z1-IM273",
+      "original_relpath": "visualized_groundtruth/otherspecimen_9.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM273",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 19317,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_groundtruth/otherspecimen_9.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM274": {
+      "id": "Z1-IM274",
+      "original_relpath": "visualized_singlecell_groundtruth/Ganglioneuroblastoma_10_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM274",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 8323,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/Ganglioneuroblastoma_10_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM275": {
+      "id": "Z1-IM275",
+      "original_relpath": "visualized_singlecell_groundtruth/Ganglioneuroblastoma_4_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM275",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 7662,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/Ganglioneuroblastoma_4_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM276": {
+      "id": "Z1-IM276",
+      "original_relpath": "visualized_singlecell_groundtruth/Ganglioneuroblastoma_6_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM276",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 8316,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/Ganglioneuroblastoma_6_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM277": {
+      "id": "Z1-IM277",
+      "original_relpath": "visualized_singlecell_groundtruth/Ganglioneuroblastoma_7_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM277",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 7726,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/Ganglioneuroblastoma_7_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM278": {
+      "id": "Z1-IM278",
+      "original_relpath": "visualized_singlecell_groundtruth/Ganglioneuroblastoma_8_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM278",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 7436,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/Ganglioneuroblastoma_8_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM279": {
+      "id": "Z1-IM279",
+      "original_relpath": "visualized_singlecell_groundtruth/Ganglioneuroblastoma_9_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM279",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 9092,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/Ganglioneuroblastoma_9_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM280": {
+      "id": "Z1-IM280",
+      "original_relpath": "visualized_singlecell_groundtruth/Neuroblastoma_12_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM280",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 7981,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/Neuroblastoma_12_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM281": {
+      "id": "Z1-IM281",
+      "original_relpath": "visualized_singlecell_groundtruth/Neuroblastoma_13_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM281",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 10241,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/Neuroblastoma_13_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM282": {
+      "id": "Z1-IM282",
+      "original_relpath": "visualized_singlecell_groundtruth/Neuroblastoma_14_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM282",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 9447,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/Neuroblastoma_14_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM283": {
+      "id": "Z1-IM283",
+      "original_relpath": "visualized_singlecell_groundtruth/Neuroblastoma_15_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM283",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 8845,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/Neuroblastoma_15_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM284": {
+      "id": "Z1-IM284",
+      "original_relpath": "visualized_singlecell_groundtruth/Neuroblastoma_16_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM284",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 8990,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/Neuroblastoma_16_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM285": {
+      "id": "Z1-IM285",
+      "original_relpath": "visualized_singlecell_groundtruth/Neuroblastoma_17_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM285",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 8796,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/Neuroblastoma_17_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM286": {
+      "id": "Z1-IM286",
+      "original_relpath": "visualized_singlecell_groundtruth/normal_26_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM286",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 9220,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/normal_26_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM287": {
+      "id": "Z1-IM287",
+      "original_relpath": "visualized_singlecell_groundtruth/normal_27_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM287",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 8122,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/normal_27_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM288": {
+      "id": "Z1-IM288",
+      "original_relpath": "visualized_singlecell_groundtruth/normal_28_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM288",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 9063,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/normal_28_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM289": {
+      "id": "Z1-IM289",
+      "original_relpath": "visualized_singlecell_groundtruth/normal_29_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM289",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 8241,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/normal_29_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM290": {
+      "id": "Z1-IM290",
+      "original_relpath": "visualized_singlecell_groundtruth/normal_30_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM290",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 9743,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/normal_30_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM291": {
+      "id": "Z1-IM291",
+      "original_relpath": "visualized_singlecell_groundtruth/normal_31_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM291",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 8110,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/normal_31_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM292": {
+      "id": "Z1-IM292",
+      "original_relpath": "visualized_singlecell_groundtruth/normal_32_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM292",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 10970,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/normal_32_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM293": {
+      "id": "Z1-IM293",
+      "original_relpath": "visualized_singlecell_groundtruth/normal_33_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM293",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 9258,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/normal_33_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM294": {
+      "id": "Z1-IM294",
+      "original_relpath": "visualized_singlecell_groundtruth/normal_34_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM294",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 8346,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/normal_34_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM295": {
+      "id": "Z1-IM295",
+      "original_relpath": "visualized_singlecell_groundtruth/normal_35_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM295",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 7914,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/normal_35_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM296": {
+      "id": "Z1-IM296",
+      "original_relpath": "visualized_singlecell_groundtruth/normal_36_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM296",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 7857,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/normal_36_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM297": {
+      "id": "Z1-IM297",
+      "original_relpath": "visualized_singlecell_groundtruth/normal_38_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM297",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 7778,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/normal_38_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM298": {
+      "id": "Z1-IM298",
+      "original_relpath": "visualized_singlecell_groundtruth/normal_39_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM298",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 7888,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/normal_39_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM299": {
+      "id": "Z1-IM299",
+      "original_relpath": "visualized_singlecell_groundtruth/normal_40_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM299",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 7907,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/normal_40_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM300": {
+      "id": "Z1-IM300",
+      "original_relpath": "visualized_singlecell_groundtruth/otherspecimen_0_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM300",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 8198,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/otherspecimen_0_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM301": {
+      "id": "Z1-IM301",
+      "original_relpath": "visualized_singlecell_groundtruth/otherspecimen_1_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM301",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 8953,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/otherspecimen_1_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM302": {
+      "id": "Z1-IM302",
+      "original_relpath": "visualized_singlecell_groundtruth/otherspecimen_2_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM302",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 10148,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/otherspecimen_2_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM303": {
+      "id": "Z1-IM303",
+      "original_relpath": "visualized_singlecell_groundtruth/otherspecimen_3_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM303",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 9109,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/otherspecimen_3_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM304": {
+      "id": "Z1-IM304",
+      "original_relpath": "visualized_singlecell_groundtruth/otherspecimen_4_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM304",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 7772,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/otherspecimen_4_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM305": {
+      "id": "Z1-IM305",
+      "original_relpath": "visualized_singlecell_groundtruth/otherspecimen_5_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM305",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 7599,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/otherspecimen_5_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM306": {
+      "id": "Z1-IM306",
+      "original_relpath": "visualized_singlecell_groundtruth/otherspecimen_6_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM306",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 8082,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/otherspecimen_6_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM307": {
+      "id": "Z1-IM307",
+      "original_relpath": "visualized_singlecell_groundtruth/otherspecimen_7_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM307",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 7567,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/otherspecimen_7_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM308": {
+      "id": "Z1-IM308",
+      "original_relpath": "visualized_singlecell_groundtruth/otherspecimen_8_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM308",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 7619,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/otherspecimen_8_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    },
+    "Z1-IM309": {
+      "id": "Z1-IM309",
+      "original_relpath": "visualized_singlecell_groundtruth/otherspecimen_9_singlemask.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "image_id": "Z1-IM309",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 7716,
+          "type": "zipfile",
+          "dimensions": null,
+          "attributes": {
+            "zip_filename": "visualized_singlecell_groundtruth/otherspecimen_9_singlemask.png"
+          }
+        }
+      ],
+      "attributes": {}
+    }
+  },
+  "archive_files": {
+    "Z1": {
+      "id": "Z1",
+      "original_relpath": "dataset.zip",
+      "original_size": 76325475,
+      "attributes": {
+        "Description": "Expert-annotated fluorescence nuclear image dataset including a detailed description of each image and a readme file.",
+        "Type": "Zip archive"
+      },
+      "representations": [
+        {
+          "accession_id": "S-BSST265",
+          "file_id": "Z1",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST265/dataset.zip",
+          "size": 76325475
+        }
+      ]
+    }
+  },
+  "other_files": {},
+  "tags": []
+}

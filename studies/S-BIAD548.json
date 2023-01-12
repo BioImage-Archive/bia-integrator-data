@@ -2,9 +2,21 @@
   "accession_id": "S-BIAD548",
   "title": "Non-invasive, in vivo fluorescence imaging in mice using SiRos1300 and SiRos1550 dye nanoemulsions ",
   "description": "In vivo fluorescence images of SiRos1300 and SiRos1550 dye nanoemulsion in mice, each in duplicate, performed in the Sletten lab at UCLA. Dyes were provided by the Delcamp group at University of Mississippi. ",
+  "authors": [
+    {
+      "name": "Eric Lin"
+    },
+    {
+      "name": "Irene Lim"
+    },
+    {
+      "name": "Ellen Sletten"
+    }
+  ],
   "organism": "Mus musculus (mouse)",
   "release_date": "2022-09-12",
   "imaging_type": "Fluorescence imaging using shortwave infrared camera",
+  "attributes": {},
   "example_image_uri": "S-BIAD548-example.png",
   "images": {
     "IM1": {
@@ -18,7 +30,8 @@
           "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD548/SiRos1550_Mouse1_Allbody.png",
           "size": 1338831,
           "type": "fire_object",
-          "dimensions": null
+          "dimensions": null,
+          "attributes": {}
         }
       ],
       "attributes": {
@@ -36,7 +49,8 @@
           "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD548/SiRos1300_Mouse1_Allbody.png",
           "size": 418838,
           "type": "fire_object",
-          "dimensions": null
+          "dimensions": null,
+          "attributes": {}
         }
       ],
       "attributes": {
@@ -54,7 +68,8 @@
           "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD548/SiRos1300_Mouse2_Allbody.png",
           "size": 516328,
           "type": "fire_object",
-          "dimensions": null
+          "dimensions": null,
+          "attributes": {}
         }
       ],
       "attributes": {
@@ -72,7 +87,8 @@
           "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD548/SiRos1550_Mouse2_Allbody.png",
           "size": 421696,
           "type": "fire_object",
-          "dimensions": null
+          "dimensions": null,
+          "attributes": {}
         }
       ],
       "attributes": {
