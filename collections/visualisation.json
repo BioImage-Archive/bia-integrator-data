@@ -1,14 +1,13 @@
 {
   "name": "visualisation",
-  "title": "BIA datasets in OME-NGFF",
-  "subtitle": "A selection of studies wholly or partially converted to OME-NGFF",
+  "title": "BioImage Archive interactive image explorer",
+  "subtitle": "A selection of studies from which individual images can be viewed in-browser",
   "description": "This is a collection of datasets from the BioImage Archive from which one or more images have been converted to OME-Zarr. It is intended to demonstrate visualisation of images from the archive's collection, and to provide a range of example OME-Zarr images to test and encourage tool development.",
   "accession_ids": [
     "S-BSST410",
     "S-BSST522",
     "S-BIAD7",
     "S-BIAD144",
-    "S-BIAD161",
     "S-BIAD217",
     "S-BIAD229",
     "S-BIAD425",
@@ -17,6 +16,8 @@
     "S-BIAD548",
     "S-BIAD564",
     "S-BIAD501",
-    "S-BIAD582"
+    "S-BIAD573",
+    "S-BIAD582",
+    "S-BIAD599"
   ]
 }
