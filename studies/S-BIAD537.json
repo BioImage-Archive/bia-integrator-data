@@ -1,0 +1,810 @@
+{
+  "accession_id": "S-BIAD537",
+  "title": "Spatial genomics maps the structure, character and evolution of cancer clones ",
+  "description": "Genome sequencing of cancers often reveals mosaics of different subclones present in the same tumour. While these are believed to arise according to the principles of somatic evolution, the exact spatial growth patterns and underlying mechanisms remain elusive. To address this need, we developed a workflow that generates detailed quantitative maps of genetic subclone composition across whole tumour sections. These provide the basis for studying clonal growth patterns, and each clone\u2019s histological characteristics, microanatomy, and microenvironmental composition. The approach rests on whole genome sequencing, followed by highly multiplexed base specific in-situ sequencing (BaSISS), single cell resolved transcriptomics and dedicated algorithms to link these layers. Applying the BaSISS workflow to 8 tissue sections from two multifocal primary breast cancers, revealed intricate subclonal growth patterns that were validated by microdissection. In a case of ductal carcinoma in situ (DCIS), polyclonal neoplastic expansions occurred at macroscopic scale but segregated within microanatomical structures. Across the stages of DCIS, invasive cancer and lymph node metastasis, subclone territories are shown to exhibit distinct transcriptional and histological features and cellular microenvironments. These results provide examples of the benefits afforded by spatial genomics for deciphering the mechanisms underlying cancer evolution and microenvironmental ecology.",
+  "authors": [
+    {
+      "name": "Artem Lomakin"
+    },
+    {
+      "name": "Lucy Yates"
+    },
+    {
+      "name": "Moritz Gerstung"
+    }
+  ],
+  "organism": "Homo sapiens (human)",
+  "release_date": "2022-09-05",
+  "imaging_type": "confocal fluorescence microscopy",
+  "attributes": {},
+  "example_image_uri": "S-BIAD537-example.png",
+  "images": {
+    "IM1": {
+      "id": "IM1",
+      "original_relpath": "Onco/PD9694a2_Onco.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM1",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/Onco/PD9694a2_Onco.tif",
+          "size": 45572297084,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD9694a2",
+        "Pannel": "Onco",
+        "Paper Sample id": "P1-ER1",
+        "Image Acquisition Date Summary": "Late 2015",
+        "Codebook": "./Codebooks/codebook_Onc.csv",
+        "Channel Order": "Dapi FITC Cy3 TR Cy5 Cy7",
+        "Channel Description": "Nuclei T G C A anchor",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "B8CE444C6F0B71FA4254F699BB2D9846"
+      }
+    },
+    "IM2": {
+      "id": "IM2",
+      "original_relpath": "Onco/PD9694c2_Onco.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM2",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/Onco/PD9694c2_Onco.tif",
+          "size": 32584637948,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD9694c2",
+        "Pannel": "Onco",
+        "Paper Sample id": "P1-ER2",
+        "Image Acquisition Date Summary": "Late 2015",
+        "Codebook": "./Codebooks/codebook_Onc.csv",
+        "Channel Order": "Dapi FITC Cy3 TR Cy5 Cy7",
+        "Channel Description": "Nuclei T G C A anchor",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "D243D8734DFEC4E44914079437EBE948"
+      }
+    },
+    "IM3": {
+      "id": "IM3",
+      "original_relpath": "Onco/PD9694d2_Onco.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM3",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/Onco/PD9694d2_Onco.tif",
+          "size": 99069298316,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD9694d2",
+        "Pannel": "Onco",
+        "Paper Sample id": "P1-D1",
+        "Image Acquisition Date Summary": "Late 2015",
+        "Codebook": "./Codebooks/codebook_Onc.csv",
+        "Channel Order": "Dapi FITC Cy3 TR Cy5 Cy7",
+        "Channel Description": "Nuclei T G C A anchor",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "027EE3BC88D92B76C121EEB9509723B3"
+      }
+    },
+    "IM4": {
+      "id": "IM4",
+      "original_relpath": "Onco/PD9694l2_Onco.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM4",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/Onco/PD9694l2_Onco.tif",
+          "size": 32111291468,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD9694l2",
+        "Pannel": "Onco",
+        "Paper Sample id": "P1-D2",
+        "Image Acquisition Date Summary": "Early 2020",
+        "Codebook": "./Codebooks/codebook_Onc.csv",
+        "Channel Order": "Dapi Cy7 Cy5 TR Cy3 FITC",
+        "Channel Description": "Nuclei anchor A C G T",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "171E3F8B9153078F8E9A8D9924D1C2A9"
+      }
+    },
+    "IM5": {
+      "id": "IM5",
+      "original_relpath": "Onco/PD9694m2_Onco.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM5",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/Onco/PD9694m2_Onco.tif",
+          "size": 50756330060,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD9694m2",
+        "Pannel": "Onco",
+        "Paper Sample id": "P1-D3",
+        "Image Acquisition Date Summary": "Early 2020",
+        "Codebook": "./Codebooks/codebook_Onc.csv",
+        "Channel Order": "Dapi Cy7 Cy5 TR Cy3 FITC",
+        "Channel Description": "Nuclei anchor A C G T",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "6017C02926D0A806287D16246BF1C9E9"
+      }
+    },
+    "IM6": {
+      "id": "IM6",
+      "original_relpath": "Onco/PD14780a2_Onco.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM6",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/Onco/PD14780a2_Onco.tif",
+          "size": 26010759020,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD14780a2",
+        "Pannel": "Onco",
+        "Paper Sample id": "P2-TN1",
+        "Image Acquisition Date Summary": "Early 2020",
+        "Codebook": "./Codebooks/codebook_Onc.csv",
+        "Channel Order": "Dapi Cy7 Cy5 TR Cy3 FITC",
+        "Channel Description": "Nuclei anchor A C G T",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "915E8D47F45E75CB1E4E803F4892EA14"
+      }
+    },
+    "IM7": {
+      "id": "IM7",
+      "original_relpath": "Onco/PD14780d2_Onco.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM7",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/Onco/PD14780d2_Onco.tif",
+          "size": 47964260732,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD14780d2",
+        "Pannel": "Onco",
+        "Paper Sample id": "P2-TN2",
+        "Image Acquisition Date Summary": "Early 2020",
+        "Codebook": "./Codebooks/codebook_Onc.csv",
+        "Channel Order": "Dapi Cy7 Cy5 TR Cy3 FITC",
+        "Channel Description": "Nuclei anchor A C G T",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "08779E512EF51AD8DC97C1935C66E196"
+      }
+    },
+    "IM8": {
+      "id": "IM8",
+      "original_relpath": "Onco/PD14780e2_Onco.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM8",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/Onco/PD14780e2_Onco.tif",
+          "size": 34938070076,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD14780e2",
+        "Pannel": "Onco",
+        "Paper Sample id": "P2-LN1",
+        "Image Acquisition Date Summary": "Early 2020",
+        "Codebook": "./Codebooks/codebook_Onc.csv",
+        "Channel Order": "Dapi Cy7 Cy5 TR Cy3 FITC",
+        "Channel Description": "Nuclei anchor A C G T",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "15BD798BBC6F67C08259E08A1732E62D"
+      }
+    },
+    "IM9": {
+      "id": "IM9",
+      "original_relpath": "Immune/PD9694a2_Immune.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM9",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/Immune/PD9694a2_Immune.tif",
+          "size": 46515973004,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD9694a2",
+        "Pannel": "Immune",
+        "Paper Sample id": "P1-ER1",
+        "Image Acquisition Date Summary": "Early 2018",
+        "Codebook": "./Codebooks/codebook_Imm.csv",
+        "Channel Order": "Dapi Cy7 FITC Cy3 TR Cy5",
+        "Channel Description": "Nuclei anchor T G C A",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "183D303CEC7F5B8A9FC87013DDF8982C"
+      }
+    },
+    "IM10": {
+      "id": "IM10",
+      "original_relpath": "Immune/PD9694c2_Immune.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM10",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/Immune/PD9694c2_Immune.tif",
+          "size": 36794711660,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD9694c2",
+        "Pannel": "Immune",
+        "Paper Sample id": "P1-ER2",
+        "Image Acquisition Date Summary": "Early 2018",
+        "Codebook": "./Codebooks/codebook_Imm.csv",
+        "Channel Order": "Dapi Cy7 FITC Cy3 TR Cy5",
+        "Channel Description": "Nuclei anchor T G C A",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "CE69BCBA4E75A9264A3D58CA2AC6850C"
+      }
+    },
+    "IM11": {
+      "id": "IM11",
+      "original_relpath": "Immune/PD9694d2_Immune.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM11",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/Immune/PD9694d2_Immune.tif",
+          "size": 102883406732,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD9694d2",
+        "Pannel": "Immune",
+        "Paper Sample id": "P1-D1",
+        "Image Acquisition Date Summary": "Early 2018",
+        "Codebook": "./Codebooks/codebook_Imm.csv",
+        "Channel Order": "Dapi Cy7 FITC Cy3 TR Cy5",
+        "Channel Description": "Nuclei anchor T G C A",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "C2071DAB4F2E1119834B13AEEF0AF682"
+      }
+    },
+    "IM12": {
+      "id": "IM12",
+      "original_relpath": "Immune/PD9694l2_Immune.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM12",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/Immune/PD9694l2_Immune.tif",
+          "size": 31929690572,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD9694l2",
+        "Pannel": "Immune",
+        "Paper Sample id": "P1-D2",
+        "Image Acquisition Date Summary": "Early 2019",
+        "Codebook": "./Codebooks/codebook_Imm.csv",
+        "Channel Order": "Dapi Cy7 FITC Cy3 TR Cy5",
+        "Channel Description": "Nuclei anchor T G C A",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "61F4B17C30FD15AF36344ED314809C4D"
+      }
+    },
+    "IM13": {
+      "id": "IM13",
+      "original_relpath": "Immune/PD9694m2_Immune.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM13",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/Immune/PD9694m2_Immune.tif",
+          "size": 28339379468,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD9694m2",
+        "Pannel": "Immune",
+        "Paper Sample id": "P1-D3",
+        "Image Acquisition Date Summary": "Late 2019",
+        "Codebook": "./Codebooks/codebook_Imm.csv",
+        "Channel Order": "Dapi Cy7 Cy5 TR Cy3 FITC",
+        "Channel Description": "Nuclei anchor A C G T",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "3074018D95C058B797B2F32D8567A7A2"
+      }
+    },
+    "IM14": {
+      "id": "IM14",
+      "original_relpath": "Immune/PD14780a2_Immune.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM14",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/Immune/PD14780a2_Immune.tif",
+          "size": 26701703324,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD14780a2",
+        "Pannel": "Immune",
+        "Paper Sample id": "P2-TN1",
+        "Image Acquisition Date Summary": "Late 2019",
+        "Codebook": "./Codebooks/codebook_Imm.csv",
+        "Channel Order": "Dapi Cy7 Cy5 TR Cy3 FITC",
+        "Channel Description": "Nuclei anchor A C G T",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "9030927C8F828CE8102B1AA5B2469126"
+      }
+    },
+    "IM15": {
+      "id": "IM15",
+      "original_relpath": "Immune/PD14780d2_Immune.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM15",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/Immune/PD14780d2_Immune.tif",
+          "size": 47823376652,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD14780d2",
+        "Pannel": "Immune",
+        "Paper Sample id": "P2-TN2",
+        "Image Acquisition Date Summary": "Late 2019",
+        "Codebook": "./Codebooks/codebook_Imm.csv",
+        "Channel Order": "Dapi Cy7 Cy5 TR Cy3 FITC",
+        "Channel Description": "Nuclei anchor A C G T",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "338C02DA06A65362CBE18A9025DFBC90"
+      }
+    },
+    "IM16": {
+      "id": "IM16",
+      "original_relpath": "Immune/PD14780e2_Immune.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM16",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/Immune/PD14780e2_Immune.tif",
+          "size": 26598012236,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD14780e2",
+        "Pannel": "Immune",
+        "Paper Sample id": "P2-LN1",
+        "Image Acquisition Date Summary": "Late 2019",
+        "Codebook": "./Codebooks/codebook_Imm.csv",
+        "Channel Order": "Dapi Cy7 Cy5 TR Cy3 FITC",
+        "Channel Description": "Nuclei anchor A C G T",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "D2FB2B975EA0C7774071D2092BBB7089"
+      }
+    },
+    "IM17": {
+      "id": "IM17",
+      "original_relpath": "Mutation/PD9694a3_Mutation.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM17",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/Mutation/PD9694a3_Mutation.tif",
+          "size": 52523913462,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD9694a3",
+        "Pannel": "Mutation",
+        "Paper Sample id": "P1-ER1",
+        "Image Acquisition Date Summary": "Late 2019",
+        "Codebook": "./Codebooks/codebook_Mut-PD9694.csv",
+        "Channel Order": "Dapi Cy7 Cy5 TR Cy3",
+        "Channel Description": "Nuclei anchor A C G",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "8D2B6E90F7761AB18F98ABDCFBFBC6CA"
+      }
+    },
+    "IM18": {
+      "id": "IM18",
+      "original_relpath": "Mutation/PD9694c3_Mutation.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM18",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/Mutation/PD9694c3_Mutation.tif",
+          "size": 38301634512,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD9694c3",
+        "Pannel": "Mutation",
+        "Paper Sample id": "P1-ER2",
+        "Image Acquisition Date Summary": "Late 2019",
+        "Codebook": "./Codebooks/codebook_Mut-PD9694.csv",
+        "Channel Order": "Dapi Cy7 Cy5 TR Cy3",
+        "Channel Description": "Nuclei anchor A C G",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "E50A34CA9F57E1A41ECB11BFB626B9D9"
+      }
+    },
+    "IM19": {
+      "id": "IM19",
+      "original_relpath": "Mutation/PD9694d3_Mutation.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM19",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/Mutation/PD9694d3_Mutation.tif",
+          "size": 106726560912,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD9694d3",
+        "Pannel": "Mutation",
+        "Paper Sample id": "P1-D1",
+        "Image Acquisition Date Summary": "Late 2019",
+        "Codebook": "./Codebooks/codebook_Mut-PD9694.csv",
+        "Channel Order": "Dapi Cy7 Cy5 TR Cy3",
+        "Channel Description": "Nuclei anchor A C G",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "0EF68CA7696CC88ECBA4C25D341FE35D"
+      }
+    },
+    "IM20": {
+      "id": "IM20",
+      "original_relpath": "Mutation/PD9694l2_Mutation.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM20",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/Mutation/PD9694l2_Mutation.tif",
+          "size": 40057157180,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD9694l2",
+        "Pannel": "Mutation",
+        "Paper Sample id": "P1-D2",
+        "Image Acquisition Date Summary": "Early 2019",
+        "Codebook": "./Codebooks/codebook_Mut-PD9694.csv",
+        "Channel Order": "Dapi Cy7 FITC Cy3 TR Cy5",
+        "Channel Description": "Nuclei anchor T G C A",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "3038B64D498516743C4EBED59B849FB3"
+      }
+    },
+    "IM21": {
+      "id": "IM21",
+      "original_relpath": "Mutation/PD9694m2_Mutation.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM21",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/Mutation/PD9694m2_Mutation.tif",
+          "size": 29524461112,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD9694m2",
+        "Pannel": "Mutation",
+        "Paper Sample id": "P1-D3",
+        "Image Acquisition Date Summary": "Late 2019",
+        "Codebook": "./Codebooks/codebook_Mut-PD9694.csv",
+        "Channel Order": "Dapi Cy7 Cy5 TR Cy3 FITC",
+        "Channel Description": "Nuclei anchor A C G T",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "6414E618A91B33F9B3D822F64C00EE0D"
+      }
+    },
+    "IM22": {
+      "id": "IM22",
+      "original_relpath": "Mutation/PD14780a2_Mutation.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM22",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/Mutation/PD14780a2_Mutation.tif",
+          "size": 31962010940,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD14780a2",
+        "Pannel": "Mutation",
+        "Paper Sample id": "P2-TN1",
+        "Image Acquisition Date Summary": "Late 2019",
+        "Codebook": "./Codebooks/codebook_Mut-PD14780.csv",
+        "Channel Order": "Dapi Cy7 Cy5 TR Cy3 FITC",
+        "Channel Description": "Nuclei anchor A C G T",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "326FCB26E81F0BA21FF54E59DE004A53"
+      }
+    },
+    "IM23": {
+      "id": "IM23",
+      "original_relpath": "Mutation/PD14780d2_Mutation.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM23",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/Mutation/PD14780d2_Mutation.tif",
+          "size": 55860187520,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD14780d2",
+        "Pannel": "Mutation",
+        "Paper Sample id": "P2-TN2",
+        "Image Acquisition Date Summary": "Late 2019",
+        "Codebook": "./Codebooks/codebook_Mut-PD14780.csv",
+        "Channel Order": "Dapi Cy7 Cy5 TR Cy3 FITC",
+        "Channel Description": "Nuclei anchor A C G T",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "4D343DAE011A10FAC713AC4A7AEB3A9B"
+      }
+    },
+    "IM24": {
+      "id": "IM24",
+      "original_relpath": "Mutation/PD14780e2_Mutation.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM24",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/Mutation/PD14780e2_Mutation.tif",
+          "size": 25187412716,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD14780e2",
+        "Pannel": "Mutation",
+        "Paper Sample id": "P2-LN1",
+        "Image Acquisition Date Summary": "Late 2019",
+        "Codebook": "./Codebooks/codebook_Mut-PD14780.csv",
+        "Channel Order": "Dapi Cy7 Cy5 TR Cy3 FITC",
+        "Channel Description": "Nuclei anchor A C G T",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "6C6F02C6CE81FB12E5529C94051B4370"
+      }
+    },
+    "IM25": {
+      "id": "IM25",
+      "original_relpath": "MutationReplica/PD9694a2_MutationReplica.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM25",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/MutationReplica/PD9694a2_MutationReplica.tif",
+          "size": 46602551112,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD9694a2",
+        "Pannel": "MutationReplica",
+        "Paper Sample id": "P1-ER1",
+        "Image Acquisition Date Summary": "Early 2016",
+        "Codebook": "./Codebooks/codebook_MutReplica-PD9694.csv",
+        "Channel Order": "Dapi Cy3 TR Cy5 Cy7",
+        "Channel Description": "Nuclei G C A anchor",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "466CA5151F689044B28B666ECCD7803B"
+      }
+    },
+    "IM26": {
+      "id": "IM26",
+      "original_relpath": "MutationReplica/PD9694c2_MutationReplica.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM26",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/MutationReplica/PD9694c2_MutationReplica.tif",
+          "size": 38233593712,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD9694c2",
+        "Pannel": "MutationReplica",
+        "Paper Sample id": "P1-ER2",
+        "Image Acquisition Date Summary": "Early 2016",
+        "Codebook": "./Codebooks/codebook_MutReplica-PD9694.csv",
+        "Channel Order": "Dapi Cy3 TR Cy5 Cy7",
+        "Channel Description": "Nuclei G C A anchor",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "2FEEBBE9A5BA40E32D49C9C92CE241C2"
+      }
+    },
+    "IM27": {
+      "id": "IM27",
+      "original_relpath": "MutationReplica/PD9694d2_MutationReplica.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM27",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/MutationReplica/PD9694d2_MutationReplica.tif",
+          "size": 101293556112,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD9694d2",
+        "Pannel": "MutationReplica",
+        "Paper Sample id": "P1-D1",
+        "Image Acquisition Date Summary": "Early 2016",
+        "Codebook": "./Codebooks/codebook_MutReplica-PD9694.csv",
+        "Channel Order": "Dapi Cy3 TR Cy5 Cy7",
+        "Channel Description": "Nuclei G C A anchor",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "28AF9AA606143F2FD661D92D00336A25"
+      }
+    },
+    "IM28": {
+      "id": "IM28",
+      "original_relpath": "MutationReplica/PD14780d3_MutationReplica.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD537",
+          "image_id": "IM28",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD537/MutationReplica/PD14780d3_MutationReplica.tif",
+          "size": 42356316620,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Sample id": "PD14780d3",
+        "Pannel": "MutationReplica",
+        "Paper Sample id": "P2-TN2",
+        "Image Acquisition Date Summary": "Early 2020",
+        "Codebook": "./Codebooks/codebook_Mut-PD14780.csv",
+        "Channel Order": "Dapi Cy7 Cy5 TR Cy3",
+        "Channel Description": "Nuclei anchor A C G",
+        "Pixel Scale (nm)": "0.325",
+        "md5": "313DEF505CE000999B29439BF6C3548F"
+      }
+    }
+  },
+  "archive_files": {},
+  "other_files": {},
+  "tags": []
+}
