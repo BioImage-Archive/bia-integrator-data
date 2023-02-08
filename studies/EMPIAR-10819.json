@@ -1,0 +1,34 @@
+{
+  "accession_id": "EMPIAR-10819",
+  "title": "Benchmark FIB SEM data of HeLa cells previously imaged by Zeiss LSM900 Airyscan microscopy",
+  "description": "Benchmark FIB SEM data of HeLa cells previously imaged by Zeiss LSM900 Airyscan microscopy",
+  "authors": [],
+  "organism": "Homo sapiens",
+  "release_date": "2021-10-29",
+  "imaging_type": "FIB-SEM",
+  "attributes": {},
+  "example_image_uri": "https://www.ebi.ac.uk/pdbe/emdb-empiar/entryIcons/10819-l.gif",
+  "images": {
+    "IM1": {
+      "id": "IM1",
+      "original_relpath": "MP014_FIB_cropped_XZ_5nm",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "EMPIAR-10819",
+          "image_id": "IM1",
+          "uri": "https://hl.fire.sdo.ebi.ac.uk/imaging-public/world_availability/10819/data/MP014_FIB_cropped_XZ_5nm",
+          "size": 0,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {}
+    }
+  },
+  "archive_files": {},
+  "other_files": {},
+  "tags": []
+}

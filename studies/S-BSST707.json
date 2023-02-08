@@ -1,0 +1,140 @@
+{
+  "accession_id": "S-BSST707",
+  "title": "Benchmark Airyscan data matching FIB SEM data deposited on EMPIAR",
+  "description": "Zeiss Airyscan laser scanning microscopy data of HeLa cells labelled with Hoechst 33342, GFP-TGN46, lysotracker red and mitotracker deep red. The light microscopy data was acquired on formaldehyde-fixed cells, which were then processed for FIB SEM. The FIB SEM data can be found on EMPIAR, entry # EMPIAR-10819.",
+  "authors": [
+    {
+      "name": "Daniel Krentzel"
+    },
+    {
+      "name": "Romain Laine"
+    },
+    {
+      "name": "Marie-Charlotte Domart"
+    },
+    {
+      "name": "Christopher J Peddie"
+    },
+    {
+      "name": "Ricardo Henriques"
+    },
+    {
+      "name": "Lucy M Collinson"
+    },
+    {
+      "name": "Martin L Jones"
+    }
+  ],
+  "organism": "Homo sapiens (human)",
+  "release_date": "2021-10-13",
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "S-BSST707-example.png",
+  "images": {
+    "IM1": {
+      "id": "IM1",
+      "original_relpath": "EM04468_2_63x_pos8T_Hoechst_GFP-TGN46_lysotracker-red_mitotracker-deep-red_Airyscan_processing_standard-Z-Stack Alignment_all.czi",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST707",
+          "image_id": "IM1",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST707/EM04468_2_63x_pos8T_Hoechst_GFP-TGN46_lysotracker-red_mitotracker-deep-red_Airyscan_processing_standard-Z-Stack Alignment_all.czi",
+          "size": 337829536,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "Benchmark Airyscan dataset of a Hela cell expressing GFP-TGN46 and stained with Hoechst 33342, lysotracker, and mitotracker. Used for CLEM, correlated with FIB SEM data deposited on EMPIAR (EMPIAR-10819)",
+        "Type": "Zeiss LSM900 Airyscan data"
+      }
+    },
+    "IM2": {
+      "id": "IM2",
+      "original_relpath": "Labels_lysosomes_all5_10nm.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST707",
+          "image_id": "IM2",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST707/Labels_lysosomes_all5_10nm.tif",
+          "size": 5019102268,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "Manual segmentations of 5 lysosomes in the FIB SEM data. Segmentation done on the 10nm data in TrakEM2a",
+        "Type": "Label tif file exported from TrakEM2"
+      }
+    },
+    "IM3": {
+      "id": "IM3",
+      "original_relpath": "EM04468_2_63x_pos8T_LM_AFFINE_4_EM_FOV_20nm-composite_new.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST707",
+          "image_id": "IM3",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST707/EM04468_2_63x_pos8T_LM_AFFINE_4_EM_FOV_20nm-composite_new.tif",
+          "size": 3157698388,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "Composite of affine transform of the Airyscan data exported from BigWarp and downscaled 20nm FIB SEM data ",
+        "Type": "Affine transformed Airyscan and FIB SEM composite tif"
+      }
+    },
+    "IM4": {
+      "id": "IM4",
+      "original_relpath": "EM04468_2_63x_pos8T_LM_THINPLATE_4_EM_FOV_20nm-composite_new.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST707",
+          "image_id": "IM4",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST707/EM04468_2_63x_pos8T_LM_THINPLATE_4_EM_FOV_20nm-composite_new.tif",
+          "size": 3157698344,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "Composite of thin plate spline transform of the Airyscan data exported from BigWarp and downscaled 20nm FIB SEM data ",
+        "Type": "Thin plate spline transformed Airyscan and FIB SEM composite tif"
+      }
+    }
+  },
+  "archive_files": {},
+  "other_files": {
+    "O1": {
+      "id": "O1",
+      "original_relpath": "EM04468_2_8T_landmarks_4 local.csv",
+      "original_size": 20873,
+      "attributes": {
+        "Description": "Landmarks manually placed in BigWarp in both Airyscan (moving) and processed FIB SEM data (target) pre aligned to match the Airyscan orientation",
+        "Type": "BigWarp landmarks"
+      },
+      "representations": [
+        {
+          "accession_id": "S-BSST707",
+          "file_id": "O1",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST707/EM04468_2_8T_landmarks_4 local.csv",
+          "size": 20873
+        }
+      ]
+    }
+  },
+  "tags": []
+}
