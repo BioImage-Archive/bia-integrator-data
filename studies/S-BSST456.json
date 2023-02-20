@@ -1,0 +1,41 @@
+{
+  "accession_id": "S-BSST456",
+  "title": "Confocal sample dataset MCB-CLEM IV Weiner",
+  "description": "Confocal sample dataset for the \"Step by step guide to post-acquisition correlation of confocal and FIB/SEM volumes using Amira software\" chapter in the MCB: Correlative Light and Electron Microscopy IV Volume 162 book, by Allon Weiner",
+  "authors": [
+    {
+      "name": "Allon Weiner"
+    }
+  ],
+  "organism": "Homo sapiens (human)",
+  "release_date": "2020-07-31",
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "S-BSST456-example.png",
+  "images": {
+    "IM1": {
+      "id": "IM1",
+      "original_relpath": "Confocal dataset MCB-CLEM IV Weiner.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST456",
+          "image_id": "IM1",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST456/Confocal dataset MCB-CLEM IV Weiner.tif",
+          "size": 50396100,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "Confocal sample dataset MCB-CLEM IV Weiner",
+        "Type": "composite tif"
+      }
+    }
+  },
+  "archive_files": {},
+  "other_files": {},
+  "tags": []
+}

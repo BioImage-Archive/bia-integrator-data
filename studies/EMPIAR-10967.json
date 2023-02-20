@@ -1,0 +1,38 @@
+{
+  "accession_id": "EMPIAR-10967",
+  "title": "SBF SEM of Human term placental villi",
+  "description": "SBF SEM of Human term placental villi",
+  "authors": [
+    {
+      "name": "Lewis RM"
+    }
+  ],
+  "organism": "Homo sapiens",
+  "release_date": "2022-03-14",
+  "imaging_type": "FIB-SEM",
+  "attributes": {},
+  "example_image_uri": "https://www.ebi.ac.uk/pdbe/emdb-empiar/entryIcons/10967-l.gif",
+  "images": {
+    "IM1": {
+      "id": "IM1",
+      "original_relpath": "Stack 12 TSN",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "EMPIAR-10967",
+          "image_id": "IM1",
+          "uri": "https://hl.fire.sdo.ebi.ac.uk/imaging-public/world_availability/10967/data/Stack 12 TSN",
+          "size": 0,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {}
+    }
+  },
+  "archive_files": {},
+  "other_files": {},
+  "tags": []
+}

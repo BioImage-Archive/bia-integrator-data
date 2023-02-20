@@ -1,0 +1,80 @@
+{
+  "accession_id": "EMPIAR-10416",
+  "title": "Soft X-ray Tomography of mock-infected U2OS cells",
+  "description": "Soft X-ray Tomography of mock-infected U2OS cells",
+  "authors": [
+    {
+      "name": "Kounatidis I"
+    },
+    {
+      "name": "Stanifer ML"
+    },
+    {
+      "name": "Phillips MA"
+    },
+    {
+      "name": "Paul-Gilloteaux P"
+    },
+    {
+      "name": "Heiligenstein X"
+    },
+    {
+      "name": "Wang H"
+    },
+    {
+      "name": "Okolo CA"
+    },
+    {
+      "name": "Fish TM"
+    },
+    {
+      "name": "Spink MC"
+    },
+    {
+      "name": "Stuart DI"
+    },
+    {
+      "name": "Davis I"
+    },
+    {
+      "name": "Boulant S"
+    },
+    {
+      "name": "Grimes JM"
+    },
+    {
+      "name": "Dobbie IM"
+    },
+    {
+      "name": "Harkiolaki M"
+    }
+  ],
+  "organism": "Homo sapiens",
+  "release_date": "2020-06-30",
+  "imaging_type": "Soft X-ray Tomography",
+  "attributes": {},
+  "example_image_uri": "https://www.ebi.ac.uk/pdbe/emdb-empiar/entryIcons/10416-l.gif",
+  "images": {
+    "IM1": {
+      "id": "IM1",
+      "original_relpath": "U2OS_Reo_2hPI_Area1_Reconstruction.rec",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "EMPIAR-10416",
+          "image_id": "IM1",
+          "uri": "https://hl.fire.sdo.ebi.ac.uk/imaging-public/world_availability/10416/data/U2OS_Reo_2hPI_Area1_Reconstruction.rec",
+          "size": 0,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {}
+    }
+  },
+  "archive_files": {},
+  "other_files": {},
+  "tags": []
+}

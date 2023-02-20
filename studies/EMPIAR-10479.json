@@ -1,0 +1,38 @@
+{
+  "accession_id": "EMPIAR-10479",
+  "title": "FIB/SEM sample dataset MCB-CLEM IV Weiner",
+  "description": "FIB/SEM sample dataset MCB-CLEM IV Weiner",
+  "authors": [
+    {
+      "name": "Weiner A"
+    }
+  ],
+  "organism": "Shigella flexneri",
+  "release_date": "2020-08-06",
+  "imaging_type": "FIB-SEM",
+  "attributes": {},
+  "example_image_uri": "https://www.ebi.ac.uk/pdbe/emdb-empiar/entryIcons/10479-l.gif",
+  "images": {
+    "IM1": {
+      "id": "IM1",
+      "original_relpath": "FIB-SEM dataset MCB-CLEM IV Weiner.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "EMPIAR-10479",
+          "image_id": "IM1",
+          "uri": "https://hl.fire.sdo.ebi.ac.uk/imaging-public/world_availability/10479/data/FIB-SEM dataset MCB-CLEM IV Weiner.tif",
+          "size": 0,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {}
+    }
+  },
+  "archive_files": {},
+  "other_files": {},
+  "tags": []
+}

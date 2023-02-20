@@ -2,7 +2,14 @@
   "accession_id": "EMPIAR-10982",
   "title": "Seven benchmark datasets of instance segmentation of mitochondria: 6 diverse volume EM + 1 TEM (100 images) datasets",
   "description": "Seven benchmark datasets of instance segmentation of mitochondria: 6 diverse volume EM + 1 TEM (100 images) datasets",
-  "authors": [],
+  "authors": [
+    {
+      "name": "Narayan K"
+    },
+    {
+      "name": "Conrad RW"
+    }
+  ],
   "organism": "C. elegans",
   "release_date": "2022-03-15",
   "imaging_type": "FIB-SEM?",
@@ -21,7 +28,8 @@
           "size": 0,
           "type": "fire_object",
           "dimensions": null,
-          "attributes": null
+          "attributes": null,
+          "rendering": null
         }
       ],
       "attributes": {}
@@ -38,7 +46,8 @@
           "size": 0,
           "type": "fire_object",
           "dimensions": null,
-          "attributes": null
+          "attributes": null,
+          "rendering": null
         }
       ],
       "attributes": {}
@@ -55,7 +64,8 @@
           "size": 0,
           "type": "fire_object",
           "dimensions": null,
-          "attributes": null
+          "attributes": null,
+          "rendering": null
         }
       ],
       "attributes": {}
@@ -72,7 +82,8 @@
           "size": 0,
           "type": "fire_object",
           "dimensions": null,
-          "attributes": null
+          "attributes": null,
+          "rendering": null
         }
       ],
       "attributes": {}
@@ -89,7 +100,8 @@
           "size": 0,
           "type": "fire_object",
           "dimensions": null,
-          "attributes": null
+          "attributes": null,
+          "rendering": null
         }
       ],
       "attributes": {}

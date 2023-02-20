@@ -2,8 +2,18 @@
   "accession_id": "EMPIAR-10094",
   "title": "Serial Block Face SEM of HeLa cell pellet with 10 nm pixels and 50 nm slices (benchmark dataset)",
   "description": "Serial Block Face SEM of HeLa cell pellet with 10 nm pixels and 50 nm slices (benchmark dataset)",
-  "authors": [],
-  "organism": "Platynereis dumerilii",
+  "authors": [
+    {
+      "name": "Peddie CP"
+    },
+    {
+      "name": "Jones ML"
+    },
+    {
+      "name": "Collinson LM"
+    }
+  ],
+  "organism": "Homo sapiens",
   "release_date": "2019-05-21",
   "imaging_type": "Serial Block Face SEM",
   "attributes": {},
