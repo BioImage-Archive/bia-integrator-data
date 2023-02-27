@@ -1,0 +1,30 @@
+{
+  "accession_id": "S-BSST730",
+  "id": "cf099855-959c-4904-9ff4-042a88239630",
+  "name": "Grid2_Position3_fluorescence",
+  "original_relpath": "Grid2_Position3_fluorescence",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BSST730",
+      "image_id": "cf099855-959c-4904-9ff4-042a88239630",
+      "uri": [
+        "https://www.ebi.ac.uk/biostudies/files/S-BSST730/Grid2_Position3_fluorescence_ch00.tif",
+        "https://www.ebi.ac.uk/biostudies/files/S-BSST730/Grid2_Position3_fluorescence_ch01.tif",
+        "https://www.ebi.ac.uk/biostudies/files/S-BSST730/Grid2_Position3_fluorescence_ch02.tif"
+      ],
+      "size": 296195418,
+      "type": "multi_fileref",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "dad18d6d-5a24-45a4-bb97-362c46de659f",
+          "39e45ae5-7c33-440b-b0cf-f57d419f3cbb",
+          "ab258c41-1242-41f2-ac96-885fe48ce045"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {}
+}
