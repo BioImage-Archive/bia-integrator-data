@@ -1,0 +1,183 @@
+{
+  "accession_id": "EMPIAR-11380",
+  "title": "Light and electron microscopy continuum-resolution imaging of 3D cell cultures",
+  "description": "Light and electron microscopy continuum-resolution imaging of 3D cell cultures",
+  "authors": [
+    {
+      "name": "DImprima EDI"
+    },
+    {
+      "name": "Garcia Montero MGM"
+    },
+    {
+      "name": "Gawrzak, SG"
+    },
+    {
+      "name": "Ronchi PR"
+    },
+    {
+      "name": "Zagoriy IZ"
+    },
+    {
+      "name": "Schwab YS"
+    },
+    {
+      "name": "Jechlinger JS"
+    },
+    {
+      "name": "Mahamid JM"
+    }
+  ],
+  "organism": "Unknown",
+  "release_date": "2023-02-22",
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "file_references": {
+    "b94e2fa6-6719-4e65-831a-8ce3e77f8e04": {
+      "id": "b94e2fa6-6719-4e65-831a-8ce3e77f8e04",
+      "name": "/empiar/world_availability/11380/data/F059_bin2.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11380/data/F059_bin2.mrc",
+      "size_in_bytes": 4692016528,
+      "attributes": {}
+    },
+    "2b3e321b-79a8-4510-87c0-742f8c7e1999": {
+      "id": "2b3e321b-79a8-4510-87c0-742f8c7e1999",
+      "name": "/empiar/world_availability/11380/data/F059_bin2_mitos.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11380/data/F059_bin2_mitos.mrc",
+      "size_in_bytes": 4692016528,
+      "attributes": {}
+    },
+    "3206756d-c6c7-487d-b8cd-3112ec68bb7e": {
+      "id": "3206756d-c6c7-487d-b8cd-3112ec68bb7e",
+      "name": "/empiar/world_availability/11380/data/F059_bin2_nuclei.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11380/data/F059_bin2_nuclei.mrc",
+      "size_in_bytes": 4692016528,
+      "attributes": {}
+    },
+    "1bd6ce34-6699-4633-89d2-757ed8341384": {
+      "id": "1bd6ce34-6699-4633-89d2-757ed8341384",
+      "name": "/empiar/world_availability/11380/data/F107_A1_bin2.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11380/data/F107_A1_bin2.mrc",
+      "size_in_bytes": 3348516724,
+      "attributes": {}
+    },
+    "e2aef854-0ce3-4e28-9fff-df6b7f20b7e5": {
+      "id": "e2aef854-0ce3-4e28-9fff-df6b7f20b7e5",
+      "name": "/empiar/world_availability/11380/data/F107_A1_bin2_actin.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11380/data/F107_A1_bin2_actin.mrc",
+      "size_in_bytes": 3348516724,
+      "attributes": {}
+    },
+    "71d53d2d-0878-494e-901a-8c6bfa255ff8": {
+      "id": "71d53d2d-0878-494e-901a-8c6bfa255ff8",
+      "name": "/empiar/world_availability/11380/data/F107_A1_bin2_entotic_cell.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11380/data/F107_A1_bin2_entotic_cell.mrc",
+      "size_in_bytes": 3348516724,
+      "attributes": {}
+    },
+    "2e8477ad-0bab-4653-be1f-fbd888eb7610": {
+      "id": "2e8477ad-0bab-4653-be1f-fbd888eb7610",
+      "name": "/empiar/world_availability/11380/data/F107_A1_bin2_junctions.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11380/data/F107_A1_bin2_junctions.mrc",
+      "size_in_bytes": 3348516724,
+      "attributes": {}
+    },
+    "2e24e6f9-2374-4684-a679-58f5f8eeaf26": {
+      "id": "2e24e6f9-2374-4684-a679-58f5f8eeaf26",
+      "name": "/empiar/world_availability/11380/data/F107_A1_bin2_mitos.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11380/data/F107_A1_bin2_mitos.mrc",
+      "size_in_bytes": 3348516724,
+      "attributes": {}
+    },
+    "b0b4f961-f6f3-4f8d-a049-76f9911ee74d": {
+      "id": "b0b4f961-f6f3-4f8d-a049-76f9911ee74d",
+      "name": "/empiar/world_availability/11380/data/F107_A1_bin2_nuclei.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11380/data/F107_A1_bin2_nuclei.mrc",
+      "size_in_bytes": 3348516724,
+      "attributes": {}
+    },
+    "362e13e6-42dc-42a3-b1b9-95e6c3866c42": {
+      "id": "362e13e6-42dc-42a3-b1b9-95e6c3866c42",
+      "name": "/empiar/world_availability/11380/data/F107_A2_bin2.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11380/data/F107_A2_bin2.mrc",
+      "size_in_bytes": 3146359624,
+      "attributes": {}
+    },
+    "f5dca9b0-58d5-42df-ab1a-5f29bff13b67": {
+      "id": "f5dca9b0-58d5-42df-ab1a-5f29bff13b67",
+      "name": "/empiar/world_availability/11380/data/F107_A2_bin2_actin.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11380/data/F107_A2_bin2_actin.mrc",
+      "size_in_bytes": 3146359624,
+      "attributes": {}
+    },
+    "81874246-b2ef-460d-87b6-bebdc2f84746": {
+      "id": "81874246-b2ef-460d-87b6-bebdc2f84746",
+      "name": "/empiar/world_availability/11380/data/F107_A2_bin2_junctions.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11380/data/F107_A2_bin2_junctions.mrc",
+      "size_in_bytes": 3146359624,
+      "attributes": {}
+    },
+    "401f560f-1176-4617-b471-afdd47ea71dc": {
+      "id": "401f560f-1176-4617-b471-afdd47ea71dc",
+      "name": "/empiar/world_availability/11380/data/F107_A2_bin2_mitos.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11380/data/F107_A2_bin2_mitos.mrc",
+      "size_in_bytes": 3146359624,
+      "attributes": {}
+    },
+    "5a6456fd-a99d-4438-b7fe-e382056aeb84": {
+      "id": "5a6456fd-a99d-4438-b7fe-e382056aeb84",
+      "name": "/empiar/world_availability/11380/data/F107_A2_bin2_nuclei.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11380/data/F107_A2_bin2_nuclei.mrc",
+      "size_in_bytes": 3146359624,
+      "attributes": {}
+    },
+    "eebe58db-18fb-4854-83fd-b507966536a9": {
+      "id": "eebe58db-18fb-4854-83fd-b507966536a9",
+      "name": "/empiar/world_availability/11380/data/F107_A3_bin2.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11380/data/F107_A3_bin2.mrc",
+      "size_in_bytes": 5677464904,
+      "attributes": {}
+    },
+    "81635d15-5f1f-4c1b-b7f1-52ce59716f47": {
+      "id": "81635d15-5f1f-4c1b-b7f1-52ce59716f47",
+      "name": "/empiar/world_availability/11380/data/F107_A3_bin2_actin.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11380/data/F107_A3_bin2_actin.mrc",
+      "size_in_bytes": 5677464904,
+      "attributes": {}
+    },
+    "1ab95704-5fb8-4334-b2d5-d7e6c4d68016": {
+      "id": "1ab95704-5fb8-4334-b2d5-d7e6c4d68016",
+      "name": "/empiar/world_availability/11380/data/F107_A3_bin2_junctions.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11380/data/F107_A3_bin2_junctions.mrc",
+      "size_in_bytes": 5677464904,
+      "attributes": {}
+    },
+    "50a2c9c4-48dd-482b-b02a-b4e78f057681": {
+      "id": "50a2c9c4-48dd-482b-b02a-b4e78f057681",
+      "name": "/empiar/world_availability/11380/data/F107_A3_bin2_mitos.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11380/data/F107_A3_bin2_mitos.mrc",
+      "size_in_bytes": 5677464904,
+      "attributes": {}
+    },
+    "ddf92637-4a92-44bb-98dc-42dc61992651": {
+      "id": "ddf92637-4a92-44bb-98dc-42dc61992651",
+      "name": "/empiar/world_availability/11380/data/F107_A3_bin2_nuclei.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11380/data/F107_A3_bin2_nuclei.mrc",
+      "size_in_bytes": 5677464904,
+      "attributes": {}
+    },
+    "2b48a544-0476-4d1a-948e-0a3549139bdf": {
+      "id": "2b48a544-0476-4d1a-948e-0a3549139bdf",
+      "name": "/empiar/world_availability/11380/data/README.rtf",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11380/data/README.rtf",
+      "size_in_bytes": 3027,
+      "attributes": {}
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

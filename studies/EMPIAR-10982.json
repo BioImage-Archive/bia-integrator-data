@@ -10,104 +10,1507 @@
       "name": "Conrad RW"
     }
   ],
-  "organism": "C. elegans",
+  "organism": "Unknown",
   "release_date": "2022-03-15",
-  "imaging_type": "FIB-SEM?",
+  "imaging_type": "Unknown",
   "attributes": {},
-  "example_image_uri": "https://www.ebi.ac.uk/pdbe/emdb-empiar/entryIcons/10982-l.gif",
-  "images": {
-    "IM1": {
-      "id": "IM1",
-      "original_relpath": "mito_benchmarks/c_elegans/c_elegans_em.tif",
-      "dimensions": null,
-      "representations": [
-        {
-          "accession_id": "EMPIAR-10982",
-          "image_id": "IM1",
-          "uri": "https://hl.fire.sdo.ebi.ac.uk/imaging-public/world_availability/10982/data/mito_benchmarks/c_elegans/c_elegans_em.tif",
-          "size": 0,
-          "type": "fire_object",
-          "dimensions": null,
-          "attributes": null,
-          "rendering": null
-        }
-      ],
+  "example_image_uri": "",
+  "file_references": {
+    "17575896-4253-4404-8b99-58e77f0817e9": {
+      "id": "17575896-4253-4404-8b99-58e77f0817e9",
+      "name": "tem_benchmark_metadata.csv",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark_metadata.csv",
+      "size_in_bytes": 14546,
       "attributes": {}
     },
-    "IM2": {
-      "id": "IM2",
-      "original_relpath": "mito_benchmarks/fly_brain/fly_brain_em.tif",
-      "dimensions": null,
-      "representations": [
-        {
-          "accession_id": "EMPIAR-10982",
-          "image_id": "IM2",
-          "uri": "https://hl.fire.sdo.ebi.ac.uk/imaging-public/world_availability/10982/data/mito_benchmarks/fly_brain/fly_brain_em.tif",
-          "size": 0,
-          "type": "fire_object",
-          "dimensions": null,
-          "attributes": null,
-          "rendering": null
-        }
-      ],
+    "09b00218-6c3e-4214-a328-ffb32d023636": {
+      "id": "09b00218-6c3e-4214-a328-ffb32d023636",
+      "name": "mito_benchmarks/c_elegans/c_elegans_em.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/mito_benchmarks/c_elegans/c_elegans_em.tif",
+      "size_in_bytes": 16819802,
       "attributes": {}
     },
-    "IM3": {
-      "id": "IM3",
-      "original_relpath": "mito_benchmarks/hela_cell/hela_cell_em.tif",
-      "dimensions": null,
-      "representations": [
-        {
-          "accession_id": "EMPIAR-10982",
-          "image_id": "IM3",
-          "uri": "https://hl.fire.sdo.ebi.ac.uk/imaging-public/world_availability/10982/data/mito_benchmarks/hela_cell/hela_cell_em.tif",
-          "size": 0,
-          "type": "fire_object",
-          "dimensions": null,
-          "attributes": null,
-          "rendering": null
-        }
-      ],
+    "f964335d-5281-424e-a7e6-72269ca93471": {
+      "id": "f964335d-5281-424e-a7e6-72269ca93471",
+      "name": "mito_benchmarks/c_elegans/c_elegans_mito.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/mito_benchmarks/c_elegans/c_elegans_mito.tif",
+      "size_in_bytes": 16819802,
       "attributes": {}
     },
-    "IM4": {
-      "id": "IM4",
-      "original_relpath": "mito_benchmarks/glycolytic_muscle/glycolytic_muscle_em.tif",
-      "dimensions": null,
-      "representations": [
-        {
-          "accession_id": "EMPIAR-10982",
-          "image_id": "IM4",
-          "uri": "https://hl.fire.sdo.ebi.ac.uk/imaging-public/world_availability/10982/data/mito_benchmarks/glycolytic_muscle/glycolytic_muscle_em.tif",
-          "size": 0,
-          "type": "fire_object",
-          "dimensions": null,
-          "attributes": null,
-          "rendering": null
-        }
-      ],
+    "b04db822-9d66-4447-b52b-cb4f0096875b": {
+      "id": "b04db822-9d66-4447-b52b-cb4f0096875b",
+      "name": "mito_benchmarks/fly_brain/fly_brain_em.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/mito_benchmarks/fly_brain/fly_brain_em.tif",
+      "size_in_bytes": 16688986,
       "attributes": {}
     },
-    "IM5": {
-      "id": "IM5",
-      "original_relpath": "mito_benchmarks/salivary_gland/salivary_gland_em.tif",
-      "dimensions": null,
-      "representations": [
-        {
-          "accession_id": "EMPIAR-10982",
-          "image_id": "IM5",
-          "uri": "https://hl.fire.sdo.ebi.ac.uk/imaging-public/world_availability/10982/data/mito_benchmarks/salivary_gland/salivary_gland_em.tif",
-          "size": 0,
-          "type": "fire_object",
-          "dimensions": null,
-          "attributes": null,
-          "rendering": null
-        }
-      ],
+    "34fd84d0-650f-472b-8866-670a2fe2d532": {
+      "id": "34fd84d0-650f-472b-8866-670a2fe2d532",
+      "name": "mito_benchmarks/fly_brain/fly_brain_mito.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/mito_benchmarks/fly_brain/fly_brain_mito.tif",
+      "size_in_bytes": 16688986,
+      "attributes": {}
+    },
+    "7560cbea-aa51-4912-9506-195bef1ce2b5": {
+      "id": "7560cbea-aa51-4912-9506-195bef1ce2b5",
+      "name": "mito_benchmarks/glycolytic_muscle/glycolytic_muscle_em.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/mito_benchmarks/glycolytic_muscle/glycolytic_muscle_em.tif",
+      "size_in_bytes": 88534712,
+      "attributes": {}
+    },
+    "9cbb9ef8-b29d-494a-9dd9-236b43ae206f": {
+      "id": "9cbb9ef8-b29d-494a-9dd9-236b43ae206f",
+      "name": "mito_benchmarks/glycolytic_muscle/glycolytic_muscle_mito.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/mito_benchmarks/glycolytic_muscle/glycolytic_muscle_mito.tif",
+      "size_in_bytes": 88534712,
+      "attributes": {}
+    },
+    "33aee32b-4066-4953-877d-13289b192178": {
+      "id": "33aee32b-4066-4953-877d-13289b192178",
+      "name": "mito_benchmarks/hela_cell/hela_cell_em.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/mito_benchmarks/hela_cell/hela_cell_em.tif",
+      "size_in_bytes": 16819802,
+      "attributes": {}
+    },
+    "b9199b1f-0fa2-4a86-8eb1-cf9f06caebed": {
+      "id": "b9199b1f-0fa2-4a86-8eb1-cf9f06caebed",
+      "name": "mito_benchmarks/hela_cell/hela_cell_mito.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/mito_benchmarks/hela_cell/hela_cell_mito.tif",
+      "size_in_bytes": 16819802,
+      "attributes": {}
+    },
+    "6ebeff63-d8d8-47e8-a768-4ed0e3b018a4": {
+      "id": "6ebeff63-d8d8-47e8-a768-4ed0e3b018a4",
+      "name": "mito_benchmarks/lucchi_pp/lucchi_pp_em.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/mito_benchmarks/lucchi_pp/lucchi_pp_em.tif",
+      "size_in_bytes": 129788760,
+      "attributes": {}
+    },
+    "f115292f-d2e0-4294-8167-0f000dc7a7de": {
+      "id": "f115292f-d2e0-4294-8167-0f000dc7a7de",
+      "name": "mito_benchmarks/lucchi_pp/lucchi_pp_mito.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/mito_benchmarks/lucchi_pp/lucchi_pp_mito.tif",
+      "size_in_bytes": 259552024,
+      "attributes": {}
+    },
+    "53e566d4-6bd0-4438-a33b-99f0ddaab866": {
+      "id": "53e566d4-6bd0-4438-a33b-99f0ddaab866",
+      "name": "mito_benchmarks/salivary_gland/salivary_gland_em.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/mito_benchmarks/salivary_gland/salivary_gland_em.tif",
+      "size_in_bytes": 1634681250,
+      "attributes": {}
+    },
+    "2f324005-1f9c-4084-9fcc-dbd185f8e962": {
+      "id": "2f324005-1f9c-4084-9fcc-dbd185f8e962",
+      "name": "mito_benchmarks/salivary_gland/salivary_gland_mito.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/mito_benchmarks/salivary_gland/salivary_gland_mito.tif",
+      "size_in_bytes": 1634681250,
+      "attributes": {}
+    },
+    "a6bd912e-8545-4a97-aaff-500f2a0dadb1": {
+      "id": "a6bd912e-8545-4a97-aaff-500f2a0dadb1",
+      "name": "tem_benchmark/images/0s1JawDdbBymwtwOjgx8.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/0s1JawDdbBymwtwOjgx8.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "7037fd87-90b4-420b-9677-3580fa07ed5e": {
+      "id": "7037fd87-90b4-420b-9677-3580fa07ed5e",
+      "name": "tem_benchmark/images/17pOyGcUusCVRfzUZxTs.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/17pOyGcUusCVRfzUZxTs.tiff",
+      "size_in_bytes": 391621,
+      "attributes": {}
+    },
+    "7c6e1ed0-0584-42dd-9546-c5b6d0c0f294": {
+      "id": "7c6e1ed0-0584-42dd-9546-c5b6d0c0f294",
+      "name": "tem_benchmark/images/1U0jYrdPwdlRDsQzkUNc.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/1U0jYrdPwdlRDsQzkUNc.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "bc9e2f8b-8ca9-40d9-ba1d-53e5e78bb726": {
+      "id": "bc9e2f8b-8ca9-40d9-ba1d-53e5e78bb726",
+      "name": "tem_benchmark/images/1unGsOC0dfeB02LCtQwi.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/1unGsOC0dfeB02LCtQwi.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "ed7f0f0f-93c6-49a1-b98c-6e09498ba106": {
+      "id": "ed7f0f0f-93c6-49a1-b98c-6e09498ba106",
+      "name": "tem_benchmark/images/1vNHcbV4bWuC1zywuBdP.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/1vNHcbV4bWuC1zywuBdP.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "cda1e7aa-81fb-40a0-bebd-762ea6b5e359": {
+      "id": "cda1e7aa-81fb-40a0-bebd-762ea6b5e359",
+      "name": "tem_benchmark/images/2Tlqk9n8mmGv6G0EGxwl.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/2Tlqk9n8mmGv6G0EGxwl.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "a655c141-3f1b-4ee2-963f-dbaf45f631de": {
+      "id": "a655c141-3f1b-4ee2-963f-dbaf45f631de",
+      "name": "tem_benchmark/images/3ib2iOCHNQIgrUaxnLwm.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/3ib2iOCHNQIgrUaxnLwm.tiff",
+      "size_in_bytes": 235726,
+      "attributes": {}
+    },
+    "4193c6ed-3e1b-4d48-a00e-ac4ce19cccbd": {
+      "id": "4193c6ed-3e1b-4d48-a00e-ac4ce19cccbd",
+      "name": "tem_benchmark/images/3pbuH37yaTFrTt52QdNO.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/3pbuH37yaTFrTt52QdNO.tiff",
+      "size_in_bytes": 1186312,
+      "attributes": {}
+    },
+    "6249b072-cfbc-4415-bd18-6603c91d963e": {
+      "id": "6249b072-cfbc-4415-bd18-6603c91d963e",
+      "name": "tem_benchmark/images/5BzcbKwHruGS296dUugB.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/5BzcbKwHruGS296dUugB.tiff",
+      "size_in_bytes": 149296,
+      "attributes": {}
+    },
+    "4e8e491e-cc43-4d60-8a6c-7073c870ac83": {
+      "id": "4e8e491e-cc43-4d60-8a6c-7073c870ac83",
+      "name": "tem_benchmark/images/6plriVrEepvhHyOBmtUc.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/6plriVrEepvhHyOBmtUc.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "fa7b70dd-e331-4e78-89c0-eac8b1a8bc89": {
+      "id": "fa7b70dd-e331-4e78-89c0-eac8b1a8bc89",
+      "name": "tem_benchmark/images/6uc2ydKjW1yJG033GPjj.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/6uc2ydKjW1yJG033GPjj.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "f36c7b26-5b65-4115-930e-cad64539b08b": {
+      "id": "f36c7b26-5b65-4115-930e-cad64539b08b",
+      "name": "tem_benchmark/images/7Z7jSCJZ23zSW2ZztTPJ.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/7Z7jSCJZ23zSW2ZztTPJ.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "4939d2f6-93d2-4961-84a4-19f48c37d500": {
+      "id": "4939d2f6-93d2-4961-84a4-19f48c37d500",
+      "name": "tem_benchmark/images/9SNS8ZHu7wx8HstQg2Vo.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/9SNS8ZHu7wx8HstQg2Vo.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "5331f453-b66d-4751-b604-f916c10810d7": {
+      "id": "5331f453-b66d-4751-b604-f916c10810d7",
+      "name": "tem_benchmark/images/9jHLkwpVONtdgyvLyhds.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/9jHLkwpVONtdgyvLyhds.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "c6c96ceb-6628-4054-8d3e-7b41bb8612af": {
+      "id": "c6c96ceb-6628-4054-8d3e-7b41bb8612af",
+      "name": "tem_benchmark/images/AH9rwncuiyjonmnTpzc6.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/AH9rwncuiyjonmnTpzc6.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "2e151f3a-01b0-4e69-b35d-d1355d457e6f": {
+      "id": "2e151f3a-01b0-4e69-b35d-d1355d457e6f",
+      "name": "tem_benchmark/images/ALknkSgr7aoWr14RfrSV.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/ALknkSgr7aoWr14RfrSV.tiff",
+      "size_in_bytes": 1771756,
+      "attributes": {}
+    },
+    "ac73204b-f097-4f24-8ced-d983a351e025": {
+      "id": "ac73204b-f097-4f24-8ced-d983a351e025",
+      "name": "tem_benchmark/images/AOVAPBvPacOXcUoVM3uZ.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/AOVAPBvPacOXcUoVM3uZ.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "ee4d7fa4-47f3-4eb6-91cf-403a4dbf9801": {
+      "id": "ee4d7fa4-47f3-4eb6-91cf-403a4dbf9801",
+      "name": "tem_benchmark/images/AvUtncbaV60ITOmLlAkQ.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/AvUtncbaV60ITOmLlAkQ.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "8eff4466-1e1c-43ab-875b-c1fb8e5ebb19": {
+      "id": "8eff4466-1e1c-43ab-875b-c1fb8e5ebb19",
+      "name": "tem_benchmark/images/DccMhwElHJmbuS2J8lrU.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/DccMhwElHJmbuS2J8lrU.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "16cca976-d38e-4e05-b9fe-67f969f48325": {
+      "id": "16cca976-d38e-4e05-b9fe-67f969f48325",
+      "name": "tem_benchmark/images/DprwEW2YlVIuqe8iiBUM.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/DprwEW2YlVIuqe8iiBUM.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "783f727e-f983-4697-87d8-511c31311e14": {
+      "id": "783f727e-f983-4697-87d8-511c31311e14",
+      "name": "tem_benchmark/images/E3DjzU1Hv0lKtRerU0dr.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/E3DjzU1Hv0lKtRerU0dr.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "eaa96a3c-f2fd-465c-bd1b-a57bd7121636": {
+      "id": "eaa96a3c-f2fd-465c-bd1b-a57bd7121636",
+      "name": "tem_benchmark/images/FJkyZfNswUHYI8UXjInE.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/FJkyZfNswUHYI8UXjInE.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "8f46205e-5a67-4da5-84c6-156db3320588": {
+      "id": "8f46205e-5a67-4da5-84c6-156db3320588",
+      "name": "tem_benchmark/images/FSqfiQ5X7pl4pbbBV3og.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/FSqfiQ5X7pl4pbbBV3og.tiff",
+      "size_in_bytes": 1097356,
+      "attributes": {}
+    },
+    "819d929f-ac50-4b3c-adc4-feb93881615d": {
+      "id": "819d929f-ac50-4b3c-adc4-feb93881615d",
+      "name": "tem_benchmark/images/FcQtYwd3CZhEoqWrZQ6a.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/FcQtYwd3CZhEoqWrZQ6a.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "958b399f-01f8-4536-b4d2-3b77bb3cd921": {
+      "id": "958b399f-01f8-4536-b4d2-3b77bb3cd921",
+      "name": "tem_benchmark/images/GC18X3wh91fultTzXk0n.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/GC18X3wh91fultTzXk0n.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "4b7cecb3-891f-4808-b58b-c5cb6d4ec979": {
+      "id": "4b7cecb3-891f-4808-b58b-c5cb6d4ec979",
+      "name": "tem_benchmark/images/Gp5MEeb8iAuYfrAcOb3T.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/Gp5MEeb8iAuYfrAcOb3T.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "00415dec-ea23-4fa9-8306-78493125c4e8": {
+      "id": "00415dec-ea23-4fa9-8306-78493125c4e8",
+      "name": "tem_benchmark/images/HIv1HOOLTWhvBGs2GLAW.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/HIv1HOOLTWhvBGs2GLAW.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "8b866231-a839-486c-af76-b0cf51d9f193": {
+      "id": "8b866231-a839-486c-af76-b0cf51d9f193",
+      "name": "tem_benchmark/images/HWJC0I0n5pPosm91fPN9.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/HWJC0I0n5pPosm91fPN9.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "6a032265-bcac-48e1-8ce5-3256b4a11267": {
+      "id": "6a032265-bcac-48e1-8ce5-3256b4a11267",
+      "name": "tem_benchmark/images/IsdoTn0CZN3NNBHw9eHs.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/IsdoTn0CZN3NNBHw9eHs.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "bb5e666c-e0bb-4fcb-a00f-f797a377bc4f": {
+      "id": "bb5e666c-e0bb-4fcb-a00f-f797a377bc4f",
+      "name": "tem_benchmark/images/JbZdraW8jUWOkWYenUQW.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/JbZdraW8jUWOkWYenUQW.tiff",
+      "size_in_bytes": 285820,
+      "attributes": {}
+    },
+    "306a6d6a-0201-4542-864b-a147c1da9933": {
+      "id": "306a6d6a-0201-4542-864b-a147c1da9933",
+      "name": "tem_benchmark/images/KDdqT7pjt4RB6DP9YhBv.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/KDdqT7pjt4RB6DP9YhBv.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "afd517d8-af45-49fd-921b-590fff0cfafe": {
+      "id": "afd517d8-af45-49fd-921b-590fff0cfafe",
+      "name": "tem_benchmark/images/KYJvyQylQ6GoiyoABzCi.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/KYJvyQylQ6GoiyoABzCi.tiff",
+      "size_in_bytes": 1062304,
+      "attributes": {}
+    },
+    "f5fa40d7-1e29-4666-a379-3084609da0e2": {
+      "id": "f5fa40d7-1e29-4666-a379-3084609da0e2",
+      "name": "tem_benchmark/images/MTeOXdixYD6o3ysTjtlY.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/MTeOXdixYD6o3ysTjtlY.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "5f11c22a-c608-4d5b-b227-b3c01f5fe08f": {
+      "id": "5f11c22a-c608-4d5b-b227-b3c01f5fe08f",
+      "name": "tem_benchmark/images/MWyu8XxfJUz0tPpjMG68.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/MWyu8XxfJUz0tPpjMG68.tiff",
+      "size_in_bytes": 827548,
+      "attributes": {}
+    },
+    "e5090429-317c-4d8b-8cd9-1f24466748bc": {
+      "id": "e5090429-317c-4d8b-8cd9-1f24466748bc",
+      "name": "tem_benchmark/images/N9aIKs7lUVsYd6bT3LxC.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/N9aIKs7lUVsYd6bT3LxC.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "3f8ddf17-4999-4a4b-a478-88da0aebec2d": {
+      "id": "3f8ddf17-4999-4a4b-a478-88da0aebec2d",
+      "name": "tem_benchmark/images/NFlQQXCuLN49baKGNHc8.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/NFlQQXCuLN49baKGNHc8.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "865e96b6-72d2-4229-a8fb-f023f3bda643": {
+      "id": "865e96b6-72d2-4229-a8fb-f023f3bda643",
+      "name": "tem_benchmark/images/NWNws2Vo4AQhIw579f4E.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/NWNws2Vo4AQhIw579f4E.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "8396254c-3985-4400-8f86-b13995bf71a9": {
+      "id": "8396254c-3985-4400-8f86-b13995bf71a9",
+      "name": "tem_benchmark/images/NpIsioJcraoQ7UM5w5KA.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/NpIsioJcraoQ7UM5w5KA.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "685ac623-a39f-4871-b5dd-eeb8e125e3e2": {
+      "id": "685ac623-a39f-4871-b5dd-eeb8e125e3e2",
+      "name": "tem_benchmark/images/P4f6REHlY0j5oPr8hyFr.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/P4f6REHlY0j5oPr8hyFr.tiff",
+      "size_in_bytes": 163960,
+      "attributes": {}
+    },
+    "97b28728-3f29-40e4-b667-0f1945659971": {
+      "id": "97b28728-3f29-40e4-b667-0f1945659971",
+      "name": "tem_benchmark/images/PRV36TemoPe3oPNL0RXZ.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/PRV36TemoPe3oPNL0RXZ.tiff",
+      "size_in_bytes": 1145206,
+      "attributes": {}
+    },
+    "76f05de8-ffbd-4e4d-98b2-72a61713eb82": {
+      "id": "76f05de8-ffbd-4e4d-98b2-72a61713eb82",
+      "name": "tem_benchmark/images/QLwSiZlPfFaKn9UkVw5A.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/QLwSiZlPfFaKn9UkVw5A.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "434caeea-37d6-46f7-87dc-616ad5c530c7": {
+      "id": "434caeea-37d6-46f7-87dc-616ad5c530c7",
+      "name": "tem_benchmark/images/QQZlSgIkiL7OdZ2a8oIm.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/QQZlSgIkiL7OdZ2a8oIm.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "ecbf01f0-a0c6-4ae1-9741-861a752c9756": {
+      "id": "ecbf01f0-a0c6-4ae1-9741-861a752c9756",
+      "name": "tem_benchmark/images/QWlbQZ1v00zxmk2Fp3Le.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/QWlbQZ1v00zxmk2Fp3Le.tiff",
+      "size_in_bytes": 493006,
+      "attributes": {}
+    },
+    "1a2ef589-f894-4a8c-b1e2-0fc33670e9f1": {
+      "id": "1a2ef589-f894-4a8c-b1e2-0fc33670e9f1",
+      "name": "tem_benchmark/images/QWqaLBDT0uuxxNX25kP9.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/QWqaLBDT0uuxxNX25kP9.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "311e6988-a9e0-4000-b229-44595b0b4f81": {
+      "id": "311e6988-a9e0-4000-b229-44595b0b4f81",
+      "name": "tem_benchmark/images/QsP5DBmv2NYg8LUlw8b1.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/QsP5DBmv2NYg8LUlw8b1.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "ef06c1c1-5797-4134-beba-474f2c4ab8c8": {
+      "id": "ef06c1c1-5797-4134-beba-474f2c4ab8c8",
+      "name": "tem_benchmark/images/R6p8J6wCSmn3aStj4GHv.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/R6p8J6wCSmn3aStj4GHv.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "e691d795-a8c4-45a1-a9cf-322a806a294d": {
+      "id": "e691d795-a8c4-45a1-a9cf-322a806a294d",
+      "name": "tem_benchmark/images/RoECvy0RbILoKiv8jYab.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/RoECvy0RbILoKiv8jYab.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "a8f7e265-86b8-4a8a-bd40-396a1f2a4a99": {
+      "id": "a8f7e265-86b8-4a8a-bd40-396a1f2a4a99",
+      "name": "tem_benchmark/images/SXnwBMNzR18D8sKSjh8g.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/SXnwBMNzR18D8sKSjh8g.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "95e6d413-2be3-443c-8978-d8594ad7365e": {
+      "id": "95e6d413-2be3-443c-8978-d8594ad7365e",
+      "name": "tem_benchmark/images/TCzgvIZVHqNFtdJEPaXf.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/TCzgvIZVHqNFtdJEPaXf.tiff",
+      "size_in_bytes": 809084,
+      "attributes": {}
+    },
+    "f35d1ee5-4b4c-42d5-850b-b5a3ab078277": {
+      "id": "f35d1ee5-4b4c-42d5-850b-b5a3ab078277",
+      "name": "tem_benchmark/images/TbVlEbkOaXvgqXuOC2y5.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/TbVlEbkOaXvgqXuOC2y5.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "558cb0c6-6229-4fe0-b05a-cdd1f5db174c": {
+      "id": "558cb0c6-6229-4fe0-b05a-cdd1f5db174c",
+      "name": "tem_benchmark/images/UH2Xa2sqyug07qibeLI2.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/UH2Xa2sqyug07qibeLI2.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "af5144df-8240-4eaf-8594-e05d09e4bf81": {
+      "id": "af5144df-8240-4eaf-8594-e05d09e4bf81",
+      "name": "tem_benchmark/images/UTbbCmNhBbRwzOznV6eM.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/UTbbCmNhBbRwzOznV6eM.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "bf156ada-08bf-4f27-8a14-460d517be7b3": {
+      "id": "bf156ada-08bf-4f27-8a14-460d517be7b3",
+      "name": "tem_benchmark/images/Ub2PGMk15slpiDOMy6gd.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/Ub2PGMk15slpiDOMy6gd.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "b99be2b7-71ea-4063-96df-f55ba8c14a14": {
+      "id": "b99be2b7-71ea-4063-96df-f55ba8c14a14",
+      "name": "tem_benchmark/images/UuyHhnn7MjnSClcZPBAG.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/UuyHhnn7MjnSClcZPBAG.tiff",
+      "size_in_bytes": 752956,
+      "attributes": {}
+    },
+    "f5256a1f-cfad-490f-b483-c6b368b209fd": {
+      "id": "f5256a1f-cfad-490f-b483-c6b368b209fd",
+      "name": "tem_benchmark/images/V52bj9CYW97AUqevB2Rv.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/V52bj9CYW97AUqevB2Rv.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "0cb81b4c-ec7e-4815-9768-e9cf9eb8ce0f": {
+      "id": "0cb81b4c-ec7e-4815-9768-e9cf9eb8ce0f",
+      "name": "tem_benchmark/images/VFu9kl8plvKxrBEwRfhL.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/VFu9kl8plvKxrBEwRfhL.tiff",
+      "size_in_bytes": 958720,
+      "attributes": {}
+    },
+    "f07518c4-ec91-4988-b3d8-c6f280c48f20": {
+      "id": "f07518c4-ec91-4988-b3d8-c6f280c48f20",
+      "name": "tem_benchmark/images/VcJ1fV2RlrJrmLHIzdIv.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/VcJ1fV2RlrJrmLHIzdIv.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "2a59a1d8-f3fc-4888-a1b2-019564b141c5": {
+      "id": "2a59a1d8-f3fc-4888-a1b2-019564b141c5",
+      "name": "tem_benchmark/images/WCqmS6R1MFjZfQXMEbov.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/WCqmS6R1MFjZfQXMEbov.tiff",
+      "size_in_bytes": 517136,
+      "attributes": {}
+    },
+    "8befb608-33e7-4607-b059-97ce8c7a1bc8": {
+      "id": "8befb608-33e7-4607-b059-97ce8c7a1bc8",
+      "name": "tem_benchmark/images/X1DAYM5MVaMXPhpeeTBT.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/X1DAYM5MVaMXPhpeeTBT.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "f6cb5cbe-73a0-4d4a-afad-6ca38ebd30ea": {
+      "id": "f6cb5cbe-73a0-4d4a-afad-6ca38ebd30ea",
+      "name": "tem_benchmark/images/XsisEi7EmDiq7esbhl3k.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/XsisEi7EmDiq7esbhl3k.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "99d74dde-18ff-449d-a3c9-7f94c7db8889": {
+      "id": "99d74dde-18ff-449d-a3c9-7f94c7db8889",
+      "name": "tem_benchmark/images/XzLxoE9qQ3O9Gq28iveF.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/XzLxoE9qQ3O9Gq28iveF.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "f7036c2a-0228-48c5-9cd1-e877be9890d1": {
+      "id": "f7036c2a-0228-48c5-9cd1-e877be9890d1",
+      "name": "tem_benchmark/images/Y5Uy1ACZO4MkqTvSzJcS.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/Y5Uy1ACZO4MkqTvSzJcS.tiff",
+      "size_in_bytes": 490756,
+      "attributes": {}
+    },
+    "ab2a528e-d7dd-4146-bb1e-4bb799b2da38": {
+      "id": "ab2a528e-d7dd-4146-bb1e-4bb799b2da38",
+      "name": "tem_benchmark/images/YnjZLcFb5mRSIQR7oTJ1.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/YnjZLcFb5mRSIQR7oTJ1.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "9c33d01c-a4ed-4f93-9a1d-1a785e926ca0": {
+      "id": "9c33d01c-a4ed-4f93-9a1d-1a785e926ca0",
+      "name": "tem_benchmark/images/aLriAAXSpMzI1tSLzl05.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/aLriAAXSpMzI1tSLzl05.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "52ac9422-213d-48a2-9f88-08d8c475a4b9": {
+      "id": "52ac9422-213d-48a2-9f88-08d8c475a4b9",
+      "name": "tem_benchmark/images/bUsTjDOJHiHMPCNIWkuT.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/bUsTjDOJHiHMPCNIWkuT.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "cc4507f8-78c0-4a3c-93e1-145c83344e3b": {
+      "id": "cc4507f8-78c0-4a3c-93e1-145c83344e3b",
+      "name": "tem_benchmark/images/ch1HZ72XmfK9rD5K40QW.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/ch1HZ72XmfK9rD5K40QW.tiff",
+      "size_in_bytes": 859664,
+      "attributes": {}
+    },
+    "e822253e-f10f-459c-b22f-4b259df98832": {
+      "id": "e822253e-f10f-459c-b22f-4b259df98832",
+      "name": "tem_benchmark/images/cwpw4Zu4rqVzbTMPhql2.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/cwpw4Zu4rqVzbTMPhql2.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "8a0bb6a3-522b-4368-a870-63012ff3e7fd": {
+      "id": "8a0bb6a3-522b-4368-a870-63012ff3e7fd",
+      "name": "tem_benchmark/images/d2Cvt7UfKPIAnaJGlKpw.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/d2Cvt7UfKPIAnaJGlKpw.tiff",
+      "size_in_bytes": 845272,
+      "attributes": {}
+    },
+    "e26a3af7-5ba7-48bb-a761-f6d094060a34": {
+      "id": "e26a3af7-5ba7-48bb-a761-f6d094060a34",
+      "name": "tem_benchmark/images/d7McLI44TDhNmnd1QSpo.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/d7McLI44TDhNmnd1QSpo.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "5c0dff75-7e43-4c51-b76c-469269b66d32": {
+      "id": "5c0dff75-7e43-4c51-b76c-469269b66d32",
+      "name": "tem_benchmark/images/dYaOkBZPfpE3oHiplIst.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/dYaOkBZPfpE3oHiplIst.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "cb705f02-9bda-458e-ae7d-ce677d502fbf": {
+      "id": "cb705f02-9bda-458e-ae7d-ce677d502fbf",
+      "name": "tem_benchmark/images/e8mrOPbV0mqJZ5L7xY8c.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/e8mrOPbV0mqJZ5L7xY8c.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "2fc45065-67b9-4c19-8da3-3b6aff7a415d": {
+      "id": "2fc45065-67b9-4c19-8da3-3b6aff7a415d",
+      "name": "tem_benchmark/images/eL79mWeRWlqFAqOO6w8o.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/eL79mWeRWlqFAqOO6w8o.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "22dedeac-9af3-4c42-9a6a-953f73b4ff33": {
+      "id": "22dedeac-9af3-4c42-9a6a-953f73b4ff33",
+      "name": "tem_benchmark/images/ghAKYp44DzBUhlyn7Kec.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/ghAKYp44DzBUhlyn7Kec.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "0a3703e5-952c-4a44-b45e-5ab302e17a00": {
+      "id": "0a3703e5-952c-4a44-b45e-5ab302e17a00",
+      "name": "tem_benchmark/images/gxdh9YGZMJUB58YvyzgM.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/gxdh9YGZMJUB58YvyzgM.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "58ed5eaf-9bf2-4b1b-b8e0-1ce95ae08e91": {
+      "id": "58ed5eaf-9bf2-4b1b-b8e0-1ce95ae08e91",
+      "name": "tem_benchmark/images/hR5EYnvM2Ysjfddi9ZTt.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/hR5EYnvM2Ysjfddi9ZTt.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "e3c5c80a-d3c3-4e5a-8376-fcfc91ab7982": {
+      "id": "e3c5c80a-d3c3-4e5a-8376-fcfc91ab7982",
+      "name": "tem_benchmark/images/iDXfFDvQLRHsB4XZHb3A.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/iDXfFDvQLRHsB4XZHb3A.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "9cc4aaff-151e-462a-a9d0-80d59d6774b7": {
+      "id": "9cc4aaff-151e-462a-a9d0-80d59d6774b7",
+      "name": "tem_benchmark/images/iidFXTWegya1bm1hl5to.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/iidFXTWegya1bm1hl5to.tiff",
+      "size_in_bytes": 1382656,
+      "attributes": {}
+    },
+    "b678fd63-ecfa-4ff9-89fb-b79af3615b4e": {
+      "id": "b678fd63-ecfa-4ff9-89fb-b79af3615b4e",
+      "name": "tem_benchmark/images/j1k88xV7tmKNMLM4bj1h.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/j1k88xV7tmKNMLM4bj1h.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "f0474c88-626f-44c7-951e-b1f6d8e1a44c": {
+      "id": "f0474c88-626f-44c7-951e-b1f6d8e1a44c",
+      "name": "tem_benchmark/images/k0Ij8iyjBDimmOPwtFHL.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/k0Ij8iyjBDimmOPwtFHL.tiff",
+      "size_in_bytes": 469756,
+      "attributes": {}
+    },
+    "89deb5c3-1a10-40a1-aea4-bc20dcddde04": {
+      "id": "89deb5c3-1a10-40a1-aea4-bc20dcddde04",
+      "name": "tem_benchmark/images/k4Uw1csHJKTrviecgXyz.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/k4Uw1csHJKTrviecgXyz.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "1f22d4c3-9cd2-486d-8401-590454cfe1a2": {
+      "id": "1f22d4c3-9cd2-486d-8401-590454cfe1a2",
+      "name": "tem_benchmark/images/kBnMAlFJtapfTpTu5iHL.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/kBnMAlFJtapfTpTu5iHL.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "75ef03a7-2cc7-40ee-91a0-734cd47be321": {
+      "id": "75ef03a7-2cc7-40ee-91a0-734cd47be321",
+      "name": "tem_benchmark/images/kF3EaTAoYeTRf12uLsIX.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/kF3EaTAoYeTRf12uLsIX.tiff",
+      "size_in_bytes": 1740256,
+      "attributes": {}
+    },
+    "3fead7ff-1a47-41e5-a909-eb077f05f7a0": {
+      "id": "3fead7ff-1a47-41e5-a909-eb077f05f7a0",
+      "name": "tem_benchmark/images/lCH8UM6Mv2AG7zDPrqHA.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/lCH8UM6Mv2AG7zDPrqHA.tiff",
+      "size_in_bytes": 858568,
+      "attributes": {}
+    },
+    "e3ed2b93-3f7e-4f7f-b936-ec2467f75d54": {
+      "id": "e3ed2b93-3f7e-4f7f-b936-ec2467f75d54",
+      "name": "tem_benchmark/images/lw3ENjwOInSmgeNNY0Qk.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/lw3ENjwOInSmgeNNY0Qk.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "eae98a14-396f-492e-bfed-ae692e1112dd": {
+      "id": "eae98a14-396f-492e-bfed-ae692e1112dd",
+      "name": "tem_benchmark/images/ngygM944aKxBq6rf72Zl.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/ngygM944aKxBq6rf72Zl.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "59fd74fc-c65d-4425-9c5d-d8c1d0b6cff3": {
+      "id": "59fd74fc-c65d-4425-9c5d-d8c1d0b6cff3",
+      "name": "tem_benchmark/images/pLeNHL0RTZwYh5EwN7up.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/pLeNHL0RTZwYh5EwN7up.tiff",
+      "size_in_bytes": 70816,
+      "attributes": {}
+    },
+    "222a3709-d177-4aff-ac4c-ef2d07c3983b": {
+      "id": "222a3709-d177-4aff-ac4c-ef2d07c3983b",
+      "name": "tem_benchmark/images/pu4kmugMyXvbFtAgLogm.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/pu4kmugMyXvbFtAgLogm.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "038b3abf-4063-4716-bbab-e21103a71045": {
+      "id": "038b3abf-4063-4716-bbab-e21103a71045",
+      "name": "tem_benchmark/images/qOA9ml35XYXQjtWmFvvg.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/qOA9ml35XYXQjtWmFvvg.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "9dfcb0fb-237e-4142-8fd7-26f9167cadc3": {
+      "id": "9dfcb0fb-237e-4142-8fd7-26f9167cadc3",
+      "name": "tem_benchmark/images/qqRmOpdujNXIqEuWrFLk.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/qqRmOpdujNXIqEuWrFLk.tiff",
+      "size_in_bytes": 1138920,
+      "attributes": {}
+    },
+    "250b0b26-6ab9-48fd-9a76-42964c2c8868": {
+      "id": "250b0b26-6ab9-48fd-9a76-42964c2c8868",
+      "name": "tem_benchmark/images/qs9OOX5WsQhRE3Kg2rpU.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/qs9OOX5WsQhRE3Kg2rpU.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "e6598a0f-7e15-40ed-902d-915a21509c4a": {
+      "id": "e6598a0f-7e15-40ed-902d-915a21509c4a",
+      "name": "tem_benchmark/images/sN90grldkJUpRIAJ64Bz.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/sN90grldkJUpRIAJ64Bz.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "693daa46-953a-4585-b0c7-4d4f4ef86b7e": {
+      "id": "693daa46-953a-4585-b0c7-4d4f4ef86b7e",
+      "name": "tem_benchmark/images/sXnNKReR54pzKRZ5rpfP.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/sXnNKReR54pzKRZ5rpfP.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "f4715b8b-d760-47e4-a5e9-4c4ed27bc576": {
+      "id": "f4715b8b-d760-47e4-a5e9-4c4ed27bc576",
+      "name": "tem_benchmark/images/snDIBSvwQMaqGKBbGF6V.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/snDIBSvwQMaqGKBbGF6V.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "f7af1606-1d5f-4c24-9dd9-a3444060d8e2": {
+      "id": "f7af1606-1d5f-4c24-9dd9-a3444060d8e2",
+      "name": "tem_benchmark/images/uBBsOocNXDq5poteflbh.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/uBBsOocNXDq5poteflbh.tiff",
+      "size_in_bytes": 288896,
+      "attributes": {}
+    },
+    "521ffa41-e06e-4df8-adca-b81aef97a912": {
+      "id": "521ffa41-e06e-4df8-adca-b81aef97a912",
+      "name": "tem_benchmark/images/v64IdYxtp9vzYzojtxir.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/v64IdYxtp9vzYzojtxir.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "29723c9e-44c1-4262-8843-4a1f37623e38": {
+      "id": "29723c9e-44c1-4262-8843-4a1f37623e38",
+      "name": "tem_benchmark/images/vziaz0e1YZ9BJHIY7tJV.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/vziaz0e1YZ9BJHIY7tJV.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "721ff12f-2e63-49e5-b7f1-a0298ec42c5a": {
+      "id": "721ff12f-2e63-49e5-b7f1-a0298ec42c5a",
+      "name": "tem_benchmark/images/xHSMEPuKIY4T3X4UURT5.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/xHSMEPuKIY4T3X4UURT5.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "eba56e55-d12c-4f3f-89e3-b219acfee26b": {
+      "id": "eba56e55-d12c-4f3f-89e3-b219acfee26b",
+      "name": "tem_benchmark/images/yayA9ov0gTMPe5oUDmCY.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/yayA9ov0gTMPe5oUDmCY.tiff",
+      "size_in_bytes": 459190,
+      "attributes": {}
+    },
+    "9dfc81b0-a270-44f7-9f15-00dbfbbab512": {
+      "id": "9dfc81b0-a270-44f7-9f15-00dbfbbab512",
+      "name": "tem_benchmark/images/yn4W2WociugOlXWN83Ps.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/yn4W2WociugOlXWN83Ps.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "742ac514-b82d-42ab-a0f9-5fa13ebe5463": {
+      "id": "742ac514-b82d-42ab-a0f9-5fa13ebe5463",
+      "name": "tem_benchmark/images/zRf1ZWOS08TxjOvROo86.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/images/zRf1ZWOS08TxjOvROo86.tiff",
+      "size_in_bytes": 1048832,
+      "attributes": {}
+    },
+    "b133e341-0877-4fa2-89a2-1f0ad37d4825": {
+      "id": "b133e341-0877-4fa2-89a2-1f0ad37d4825",
+      "name": "tem_benchmark/masks/0s1JawDdbBymwtwOjgx8.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/0s1JawDdbBymwtwOjgx8.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "1e312dbf-b64b-4115-be4f-36e51ffae704": {
+      "id": "1e312dbf-b64b-4115-be4f-36e51ffae704",
+      "name": "tem_benchmark/masks/17pOyGcUusCVRfzUZxTs.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/17pOyGcUusCVRfzUZxTs.tiff",
+      "size_in_bytes": 1565732,
+      "attributes": {}
+    },
+    "a88b5165-6196-4f14-a522-9dae3f404daa": {
+      "id": "a88b5165-6196-4f14-a522-9dae3f404daa",
+      "name": "tem_benchmark/masks/1U0jYrdPwdlRDsQzkUNc.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/1U0jYrdPwdlRDsQzkUNc.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "0e8e4d6c-f05c-4d75-b3af-ef8fd6eac729": {
+      "id": "0e8e4d6c-f05c-4d75-b3af-ef8fd6eac729",
+      "name": "tem_benchmark/masks/1unGsOC0dfeB02LCtQwi.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/1unGsOC0dfeB02LCtQwi.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "678f82c8-0dfe-4cf6-bca2-41cc6ca32836": {
+      "id": "678f82c8-0dfe-4cf6-bca2-41cc6ca32836",
+      "name": "tem_benchmark/masks/1vNHcbV4bWuC1zywuBdP.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/1vNHcbV4bWuC1zywuBdP.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "4a493c15-9a92-4526-a252-9fc449ad4ac1": {
+      "id": "4a493c15-9a92-4526-a252-9fc449ad4ac1",
+      "name": "tem_benchmark/masks/2Tlqk9n8mmGv6G0EGxwl.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/2Tlqk9n8mmGv6G0EGxwl.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "5b453168-4eaf-409a-931a-e0b1939511dd": {
+      "id": "5b453168-4eaf-409a-931a-e0b1939511dd",
+      "name": "tem_benchmark/masks/3ib2iOCHNQIgrUaxnLwm.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/3ib2iOCHNQIgrUaxnLwm.tiff",
+      "size_in_bytes": 942152,
+      "attributes": {}
+    },
+    "5fff498d-64f5-443a-abb0-b7d5f69dc0f4": {
+      "id": "5fff498d-64f5-443a-abb0-b7d5f69dc0f4",
+      "name": "tem_benchmark/masks/3pbuH37yaTFrTt52QdNO.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/3pbuH37yaTFrTt52QdNO.tiff",
+      "size_in_bytes": 4744496,
+      "attributes": {}
+    },
+    "c0d64d65-b001-4167-b8da-bd336ebab2cf": {
+      "id": "c0d64d65-b001-4167-b8da-bd336ebab2cf",
+      "name": "tem_benchmark/masks/5BzcbKwHruGS296dUugB.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/5BzcbKwHruGS296dUugB.tiff",
+      "size_in_bytes": 596432,
+      "attributes": {}
+    },
+    "f9c06123-9724-4664-8655-f19cf4db959a": {
+      "id": "f9c06123-9724-4664-8655-f19cf4db959a",
+      "name": "tem_benchmark/masks/6plriVrEepvhHyOBmtUc.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/6plriVrEepvhHyOBmtUc.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "e1911feb-06ac-4625-8322-b43eba4b13cb": {
+      "id": "e1911feb-06ac-4625-8322-b43eba4b13cb",
+      "name": "tem_benchmark/masks/6uc2ydKjW1yJG033GPjj.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/6uc2ydKjW1yJG033GPjj.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "cd25d14a-d926-4747-b736-b1e09cbc1c77": {
+      "id": "cd25d14a-d926-4747-b736-b1e09cbc1c77",
+      "name": "tem_benchmark/masks/7Z7jSCJZ23zSW2ZztTPJ.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/7Z7jSCJZ23zSW2ZztTPJ.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "c00b859b-cae5-4023-90bd-988fa0372124": {
+      "id": "c00b859b-cae5-4023-90bd-988fa0372124",
+      "name": "tem_benchmark/masks/9SNS8ZHu7wx8HstQg2Vo.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/9SNS8ZHu7wx8HstQg2Vo.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "ba52ab22-4179-4cf8-9d50-0ebbe3a41d4e": {
+      "id": "ba52ab22-4179-4cf8-9d50-0ebbe3a41d4e",
+      "name": "tem_benchmark/masks/9jHLkwpVONtdgyvLyhds.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/9jHLkwpVONtdgyvLyhds.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "63e0acab-ad82-49c0-8572-5504fb0eb0d6": {
+      "id": "63e0acab-ad82-49c0-8572-5504fb0eb0d6",
+      "name": "tem_benchmark/masks/AH9rwncuiyjonmnTpzc6.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/AH9rwncuiyjonmnTpzc6.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "4970d059-9604-4d8e-919a-3d600e4a767b": {
+      "id": "4970d059-9604-4d8e-919a-3d600e4a767b",
+      "name": "tem_benchmark/masks/ALknkSgr7aoWr14RfrSV.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/ALknkSgr7aoWr14RfrSV.tiff",
+      "size_in_bytes": 7086272,
+      "attributes": {}
+    },
+    "e11cf193-d0b5-430c-8b3c-b7beca24df91": {
+      "id": "e11cf193-d0b5-430c-8b3c-b7beca24df91",
+      "name": "tem_benchmark/masks/AOVAPBvPacOXcUoVM3uZ.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/AOVAPBvPacOXcUoVM3uZ.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "faf4e285-cc35-447c-8b06-6ef5f15a0c8a": {
+      "id": "faf4e285-cc35-447c-8b06-6ef5f15a0c8a",
+      "name": "tem_benchmark/masks/AvUtncbaV60ITOmLlAkQ.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/AvUtncbaV60ITOmLlAkQ.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "b95bf5f6-3d60-429c-bfac-a3b9de525664": {
+      "id": "b95bf5f6-3d60-429c-bfac-a3b9de525664",
+      "name": "tem_benchmark/masks/DccMhwElHJmbuS2J8lrU.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/DccMhwElHJmbuS2J8lrU.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "abea0ea6-f8bd-4420-a4de-8443566cb6fa": {
+      "id": "abea0ea6-f8bd-4420-a4de-8443566cb6fa",
+      "name": "tem_benchmark/masks/DprwEW2YlVIuqe8iiBUM.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/DprwEW2YlVIuqe8iiBUM.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "cddb2b6c-f27c-4a2f-b6d4-b4750476615c": {
+      "id": "cddb2b6c-f27c-4a2f-b6d4-b4750476615c",
+      "name": "tem_benchmark/masks/E3DjzU1Hv0lKtRerU0dr.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/E3DjzU1Hv0lKtRerU0dr.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "935fcf01-d2f4-4e1c-9651-73e56a560242": {
+      "id": "935fcf01-d2f4-4e1c-9651-73e56a560242",
+      "name": "tem_benchmark/masks/FJkyZfNswUHYI8UXjInE.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/FJkyZfNswUHYI8UXjInE.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "2b272c63-9d3f-4b40-841e-1304ab2d15bf": {
+      "id": "2b272c63-9d3f-4b40-841e-1304ab2d15bf",
+      "name": "tem_benchmark/masks/FSqfiQ5X7pl4pbbBV3og.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/FSqfiQ5X7pl4pbbBV3og.tiff",
+      "size_in_bytes": 4388672,
+      "attributes": {}
+    },
+    "72866854-6d5e-4443-a548-1456200859cc": {
+      "id": "72866854-6d5e-4443-a548-1456200859cc",
+      "name": "tem_benchmark/masks/FcQtYwd3CZhEoqWrZQ6a.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/FcQtYwd3CZhEoqWrZQ6a.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "e614c285-8a82-48a2-ae2f-da30f7778ea5": {
+      "id": "e614c285-8a82-48a2-ae2f-da30f7778ea5",
+      "name": "tem_benchmark/masks/GC18X3wh91fultTzXk0n.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/GC18X3wh91fultTzXk0n.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "b2a2a64d-24d5-46d7-b4a9-de9d89a26ccd": {
+      "id": "b2a2a64d-24d5-46d7-b4a9-de9d89a26ccd",
+      "name": "tem_benchmark/masks/Gp5MEeb8iAuYfrAcOb3T.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/Gp5MEeb8iAuYfrAcOb3T.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "b9456abc-28ef-4a90-8dd1-4c089002941c": {
+      "id": "b9456abc-28ef-4a90-8dd1-4c089002941c",
+      "name": "tem_benchmark/masks/HIv1HOOLTWhvBGs2GLAW.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/HIv1HOOLTWhvBGs2GLAW.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "4910139b-0a6d-4965-beb7-d6f47e3d163f": {
+      "id": "4910139b-0a6d-4965-beb7-d6f47e3d163f",
+      "name": "tem_benchmark/masks/HWJC0I0n5pPosm91fPN9.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/HWJC0I0n5pPosm91fPN9.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "dad792a9-ec62-4bf7-a43b-daa485e91e87": {
+      "id": "dad792a9-ec62-4bf7-a43b-daa485e91e87",
+      "name": "tem_benchmark/masks/IsdoTn0CZN3NNBHw9eHs.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/IsdoTn0CZN3NNBHw9eHs.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "f1988be9-75be-496c-8067-2631f474d50c": {
+      "id": "f1988be9-75be-496c-8067-2631f474d50c",
+      "name": "tem_benchmark/masks/JbZdraW8jUWOkWYenUQW.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/JbZdraW8jUWOkWYenUQW.tiff",
+      "size_in_bytes": 1142528,
+      "attributes": {}
+    },
+    "8dc7010c-040c-40f4-be77-f15a1603092c": {
+      "id": "8dc7010c-040c-40f4-be77-f15a1603092c",
+      "name": "tem_benchmark/masks/KDdqT7pjt4RB6DP9YhBv.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/KDdqT7pjt4RB6DP9YhBv.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "b388339c-bde6-461d-b9d7-9efbe6668f18": {
+      "id": "b388339c-bde6-461d-b9d7-9efbe6668f18",
+      "name": "tem_benchmark/masks/KYJvyQylQ6GoiyoABzCi.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/KYJvyQylQ6GoiyoABzCi.tiff",
+      "size_in_bytes": 4248464,
+      "attributes": {}
+    },
+    "c5583526-2cd5-4477-a900-5aef716e6d65": {
+      "id": "c5583526-2cd5-4477-a900-5aef716e6d65",
+      "name": "tem_benchmark/masks/MTeOXdixYD6o3ysTjtlY.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/MTeOXdixYD6o3ysTjtlY.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "ca86963e-0e62-4ff9-a46a-b6f5ec3a06aa": {
+      "id": "ca86963e-0e62-4ff9-a46a-b6f5ec3a06aa",
+      "name": "tem_benchmark/masks/MWyu8XxfJUz0tPpjMG68.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/MWyu8XxfJUz0tPpjMG68.tiff",
+      "size_in_bytes": 3309440,
+      "attributes": {}
+    },
+    "18ad3fa1-1ebf-46a1-af44-f456334bfa5f": {
+      "id": "18ad3fa1-1ebf-46a1-af44-f456334bfa5f",
+      "name": "tem_benchmark/masks/N9aIKs7lUVsYd6bT3LxC.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/N9aIKs7lUVsYd6bT3LxC.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "a2aa0e34-5aca-4d28-aae0-69c8d630219e": {
+      "id": "a2aa0e34-5aca-4d28-aae0-69c8d630219e",
+      "name": "tem_benchmark/masks/NFlQQXCuLN49baKGNHc8.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/NFlQQXCuLN49baKGNHc8.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "35a0a7c8-17e5-4826-964d-e52fdd0fd969": {
+      "id": "35a0a7c8-17e5-4826-964d-e52fdd0fd969",
+      "name": "tem_benchmark/masks/NWNws2Vo4AQhIw579f4E.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/NWNws2Vo4AQhIw579f4E.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "0b0629f8-b975-4b4e-8b7c-587210d5312f": {
+      "id": "0b0629f8-b975-4b4e-8b7c-587210d5312f",
+      "name": "tem_benchmark/masks/NpIsioJcraoQ7UM5w5KA.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/NpIsioJcraoQ7UM5w5KA.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "fc2fcbf7-69fd-45d1-b36e-f5dc09a3b121": {
+      "id": "fc2fcbf7-69fd-45d1-b36e-f5dc09a3b121",
+      "name": "tem_benchmark/masks/P4f6REHlY0j5oPr8hyFr.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/P4f6REHlY0j5oPr8hyFr.tiff",
+      "size_in_bytes": 655088,
+      "attributes": {}
+    },
+    "3c610330-a929-4aae-b81c-077dc209f076": {
+      "id": "3c610330-a929-4aae-b81c-077dc209f076",
+      "name": "tem_benchmark/masks/PRV36TemoPe3oPNL0RXZ.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/PRV36TemoPe3oPNL0RXZ.tiff",
+      "size_in_bytes": 4580072,
+      "attributes": {}
+    },
+    "4ee396a7-2abb-48db-b4f4-4005f14bc701": {
+      "id": "4ee396a7-2abb-48db-b4f4-4005f14bc701",
+      "name": "tem_benchmark/masks/QLwSiZlPfFaKn9UkVw5A.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/QLwSiZlPfFaKn9UkVw5A.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "bcc3fd9a-a9dc-4f2d-b991-ece599419acf": {
+      "id": "bcc3fd9a-a9dc-4f2d-b991-ece599419acf",
+      "name": "tem_benchmark/masks/QQZlSgIkiL7OdZ2a8oIm.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/QQZlSgIkiL7OdZ2a8oIm.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "908f2a2f-236a-4d2f-a523-0ee1b78f9002": {
+      "id": "908f2a2f-236a-4d2f-a523-0ee1b78f9002",
+      "name": "tem_benchmark/masks/QWlbQZ1v00zxmk2Fp3Le.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/QWlbQZ1v00zxmk2Fp3Le.tiff",
+      "size_in_bytes": 1971272,
+      "attributes": {}
+    },
+    "e592efde-2115-4e5e-8d57-f5c9bcd87571": {
+      "id": "e592efde-2115-4e5e-8d57-f5c9bcd87571",
+      "name": "tem_benchmark/masks/QWqaLBDT0uuxxNX25kP9.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/QWqaLBDT0uuxxNX25kP9.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "f3c7150b-31ee-4ca8-834d-0e51c6f7289f": {
+      "id": "f3c7150b-31ee-4ca8-834d-0e51c6f7289f",
+      "name": "tem_benchmark/masks/QsP5DBmv2NYg8LUlw8b1.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/QsP5DBmv2NYg8LUlw8b1.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "7f538692-8d71-4993-88f9-2f5b794dccf2": {
+      "id": "7f538692-8d71-4993-88f9-2f5b794dccf2",
+      "name": "tem_benchmark/masks/R6p8J6wCSmn3aStj4GHv.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/R6p8J6wCSmn3aStj4GHv.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "3028a2b1-59bc-4efa-8eee-57aef420c99d": {
+      "id": "3028a2b1-59bc-4efa-8eee-57aef420c99d",
+      "name": "tem_benchmark/masks/RoECvy0RbILoKiv8jYab.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/RoECvy0RbILoKiv8jYab.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "6e3c6826-9eb5-44f5-8d1c-e91741834195": {
+      "id": "6e3c6826-9eb5-44f5-8d1c-e91741834195",
+      "name": "tem_benchmark/masks/SXnwBMNzR18D8sKSjh8g.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/SXnwBMNzR18D8sKSjh8g.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "195bc498-57b9-48c5-88c8-94bb48d23de2": {
+      "id": "195bc498-57b9-48c5-88c8-94bb48d23de2",
+      "name": "tem_benchmark/masks/TCzgvIZVHqNFtdJEPaXf.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/TCzgvIZVHqNFtdJEPaXf.tiff",
+      "size_in_bytes": 3235584,
+      "attributes": {}
+    },
+    "48e216c2-fcae-41db-b4ad-588ea8e30da1": {
+      "id": "48e216c2-fcae-41db-b4ad-588ea8e30da1",
+      "name": "tem_benchmark/masks/TbVlEbkOaXvgqXuOC2y5.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/TbVlEbkOaXvgqXuOC2y5.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "388521e6-1320-4d43-8597-2ee49ac07b3c": {
+      "id": "388521e6-1320-4d43-8597-2ee49ac07b3c",
+      "name": "tem_benchmark/masks/UH2Xa2sqyug07qibeLI2.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/UH2Xa2sqyug07qibeLI2.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "d475bff2-9560-49aa-ad4b-82160a59598d": {
+      "id": "d475bff2-9560-49aa-ad4b-82160a59598d",
+      "name": "tem_benchmark/masks/UTbbCmNhBbRwzOznV6eM.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/UTbbCmNhBbRwzOznV6eM.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "8738dbbc-c2ea-4864-869f-3781b779623c": {
+      "id": "8738dbbc-c2ea-4864-869f-3781b779623c",
+      "name": "tem_benchmark/masks/Ub2PGMk15slpiDOMy6gd.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/Ub2PGMk15slpiDOMy6gd.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "050082d9-eabf-4bf9-8c00-05cae17f8a0f": {
+      "id": "050082d9-eabf-4bf9-8c00-05cae17f8a0f",
+      "name": "tem_benchmark/masks/UuyHhnn7MjnSClcZPBAG.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/UuyHhnn7MjnSClcZPBAG.tiff",
+      "size_in_bytes": 3011072,
+      "attributes": {}
+    },
+    "7b388728-935d-46ac-9aa2-6066f9674efc": {
+      "id": "7b388728-935d-46ac-9aa2-6066f9674efc",
+      "name": "tem_benchmark/masks/V52bj9CYW97AUqevB2Rv.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/V52bj9CYW97AUqevB2Rv.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "b56badb4-09f4-4321-8ada-b44d97926ba4": {
+      "id": "b56badb4-09f4-4321-8ada-b44d97926ba4",
+      "name": "tem_benchmark/masks/VFu9kl8plvKxrBEwRfhL.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/VFu9kl8plvKxrBEwRfhL.tiff",
+      "size_in_bytes": 3834128,
+      "attributes": {}
+    },
+    "96e4fba0-5e46-4c8c-9f7a-2106e3bb725d": {
+      "id": "96e4fba0-5e46-4c8c-9f7a-2106e3bb725d",
+      "name": "tem_benchmark/masks/VcJ1fV2RlrJrmLHIzdIv.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/VcJ1fV2RlrJrmLHIzdIv.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "ad9bc702-fb4e-4cc9-8116-316c0078b818": {
+      "id": "ad9bc702-fb4e-4cc9-8116-316c0078b818",
+      "name": "tem_benchmark/masks/WCqmS6R1MFjZfQXMEbov.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/WCqmS6R1MFjZfQXMEbov.tiff",
+      "size_in_bytes": 2067792,
+      "attributes": {}
+    },
+    "4fa59f38-3a44-401a-9184-c68dca59069e": {
+      "id": "4fa59f38-3a44-401a-9184-c68dca59069e",
+      "name": "tem_benchmark/masks/X1DAYM5MVaMXPhpeeTBT.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/X1DAYM5MVaMXPhpeeTBT.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "d60b760d-7d70-4919-998a-a73457d4a10c": {
+      "id": "d60b760d-7d70-4919-998a-a73457d4a10c",
+      "name": "tem_benchmark/masks/XsisEi7EmDiq7esbhl3k.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/XsisEi7EmDiq7esbhl3k.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "c045c4ec-c017-4f67-9a98-f866e5d08bca": {
+      "id": "c045c4ec-c017-4f67-9a98-f866e5d08bca",
+      "name": "tem_benchmark/masks/XzLxoE9qQ3O9Gq28iveF.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/XzLxoE9qQ3O9Gq28iveF.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "7aac84b9-c52b-49be-8c03-693bc86bde04": {
+      "id": "7aac84b9-c52b-49be-8c03-693bc86bde04",
+      "name": "tem_benchmark/masks/Y5Uy1ACZO4MkqTvSzJcS.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/Y5Uy1ACZO4MkqTvSzJcS.tiff",
+      "size_in_bytes": 1962272,
+      "attributes": {}
+    },
+    "2610a256-ce4a-4e64-9c00-597eda792147": {
+      "id": "2610a256-ce4a-4e64-9c00-597eda792147",
+      "name": "tem_benchmark/masks/YnjZLcFb5mRSIQR7oTJ1.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/YnjZLcFb5mRSIQR7oTJ1.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "3ed706c3-9546-4a8f-8164-407100ef6baa": {
+      "id": "3ed706c3-9546-4a8f-8164-407100ef6baa",
+      "name": "tem_benchmark/masks/aLriAAXSpMzI1tSLzl05.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/aLriAAXSpMzI1tSLzl05.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "00423dc4-6c51-4546-8d6a-e33609d335eb": {
+      "id": "00423dc4-6c51-4546-8d6a-e33609d335eb",
+      "name": "tem_benchmark/masks/bUsTjDOJHiHMPCNIWkuT.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/bUsTjDOJHiHMPCNIWkuT.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "5c8cb6c4-011b-4844-8df3-ea3e69d28780": {
+      "id": "5c8cb6c4-011b-4844-8df3-ea3e69d28780",
+      "name": "tem_benchmark/masks/ch1HZ72XmfK9rD5K40QW.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/ch1HZ72XmfK9rD5K40QW.tiff",
+      "size_in_bytes": 3437904,
+      "attributes": {}
+    },
+    "fbca70a7-7d85-4a04-af9d-c91bff9a0fbf": {
+      "id": "fbca70a7-7d85-4a04-af9d-c91bff9a0fbf",
+      "name": "tem_benchmark/masks/cwpw4Zu4rqVzbTMPhql2.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/cwpw4Zu4rqVzbTMPhql2.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "33b5869b-99fd-457e-a60c-4cb478a84456": {
+      "id": "33b5869b-99fd-457e-a60c-4cb478a84456",
+      "name": "tem_benchmark/masks/d2Cvt7UfKPIAnaJGlKpw.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/d2Cvt7UfKPIAnaJGlKpw.tiff",
+      "size_in_bytes": 3380336,
+      "attributes": {}
+    },
+    "01f2616e-c82b-4ef7-a844-750346467586": {
+      "id": "01f2616e-c82b-4ef7-a844-750346467586",
+      "name": "tem_benchmark/masks/d7McLI44TDhNmnd1QSpo.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/d7McLI44TDhNmnd1QSpo.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "adac8a79-db7e-41aa-b699-6269c1b47cf8": {
+      "id": "adac8a79-db7e-41aa-b699-6269c1b47cf8",
+      "name": "tem_benchmark/masks/dYaOkBZPfpE3oHiplIst.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/dYaOkBZPfpE3oHiplIst.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "4cb65fbc-0e3d-4c04-884c-5206bb6aedfe": {
+      "id": "4cb65fbc-0e3d-4c04-884c-5206bb6aedfe",
+      "name": "tem_benchmark/masks/e8mrOPbV0mqJZ5L7xY8c.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/e8mrOPbV0mqJZ5L7xY8c.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "3cd40217-9061-46f4-886a-f96d994cec1b": {
+      "id": "3cd40217-9061-46f4-886a-f96d994cec1b",
+      "name": "tem_benchmark/masks/eL79mWeRWlqFAqOO6w8o.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/eL79mWeRWlqFAqOO6w8o.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "cc2a671e-eab9-4624-bdff-22186543507f": {
+      "id": "cc2a671e-eab9-4624-bdff-22186543507f",
+      "name": "tem_benchmark/masks/ghAKYp44DzBUhlyn7Kec.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/ghAKYp44DzBUhlyn7Kec.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "d589a66b-cf28-46e3-981d-5c3d27b06ea4": {
+      "id": "d589a66b-cf28-46e3-981d-5c3d27b06ea4",
+      "name": "tem_benchmark/masks/gxdh9YGZMJUB58YvyzgM.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/gxdh9YGZMJUB58YvyzgM.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "3b3d40ca-959b-46aa-9b29-9b68fdbc3f61": {
+      "id": "3b3d40ca-959b-46aa-9b29-9b68fdbc3f61",
+      "name": "tem_benchmark/masks/hR5EYnvM2Ysjfddi9ZTt.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/hR5EYnvM2Ysjfddi9ZTt.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "a86768e9-81f2-4821-8992-3b4a381c1fec": {
+      "id": "a86768e9-81f2-4821-8992-3b4a381c1fec",
+      "name": "tem_benchmark/masks/iDXfFDvQLRHsB4XZHb3A.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/iDXfFDvQLRHsB4XZHb3A.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "2c4e794f-234d-4a56-8968-857295ca9a76": {
+      "id": "2c4e794f-234d-4a56-8968-857295ca9a76",
+      "name": "tem_benchmark/masks/iidFXTWegya1bm1hl5to.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/iidFXTWegya1bm1hl5to.tiff",
+      "size_in_bytes": 5529872,
+      "attributes": {}
+    },
+    "d1b7da00-f96f-40b3-ad7a-e7645e9ec0b2": {
+      "id": "d1b7da00-f96f-40b3-ad7a-e7645e9ec0b2",
+      "name": "tem_benchmark/masks/j1k88xV7tmKNMLM4bj1h.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/j1k88xV7tmKNMLM4bj1h.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "5869e0c8-0206-4702-a5b1-90c0b2284e54": {
+      "id": "5869e0c8-0206-4702-a5b1-90c0b2284e54",
+      "name": "tem_benchmark/masks/k0Ij8iyjBDimmOPwtFHL.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/k0Ij8iyjBDimmOPwtFHL.tiff",
+      "size_in_bytes": 1878272,
+      "attributes": {}
+    },
+    "67801821-9415-4e57-aad0-297416d2440a": {
+      "id": "67801821-9415-4e57-aad0-297416d2440a",
+      "name": "tem_benchmark/masks/k4Uw1csHJKTrviecgXyz.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/k4Uw1csHJKTrviecgXyz.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "d5c653ca-9d0d-465a-a5a5-4040e164fae0": {
+      "id": "d5c653ca-9d0d-465a-a5a5-4040e164fae0",
+      "name": "tem_benchmark/masks/kBnMAlFJtapfTpTu5iHL.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/kBnMAlFJtapfTpTu5iHL.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "659b90d9-91aa-4f3c-b5c0-a4f7b5801d10": {
+      "id": "659b90d9-91aa-4f3c-b5c0-a4f7b5801d10",
+      "name": "tem_benchmark/masks/kF3EaTAoYeTRf12uLsIX.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/kF3EaTAoYeTRf12uLsIX.tiff",
+      "size_in_bytes": 6960272,
+      "attributes": {}
+    },
+    "a7ee3599-a612-4647-952d-0805a88eb4d5": {
+      "id": "a7ee3599-a612-4647-952d-0805a88eb4d5",
+      "name": "tem_benchmark/masks/lCH8UM6Mv2AG7zDPrqHA.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/lCH8UM6Mv2AG7zDPrqHA.tiff",
+      "size_in_bytes": 3433520,
+      "attributes": {}
+    },
+    "ad570ab7-5175-4e3d-8e9d-eb78ba92e04a": {
+      "id": "ad570ab7-5175-4e3d-8e9d-eb78ba92e04a",
+      "name": "tem_benchmark/masks/lw3ENjwOInSmgeNNY0Qk.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/lw3ENjwOInSmgeNNY0Qk.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "dc993a61-7e97-4544-9520-caf48b115536": {
+      "id": "dc993a61-7e97-4544-9520-caf48b115536",
+      "name": "tem_benchmark/masks/ngygM944aKxBq6rf72Zl.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/ngygM944aKxBq6rf72Zl.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "8b1bb3cf-2d22-4aec-8f48-7ede997dfbbb": {
+      "id": "8b1bb3cf-2d22-4aec-8f48-7ede997dfbbb",
+      "name": "tem_benchmark/masks/pLeNHL0RTZwYh5EwN7up.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/pLeNHL0RTZwYh5EwN7up.tiff",
+      "size_in_bytes": 282512,
+      "attributes": {}
+    },
+    "62bbf913-73eb-46df-aaec-50991f895056": {
+      "id": "62bbf913-73eb-46df-aaec-50991f895056",
+      "name": "tem_benchmark/masks/pu4kmugMyXvbFtAgLogm.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/pu4kmugMyXvbFtAgLogm.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "c82017d4-4f04-4a4b-993b-0a12c078d95f": {
+      "id": "c82017d4-4f04-4a4b-993b-0a12c078d95f",
+      "name": "tem_benchmark/masks/qOA9ml35XYXQjtWmFvvg.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/qOA9ml35XYXQjtWmFvvg.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "fb097334-1f06-47b2-b28a-fa89c90f3117": {
+      "id": "fb097334-1f06-47b2-b28a-fa89c90f3117",
+      "name": "tem_benchmark/masks/qqRmOpdujNXIqEuWrFLk.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/qqRmOpdujNXIqEuWrFLk.tiff",
+      "size_in_bytes": 4554928,
+      "attributes": {}
+    },
+    "88e92f14-9989-45bb-9036-e0a0e8159e19": {
+      "id": "88e92f14-9989-45bb-9036-e0a0e8159e19",
+      "name": "tem_benchmark/masks/qs9OOX5WsQhRE3Kg2rpU.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/qs9OOX5WsQhRE3Kg2rpU.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "3773b7d2-678c-47a6-b02f-60dcc39b9f33": {
+      "id": "3773b7d2-678c-47a6-b02f-60dcc39b9f33",
+      "name": "tem_benchmark/masks/sN90grldkJUpRIAJ64Bz.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/sN90grldkJUpRIAJ64Bz.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "d0288c6f-f814-4c86-9610-12962024295f": {
+      "id": "d0288c6f-f814-4c86-9610-12962024295f",
+      "name": "tem_benchmark/masks/sXnNKReR54pzKRZ5rpfP.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/sXnNKReR54pzKRZ5rpfP.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "8b488a07-bb22-4706-894d-4e4b5b3faf3a": {
+      "id": "8b488a07-bb22-4706-894d-4e4b5b3faf3a",
+      "name": "tem_benchmark/masks/snDIBSvwQMaqGKBbGF6V.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/snDIBSvwQMaqGKBbGF6V.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "30283f2f-52ed-4d41-a431-3ff19af9d228": {
+      "id": "30283f2f-52ed-4d41-a431-3ff19af9d228",
+      "name": "tem_benchmark/masks/uBBsOocNXDq5poteflbh.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/uBBsOocNXDq5poteflbh.tiff",
+      "size_in_bytes": 1154832,
+      "attributes": {}
+    },
+    "bf42fb2c-80e8-41ef-a335-4ed5fbcce3a9": {
+      "id": "bf42fb2c-80e8-41ef-a335-4ed5fbcce3a9",
+      "name": "tem_benchmark/masks/v64IdYxtp9vzYzojtxir.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/v64IdYxtp9vzYzojtxir.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "4628b0e1-b6e1-46c1-bd65-adb81f2f0380": {
+      "id": "4628b0e1-b6e1-46c1-bd65-adb81f2f0380",
+      "name": "tem_benchmark/masks/vziaz0e1YZ9BJHIY7tJV.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/vziaz0e1YZ9BJHIY7tJV.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "40c97a32-6e60-423a-8ba9-75c0956ffa40": {
+      "id": "40c97a32-6e60-423a-8ba9-75c0956ffa40",
+      "name": "tem_benchmark/masks/xHSMEPuKIY4T3X4UURT5.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/xHSMEPuKIY4T3X4UURT5.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "0c7a215e-b408-496c-a6e2-c21baf756ae9": {
+      "id": "0c7a215e-b408-496c-a6e2-c21baf756ae9",
+      "name": "tem_benchmark/masks/yayA9ov0gTMPe5oUDmCY.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/yayA9ov0gTMPe5oUDmCY.tiff",
+      "size_in_bytes": 1836008,
+      "attributes": {}
+    },
+    "1160dd0f-dac5-4af5-b041-757d5f38d056": {
+      "id": "1160dd0f-dac5-4af5-b041-757d5f38d056",
+      "name": "tem_benchmark/masks/yn4W2WociugOlXWN83Ps.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/yn4W2WociugOlXWN83Ps.tiff",
+      "size_in_bytes": 4194576,
+      "attributes": {}
+    },
+    "acf77ac3-ed4c-40eb-8952-2042ce35e95f": {
+      "id": "acf77ac3-ed4c-40eb-8952-2042ce35e95f",
+      "name": "tem_benchmark/masks/zRf1ZWOS08TxjOvROo86.tiff",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/10982/data/tem_benchmark/masks/zRf1ZWOS08TxjOvROo86.tiff",
+      "size_in_bytes": 4194576,
       "attributes": {}
     }
   },
+  "images": {},
   "archive_files": {},
   "other_files": {},
+  "image_aliases": {},
   "tags": []
 }

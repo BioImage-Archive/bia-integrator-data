@@ -1,0 +1,2847 @@
+{
+  "accession_id": "S-BIAD623",
+  "title": "DrugMatrix Pathology Images",
+  "description": "The DrugMatrix® database is a unique toxicogenomic reference database that contains data on over 600 drugs, chemicals, toxicants, and biochemical reagents. These compounds have been extensively curated and profiled using large-scale gene expression analysis as well as pharmacologic activity (MDS Pharma assays) and in-life evaluations, including haematology, clinical chemistry and histopathology. This is the dataset of histopathology images with links to ChEMBL DrugMatrix entries.",
+  "authors": [
+    {
+      "name": "Fiona Hunter"
+    },
+    {
+      "name": "Aybuke Kupcu Yoldas"
+    }
+  ],
+  "organism": "Unknown",
+  "release_date": "2023-03-09",
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "file_references": {
+    "72048ee4-520e-4b17-b7e6-2bee3a697ee6": {
+      "id": "72048ee4-520e-4b17-b7e6-2bee3a697ee6",
+      "name": "DrugMatrix/E14862.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14862.JPG",
+      "size_in_bytes": 229124,
+      "attributes": {
+        "Diagnosis": "\"CENTRILOBULAR, INFLAMMATORY CELL INFILTRATE, MIXED CELL\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "1.25",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Liver"
+      }
+    },
+    "bdcf20f0-ee5e-4f46-933b-d37999f4d945": {
+      "id": "bdcf20f0-ee5e-4f46-933b-d37999f4d945",
+      "name": "DrugMatrix/E14863.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14863.JPG",
+      "size_in_bytes": 272101,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, DEGENERATION\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "52d68d18-9fd4-4d8f-8ac6-584eb9b66b83": {
+      "id": "52d68d18-9fd4-4d8f-8ac6-584eb9b66b83",
+      "name": "DrugMatrix/E14864.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14864.JPG",
+      "size_in_bytes": 296519,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, PERIPORTAL, GLYCOGEN ACCUMULATION \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S010924-010",
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "Corn Oil",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Vehicle Control",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "e2ce49e3-6aec-4187-afdd-ec10b599ab55": {
+      "id": "e2ce49e3-6aec-4187-afdd-ec10b599ab55",
+      "name": "DrugMatrix/E14866.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14866.JPG",
+      "size_in_bytes": 310573,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, PERIPORTAL, GLYCOGEN ACCUMULATION \"",
+        "SEVERITY": "4",
+        "ANIMAL_ID": "S011127-155",
+        "TEST_ARTICLE": "Ketoconazole",
+        "Dose_mg_per_kg_y": "114",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "2521fff5-ca4e-40b6-92f9-3d81ad8b56d8": {
+      "id": "2521fff5-ca4e-40b6-92f9-3d81ad8b56d8",
+      "name": "DrugMatrix/E14867.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14867.JPG",
+      "size_in_bytes": 275710,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, HYPERTROPHY\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "a5448fd6-1885-44ff-8a47-cd7acaedbfb3": {
+      "id": "a5448fd6-1885-44ff-8a47-cd7acaedbfb3",
+      "name": "DrugMatrix/E14868.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14868.JPG",
+      "size_in_bytes": 289220,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, LIPID ACCUMULATION, MICROVESICULAR\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "aaa67c9d-f05d-4e95-8d24-eaa62203705e": {
+      "id": "aaa67c9d-f05d-4e95-8d24-eaa62203705e",
+      "name": "DrugMatrix/E14869.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14869.JPG",
+      "size_in_bytes": 262780,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, NECROSIS, APOPTOTIC\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "78",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Liver"
+      }
+    },
+    "2cd411ed-ef21-4ef6-bff2-629bf75252a5": {
+      "id": "2cd411ed-ef21-4ef6-bff2-629bf75252a5",
+      "name": "DrugMatrix/E14870.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14870.JPG",
+      "size_in_bytes": 258654,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, NECROSIS, APOPTOTIC\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "a482736f-9f97-4173-acc2-83fa15c7b3e1": {
+      "id": "a482736f-9f97-4173-acc2-83fa15c7b3e1",
+      "name": "DrugMatrix/E14871.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14871.JPG",
+      "size_in_bytes": 230800,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, NONZONAL, DEGENERATION \"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": "S020624-118",
+        "TEST_ARTICLE": "Anastrozole",
+        "Dose_mg_per_kg_y": "400",
+        "VEHICLE": ".5 % CMC",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "c5ea1c33-cb92-4bd0-ba36-d0b37c1e462e": {
+      "id": "c5ea1c33-cb92-4bd0-ba36-d0b37c1e462e",
+      "name": "DrugMatrix/E14872.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14872.JPG",
+      "size_in_bytes": 260355,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, NONZONAL, INCREASED MITOSES\"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": "S011030-113",
+        "TEST_ARTICLE": "Simvastatin",
+        "Dose_mg_per_kg_y": "1200",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "f148c942-e478-4a9e-a733-d476294eed90": {
+      "id": "f148c942-e478-4a9e-a733-d476294eed90",
+      "name": "DrugMatrix/E14873.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14873.JPG",
+      "size_in_bytes": 253690,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE. NONZONAL, INCREASED MITOSES\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "03fcb24c-177e-408d-8d56-0f802459b3b2": {
+      "id": "03fcb24c-177e-408d-8d56-0f802459b3b2",
+      "name": "DrugMatrix/E14874.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14874.JPG",
+      "size_in_bytes": 271984,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, NONZONAL, NECROSIS, ONCOCYTIC \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S011106-035",
+        "TEST_ARTICLE": "Fluphenazine",
+        "Dose_mg_per_kg_y": "2.5",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "93abce7b-7539-4ed1-a7d2-a801f6968434": {
+      "id": "93abce7b-7539-4ed1-a7d2-a801f6968434",
+      "name": "DrugMatrix/E14875.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14875.JPG",
+      "size_in_bytes": 294340,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, NONZONAL, NECROSIS, ONCOCYTIC \"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": "S010924-035",
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "Saline",
+        "VEHICLE": "100 % Saline",
+        "TREATMENT": "Vehicle Control",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "03c5b313-862a-4bb8-8b48-a5b1037a1421": {
+      "id": "03c5b313-862a-4bb8-8b48-a5b1037a1421",
+      "name": "DrugMatrix/E14881.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14881.JPG",
+      "size_in_bytes": 259958,
+      "attributes": {
+        "Diagnosis": "NORMAL",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "1500",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Liver"
+      }
+    },
+    "dc50d829-6bf8-4ee3-811b-67974131cfd1": {
+      "id": "dc50d829-6bf8-4ee3-811b-67974131cfd1",
+      "name": "DrugMatrix/E14883.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14883.JPG",
+      "size_in_bytes": 247226,
+      "attributes": {
+        "Diagnosis": "AUTOLYSIS",
+        "SEVERITY": "2",
+        "ANIMAL_ID": "S011023-260",
+        "TEST_ARTICLE": "Naproxen",
+        "Dose_mg_per_kg_y": "267",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "3524e575-6ebf-47d7-9e24-1b11263a8294": {
+      "id": "3524e575-6ebf-47d7-9e24-1b11263a8294",
+      "name": "DrugMatrix/E14884.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14884.JPG",
+      "size_in_bytes": 237643,
+      "attributes": {
+        "Diagnosis": "BILE DUCT HYPERPLASIA ",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S010924-104",
+        "TEST_ARTICLE": "1-Naphthyl isothiocyanate",
+        "Dose_mg_per_kg_y": "30",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "b14593de-b1f1-463a-b4cf-3ed71f517cfe": {
+      "id": "b14593de-b1f1-463a-b4cf-3ed71f517cfe",
+      "name": "DrugMatrix/E14885.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14885.JPG",
+      "size_in_bytes": 229702,
+      "attributes": {
+        "Diagnosis": "BILE DUCT HYPERPLASIA ",
+        "SEVERITY": "2",
+        "ANIMAL_ID": "S010924-105",
+        "TEST_ARTICLE": "1-Naphthyl isothiocyanate",
+        "Dose_mg_per_kg_y": "30",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "10246221-6b1d-4cad-b202-c9ab80052710": {
+      "id": "10246221-6b1d-4cad-b202-c9ab80052710",
+      "name": "DrugMatrix/E14886.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14886.JPG",
+      "size_in_bytes": 263347,
+      "attributes": {
+        "Diagnosis": "BILE DUCT HYPERPLASIA ",
+        "SEVERITY": "3",
+        "ANIMAL_ID": "S010924-106",
+        "TEST_ARTICLE": "1-Naphthyl isothiocyanate",
+        "Dose_mg_per_kg_y": "30",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "3642acf4-ed3b-4525-890f-a66a2babfce9": {
+      "id": "3642acf4-ed3b-4525-890f-a66a2babfce9",
+      "name": "DrugMatrix/E14888.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14888.JPG",
+      "size_in_bytes": 260828,
+      "attributes": {
+        "Diagnosis": "\"BILE DUCT NECROSIS, ONCOCTIC\"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "750",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Liver"
+      }
+    },
+    "4acf9d51-68b9-411f-b26e-9deafb0c5c11": {
+      "id": "4acf9d51-68b9-411f-b26e-9deafb0c5c11",
+      "name": "DrugMatrix/E14889.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14889.JPG",
+      "size_in_bytes": 194781,
+      "attributes": {
+        "Diagnosis": "\"CAPSULE, INFLAMMATORY CELL INFILTRATE, MIXED CELL \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "R021008-120",
+        "TEST_ARTICLE": "Etodolac",
+        "Dose_mg_per_kg_y": "24",
+        "VEHICLE": ".5 % CMC",
+        "TREATMENT": "Chemical",
+        "SEX": null,
+        "TISSUE": "Liver"
+      }
+    },
+    "55cf1b60-03e5-4502-b03a-bd467f9f78b2": {
+      "id": "55cf1b60-03e5-4502-b03a-bd467f9f78b2",
+      "name": "DrugMatrix/E14894.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14894.JPG",
+      "size_in_bytes": 190539,
+      "attributes": {
+        "Diagnosis": "\"CAPSULE, INFLAMMATORY CELL INFILTRATE, MIXED CELL \"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": "S020205-166",
+        "TEST_ARTICLE": "Nitrendipine",
+        "Dose_mg_per_kg_y": "1100",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "e91ed0e5-9e3f-49e1-a73f-fa17307066e8": {
+      "id": "e91ed0e5-9e3f-49e1-a73f-fa17307066e8",
+      "name": "DrugMatrix/E14897.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14897.JPG",
+      "size_in_bytes": 299592,
+      "attributes": {
+        "Diagnosis": "\"CAPSULE, INFLAMMATORY CELL INFILTRATE, MIXED CELL \"",
+        "SEVERITY": "3",
+        "ANIMAL_ID": "S030120-172",
+        "TEST_ARTICLE": "Ketorolac",
+        "Dose_mg_per_kg_y": "48",
+        "VEHICLE": "100 % Water",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "5c7c6422-aedf-4fb6-b24d-16c83e238946": {
+      "id": "5c7c6422-aedf-4fb6-b24d-16c83e238946",
+      "name": "DrugMatrix/E14900.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14900.JPG",
+      "size_in_bytes": 153293,
+      "attributes": {
+        "Diagnosis": "\"CAPSULE, MESOTHELIAL CELL, HYPERPLASIA \"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": "S030120-042",
+        "TEST_ARTICLE": "Allyl alcohol",
+        "Dose_mg_per_kg_y": "32",
+        "VEHICLE": "100 % Saline",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "ef22c879-8be4-48d0-a12c-de7b09abf2db": {
+      "id": "ef22c879-8be4-48d0-a12c-de7b09abf2db",
+      "name": "DrugMatrix/E14901.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14901.JPG",
+      "size_in_bytes": 161133,
+      "attributes": {
+        "Diagnosis": "\"CAPSULE, THROMBUS \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S010924-103",
+        "TEST_ARTICLE": "1-Naphthyl isothiocyanate",
+        "Dose_mg_per_kg_y": "30",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "3e9cdd3b-ea25-46e0-8c30-9ec8b0a278fa": {
+      "id": "3e9cdd3b-ea25-46e0-8c30-9ec8b0a278fa",
+      "name": "DrugMatrix/E14903.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14903.JPG",
+      "size_in_bytes": 273161,
+      "attributes": {
+        "Diagnosis": "\"CENTRILOBULAR, INFLAMMATORY CELL INFILTRATE, LYMPHOID \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S020122-035",
+        "TEST_ARTICLE": "Bis(2-ethylhexyl) phthalate",
+        "Dose_mg_per_kg_y": "100",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "7c542061-9a11-48dd-82fd-53015df566ee": {
+      "id": "7c542061-9a11-48dd-82fd-53015df566ee",
+      "name": "DrugMatrix/E14905.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14905.JPG",
+      "size_in_bytes": 277398,
+      "attributes": {
+        "Diagnosis": "\"CENTRILOBULAR, INFLAMMATORY CELL INFILTRATE, LYMPHOID\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "eb51cce9-6958-4ff5-9edb-2502b3cae0d4": {
+      "id": "eb51cce9-6958-4ff5-9edb-2502b3cae0d4",
+      "name": "DrugMatrix/E14907.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14907.JPG",
+      "size_in_bytes": 221462,
+      "attributes": {
+        "Diagnosis": "\"CENTRILOBULAR, INFLAMMATORY CELL INFILTRATE, MIXED CELL\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "e19b2f5c-ed83-418e-9b89-48db3cde540e": {
+      "id": "e19b2f5c-ed83-418e-9b89-48db3cde540e",
+      "name": "DrugMatrix/E14910.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14910.JPG",
+      "size_in_bytes": 209267,
+      "attributes": {
+        "Diagnosis": "\"CENTRILOBULAR, INFLAMMATORY CELL INFILTRATE, MIXED CELL\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "4b70eb66-2a7e-40b6-a3d5-9003dcd65539": {
+      "id": "4b70eb66-2a7e-40b6-a3d5-9003dcd65539",
+      "name": "DrugMatrix/E14911.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14911.JPG",
+      "size_in_bytes": 282296,
+      "attributes": {
+        "Diagnosis": "CLEAR CELL FOCUS ",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S020715-203",
+        "TEST_ARTICLE": "Doxapram",
+        "Dose_mg_per_kg_y": "20",
+        "VEHICLE": "100 % Saline",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "fcc9a4c3-d426-42e6-a5fb-7c6c33886c02": {
+      "id": "fcc9a4c3-d426-42e6-a5fb-7c6c33886c02",
+      "name": "DrugMatrix/E14913.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14913.JPG",
+      "size_in_bytes": 254420,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, ATROPHY\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "1291248e-c0b9-4a65-8254-34355b9a681c": {
+      "id": "1291248e-c0b9-4a65-8254-34355b9a681c",
+      "name": "DrugMatrix/E14914.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14914.JPG",
+      "size_in_bytes": 270547,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, CYTOPLASM, EOSINOPHILIA \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S011204-113",
+        "TEST_ARTICLE": "Lomustine",
+        "Dose_mg_per_kg_y": "8.75",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "9dc93810-4563-444a-8b18-36618fd90795": {
+      "id": "9dc93810-4563-444a-8b18-36618fd90795",
+      "name": "DrugMatrix/E14915.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14915.JPG",
+      "size_in_bytes": 238135,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, DEGENERATION\"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S030120-114",
+        "TEST_ARTICLE": "Chloroform",
+        "Dose_mg_per_kg_y": "600",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "45f6ccab-aedb-4457-a2d0-f9b6e3dd897f": {
+      "id": "45f6ccab-aedb-4457-a2d0-f9b6e3dd897f",
+      "name": "DrugMatrix/E14916.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14916.JPG",
+      "size_in_bytes": 245745,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, HYPERTROPHY \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S020617-298",
+        "TEST_ARTICLE": "Rifabutin",
+        "Dose_mg_per_kg_y": "1500",
+        "VEHICLE": ".5 % CMC",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "d0512a19-98db-4f8d-82a3-ef1707d3b080": {
+      "id": "d0512a19-98db-4f8d-82a3-ef1707d3b080",
+      "name": "DrugMatrix/E14917.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14917.JPG",
+      "size_in_bytes": 221699,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, HYPERTROPHY \"",
+        "SEVERITY": "3",
+        "ANIMAL_ID": "S020624-118",
+        "TEST_ARTICLE": "Anastrozole",
+        "Dose_mg_per_kg_y": "400",
+        "VEHICLE": ".5 % CMC",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "8e2ca1f5-3742-4f30-84fa-7d470749092d": {
+      "id": "8e2ca1f5-3742-4f30-84fa-7d470749092d",
+      "name": "DrugMatrix/E14918.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14918.JPG",
+      "size_in_bytes": 261657,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, LIPID ACCUMULATION, MACROVESICULAR\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "1175",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Liver"
+      }
+    },
+    "f498dabc-6511-4dfd-8718-5dea1a21453e": {
+      "id": "f498dabc-6511-4dfd-8718-5dea1a21453e",
+      "name": "DrugMatrix/E14919.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14919.JPG",
+      "size_in_bytes": 315632,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, LIPID ACCUMULATION, MACROVESICULAR\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "7911b13c-02cd-4255-85f1-bb60348a1bc9": {
+      "id": "7911b13c-02cd-4255-85f1-bb60348a1bc9",
+      "name": "DrugMatrix/E14920.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14920.JPG",
+      "size_in_bytes": 304710,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, LIPID ACCUMULATION, MACROVESICULAR \"",
+        "SEVERITY": "4",
+        "ANIMAL_ID": "S010924-084",
+        "TEST_ARTICLE": "Carbon tetrachloride",
+        "Dose_mg_per_kg_y": "1175",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "a9e0df5b-8276-4df9-be02-ee405e0720a4": {
+      "id": "a9e0df5b-8276-4df9-be02-ee405e0720a4",
+      "name": "DrugMatrix/E14922.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14922.JPG",
+      "size_in_bytes": 272250,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, LIPID ACCUMULATION, MICROVESICULAR \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S010924-052",
+        "TEST_ARTICLE": "Carbon tetrachloride",
+        "Dose_mg_per_kg_y": "400",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "bcd36b87-0a46-4d58-b5e6-3a6b39d6ae8c": {
+      "id": "bcd36b87-0a46-4d58-b5e6-3a6b39d6ae8c",
+      "name": "DrugMatrix/E14924.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14924.JPG",
+      "size_in_bytes": 253003,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, LIPID ACCUMULATION, MICROVESICULAR \"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": "S010924-050",
+        "TEST_ARTICLE": "Carbon tetrachloride",
+        "Dose_mg_per_kg_y": "400",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "eec09e0d-2008-4a1a-a85d-3e41dc3a5647": {
+      "id": "eec09e0d-2008-4a1a-a85d-3e41dc3a5647",
+      "name": "DrugMatrix/E14925.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14925.JPG",
+      "size_in_bytes": 246204,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, NECROSIS, APOPTOTIC \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S030120-095",
+        "TEST_ARTICLE": "Acetaminophen",
+        "Dose_mg_per_kg_y": "972",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "fc957c8b-3b54-45de-aa87-fe73dc6674e8": {
+      "id": "fc957c8b-3b54-45de-aa87-fe73dc6674e8",
+      "name": "DrugMatrix/E14926.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14926.JPG",
+      "size_in_bytes": 230681,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, NECROSIS, APOPTOTIC \"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "88cf9393-d069-47cf-9d5c-e7f512004dae": {
+      "id": "88cf9393-d069-47cf-9d5c-e7f512004dae",
+      "name": "DrugMatrix/E14927.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14927.JPG",
+      "size_in_bytes": 263070,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, NECROSIS, ONCOCYTIC \"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": "S010924-263",
+        "TEST_ARTICLE": "\"N,N-Dimethylformamide\"",
+        "Dose_mg_per_kg_y": "700",
+        "VEHICLE": "100 % Saline",
+        "TREATMENT": "Chemical",
+        "SEX": "Female",
+        "TISSUE": "Liver"
+      }
+    },
+    "a4a4f582-f868-4cfe-8ab1-bb2089d48f72": {
+      "id": "a4a4f582-f868-4cfe-8ab1-bb2089d48f72",
+      "name": "DrugMatrix/E14928.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14928.JPG",
+      "size_in_bytes": 288214,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, NECROSIS, ONCOCYTIC\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "7de61c99-620f-4fab-8dc9-ea13b47b11ce": {
+      "id": "7de61c99-620f-4fab-8dc9-ea13b47b11ce",
+      "name": "DrugMatrix/E14929.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14929.JPG",
+      "size_in_bytes": 282694,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, NECROSIS, ONCOCYTIC \"",
+        "SEVERITY": "4",
+        "ANIMAL_ID": "S010924-287",
+        "TEST_ARTICLE": "\"N,N-Dimethylformamide\"",
+        "Dose_mg_per_kg_y": "2100",
+        "VEHICLE": "100 % Saline",
+        "TREATMENT": "Chemical",
+        "SEX": "Female",
+        "TISSUE": "Liver"
+      }
+    },
+    "05e4240b-1871-41de-bd2c-ddfadef9c06a": {
+      "id": "05e4240b-1871-41de-bd2c-ddfadef9c06a",
+      "name": "DrugMatrix/E14930.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14930.JPG",
+      "size_in_bytes": 269165,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, DIFFUSE, CYTOPLASM, EOSINOPHILIA\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "8e94d1dd-b8ba-4c21-ad8d-f8ed3dd2ca37": {
+      "id": "8e94d1dd-b8ba-4c21-ad8d-f8ed3dd2ca37",
+      "name": "DrugMatrix/E14931.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14931.JPG",
+      "size_in_bytes": 247765,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, DIFFUSE, CYTOPLASM, EOSINONHILIA\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "215",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Liver"
+      }
+    },
+    "4a0f5c43-cf12-4d64-a36c-2cb4bb4c2109": {
+      "id": "4a0f5c43-cf12-4d64-a36c-2cb4bb4c2109",
+      "name": "DrugMatrix/E14932.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14932.JPG",
+      "size_in_bytes": 261194,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, DIFFUSE, CYTOPLASM, EOSINOPHILIA\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "502050d3-64fb-4ed3-b67b-07c55f9a360c": {
+      "id": "502050d3-64fb-4ed3-b67b-07c55f9a360c",
+      "name": "DrugMatrix/E14933.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14933.JPG",
+      "size_in_bytes": 266494,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, DIFFUSE, HYPERTROPHY\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "acb5de01-fa16-4ae9-8137-d0ae6917e7a9": {
+      "id": "acb5de01-fa16-4ae9-8137-d0ae6917e7a9",
+      "name": "DrugMatrix/E14934.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14934.JPG",
+      "size_in_bytes": 236074,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, DIFFUSE, HYPERTROPHY \"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": "S011204-201",
+        "TEST_ARTICLE": "Fenofibrate",
+        "Dose_mg_per_kg_y": "215",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "9f2bda81-edbe-4c8a-ab56-d92e0bf3ec0d": {
+      "id": "9f2bda81-edbe-4c8a-ab56-d92e0bf3ec0d",
+      "name": "DrugMatrix/E14935.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14935.JPG",
+      "size_in_bytes": 255419,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, MIDZONAL, LIPID ACCUMULATION, MACROVESICULAR\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "60",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Liver"
+      }
+    },
+    "11330068-bf97-485b-a79e-478600719a69": {
+      "id": "11330068-bf97-485b-a79e-478600719a69",
+      "name": "DrugMatrix/E14936.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14936.JPG",
+      "size_in_bytes": 259254,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, MIDZONAL, LIPID ACCUMULATION, MICROVESICULAR\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "d0722003-4d12-419e-900d-f2283195f415": {
+      "id": "d0722003-4d12-419e-900d-f2283195f415",
+      "name": "DrugMatrix/E14937.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14937.JPG",
+      "size_in_bytes": 264624,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, MIDZONAL, NECROSIS, APOPTOTIC\"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S010924-051",
+        "TEST_ARTICLE": "Carbon tetrachloride",
+        "Dose_mg_per_kg_y": "400",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "ba58778f-02df-44d1-aa0b-76dbbc3b588d": {
+      "id": "ba58778f-02df-44d1-aa0b-76dbbc3b588d",
+      "name": "DrugMatrix/E14938.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14938.JPG",
+      "size_in_bytes": 260011,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, MIDZONAL, NECROSIS, APOPTOTIC\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "fc38bae8-9e95-4232-ae6f-5e0b19af32b6": {
+      "id": "fc38bae8-9e95-4232-ae6f-5e0b19af32b6",
+      "name": "DrugMatrix/E14939.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14939.JPG",
+      "size_in_bytes": 260249,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, NONZONAL, ERYTHROPHAGOCYTOSIS\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "7525f35a-1786-4a9d-afd0-748c537d9912": {
+      "id": "7525f35a-1786-4a9d-afd0-748c537d9912",
+      "name": "DrugMatrix/E14940.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14940.JPG",
+      "size_in_bytes": 264265,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, NONZONAL, INCREASED MITOSES\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "6561dae3-c8ca-49da-94a3-19c7bcfa33c3": {
+      "id": "6561dae3-c8ca-49da-94a3-19c7bcfa33c3",
+      "name": "DrugMatrix/E14941.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14941.JPG",
+      "size_in_bytes": 208154,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, NONZONAL, LIPID ACCUMULATION, MACROVESICULAR \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S011009-154",
+        "TEST_ARTICLE": "Indomethacin",
+        "Dose_mg_per_kg_y": "4.5",
+        "VEHICLE": "100 % Water",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "b47c5768-faea-4e68-9fe2-a9ca7aaf9a1c": {
+      "id": "b47c5768-faea-4e68-9fe2-a9ca7aaf9a1c",
+      "name": "DrugMatrix/E14944.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14944.JPG",
+      "size_in_bytes": 248191,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, NONZONAL, MINERALIZATION\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "c165fc73-439f-4e04-97d8-61757fe21d9a": {
+      "id": "c165fc73-439f-4e04-97d8-61757fe21d9a",
+      "name": "DrugMatrix/E14945.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14945.JPG",
+      "size_in_bytes": 269437,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, NONZONAL, MULTINUCLEATED \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S020819-046",
+        "TEST_ARTICLE": "Benzethonium chloride",
+        "Dose_mg_per_kg_y": "30",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "0fe06656-71a4-4b82-bf86-4f47cd1f0dff": {
+      "id": "0fe06656-71a4-4b82-bf86-4f47cd1f0dff",
+      "name": "DrugMatrix/E14946.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14946.JPG",
+      "size_in_bytes": 248219,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, NONZONAL, NECROSIS, APOPTOTIC\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "1500",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Liver"
+      }
+    },
+    "0b0e726b-a502-4d18-bab8-bd933d07e917": {
+      "id": "0b0e726b-a502-4d18-bab8-bd933d07e917",
+      "name": "DrugMatrix/E14947.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14947.JPG",
+      "size_in_bytes": 242002,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, NONZONAL, NECROSIS, APOPTOTIC \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S011009-083",
+        "TEST_ARTICLE": "Etoposide",
+        "Dose_mg_per_kg_y": "750",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "e1d6b9d1-18f4-4d67-a475-7b90a1c25210": {
+      "id": "e1d6b9d1-18f4-4d67-a475-7b90a1c25210",
+      "name": "DrugMatrix/E14948.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14948.JPG",
+      "size_in_bytes": 265654,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, NONZONAL, NECROSIS, ONCOCYTIC\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "132",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Liver"
+      }
+    },
+    "b2c8a9b4-1ae2-4145-b62b-2216e1eab811": {
+      "id": "b2c8a9b4-1ae2-4145-b62b-2216e1eab811",
+      "name": "DrugMatrix/E14949.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14949.JPG",
+      "size_in_bytes": 284534,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, PERIPORTAL, CYTOPLASM, EOSINOPHILIA \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S011113-046",
+        "TEST_ARTICLE": "beta-Estradiol",
+        "Dose_mg_per_kg_y": "150",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "d0ba8316-0aee-4949-bea9-9c59c835a2cf": {
+      "id": "d0ba8316-0aee-4949-bea9-9c59c835a2cf",
+      "name": "DrugMatrix/E14950.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14950.JPG",
+      "size_in_bytes": 245664,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, PERIPORTAL, CYTOPLASM, EOSINOPHILIA \"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": "R021008-118",
+        "TEST_ARTICLE": "Etodolac",
+        "Dose_mg_per_kg_y": "24",
+        "VEHICLE": ".5 % CMC",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "0f6b50d9-4330-4cc6-9f21-3073218b25ea": {
+      "id": "0f6b50d9-4330-4cc6-9f21-3073218b25ea",
+      "name": "DrugMatrix/E14951.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14951.JPG",
+      "size_in_bytes": 267903,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, PERIPORTAL, CYTOPLASM, EOSINOPHILIA\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "2000",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Liver"
+      }
+    },
+    "69d58599-85fd-4563-8b12-0bdd2f8d657f": {
+      "id": "69d58599-85fd-4563-8b12-0bdd2f8d657f",
+      "name": "DrugMatrix/E14952.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14952.JPG",
+      "size_in_bytes": 280559,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, PERIPORTAL, GLYCOGEN ACCUMULATION \"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": "S020506-021",
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "0.5% CMC",
+        "VEHICLE": ".5 % CMC",
+        "TREATMENT": "Vehicle Control",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "0fa3af14-2596-4725-b9b3-60a57a415250": {
+      "id": "0fa3af14-2596-4725-b9b3-60a57a415250",
+      "name": "DrugMatrix/E14953.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14953.JPG",
+      "size_in_bytes": 294107,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, PERIPORTAL, GLYCOGEN ACCUMULATION\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "43",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Liver"
+      }
+    },
+    "781704c1-3886-46fd-a149-9a3d48869727": {
+      "id": "781704c1-3886-46fd-a149-9a3d48869727",
+      "name": "DrugMatrix/E14954.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14954.JPG",
+      "size_in_bytes": 271109,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, PERIPORTAL, HYPERTROPHY \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S020624-058",
+        "TEST_ARTICLE": "Gemcitabine",
+        "Dose_mg_per_kg_y": "2.6",
+        "VEHICLE": "100 % Saline",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "a00c05cc-bdd3-4e43-9855-34df5c154402": {
+      "id": "a00c05cc-bdd3-4e43-9855-34df5c154402",
+      "name": "DrugMatrix/E14955.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14955.JPG",
+      "size_in_bytes": 248885,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, PERIPORTAL, HYPERTROPHY \"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": "S020624-071",
+        "TEST_ARTICLE": "Gemcitabine",
+        "Dose_mg_per_kg_y": "11",
+        "VEHICLE": "100 % Saline",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "539ccf9b-fe53-4c2a-aeff-412733f69d99": {
+      "id": "539ccf9b-fe53-4c2a-aeff-412733f69d99",
+      "name": "DrugMatrix/E14956.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14956.JPG",
+      "size_in_bytes": 253033,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, PERIPORTAL, HYPERTROPHY \"",
+        "SEVERITY": "3",
+        "ANIMAL_ID": "R021008-119",
+        "TEST_ARTICLE": "Etodolac",
+        "Dose_mg_per_kg_y": "24",
+        "VEHICLE": ".5 % CMC",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "f5fe7acd-989c-4e66-82d1-c365e1a73245": {
+      "id": "f5fe7acd-989c-4e66-82d1-c365e1a73245",
+      "name": "DrugMatrix/E14957.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14957.JPG",
+      "size_in_bytes": 253619,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, PERIPORTAL, LIPID ACCUMULATION, MACROVESICULAR \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S011002-081",
+        "TEST_ARTICLE": "Clofibrate",
+        "Dose_mg_per_kg_y": "500",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "d5a1f35f-79ef-4bdc-b1bf-deef026a4a1d": {
+      "id": "d5a1f35f-79ef-4bdc-b1bf-deef026a4a1d",
+      "name": "DrugMatrix/E14958.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14958.JPG",
+      "size_in_bytes": 268225,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, PERIPORTAL, LIPID ACCUMULATION, MACROVESICULAR \"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": "S011016-152",
+        "TEST_ARTICLE": "Econazole",
+        "Dose_mg_per_kg_y": "334",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "d3ec068a-9f32-4727-883c-f16d8ac021f0": {
+      "id": "d3ec068a-9f32-4727-883c-f16d8ac021f0",
+      "name": "DrugMatrix/E14959.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14959.JPG",
+      "size_in_bytes": 282561,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, PERIPORTAL, NECROSIS, ONCOCYTIC\"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "6",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Liver"
+      }
+    },
+    "4ae95d69-977d-4d5f-be77-8d605a81d6a8": {
+      "id": "4ae95d69-977d-4d5f-be77-8d605a81d6a8",
+      "name": "DrugMatrix/E14960.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14960.JPG",
+      "size_in_bytes": 263175,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, PERIPORTAL, LIPID ACCUMULATION, MACROVESICULAR \"",
+        "SEVERITY": "3",
+        "ANIMAL_ID": "S011016-155",
+        "TEST_ARTICLE": "Econazole",
+        "Dose_mg_per_kg_y": "334",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "35007865-01b9-4b98-b44a-623558177ab9": {
+      "id": "35007865-01b9-4b98-b44a-623558177ab9",
+      "name": "DrugMatrix/E14961.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14961.JPG",
+      "size_in_bytes": 260380,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, PERIPORTAL, LIPID ACCUMULATION, MACROVESICULAR\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "89",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Liver"
+      }
+    },
+    "f2f0d068-b62a-4e2e-926a-b1796d910bd9": {
+      "id": "f2f0d068-b62a-4e2e-926a-b1796d910bd9",
+      "name": "DrugMatrix/E14962.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14962.JPG",
+      "size_in_bytes": 249320,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, PERIPORTAL, LIPID ACCUMULATION, MICROVESICULAR \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S020401-216",
+        "TEST_ARTICLE": "Ebastine",
+        "Dose_mg_per_kg_y": "2000",
+        "VEHICLE": "100 % Water",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "4218f78c-af10-4455-9240-a9611e3a5fb7": {
+      "id": "4218f78c-af10-4455-9240-a9611e3a5fb7",
+      "name": "DrugMatrix/E14963.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14963.JPG",
+      "size_in_bytes": 242969,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, PERIPORTAL, NECROSIS, APOPTOTIC \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S020211-115",
+        "TEST_ARTICLE": "Cerivastatin",
+        "Dose_mg_per_kg_y": "7",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "b13e675d-25c3-406c-af14-164121145444": {
+      "id": "b13e675d-25c3-406c-af14-164121145444",
+      "name": "DrugMatrix/E14964.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14964.JPG",
+      "size_in_bytes": 186739,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, SUBCAPSULAR, MINERALIZATION\"",
+        "SEVERITY": "3",
+        "ANIMAL_ID": "S030120-041",
+        "TEST_ARTICLE": "Allyl alcohol",
+        "Dose_mg_per_kg_y": "32",
+        "VEHICLE": "100 % Saline",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "223c214e-d97e-4dc5-83a8-879aa043b431": {
+      "id": "223c214e-d97e-4dc5-83a8-879aa043b431",
+      "name": "DrugMatrix/E14965.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14965.JPG",
+      "size_in_bytes": 191377,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, SUBCAPSULAR, NECROSIS, ONCOCYTIC \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S011009-155",
+        "TEST_ARTICLE": "Indomethacin",
+        "Dose_mg_per_kg_y": "4.5",
+        "VEHICLE": "100 % Water",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "fcaddfeb-c1c7-4f0a-9a3e-d4db5ba8f28c": {
+      "id": "fcaddfeb-c1c7-4f0a-9a3e-d4db5ba8f28c",
+      "name": "DrugMatrix/E14966.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14966.JPG",
+      "size_in_bytes": 220261,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, SUBCAPSULAR, NECROSIS, ONCOCYTIC\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "48",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Liver"
+      }
+    },
+    "520615a0-8899-4622-9c9f-6c0c31a001d6": {
+      "id": "520615a0-8899-4622-9c9f-6c0c31a001d6",
+      "name": "DrugMatrix/E14967.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14967.JPG",
+      "size_in_bytes": 241522,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, SUBCAPSULAR, NECROSIS, ONCOCYTIC \"",
+        "SEVERITY": "3",
+        "ANIMAL_ID": "S030120-171",
+        "TEST_ARTICLE": "Ketorolac",
+        "Dose_mg_per_kg_y": "48",
+        "VEHICLE": "100 % Water",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "65a3f7fb-8821-4066-8ede-48eac2a7cc8e": {
+      "id": "65a3f7fb-8821-4066-8ede-48eac2a7cc8e",
+      "name": "DrugMatrix/E14968.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14968.JPG",
+      "size_in_bytes": 284218,
+      "attributes": {
+        "Diagnosis": "\"NONZONAL,EXTRAMEDULLARY, HEMATOPOIESIS\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "1.25",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Liver"
+      }
+    },
+    "2c2d69a1-9947-407f-a6b7-6662c5f2039c": {
+      "id": "2c2d69a1-9947-407f-a6b7-6662c5f2039c",
+      "name": "DrugMatrix/E14969.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14969.JPG",
+      "size_in_bytes": 251002,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, NONZONAL, LIPID ACCUMULATION, MACROVESICULAR\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "9ed577d9-40b5-409a-bd02-d7be5a80ef29": {
+      "id": "9ed577d9-40b5-409a-bd02-d7be5a80ef29",
+      "name": "DrugMatrix/E14970.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14970.JPG",
+      "size_in_bytes": 287957,
+      "attributes": {
+        "Diagnosis": "\"NONZONAL, INFLAMMATORY CELL INFILTRATE, GRANULOMATOUS \"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": "S020916-204",
+        "TEST_ARTICLE": "Nystatin",
+        "Dose_mg_per_kg_y": "54",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "1308820e-090a-44f2-b85f-54cc896f11d7": {
+      "id": "1308820e-090a-44f2-b85f-54cc896f11d7",
+      "name": "DrugMatrix/E14971.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14971.JPG",
+      "size_in_bytes": 189442,
+      "attributes": {
+        "Diagnosis": "\"NONZONAL, INFLAMMATORY CELL INFILTRATE, LYMPHOID \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S020617-370",
+        "TEST_ARTICLE": "Sulpiride",
+        "Dose_mg_per_kg_y": "55",
+        "VEHICLE": ".5 % CMC",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "5acb690f-3a32-4195-a04c-fb09cab12022": {
+      "id": "5acb690f-3a32-4195-a04c-fb09cab12022",
+      "name": "DrugMatrix/E14972.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14972.JPG",
+      "size_in_bytes": 243360,
+      "attributes": {
+        "Diagnosis": "\"NONZONAL, INFLAMMATORY CELL INFILTRATE, LYMPHOID\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "Water",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Liver"
+      }
+    },
+    "f382f51e-4f65-4e6f-ae30-44a1d41c52b4": {
+      "id": "f382f51e-4f65-4e6f-ae30-44a1d41c52b4",
+      "name": "DrugMatrix/E14973.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14973.JPG",
+      "size_in_bytes": 297395,
+      "attributes": {
+        "Diagnosis": "\"NONZONAL, INFLAMMATORY CELL INFILTRATE, MIXED CELL \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S010924-011",
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "Corn Oil",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Vehicle Control",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "3bf846e8-d572-4e9a-af70-0941a60f1cd2": {
+      "id": "3bf846e8-d572-4e9a-af70-0941a60f1cd2",
+      "name": "DrugMatrix/E14974.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14974.JPG",
+      "size_in_bytes": 307793,
+      "attributes": {
+        "Diagnosis": "\"NONZONAL, INFLAMMATORY CELL INFILTRATE, MIXED CELL \"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": "S020729-251",
+        "TEST_ARTICLE": "Lansoprazole",
+        "Dose_mg_per_kg_y": "30",
+        "VEHICLE": ".5 % CMC",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "82f3463b-7864-4c15-9ffb-424346b0f3d0": {
+      "id": "82f3463b-7864-4c15-9ffb-424346b0f3d0",
+      "name": "DrugMatrix/E14975.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14975.JPG",
+      "size_in_bytes": 246302,
+      "attributes": {
+        "Diagnosis": "\"OVAL CELL, HYPERPLASIA \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S011127-176",
+        "TEST_ARTICLE": "Naproxen",
+        "Dose_mg_per_kg_y": "134",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "1b1f966c-7cea-4961-ba00-2ae2c045c8c2": {
+      "id": "1b1f966c-7cea-4961-ba00-2ae2c045c8c2",
+      "name": "DrugMatrix/E14976.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14976.JPG",
+      "size_in_bytes": 250449,
+      "attributes": {
+        "Diagnosis": "\"PERIPORTAL, EDEMA\"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "60",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Liver"
+      }
+    },
+    "5fda5292-64e1-4cff-973f-e0ad9ab54e1d": {
+      "id": "5fda5292-64e1-4cff-973f-e0ad9ab54e1d",
+      "name": "DrugMatrix/E14977.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14977.JPG",
+      "size_in_bytes": 257167,
+      "attributes": {
+        "Diagnosis": "\"PERIPORTAL, FIBROSIS \"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": "S020325-120",
+        "TEST_ARTICLE": "\"4,4'-Methylenedianiline\"",
+        "Dose_mg_per_kg_y": "81",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "c35c2a3f-0115-459c-8ba2-d1495a2b7c0e": {
+      "id": "c35c2a3f-0115-459c-8ba2-d1495a2b7c0e",
+      "name": "DrugMatrix/E14978.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14978.JPG",
+      "size_in_bytes": 289817,
+      "attributes": {
+        "Diagnosis": "\"PERIPORTAL, INFLAMMATORY CELL INFILTRATE, LYMPHOID \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S011106-034",
+        "TEST_ARTICLE": "Fluphenazine",
+        "Dose_mg_per_kg_y": "2.5",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "030cfecc-b36c-47e8-90fa-63ea4428ed4a": {
+      "id": "030cfecc-b36c-47e8-90fa-63ea4428ed4a",
+      "name": "DrugMatrix/E14979.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14979.JPG",
+      "size_in_bytes": 291874,
+      "attributes": {
+        "Diagnosis": "\"PERIPORTAL, INFLAMMATORY CELL INFILTRATE, LYMPHOID \"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": "S011030-259",
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "Saline",
+        "VEHICLE": "100 % Saline",
+        "TREATMENT": "Vehicle Control",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "48c7c3a7-289d-48f4-ae61-df97329aa8e8": {
+      "id": "48c7c3a7-289d-48f4-ae61-df97329aa8e8",
+      "name": "DrugMatrix/E14980.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14980.JPG",
+      "size_in_bytes": 237524,
+      "attributes": {
+        "Diagnosis": "\"PERIPORTAL, INFLAMMATORY CELL INFILTRATE, LYMPHOID\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "29",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Liver"
+      }
+    },
+    "980fbc25-b13c-419d-9b8e-a6846593bc99": {
+      "id": "980fbc25-b13c-419d-9b8e-a6846593bc99",
+      "name": "DrugMatrix/E14981.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14981.JPG",
+      "size_in_bytes": 283292,
+      "attributes": {
+        "Diagnosis": "\"PERIPORTAL, INFLAMMATORY CELL INFILTRATE, MIXED CELL \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S020311-178",
+        "TEST_ARTICLE": "Caffeine",
+        "Dose_mg_per_kg_y": "30",
+        "VEHICLE": "100 % Water",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "d247aaa4-7ffc-43dc-8c48-b2d38b95ce48": {
+      "id": "d247aaa4-7ffc-43dc-8c48-b2d38b95ce48",
+      "name": "DrugMatrix/E14982.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14982.JPG",
+      "size_in_bytes": 282554,
+      "attributes": {
+        "Diagnosis": "\"PERIPORTAL, INFLAMMATORY CELL INFILTRATE, MIXED CELL \"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": "S020708-179",
+        "TEST_ARTICLE": "Furosemide",
+        "Dose_mg_per_kg_y": "34",
+        "VEHICLE": ".5 % CMC",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "0eda6506-61c0-41de-9fcc-143e3d942480": {
+      "id": "0eda6506-61c0-41de-9fcc-143e3d942480",
+      "name": "DrugMatrix/E14983.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14983.JPG",
+      "size_in_bytes": 260938,
+      "attributes": {
+        "Diagnosis": "\"PERIPORTAL, INFLAMMATORY CELL INFILTRATE, LYMPHOID\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "8.75",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Liver"
+      }
+    },
+    "16c7decf-e955-43be-b0e5-625b6f40d9f0": {
+      "id": "16c7decf-e955-43be-b0e5-625b6f40d9f0",
+      "name": "DrugMatrix/E14985.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14985.JPG",
+      "size_in_bytes": 296622,
+      "attributes": {
+        "Diagnosis": "\"PERIPORTAL, INFLAMMATORY CELL INFILTRATE, NEUTROPHILIC \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S020311-131",
+        "TEST_ARTICLE": "Amantadine",
+        "Dose_mg_per_kg_y": "58",
+        "VEHICLE": "100 % Water",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "ba30ccc4-dd24-49ce-87b7-2b566bbd5544": {
+      "id": "ba30ccc4-dd24-49ce-87b7-2b566bbd5544",
+      "name": "DrugMatrix/E14986.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14986.JPG",
+      "size_in_bytes": 179482,
+      "attributes": {
+        "Diagnosis": "\"SUBCAPSULAR, FIBROSIS \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S020311-299",
+        "TEST_ARTICLE": "Zaleplon",
+        "Dose_mg_per_kg_y": "8",
+        "VEHICLE": "100 % Water",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "5e7cc5da-5b62-4b7c-a1c8-0e3cb41ead79": {
+      "id": "5e7cc5da-5b62-4b7c-a1c8-0e3cb41ead79",
+      "name": "DrugMatrix/E14987.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14987.JPG",
+      "size_in_bytes": 131633,
+      "attributes": {
+        "Diagnosis": "BILE DUCT DILATATION ",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S020211-274",
+        "TEST_ARTICLE": "Loratadine",
+        "Dose_mg_per_kg_y": "10",
+        "VEHICLE": "100 % Water",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "909972e5-25d1-40c7-ae45-791be3a7b899": {
+      "id": "909972e5-25d1-40c7-ae45-791be3a7b899",
+      "name": "DrugMatrix/E14988.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14988.JPG",
+      "size_in_bytes": 222873,
+      "attributes": {
+        "Diagnosis": "\"CAPSULE, MESOTHELIAL CELL, HYPERPLASIA \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S030120-041",
+        "TEST_ARTICLE": "Allyl alcohol",
+        "Dose_mg_per_kg_y": "32",
+        "VEHICLE": "100 % Saline",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "f928d97f-55e1-42d3-89a3-d38ad61578e9": {
+      "id": "f928d97f-55e1-42d3-89a3-d38ad61578e9",
+      "name": "DrugMatrix/E14989.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14989.JPG",
+      "size_in_bytes": 261162,
+      "attributes": {
+        "Diagnosis": "CLEAR CELL FOCUS",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "4ac88b33-2fa8-4c29-a5c1-f1ae9f3d7aa0": {
+      "id": "4ac88b33-2fa8-4c29-a5c1-f1ae9f3d7aa0",
+      "name": "DrugMatrix/E14990.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14990.JPG",
+      "size_in_bytes": 241318,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, CYTOPLASM, EOSINOPHILIA\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "66072739-10df-4506-8d99-12838f7c44b5": {
+      "id": "66072739-10df-4506-8d99-12838f7c44b5",
+      "name": "DrugMatrix/E14991.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14991.JPG",
+      "size_in_bytes": 252700,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, GLYCOGEN ACCUMULATION \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S011009-058",
+        "TEST_ARTICLE": "Cyclosporin A",
+        "Dose_mg_per_kg_y": "350",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "d190109e-b77c-4b9d-9707-d29ab9bcf936": {
+      "id": "d190109e-b77c-4b9d-9707-d29ab9bcf936",
+      "name": "DrugMatrix/E14992.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14992.JPG",
+      "size_in_bytes": 287275,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, GLYCOGEN ACCUMULATION\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "0b07c153-e438-4efd-bcc9-a4c56d7474e4": {
+      "id": "0b07c153-e438-4efd-bcc9-a4c56d7474e4",
+      "name": "DrugMatrix/E14993.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14993.JPG",
+      "size_in_bytes": 288503,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, LIPID ACCUMULATION, MACROVESICULAR\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "5daa66e2-b9f7-45c2-b567-4f3ed45e9601": {
+      "id": "5daa66e2-b9f7-45c2-b567-4f3ed45e9601",
+      "name": "DrugMatrix/E14994.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14994.JPG",
+      "size_in_bytes": 255820,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, NECROSIS, ONCOCYTIC\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "271e5fdb-2e40-4b15-b13f-0cd35c435c96": {
+      "id": "271e5fdb-2e40-4b15-b13f-0cd35c435c96",
+      "name": "DrugMatrix/E14995.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14995.JPG",
+      "size_in_bytes": 250552,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, DIFFUSE, HYPERTROPHY \"",
+        "SEVERITY": "4",
+        "ANIMAL_ID": "S011002-132",
+        "TEST_ARTICLE": "Fenofibrate",
+        "Dose_mg_per_kg_y": "860",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "2d5dfd3f-7cba-4b57-b299-7f2738cb845b": {
+      "id": "2d5dfd3f-7cba-4b57-b299-7f2738cb845b",
+      "name": "DrugMatrix/E14996.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14996.JPG",
+      "size_in_bytes": 236119,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, DIFFUSE, CYTOPLASM, EOSINOPHILIA \"",
+        "SEVERITY": "4",
+        "ANIMAL_ID": "S011002-132",
+        "TEST_ARTICLE": "Fenofibrate",
+        "Dose_mg_per_kg_y": "860",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "5b931e86-1498-4f1e-a7bf-41fb8c77c3d8": {
+      "id": "5b931e86-1498-4f1e-a7bf-41fb8c77c3d8",
+      "name": "DrugMatrix/E14997.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14997.JPG",
+      "size_in_bytes": 268498,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, DIFFUSE, HYPERTROPHY \"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "74af56c0-7b22-4ad9-be09-0dd6d5e2997f": {
+      "id": "74af56c0-7b22-4ad9-be09-0dd6d5e2997f",
+      "name": "DrugMatrix/E14998.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14998.JPG",
+      "size_in_bytes": 260748,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, MIDZONAL, LIPID ACCUMULATION, MACROVESICULAR\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "4736b035-fb42-4293-980f-9b0ab2131673": {
+      "id": "4736b035-fb42-4293-980f-9b0ab2131673",
+      "name": "DrugMatrix/E14999.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E14999.JPG",
+      "size_in_bytes": 260100,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, MIDZONAL, NECROSIS, ONCOCYTIC \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S010924-051",
+        "TEST_ARTICLE": "Carbon tetrachloride",
+        "Dose_mg_per_kg_y": "400",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "a8222a46-376d-4949-9e1c-c9b1171bce13": {
+      "id": "a8222a46-376d-4949-9e1c-c9b1171bce13",
+      "name": "DrugMatrix/E15000.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15000.JPG",
+      "size_in_bytes": 309285,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, NONZONAL, GLYCOGEN ACCUMULATION \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S011002-024",
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "Corn Oil",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Vehicle Control",
+        "SEX": "Female",
+        "TISSUE": "Liver"
+      }
+    },
+    "09276414-5dcb-4bb8-a389-b3610702b36e": {
+      "id": "09276414-5dcb-4bb8-a389-b3610702b36e",
+      "name": "DrugMatrix/E15002.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15002.JPG",
+      "size_in_bytes": 275889,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, NONZONAL, LIPID ACCUMULATION, MACROVESICULAR\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "ca722382-aa92-4214-86d6-43156b7e1a15": {
+      "id": "ca722382-aa92-4214-86d6-43156b7e1a15",
+      "name": "DrugMatrix/E15003.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15003.JPG",
+      "size_in_bytes": 274242,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, PERIPORTAL, NECROSIS, ONCOCYTIC\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "11",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Liver"
+      }
+    },
+    "17a9cbec-cf3e-409d-9592-28321e2fdcec": {
+      "id": "17a9cbec-cf3e-409d-9592-28321e2fdcec",
+      "name": "DrugMatrix/E15004.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15004.JPG",
+      "size_in_bytes": 251839,
+      "attributes": {
+        "Diagnosis": "MALIGNANT LYMPHOMA",
+        "SEVERITY": "4",
+        "ANIMAL_ID": "S020624-019",
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "0.5% CMC",
+        "VEHICLE": ".5 % CMC",
+        "TREATMENT": "Vehicle Control",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "3a48361b-e8c3-4a15-882a-321645234cde": {
+      "id": "3a48361b-e8c3-4a15-882a-321645234cde",
+      "name": "DrugMatrix/E15005.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15005.JPG",
+      "size_in_bytes": 261008,
+      "attributes": {
+        "Diagnosis": "\"NONZONAL, INFLAMMATORY CELL INFILTRATE, MIXED CELL\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "60",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Liver"
+      }
+    },
+    "a1bb669c-76ac-489c-8629-0e788034a86a": {
+      "id": "a1bb669c-76ac-489c-8629-0e788034a86a",
+      "name": "DrugMatrix/E15006.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15006.JPG",
+      "size_in_bytes": 269040,
+      "attributes": {
+        "Diagnosis": "\"PERIPORTAL, FIBROSIS \"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": "S020205-072",
+        "TEST_ARTICLE": "Carvedilol",
+        "Dose_mg_per_kg_y": "2000",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "09935c86-2555-4597-b647-70574f7d339a": {
+      "id": "09935c86-2555-4597-b647-70574f7d339a",
+      "name": "DrugMatrix/E15007.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15007.JPG",
+      "size_in_bytes": 214133,
+      "attributes": {
+        "Diagnosis": "\"SUBCAPSULAR, FIBROSIS \"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": "S020923-264",
+        "TEST_ARTICLE": "Trichloroacetic acid",
+        "Dose_mg_per_kg_y": "474",
+        "VEHICLE": "100 % Corn Oil",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "bb2fc506-fdaf-4003-8f3f-05fea857827a": {
+      "id": "bb2fc506-fdaf-4003-8f3f-05fea857827a",
+      "name": "DrugMatrix/E15008.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15008.JPG",
+      "size_in_bytes": 228302,
+      "attributes": {
+        "Diagnosis": "\"SUBCAPSULAR, FIBROSIS \"",
+        "SEVERITY": "3",
+        "ANIMAL_ID": "S030120-041",
+        "TEST_ARTICLE": "Allyl alcohol",
+        "Dose_mg_per_kg_y": "32",
+        "VEHICLE": "100 % Saline",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "16869b8e-d404-44c7-8a8e-f76dabd0eaa1": {
+      "id": "16869b8e-d404-44c7-8a8e-f76dabd0eaa1",
+      "name": "DrugMatrix/E15009.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15009.JPG",
+      "size_in_bytes": 292326,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, GLYCOGEN ACCUMULATION \"",
+        "SEVERITY": "3",
+        "ANIMAL_ID": "S020722-070",
+        "TEST_ARTICLE": "Chlortetracycline",
+        "Dose_mg_per_kg_y": "1500",
+        "VEHICLE": ".5 % CMC",
+        "TREATMENT": "Chemical",
+        "SEX": "Male",
+        "TISSUE": "Liver"
+      }
+    },
+    "eff9f318-6304-431e-a149-d7a25ac00143": {
+      "id": "eff9f318-6304-431e-a149-d7a25ac00143",
+      "name": "DrugMatrix/E15010.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15010.JPG",
+      "size_in_bytes": 297127,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, CENTRILOBULAR, GLYCOGEN ACCUMULATION\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    },
+    "d86413fd-74bc-42f6-818e-aa640d2f2027": {
+      "id": "d86413fd-74bc-42f6-818e-aa640d2f2027",
+      "name": "DrugMatrix/E15011.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15011.JPG",
+      "size_in_bytes": 236355,
+      "attributes": {
+        "Diagnosis": "\"HEPATOCYTE, NONZONAL, LIPID ACCUMULATION, MICROVESICULAR\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "200",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Liver"
+      }
+    },
+    "ae3a9164-166d-4fcf-a96e-ed323025b3c7": {
+      "id": "ae3a9164-166d-4fcf-a96e-ed323025b3c7",
+      "name": "DrugMatrix/E15012.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15012.JPG",
+      "size_in_bytes": 238355,
+      "attributes": {
+        "Diagnosis": "CENTRILOBULAR FIBROSIS",
+        "SEVERITY": "1",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "80",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Liver"
+      }
+    },
+    "281ccdf2-6b30-4f92-8f21-aa69496d8b6d": {
+      "id": "281ccdf2-6b30-4f92-8f21-aa69496d8b6d",
+      "name": "DrugMatrix/E15013.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15013.JPG",
+      "size_in_bytes": 249064,
+      "attributes": {
+        "Diagnosis": "BILE DUCT DILATATION",
+        "SEVERITY": "2",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "80",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Liver"
+      }
+    },
+    "c22d9529-b5a3-4c99-9cbf-0fd7738b8a7d": {
+      "id": "c22d9529-b5a3-4c99-9cbf-0fd7738b8a7d",
+      "name": "DrugMatrix/E15306.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15306.JPG",
+      "size_in_bytes": 221196,
+      "attributes": {
+        "Diagnosis": "\"LEFT VENTRICLE, CELLULAR INFILTRATE, MIXED CELL\"",
+        "SEVERITY": "3",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "75",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "8c2a5ba0-01a3-46fe-a756-8ce30df0ecc3": {
+      "id": "8c2a5ba0-01a3-46fe-a756-8ce30df0ecc3",
+      "name": "DrugMatrix/E15307.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15307.JPG",
+      "size_in_bytes": 255112,
+      "attributes": {
+        "Diagnosis": "\"LEFT VENTRICLE, CELLULAR INFILTRATE, MIXED CELL\"",
+        "SEVERITY": "3",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "75",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "617dd2ac-1457-46a3-90f5-4e248bbfea5c": {
+      "id": "617dd2ac-1457-46a3-90f5-4e248bbfea5c",
+      "name": "DrugMatrix/E15309.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15309.JPG",
+      "size_in_bytes": 235412,
+      "attributes": {
+        "Diagnosis": "\"LEFT VENTRICLE, MYOCYTE, DEGENERATION\"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "750",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "46ea2cc8-5955-48b8-abea-9ae73c94fd09": {
+      "id": "46ea2cc8-5955-48b8-abea-9ae73c94fd09",
+      "name": "DrugMatrix/E15314.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15314.JPG",
+      "size_in_bytes": 254556,
+      "attributes": {
+        "Diagnosis": "\"LEFT VENTRICLE, FIBROSIS\"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "43",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "b206ce30-897d-400e-968b-04f02cda1051": {
+      "id": "b206ce30-897d-400e-968b-04f02cda1051",
+      "name": "DrugMatrix/E15315.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15315.JPG",
+      "size_in_bytes": 238579,
+      "attributes": {
+        "Diagnosis": "\"LEFT VENTRICLE, FIBROSIS\"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "43",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "40d6018e-8c76-4a9c-89af-92b5d45a5006": {
+      "id": "40d6018e-8c76-4a9c-89af-92b5d45a5006",
+      "name": "DrugMatrix/E15325.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15325.JPG",
+      "size_in_bytes": 144638,
+      "attributes": {
+        "Diagnosis": "\"ENDOCARDIUM, CELLULAR INFILTRATE, MONONUCLEAR CELL\"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "4.2",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "bfb54dd4-8159-4428-b9f3-5590d7c24787": {
+      "id": "bfb54dd4-8159-4428-b9f3-5590d7c24787",
+      "name": "DrugMatrix/E15326.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15326.JPG",
+      "size_in_bytes": 176264,
+      "attributes": {
+        "Diagnosis": "\"EPICARDIUM, HYPERPLASIA, CELLULAR INFILTRATE, MIXED CELL\"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "625",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "84899365-f10a-4647-bf49-99e06b1941b8": {
+      "id": "84899365-f10a-4647-bf49-99e06b1941b8",
+      "name": "DrugMatrix/E15328.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15328.JPG",
+      "size_in_bytes": 141747,
+      "attributes": {
+        "Diagnosis": "\"EPICARDIUM, CELLULAR INFILTRATE, MONONUCLEAR CELL\"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "4203583f-65a6-4b01-91f3-7c128b5dfa8c": {
+      "id": "4203583f-65a6-4b01-91f3-7c128b5dfa8c",
+      "name": "DrugMatrix/E15329.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15329.JPG",
+      "size_in_bytes": 234486,
+      "attributes": {
+        "Diagnosis": "\"EPICARDIUM, CELLULAR INFILTRATE, MONONUCLEAR CELL\"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "108",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "1205b48e-0062-4866-946a-2e47764bdaab": {
+      "id": "1205b48e-0062-4866-946a-2e47764bdaab",
+      "name": "DrugMatrix/E15330.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15330.JPG",
+      "size_in_bytes": 248019,
+      "attributes": {
+        "Diagnosis": "\"INTRAMYOCARDIAL ARTERIES, CELLULAR INFILTRATE, MONONUCLEAR CELL\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "1.75",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "4e04ed9f-21b1-4340-9b39-bf0f88d77d19": {
+      "id": "4e04ed9f-21b1-4340-9b39-bf0f88d77d19",
+      "name": "DrugMatrix/E15331.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15331.JPG",
+      "size_in_bytes": 266160,
+      "attributes": {
+        "Diagnosis": "\"INTRAMYOCARDIAL ARTERIES, CELLULAR INFILTRATE, MIXED CELL\"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "0.72",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "72daae31-fdea-4078-9d26-841816df8f7f": {
+      "id": "72daae31-fdea-4078-9d26-841816df8f7f",
+      "name": "DrugMatrix/E15333.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15333.JPG",
+      "size_in_bytes": 262163,
+      "attributes": {
+        "Diagnosis": "\"INTRAMYOCARDIAL ARTERIES, CELLULAR INFILTRATE, MIXED CELL\"",
+        "SEVERITY": "3",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "0.72",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "af2c01e9-d41c-4d30-942c-a13839105f4e": {
+      "id": "af2c01e9-d41c-4d30-942c-a13839105f4e",
+      "name": "DrugMatrix/E15334.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15334.JPG",
+      "size_in_bytes": 250743,
+      "attributes": {
+        "Diagnosis": "\"INTRAMYOCARDIAL ARTERIES, DEGENERATION\"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "75",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "9357eec1-234b-4166-a6c1-74ce86c3c204": {
+      "id": "9357eec1-234b-4166-a6c1-74ce86c3c204",
+      "name": "DrugMatrix/E15335.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15335.JPG",
+      "size_in_bytes": 250350,
+      "attributes": {
+        "Diagnosis": "\"INTRAMYOCARDIAL ARTERIES, DEGENERATION\"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "75",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "3ae9fac1-ed18-4567-bad7-9e8eaec5453d": {
+      "id": "3ae9fac1-ed18-4567-bad7-9e8eaec5453d",
+      "name": "DrugMatrix/E15336.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15336.JPG",
+      "size_in_bytes": 258993,
+      "attributes": {
+        "Diagnosis": "\"INTRAMYOCARDIAL ARTERIES, DEGENERATION\"",
+        "SEVERITY": "3",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "0.72",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "5d022dab-408d-4df2-a38c-409adce37df5": {
+      "id": "5d022dab-408d-4df2-a38c-409adce37df5",
+      "name": "DrugMatrix/E15337.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15337.JPG",
+      "size_in_bytes": 279781,
+      "attributes": {
+        "Diagnosis": "\"INTRAMYOCARDIAL ARTERIES, NECROSIS FIBRINOID\"",
+        "SEVERITY": "3",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "0.72",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "71f6cc5d-d6d6-4796-aa40-be6002dbfa31": {
+      "id": "71f6cc5d-d6d6-4796-aa40-be6002dbfa31",
+      "name": "DrugMatrix/E15341.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15341.JPG",
+      "size_in_bytes": 273482,
+      "attributes": {
+        "Diagnosis": "\"INTRAMYOCARDIAL ARTERIES, PERIVASCULAR ODEMA\"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "0.72",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "b7cfe7a9-5b1a-45e5-ad6f-ef09562b9585": {
+      "id": "b7cfe7a9-5b1a-45e5-ad6f-ef09562b9585",
+      "name": "DrugMatrix/E15344.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15344.JPG",
+      "size_in_bytes": 264674,
+      "attributes": {
+        "Diagnosis": "\"INTRAMYOCARDIAL ARTERIES, PERIVASCULAR FIBROSIS\"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "0.72",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "1a51dae5-c986-4316-9616-07a277f6b6e1": {
+      "id": "1a51dae5-c986-4316-9616-07a277f6b6e1",
+      "name": "DrugMatrix/E15346.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15346.JPG",
+      "size_in_bytes": 261402,
+      "attributes": {
+        "Diagnosis": "\"INTRAMYOCARDIAL ARTERIES, PERIVASCULAR FIBROSIS\"",
+        "SEVERITY": "3",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "0.72",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "021ca2ea-7261-4970-847b-64e29fb683df": {
+      "id": "021ca2ea-7261-4970-847b-64e29fb683df",
+      "name": "DrugMatrix/E15347.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15347.JPG",
+      "size_in_bytes": 232389,
+      "attributes": {
+        "Diagnosis": "\"INTRAMYOCARDIAL ARTERIES, TUNICA MEDIA, HYPERTROPHY\"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "2000",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "23d5eb09-6063-489d-98fd-c280306d535e": {
+      "id": "23d5eb09-6063-489d-98fd-c280306d535e",
+      "name": "DrugMatrix/E15349.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15349.JPG",
+      "size_in_bytes": 258749,
+      "attributes": {
+        "Diagnosis": "\"INTRAMYOCARDIAL ARTERIES, NECROSIS FIBRINOID\"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "4.2",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "2e877d02-5ecd-4966-925f-5b34d74a3991": {
+      "id": "2e877d02-5ecd-4966-925f-5b34d74a3991",
+      "name": "DrugMatrix/E15355.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15355.JPG",
+      "size_in_bytes": 236374,
+      "attributes": {
+        "Diagnosis": "\"RIGHT VENTRICLE, CELLULAR INFILTRATE, MONONUCLEAR CELL\"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "4.2",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "b30e874c-62dc-4533-abe2-b2a8deca55ee": {
+      "id": "b30e874c-62dc-4533-abe2-b2a8deca55ee",
+      "name": "DrugMatrix/E15359.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15359.JPG",
+      "size_in_bytes": 235630,
+      "attributes": {
+        "Diagnosis": "\"RIGHT VENTRICLE, CELLULAR INFILTRATE, MIXED CELL\"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "0.44",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "ec00fbe7-d378-48ed-9f33-4f91df883f2d": {
+      "id": "ec00fbe7-d378-48ed-9f33-4f91df883f2d",
+      "name": "DrugMatrix/E15361.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15361.JPG",
+      "size_in_bytes": 216089,
+      "attributes": {
+        "Diagnosis": "\"RIGHT VENTRICLE, CELLULAR INFILTRATE, MIXED CELL\"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "4.2",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "df58b83a-0583-478a-b3ef-792218c36ebe": {
+      "id": "df58b83a-0583-478a-b3ef-792218c36ebe",
+      "name": "DrugMatrix/E15365.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15365.JPG",
+      "size_in_bytes": 245799,
+      "attributes": {
+        "Diagnosis": "\"RIGHT VENTRICLE, MYOCYTE, DEGENERATION\"",
+        "SEVERITY": "3",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "0.72",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "a0ee94f2-b0a9-4508-a994-f2c73b14164a": {
+      "id": "a0ee94f2-b0a9-4508-a994-f2c73b14164a",
+      "name": "DrugMatrix/E15374.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15374.JPG",
+      "size_in_bytes": 239001,
+      "attributes": {
+        "Diagnosis": "\"INTERVENTRICULAR SEPTUM, CELLULAR INFILTRATE, MONONUCLEAR CELL\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "43",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "3ae0123a-5656-4b80-831c-b61b1ab2c4e2": {
+      "id": "3ae0123a-5656-4b80-831c-b61b1ab2c4e2",
+      "name": "DrugMatrix/E15378.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15378.JPG",
+      "size_in_bytes": 232583,
+      "attributes": {
+        "Diagnosis": "\"INTERVENTRICULAR SEPTUM, MYOCYTE, DEGENERATION\"",
+        "SEVERITY": "2",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "43",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "2618290c-982c-431b-a157-cea0600350a2": {
+      "id": "2618290c-982c-431b-a157-cea0600350a2",
+      "name": "DrugMatrix/E15379.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15379.JPG",
+      "size_in_bytes": 259766,
+      "attributes": {
+        "Diagnosis": "\"INTERVENTRICULAR SEPTUM, MYOCYTE, DEGENERATION\"",
+        "SEVERITY": "3",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "43",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "a709c0bc-74a1-4d99-b9d4-7b0682617c5a": {
+      "id": "a709c0bc-74a1-4d99-b9d4-7b0682617c5a",
+      "name": "DrugMatrix/E15381.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15381.JPG",
+      "size_in_bytes": 247457,
+      "attributes": {
+        "Diagnosis": "\"INTERVENTRICULAR SEPTUM, FIBROSIS\"",
+        "SEVERITY": "1",
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "43",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "3b3f3433-f89b-4121-b1b4-05e00d1740ad": {
+      "id": "3b3f3433-f89b-4121-b1b4-05e00d1740ad",
+      "name": "DrugMatrix/E15383.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15383.JPG",
+      "size_in_bytes": 214871,
+      "attributes": {
+        "Diagnosis": "NORMAL",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "196",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "dc58ff76-74c1-4e9c-b0ce-2b2c0996eb82": {
+      "id": "dc58ff76-74c1-4e9c-b0ce-2b2c0996eb82",
+      "name": "DrugMatrix/E15384.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15384.JPG",
+      "size_in_bytes": 154510,
+      "attributes": {
+        "Diagnosis": "NORMAL",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "5",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "532fb4ac-026f-4d48-9e28-a187045c2c00": {
+      "id": "532fb4ac-026f-4d48-9e28-a187045c2c00",
+      "name": "DrugMatrix/E15385.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15385.JPG",
+      "size_in_bytes": 194632,
+      "attributes": {
+        "Diagnosis": "NORMAL",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "10",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "22c616eb-c701-4ed3-a943-ddb18a69eda3": {
+      "id": "22c616eb-c701-4ed3-a943-ddb18a69eda3",
+      "name": "DrugMatrix/E15392.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15392.JPG",
+      "size_in_bytes": 240211,
+      "attributes": {
+        "Diagnosis": "\"RIGHT VENTRICLE, NORMAL\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "196",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "053e81d1-24ad-400f-8c6e-92b6a8d2d3ec": {
+      "id": "053e81d1-24ad-400f-8c6e-92b6a8d2d3ec",
+      "name": "DrugMatrix/E15393.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15393.JPG",
+      "size_in_bytes": 256990,
+      "attributes": {
+        "Diagnosis": "\"RIGHT VENTRICLE, NORMAL\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "196",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "7586e495-5c67-4b32-8e10-c75ba14a17d7": {
+      "id": "7586e495-5c67-4b32-8e10-c75ba14a17d7",
+      "name": "DrugMatrix/E15394.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15394.JPG",
+      "size_in_bytes": 258276,
+      "attributes": {
+        "Diagnosis": "\"RIGHT VENTRICLE, NORMAL\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "196",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "c1097fa7-72fc-45e4-998f-c3dfa5bb6bd6": {
+      "id": "c1097fa7-72fc-45e4-998f-c3dfa5bb6bd6",
+      "name": "DrugMatrix/E15398.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15398.JPG",
+      "size_in_bytes": 224613,
+      "attributes": {
+        "Diagnosis": "\"LEFT ATRIUM, NORMAL\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "196",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "b68d6313-910c-47f9-b900-7231c76a14db": {
+      "id": "b68d6313-910c-47f9-b900-7231c76a14db",
+      "name": "DrugMatrix/E15400.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15400.JPG",
+      "size_in_bytes": 256472,
+      "attributes": {
+        "Diagnosis": "\"RIGHT ATRIUM, NORMAL\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "196",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "b2e084a3-289b-4e8f-bbfe-2d96a484a1ca": {
+      "id": "b2e084a3-289b-4e8f-bbfe-2d96a484a1ca",
+      "name": "DrugMatrix/E15402.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15402.JPG",
+      "size_in_bytes": 170687,
+      "attributes": {
+        "Diagnosis": "\"EPICARDIUM, NORMAL\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "196",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "d9a1efd8-1275-4152-ba70-ac55eeb7a7d0": {
+      "id": "d9a1efd8-1275-4152-ba70-ac55eeb7a7d0",
+      "name": "DrugMatrix/E15406.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15406.JPG",
+      "size_in_bytes": 187502,
+      "attributes": {
+        "Diagnosis": "\"ENDOCARDIUM, NORMAL\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "196",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "7c821b29-5b7e-45dd-a705-e129892c08a9": {
+      "id": "7c821b29-5b7e-45dd-a705-e129892c08a9",
+      "name": "DrugMatrix/E15409.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15409.JPG",
+      "size_in_bytes": 269018,
+      "attributes": {
+        "Diagnosis": "\"INTRAMYOCARDIAL ARTERIES, NORMAL\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "196",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "25c12531-8846-48ab-8ba4-86a80ab89a27": {
+      "id": "25c12531-8846-48ab-8ba4-86a80ab89a27",
+      "name": "DrugMatrix/E15411.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15411.JPG",
+      "size_in_bytes": 229698,
+      "attributes": {
+        "Diagnosis": "\"INTRAMYOCARDIAL ARTERIES, NORMAL\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": "5",
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": "Heart"
+      }
+    },
+    "5c85ea26-45b7-4211-969e-e0a1ccb30f8c": {
+      "id": "5c85ea26-45b7-4211-969e-e0a1ccb30f8c",
+      "name": "DrugMatrix/E15417.JPG",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD623/DrugMatrix/E15417.JPG",
+      "size_in_bytes": 275408,
+      "attributes": {
+        "Diagnosis": "\"INTRAMYOCARDIAL ARTERIES, PERIVASCULAR EDEMA\"",
+        "SEVERITY": null,
+        "ANIMAL_ID": null,
+        "TEST_ARTICLE": null,
+        "Dose_mg_per_kg_y": null,
+        "VEHICLE": null,
+        "TREATMENT": null,
+        "SEX": null,
+        "TISSUE": null
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

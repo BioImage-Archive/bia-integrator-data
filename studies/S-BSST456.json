@@ -11,31 +11,22 @@
   "release_date": "2020-07-31",
   "imaging_type": "Unknown",
   "attributes": {},
-  "example_image_uri": "S-BSST456-example.png",
-  "images": {
-    "IM1": {
-      "id": "IM1",
-      "original_relpath": "Confocal dataset MCB-CLEM IV Weiner.tif",
-      "dimensions": null,
-      "representations": [
-        {
-          "accession_id": "S-BSST456",
-          "image_id": "IM1",
-          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST456/Confocal dataset MCB-CLEM IV Weiner.tif",
-          "size": 50396100,
-          "type": "fire_object",
-          "dimensions": null,
-          "attributes": {},
-          "rendering": null
-        }
-      ],
+  "example_image_uri": "",
+  "file_references": {
+    "d6627994-a155-491f-9b29-fe6ca4a30942": {
+      "id": "d6627994-a155-491f-9b29-fe6ca4a30942",
+      "name": "Confocal dataset MCB-CLEM IV Weiner.tif",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST456/Confocal dataset MCB-CLEM IV Weiner.tif",
+      "size_in_bytes": 50396100,
       "attributes": {
         "Description": "Confocal sample dataset MCB-CLEM IV Weiner",
         "Type": "composite tif"
       }
     }
   },
+  "images": {},
   "archive_files": {},
   "other_files": {},
+  "image_aliases": {},
   "tags": []
 }

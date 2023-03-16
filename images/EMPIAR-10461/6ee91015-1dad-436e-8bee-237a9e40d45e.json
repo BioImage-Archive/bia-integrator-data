@@ -1,0 +1,44 @@
+{
+  "id": "6ee91015-1dad-436e-8bee-237a9e40d45e",
+  "accession_id": "EMPIAR-10461",
+  "name": "test",
+  "original_relpath": "test",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "EMPIAR-10461",
+      "image_id": "6ee91015-1dad-436e-8bee-237a9e40d45e",
+      "uri": [
+        "https://ftp.ebi.ac.uk/empiar/world_availability/10461/data/P400_SBF_SEM_F3S1_macroph/ROI_01/EM04140_6_F3S1_run07_aftersectioning_3VBSED_roi_01_slice_0000.dm4",
+        "https://ftp.ebi.ac.uk/empiar/world_availability/10461/data/P400_SBF_SEM_F3S1_macroph/ROI_01/EM04140_6_F3S1_run07_aftersectioning_3VBSED_roi_01_slice_0001.dm4",
+        "https://ftp.ebi.ac.uk/empiar/world_availability/10461/data/P400_SBF_SEM_F3S1_macroph/ROI_01/EM04140_6_F3S1_run07_aftersectioning_3VBSED_roi_01_slice_0002.dm4",
+        "https://ftp.ebi.ac.uk/empiar/world_availability/10461/data/P400_SBF_SEM_F3S1_macroph/ROI_01/EM04140_6_F3S1_run07_aftersectioning_3VBSED_roi_01_slice_0003.dm4",
+        "https://ftp.ebi.ac.uk/empiar/world_availability/10461/data/P400_SBF_SEM_F3S1_macroph/ROI_01/EM04140_6_F3S1_run07_aftersectioning_3VBSED_roi_01_slice_0004.dm4",
+        "https://ftp.ebi.ac.uk/empiar/world_availability/10461/data/P400_SBF_SEM_F3S1_macroph/ROI_01/EM04140_6_F3S1_run07_aftersectioning_3VBSED_roi_01_slice_0005.dm4"
+      ],
+      "size": 435723668,
+      "type": "structured_fileref",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "51d78700-bb0d-411e-bac8-6cbee2a88e3b",
+          "afef577e-0840-41e0-b6d3-9388d077edce",
+          "e09f6048-d881-4cf0-88ed-60d0c88ea0b1",
+          "0488be68-dcdf-474d-9827-9a056c819892",
+          "9677af5f-d44a-46b7-ac4e-7f0b340eb439",
+          "18701f81-2ac5-4ee6-af92-c065c7f66403"
+        ],
+        "structure": {
+          "Z_0000": "51d78700-bb0d-411e-bac8-6cbee2a88e3b",
+          "Z_0001": "afef577e-0840-41e0-b6d3-9388d077edce",
+          "Z_0002": "e09f6048-d881-4cf0-88ed-60d0c88ea0b1",
+          "Z_0003": "0488be68-dcdf-474d-9827-9a056c819892",
+          "Z_0004": "9677af5f-d44a-46b7-ac4e-7f0b340eb439",
+          "Z_0005": "18701f81-2ac5-4ee6-af92-c065c7f66403"
+        }
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {}
+}
