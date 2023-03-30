@@ -1,0 +1,334 @@
+{
+  "accession_id": "S-BSST909",
+  "title": "Microscopy data for ‘Solving the MCM paradox by visualizing the scaffold of CMG helicase at active replisomes’",
+  "description": "Here, we solve the longstanding conundrum—why minichromosome maintenance proteins (MCMs) have never been visualized at DNA replication sites inside a cell—known as the MCM paradox. We showed that upon conversion of inactive MCM double hexamers to active replication forks, multiple MCM interacting partners block the antibody binding sites making the MCM scaffold of active replisome invisible in immunodetection experiments. CRISPR-Cas9 endogenous tagging of MCMs bypasses this steric hindrance and enables MCM visualization at fully assembled active replisomes. In summary, our work explains the MCM paradox, provides important validation of replisome architecture in physiological settings, and paves the way for further investigating replication dynamics in cells.",
+  "authors": [
+    {
+      "name": "Hana Polasek-Sedlackova"
+    },
+    {
+      "name": "Thomas C. R. Miller"
+    },
+    {
+      "name": "Jana Krejci"
+    },
+    {
+      "name": "Maj-Britt Rask"
+    },
+    {
+      "name": "Jiri Lukas"
+    }
+  ],
+  "organism": "Homo sapiens (human)",
+  "release_date": "2022-09-29",
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "file_references": {
+    "ec8bdcd3-6178-4a76-b25a-9825b3cb5ae1": {
+      "id": "ec8bdcd3-6178-4a76-b25a-9825b3cb5ae1",
+      "name": "Figure 1a_b.zip",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST909/Figure 1a_b.zip",
+      "size_in_bytes": 4665653277,
+      "type": null,
+      "attributes": {
+        "Description": "Figure 1a and b, Confocal imaging of CDC45-GFP, TIMELESS, POLD1-GFP, and POLE1-GFP with EdU and PCNA. U2OS cells."
+      }
+    },
+    "158016cd-5f91-4092-a404-e1492f8d3c2a": {
+      "id": "158016cd-5f91-4092-a404-e1492f8d3c2a",
+      "name": "Figure 1e_f and Supplementary Figure 3b.zip",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST909/Figure 1e_f and Supplementary Figure 3b.zip",
+      "size_in_bytes": 10155947221,
+      "type": null,
+      "attributes": {
+        "Description": "Figure 1e and f, Confocal imaging of CDC45-GFP, PCNA, and indicated MCM antibodies. U2OS cells."
+      }
+    },
+    "cf195fa9-fb42-475e-b723-ca801eed3cb7": {
+      "id": "cf195fa9-fb42-475e-b723-ca801eed3cb7",
+      "name": "Figure 2d_e_f and Supplementary 5a_b.zip",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST909/Figure 2d_e_f and Supplementary 5a_b.zip",
+      "size_in_bytes": 10557038419,
+      "type": null,
+      "attributes": {
+        "Description": "Figure 2d-f and Supplementary Figure 5a and b, Confocal imaging of CDC45-GFP, PCNA, and indicated MCM antibodies under normal conditions (DMSO) and ATR inhibitor (ATRi) treatment. U2OS cells."
+      }
+    },
+    "a3f25e88-1e66-483b-ac15-1ac94b81eda8": {
+      "id": "a3f25e88-1e66-483b-ac15-1ac94b81eda8",
+      "name": "Figure 3c.zip",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST909/Figure 3c.zip",
+      "size_in_bytes": 845549819,
+      "type": null,
+      "attributes": {
+        "Description": "Figure 3c, Confocal imaging of CDC45-GFP, MCM4-Halo, and immunostained MCM7 under normal and ATR inhibitor treatment conditions. U2OS cells."
+      }
+    },
+    "6d0215d0-afba-4b59-b05e-9aba20e6fa9b": {
+      "id": "6d0215d0-afba-4b59-b05e-9aba20e6fa9b",
+      "name": "Figure 3d.zip",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST909/Figure 3d.zip",
+      "size_in_bytes": 738158972,
+      "type": null,
+      "attributes": {
+        "Description": "Figure 3d, Confocal imaging of CDC45-GFP, MCM4-Halo, and immunostained MCM4 under normal and ATR inhibitor treatment conditions. U2OS cells."
+      }
+    },
+    "29817710-f3e3-430d-b76e-bb6a14624d45": {
+      "id": "29817710-f3e3-430d-b76e-bb6a14624d45",
+      "name": "Figure 3e_f.zip",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST909/Figure 3e_f.zip",
+      "size_in_bytes": 1274093660,
+      "type": null,
+      "attributes": {
+        "Description": "Figure 3e and f, Confocal imaging of CDC45-GFP, MCM4-Halo, and immunostained MCM7 throughout the S phase. U2OS cells."
+      }
+    },
+    "704d354a-a831-48ae-b179-1710e77cadf2": {
+      "id": "704d354a-a831-48ae-b179-1710e77cadf2",
+      "name": "Figure 4a_e.zip",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST909/Figure 4a_e.zip",
+      "size_in_bytes": 2201358062,
+      "type": null,
+      "attributes": {
+        "Description": "Figure 4a-e, Confocal imaging of CDC45-GFP, MCM4-Halo, and immunostained MCMs in control and TIMELESS depleted cells under ATR inhibitor treatment. U2OS cells."
+      }
+    },
+    "84e3e76e-24b0-42c7-b21d-82c144f630f7": {
+      "id": "84e3e76e-24b0-42c7-b21d-82c144f630f7",
+      "name": "Suplementary Figure 1c.zip",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST909/Suplementary Figure 1c.zip",
+      "size_in_bytes": 6179179,
+      "type": null,
+      "attributes": {
+        "Description": "Supplementary Figure 1c, Uncropped gallery for imaging of chromatin-bound CDC45-GFP and EdU throughout the S phase. U2OS cells."
+      }
+    },
+    "cc030333-2745-4ec6-8c96-e767428a9ca0": {
+      "id": "cc030333-2745-4ec6-8c96-e767428a9ca0",
+      "name": "Supplementary Figure 3a.zip",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST909/Supplementary Figure 3a.zip",
+      "size_in_bytes": 10079659,
+      "type": null,
+      "attributes": {
+        "Description": "Supplementary Figure 3a, Uncropped gallery for imaging of chromatin-bound CDC45-GFP, PCNA, and MCM7 throughout the S phase. U2OS cells."
+      }
+    },
+    "d4a7e84b-bb01-4f22-ab8e-d8b38ab88eeb": {
+      "id": "d4a7e84b-bb01-4f22-ab8e-d8b38ab88eeb",
+      "name": "Supplementary Figure 3c_d.zip",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST909/Supplementary Figure 3c_d.zip",
+      "size_in_bytes": 10273566854,
+      "type": null,
+      "attributes": {
+        "Description": "Supplementary Figures 3c and d, Confocal imaging of chromatin-bound CDC45-GFP, PCNA, and immunostained MCMs upon increased detergent concentration in the pre-extraction buffer. U2OS cells."
+      }
+    },
+    "74ad11ab-4137-49f2-a7c8-ee7b06e443b2": {
+      "id": "74ad11ab-4137-49f2-a7c8-ee7b06e443b2",
+      "name": "Supplementary Figure 6a.zip",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST909/Supplementary Figure 6a.zip",
+      "size_in_bytes": 754977866,
+      "type": null,
+      "attributes": {
+        "Description": "Supplementary Figure 6a, Confocal imaging of MCM2-GFP, PCNA, and immunostained MCM2 under normal and ATR inhibitor treatment conditions. U2OS cells."
+      }
+    },
+    "a33bf952-d719-4db5-a88f-f74f82cf1949": {
+      "id": "a33bf952-d719-4db5-a88f-f74f82cf1949",
+      "name": "Supplementary Figure 6b.zip",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST909/Supplementary Figure 6b.zip",
+      "size_in_bytes": 952913205,
+      "type": null,
+      "attributes": {
+        "Description": "Supplementary Figure 6b, Confocal imaging of PCNA, MCM4-Halo, and immunostained MCM7 under normal and ATR inhibitor treatment conditions. RPE cells."
+      }
+    },
+    "570acde9-4d91-4dcc-ad5c-c6b18b8cf5e0": {
+      "id": "570acde9-4d91-4dcc-ad5c-c6b18b8cf5e0",
+      "name": "Supplementary Figure 6d.zip",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST909/Supplementary Figure 6d.zip",
+      "size_in_bytes": 900531564,
+      "type": null,
+      "attributes": {
+        "Description": "Supplementary Figure 6d, Confocal imaging of CDC45-GFP, MCM4-Halo, and immunostained MCM6 under normal and ATR inhibitor treatment conditions. U2OS cells."
+      }
+    },
+    "6f528140-ca4a-4977-a5e3-469fcd07ec09": {
+      "id": "6f528140-ca4a-4977-a5e3-469fcd07ec09",
+      "name": "Supplementary Figure 7e.zip",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST909/Supplementary Figure 7e.zip",
+      "size_in_bytes": 893566233,
+      "type": null,
+      "attributes": {
+        "Description": "Supplementary Figure 7e, Confocal imaging of MCM2-mEm, PCNA-RFP, and immunostained MCM7 under normal and ATR inhibitor treatment conditions. CHO cells."
+      }
+    },
+    "8d00332d-dce1-4a77-ab4e-b9db500a5d83": {
+      "id": "8d00332d-dce1-4a77-ab4e-b9db500a5d83",
+      "name": "Supplementary Figure 8a_b.zip",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST909/Supplementary Figure 8a_b.zip",
+      "size_in_bytes": 1042207815,
+      "type": null,
+      "attributes": {
+        "Description": "Supplementary Figures 8a and b, Confocal imaging of MCM2-GFP, PCNA, and immunostained MCM2 throughout the S phase. U2OS cells."
+      }
+    },
+    "efb6a14c-f593-41fe-9c33-525808aa710c": {
+      "id": "efb6a14c-f593-41fe-9c33-525808aa710c",
+      "name": "Supplementary Figure 8c_d.zip",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST909/Supplementary Figure 8c_d.zip",
+      "size_in_bytes": 1242693065,
+      "type": null,
+      "attributes": {
+        "Description": "Supplementary Figures 8c and d, Confocal imaging of CDC45-GFP, MCM4-Halo, and EdU throughout the S phase. U2OS cells."
+      }
+    },
+    "f08be28f-ffe7-47e1-8af6-02bdcc28e8d1": {
+      "id": "f08be28f-ffe7-47e1-8af6-02bdcc28e8d1",
+      "name": "Supplementary Figure 9b_f.zip",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST909/Supplementary Figure 9b_f.zip",
+      "size_in_bytes": 2331500273,
+      "type": null,
+      "attributes": {
+        "Description": "Supplementary Figures 9b-f, Confocal imaging of CDC45-GFP, MCM4-Halo, and immunostained MCMs in control and CLASPIN depleted cells under ATR inhibitor treatment. U2OS cells."
+      }
+    },
+    "a1481b56-6dff-4991-ae92-f80026172a7d": {
+      "id": "a1481b56-6dff-4991-ae92-f80026172a7d",
+      "name": "Supplementary Figure 9g_k.zip",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST909/Supplementary Figure 9g_k.zip",
+      "size_in_bytes": 2342515116,
+      "type": null,
+      "attributes": {
+        "Description": "Supplementary Figures 9g-k, Confocal imaging of CDC45-GFP, MCM4-Halo, and immunostained MCMs in control and AND1 depleted cells under ATR inhibitor treatment. U2OS cells."
+      }
+    },
+    "b7564cb9-6331-4f57-bf46-c757e07cd483": {
+      "id": "b7564cb9-6331-4f57-bf46-c757e07cd483",
+      "name": "Suplementary Figure 1c/1_CDC45-GFP_S1.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/909/S-BSST909/Files/Suplementary Figure 1c.zip",
+      "size_in_bytes": 1924076,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Supplementary Figure 1c, Uncropped gallery for imaging of chromatin-bound CDC45-GFP and EdU throughout the S phase. U2OS cells."
+      }
+    },
+    "58101934-4955-4c88-a81c-1f9e5c01506a": {
+      "id": "58101934-4955-4c88-a81c-1f9e5c01506a",
+      "name": "Suplementary Figure 1c/1_EdU_S1.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/909/S-BSST909/Files/Suplementary Figure 1c.zip",
+      "size_in_bytes": 1924076,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Supplementary Figure 1c, Uncropped gallery for imaging of chromatin-bound CDC45-GFP and EdU throughout the S phase. U2OS cells."
+      }
+    },
+    "8f58e977-98fa-40ce-a87b-356363a2aa13": {
+      "id": "8f58e977-98fa-40ce-a87b-356363a2aa13",
+      "name": "Suplementary Figure 1c/2_CDC45-GFP_S2.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/909/S-BSST909/Files/Suplementary Figure 1c.zip",
+      "size_in_bytes": 1924076,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Supplementary Figure 1c, Uncropped gallery for imaging of chromatin-bound CDC45-GFP and EdU throughout the S phase. U2OS cells."
+      }
+    },
+    "2bfc3a7c-1ba0-430d-955c-1e4297dc5a45": {
+      "id": "2bfc3a7c-1ba0-430d-955c-1e4297dc5a45",
+      "name": "Suplementary Figure 1c/2_EdU_S2.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/909/S-BSST909/Files/Suplementary Figure 1c.zip",
+      "size_in_bytes": 1924076,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Supplementary Figure 1c, Uncropped gallery for imaging of chromatin-bound CDC45-GFP and EdU throughout the S phase. U2OS cells."
+      }
+    },
+    "51def126-2b52-4b72-afef-400ba9b7ebef": {
+      "id": "51def126-2b52-4b72-afef-400ba9b7ebef",
+      "name": "Suplementary Figure 1c/3_CDC45-GFP_S3.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/909/S-BSST909/Files/Suplementary Figure 1c.zip",
+      "size_in_bytes": 1924076,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Supplementary Figure 1c, Uncropped gallery for imaging of chromatin-bound CDC45-GFP and EdU throughout the S phase. U2OS cells."
+      }
+    },
+    "a6fb7745-c0c9-4d83-8bc4-b9130503aa1f": {
+      "id": "a6fb7745-c0c9-4d83-8bc4-b9130503aa1f",
+      "name": "Suplementary Figure 1c/3_EdU_S3.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/909/S-BSST909/Files/Suplementary Figure 1c.zip",
+      "size_in_bytes": 1924076,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Supplementary Figure 1c, Uncropped gallery for imaging of chromatin-bound CDC45-GFP and EdU throughout the S phase. U2OS cells."
+      }
+    },
+    "31494d69-7880-4770-8661-084f91b5b97d": {
+      "id": "31494d69-7880-4770-8661-084f91b5b97d",
+      "name": "Suplementary Figure 1c/4_CDC45-GFP_S4.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/909/S-BSST909/Files/Suplementary Figure 1c.zip",
+      "size_in_bytes": 1924076,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Supplementary Figure 1c, Uncropped gallery for imaging of chromatin-bound CDC45-GFP and EdU throughout the S phase. U2OS cells."
+      }
+    },
+    "cd2d2d32-8667-4aa7-9b4d-f5593335900f": {
+      "id": "cd2d2d32-8667-4aa7-9b4d-f5593335900f",
+      "name": "Suplementary Figure 1c/4_EdU_S4.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/909/S-BSST909/Files/Suplementary Figure 1c.zip",
+      "size_in_bytes": 1924076,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Supplementary Figure 1c, Uncropped gallery for imaging of chromatin-bound CDC45-GFP and EdU throughout the S phase. U2OS cells."
+      }
+    },
+    "a68e2277-f674-4f6e-ad27-21067f7ec08c": {
+      "id": "a68e2277-f674-4f6e-ad27-21067f7ec08c",
+      "name": "Suplementary Figure 1c/5_CDC45-GFP_S5.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/909/S-BSST909/Files/Suplementary Figure 1c.zip",
+      "size_in_bytes": 1924076,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Supplementary Figure 1c, Uncropped gallery for imaging of chromatin-bound CDC45-GFP and EdU throughout the S phase. U2OS cells."
+      }
+    },
+    "2a3e1814-888a-4782-b0d9-b650f5f705a6": {
+      "id": "2a3e1814-888a-4782-b0d9-b650f5f705a6",
+      "name": "Suplementary Figure 1c/5_EdU_S5.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/909/S-BSST909/Files/Suplementary Figure 1c.zip",
+      "size_in_bytes": 1924076,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Supplementary Figure 1c, Uncropped gallery for imaging of chromatin-bound CDC45-GFP and EdU throughout the S phase. U2OS cells."
+      }
+    },
+    "dacaa7b8-30fa-4f9f-89b2-2d9bfbe53eb4": {
+      "id": "dacaa7b8-30fa-4f9f-89b2-2d9bfbe53eb4",
+      "name": "Suplementary Figure 1c/6_CDC45-GFP_S6.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/909/S-BSST909/Files/Suplementary Figure 1c.zip",
+      "size_in_bytes": 1924076,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Supplementary Figure 1c, Uncropped gallery for imaging of chromatin-bound CDC45-GFP and EdU throughout the S phase. U2OS cells."
+      }
+    },
+    "b6c35fda-71f8-43c3-ae0c-b3a296ec095b": {
+      "id": "b6c35fda-71f8-43c3-ae0c-b3a296ec095b",
+      "name": "Suplementary Figure 1c/6_EdU_S6.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/909/S-BSST909/Files/Suplementary Figure 1c.zip",
+      "size_in_bytes": 1924076,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Supplementary Figure 1c, Uncropped gallery for imaging of chromatin-bound CDC45-GFP and EdU throughout the S phase. U2OS cells."
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "d91ce3cc-a852-4344-a794-412ecc68f3ec",
+  "accession_id": "EXT-HD0002",
+  "name": "fibsem-raw",
+  "original_relpath": "fibsem-raw",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "EXT-HD0002",
+      "image_id": "d91ce3cc-a852-4344-a794-412ecc68f3ec",
+      "uri": "s3://plankton-fibsem/emiliania/images/bdv-n5/raw.n5",
+      "size": 0,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "16ec2003-b973-4b60-8597-b8aaaa694d67"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {}
+}
