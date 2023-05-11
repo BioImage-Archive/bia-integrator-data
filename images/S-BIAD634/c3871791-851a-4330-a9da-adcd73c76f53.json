@@ -1,0 +1,27 @@
+{
+  "id": "c3871791-851a-4330-a9da-adcd73c76f53",
+  "accession_id": "S-BIAD634",
+  "name": "dataset/groundtruth/Ganglioneuroblastoma_3.tif",
+  "original_relpath": "dataset/groundtruth/Ganglioneuroblastoma_3.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD634",
+      "image_id": "c3871791-851a-4330-a9da-adcd73c76f53",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD634/dataset/groundtruth/Ganglioneuroblastoma_3.tif",
+      "size": 2239668,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "bd190dd9-744c-4400-83dc-4c935d3a1e80"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "file description": "Groundtruth, annotated segmentation masks in TIFF format",
+    "source image": "dataset/rawimages/Ganglioneuroblastoma_3.tif"
+  }
+}

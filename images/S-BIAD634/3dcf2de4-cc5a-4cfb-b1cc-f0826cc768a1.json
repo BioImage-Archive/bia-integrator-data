@@ -1,0 +1,38 @@
+{
+  "id": "3dcf2de4-cc5a-4cfb-b1cc-f0826cc768a1",
+  "accession_id": "S-BIAD634",
+  "name": "dataset/rawimages/normal_14.tif",
+  "original_relpath": "dataset/rawimages/normal_14.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD634",
+      "image_id": "3dcf2de4-cc5a-4cfb-b1cc-f0826cc768a1",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD634/dataset/rawimages/normal_14.tif",
+      "size": 1311278,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "4932f6c7-2559-4c93-ba42-c827132277ce"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "file description": "Raw nuclear images in TIFF format",
+    "Diagnosis": "normal (HaCaT)",
+    "Preparation": "cellline cytospin",
+    "Train-/Testset split": "train",
+    "Testset class": "-",
+    "Magnification": "63x",
+    "Modality": "FM",
+    "Device": "Zeiss Axioplan II",
+    "Software": "Metafer",
+    "Mean BG signal": "12,9",
+    "Mean FG signal": "67,2",
+    "Signal/Noise": "5,2",
+    "S/N Class": ">=4,<40"
+  }
+}

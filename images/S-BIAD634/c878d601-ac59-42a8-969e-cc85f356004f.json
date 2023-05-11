@@ -1,0 +1,38 @@
+{
+  "id": "c878d601-ac59-42a8-969e-cc85f356004f",
+  "accession_id": "S-BIAD634",
+  "name": "dataset/rawimages/Neuroblastoma_7.tif",
+  "original_relpath": "dataset/rawimages/Neuroblastoma_7.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD634",
+      "image_id": "c878d601-ac59-42a8-969e-cc85f356004f",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD634/dataset/rawimages/Neuroblastoma_7.tif",
+      "size": 1311278,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "67144723-d368-415f-adbc-c642ca603663"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "file description": "Raw nuclear images in TIFF format",
+    "Diagnosis": "Neuroblastoma",
+    "Preparation": "BM cytospin",
+    "Train-/Testset split": "train",
+    "Testset class": "-",
+    "Magnification": "63x",
+    "Modality": "FM",
+    "Device": "Zeiss Axioplan II",
+    "Software": "Metafer",
+    "Mean BG signal": "35,3",
+    "Mean FG signal": "108,9",
+    "Signal/Noise": "3,1",
+    "S/N Class": "<4"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "52d39431-75b9-45cd-afd0-2469344a44bb",
+  "accession_id": "S-BIAD634",
+  "name": "dataset/singlecell_groundtruth/Ganglioneuroblastoma_4singlemask.tif",
+  "original_relpath": "dataset/singlecell_groundtruth/Ganglioneuroblastoma_4singlemask.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD634",
+      "image_id": "52d39431-75b9-45cd-afd0-2469344a44bb",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD634/dataset/singlecell_groundtruth/Ganglioneuroblastoma_4singlemask.tif",
+      "size": 4478968,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "d9244519-0b0f-4415-8596-b57f0cfdb64c"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "file description": "Groundtruth for randomly selected nuclei of the testset (25 nuclei per testset class, a subset of all nuclei of the testset classes; human experts can compete with this low number of nuclei per subset by calculating Dice coefficients between their annotations and the groundtruth annotations)",
+    "source image": "dataset/rawimages/Ganglioneuroblastoma_4.tif"
+  }
+}

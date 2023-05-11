@@ -1,0 +1,27 @@
+{
+  "id": "9c20d74a-3e0b-48f6-a81a-379b2e73f624",
+  "accession_id": "S-BIAD634",
+  "name": "dataset/visualized_singlecell_groundtruth/Neuroblastoma_12_singlemask.png",
+  "original_relpath": "dataset/visualized_singlecell_groundtruth/Neuroblastoma_12_singlemask.png",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD634",
+      "image_id": "9c20d74a-3e0b-48f6-a81a-379b2e73f624",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD634/dataset/visualized_singlecell_groundtruth/Neuroblastoma_12_singlemask.png",
+      "size": 7981,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "e5e9799e-4ec8-4c2c-a125-eaa6d5e62024"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "file description": "Visualization of groundtruth for randomly selected nuclei in PNG format",
+    "source image": "dataset/rawimages/Neuroblastoma_12.tif"
+  }
+}

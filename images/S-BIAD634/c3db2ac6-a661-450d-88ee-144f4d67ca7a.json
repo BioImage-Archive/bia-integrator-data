@@ -1,0 +1,27 @@
+{
+  "id": "c3db2ac6-a661-450d-88ee-144f4d67ca7a",
+  "accession_id": "S-BIAD634",
+  "name": "dataset/groundtruth_svgs/Neuroblastoma_4.jpg",
+  "original_relpath": "dataset/groundtruth_svgs/Neuroblastoma_4.jpg",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD634",
+      "image_id": "c3db2ac6-a661-450d-88ee-144f4d67ca7a",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD634/dataset/groundtruth_svgs/Neuroblastoma_4.jpg",
+      "size": 258264,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "dd09b232-4de8-40c7-a0be-e8251029a54f"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "file description": "Raw image in JPEG format",
+    "source image": "dataset/rawimages/Neuroblastoma_4.tif"
+  }
+}

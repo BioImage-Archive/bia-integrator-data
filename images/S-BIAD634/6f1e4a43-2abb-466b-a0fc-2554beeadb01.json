@@ -1,0 +1,38 @@
+{
+  "id": "6f1e4a43-2abb-466b-a0fc-2554beeadb01",
+  "accession_id": "S-BIAD634",
+  "name": "dataset/rawimages/otherspecimen_3.tif",
+  "original_relpath": "dataset/rawimages/otherspecimen_3.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD634",
+      "image_id": "6f1e4a43-2abb-466b-a0fc-2554beeadb01",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD634/dataset/rawimages/otherspecimen_3.tif",
+      "size": 795148,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "8b0352c1-414f-4d07-9314-4344740c1804"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "file description": "Raw nuclear images in TIFF format",
+    "Diagnosis": "Wilms",
+    "Preparation": "tissue section",
+    "Train-/Testset split": "test",
+    "Testset class": "TS: other tissue sections (neuroblastoma, Wilms)",
+    "Magnification": "63x",
+    "Modality": "FM",
+    "Device": "Zeiss Axioplan II",
+    "Software": "Isis",
+    "Mean BG signal": "15,9",
+    "Mean FG signal": "45,2",
+    "Signal/Noise": "2,8",
+    "S/N Class": "<4"
+  }
+}

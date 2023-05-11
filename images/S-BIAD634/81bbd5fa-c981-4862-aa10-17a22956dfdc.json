@@ -1,0 +1,38 @@
+{
+  "id": "81bbd5fa-c981-4862-aa10-17a22956dfdc",
+  "accession_id": "S-BIAD634",
+  "name": "dataset/rawimages/Neuroblastoma_14.tif",
+  "original_relpath": "dataset/rawimages/Neuroblastoma_14.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD634",
+      "image_id": "81bbd5fa-c981-4862-aa10-17a22956dfdc",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD634/dataset/rawimages/Neuroblastoma_14.tif",
+      "size": 1311278,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "7fbfe79c-1271-4ea6-b40d-b3c699244d77"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "file description": "Raw nuclear images in TIFF format",
+    "Diagnosis": "Neuroblastoma",
+    "Preparation": "Tumor touch imprint",
+    "Train-/Testset split": "test",
+    "Testset class": "NB-IV: neuroblastoma tumor touch imprints",
+    "Magnification": "63x",
+    "Modality": "FM",
+    "Device": "Zeiss Axioplan II",
+    "Software": "Metafer",
+    "Mean BG signal": "10,8",
+    "Mean FG signal": "83,3",
+    "Signal/Noise": "7,7",
+    "S/N Class": ">=4,<40"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "f6369f64-c9e6-44be-8778-bee0be40b14f",
+  "accession_id": "S-BIAD634",
+  "name": "dataset/visualized_groundtruth/normal_6.png",
+  "original_relpath": "dataset/visualized_groundtruth/normal_6.png",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD634",
+      "image_id": "f6369f64-c9e6-44be-8778-bee0be40b14f",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD634/dataset/visualized_groundtruth/normal_6.png",
+      "size": 17948,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "b75cf068-8d80-48c6-b782-a0f6b6dec6ea"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "file description": "Visualization of groundtruth masks in PNG format",
+    "source image": "dataset/rawimages/normal_6.tif"
+  }
+}

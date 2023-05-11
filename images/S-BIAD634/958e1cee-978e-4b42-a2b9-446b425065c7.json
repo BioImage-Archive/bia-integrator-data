@@ -1,0 +1,27 @@
+{
+  "id": "958e1cee-978e-4b42-a2b9-446b425065c7",
+  "accession_id": "S-BIAD634",
+  "name": "dataset/visualized_singlecell_groundtruth/otherspecimen_8_singlemask.png",
+  "original_relpath": "dataset/visualized_singlecell_groundtruth/otherspecimen_8_singlemask.png",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD634",
+      "image_id": "958e1cee-978e-4b42-a2b9-446b425065c7",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD634/dataset/visualized_singlecell_groundtruth/otherspecimen_8_singlemask.png",
+      "size": 7619,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "3faf62a0-4cbf-4696-bc67-2032b53f66f1"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "file description": "Visualization of groundtruth for randomly selected nuclei in PNG format",
+    "source image": "dataset/rawimages/otherspecimen_8.tif"
+  }
+}

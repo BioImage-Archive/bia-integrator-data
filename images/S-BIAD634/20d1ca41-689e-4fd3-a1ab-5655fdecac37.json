@@ -1,0 +1,27 @@
+{
+  "id": "20d1ca41-689e-4fd3-a1ab-5655fdecac37",
+  "accession_id": "S-BIAD634",
+  "name": "dataset/groundtruth_svgs/otherspecimen_5.jpg",
+  "original_relpath": "dataset/groundtruth_svgs/otherspecimen_5.jpg",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD634",
+      "image_id": "20d1ca41-689e-4fd3-a1ab-5655fdecac37",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD634/dataset/groundtruth_svgs/otherspecimen_5.jpg",
+      "size": 99352,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "f362e27b-7db0-4475-8c5f-e77ff48a5213"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "file description": "Raw image in JPEG format",
+    "source image": "dataset/rawimages/otherspecimen_5.tif"
+  }
+}

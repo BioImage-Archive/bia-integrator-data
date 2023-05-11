@@ -1,0 +1,27 @@
+{
+  "id": "171835e8-ed4d-4a12-a568-51dd7528f1c1",
+  "accession_id": "S-BIAD634",
+  "name": "dataset/groundtruth/normal_2.tif",
+  "original_relpath": "dataset/groundtruth/normal_2.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD634",
+      "image_id": "171835e8-ed4d-4a12-a568-51dd7528f1c1",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD634/dataset/groundtruth/normal_2.tif",
+      "size": 2621808,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "4d22fb22-ffc5-460f-81a4-b0d4f19b89ac"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "file description": "Groundtruth, annotated segmentation masks in TIFF format",
+    "source image": "dataset/rawimages/normal_2.tif"
+  }
+}

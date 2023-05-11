@@ -1,0 +1,38 @@
+{
+  "id": "eda4709b-51c4-499f-b54d-d5c3000db7c3",
+  "accession_id": "S-BIAD634",
+  "name": "dataset/rawimages/normal_33.tif",
+  "original_relpath": "dataset/rawimages/normal_33.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD634",
+      "image_id": "eda4709b-51c4-499f-b54d-d5c3000db7c3",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD634/dataset/rawimages/normal_33.tif",
+      "size": 1311278,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "d6dd3b4c-0c8f-4109-8c29-3d1b77dd4fba"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "file description": "Raw nuclear images in TIFF format",
+    "Diagnosis": "normal (HaCaT)",
+    "Preparation": "cellline grown",
+    "Train-/Testset split": "test",
+    "Testset class": "NC-III: normal cells grown on slide",
+    "Magnification": "63x",
+    "Modality": "FM",
+    "Device": "Zeiss Axioplan II",
+    "Software": "Metafer",
+    "Mean BG signal": "35,9",
+    "Mean FG signal": "113,2",
+    "Signal/Noise": "3,2",
+    "S/N Class": "<4"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "83b1b310-a002-490a-a1e2-0b350c7c55cc",
+  "accession_id": "S-BIAD634",
+  "name": "dataset/rawimages/Ganglioneuroblastoma_10.tif",
+  "original_relpath": "dataset/rawimages/Ganglioneuroblastoma_10.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD634",
+      "image_id": "83b1b310-a002-490a-a1e2-0b350c7c55cc",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD634/dataset/rawimages/Ganglioneuroblastoma_10.tif",
+      "size": 1393214,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "301c0700-a5bc-4dce-b828-4b5214caa507"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "file description": "Raw nuclear images in TIFF format",
+    "Diagnosis": "Ganglioneuroblastoma",
+    "Preparation": "tissue section",
+    "Train-/Testset split": "test",
+    "Testset class": "GNB-II: ganglioneuroblastoma tissue sections with a low signal-to-noise ratio",
+    "Magnification": "63x",
+    "Modality": "FM",
+    "Device": "Zeiss Axioplan II",
+    "Software": "Metafer",
+    "Mean BG signal": "27",
+    "Mean FG signal": "97,1",
+    "Signal/Noise": "3,6",
+    "S/N Class": "<4"
+  }
+}

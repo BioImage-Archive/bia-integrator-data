@@ -1,0 +1,27 @@
+{
+  "id": "da502d19-033c-4238-8d03-9bb35b04741b",
+  "accession_id": "S-BIAD634",
+  "name": "dataset/visualized_singlecell_groundtruth/Ganglioneuroblastoma_9_singlemask.png",
+  "original_relpath": "dataset/visualized_singlecell_groundtruth/Ganglioneuroblastoma_9_singlemask.png",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD634",
+      "image_id": "da502d19-033c-4238-8d03-9bb35b04741b",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD634/dataset/visualized_singlecell_groundtruth/Ganglioneuroblastoma_9_singlemask.png",
+      "size": 9092,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "89e781e5-6855-40da-be57-baccd2e7d1da"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "file description": "Visualization of groundtruth for randomly selected nuclei in PNG format",
+    "source image": "dataset/rawimages/Ganglioneuroblastoma_9.tif"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "9edba445-fffb-4f9f-8881-8e259ecb0fcf",
+  "accession_id": "S-BIAD634",
+  "name": "dataset/groundtruth_svgs/normal_12.jpg",
+  "original_relpath": "dataset/groundtruth_svgs/normal_12.jpg",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD634",
+      "image_id": "9edba445-fffb-4f9f-8881-8e259ecb0fcf",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD634/dataset/groundtruth_svgs/normal_12.jpg",
+      "size": 236792,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "3f1702fa-292a-4fa4-a632-be62e6e51f16"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "file description": "Raw image in JPEG format",
+    "source image": "dataset/rawimages/normal_12.tif"
+  }
+}

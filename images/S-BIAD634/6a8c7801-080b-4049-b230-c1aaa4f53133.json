@@ -1,0 +1,38 @@
+{
+  "id": "6a8c7801-080b-4049-b230-c1aaa4f53133",
+  "accession_id": "S-BIAD634",
+  "name": "dataset/rawimages/otherspecimen_8.tif",
+  "original_relpath": "dataset/rawimages/otherspecimen_8.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD634",
+      "image_id": "6a8c7801-080b-4049-b230-c1aaa4f53133",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD634/dataset/rawimages/otherspecimen_8.tif",
+      "size": 1049262,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "5236b490-7bdc-4482-882a-faf9e8e92852"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "file description": "Raw nuclear images in TIFF format",
+    "Diagnosis": "Neuroblastoma",
+    "Preparation": "cellline cytospin",
+    "Train-/Testset split": "test",
+    "Testset class": "NB-III: neuroblastoma cell line preparations imaged with LSM modalities",
+    "Magnification": "63x",
+    "Modality": "LSM",
+    "Device": "Leica SP8X",
+    "Software": "Leica",
+    "Mean BG signal": "0",
+    "Mean FG signal": "92,9",
+    "Signal/Noise": "2277,6",
+    "S/N Class": ">=40"
+  }
+}

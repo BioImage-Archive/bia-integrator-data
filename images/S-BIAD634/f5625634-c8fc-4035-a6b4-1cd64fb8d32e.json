@@ -1,0 +1,27 @@
+{
+  "id": "f5625634-c8fc-4035-a6b4-1cd64fb8d32e",
+  "accession_id": "S-BIAD634",
+  "name": "dataset/singlecell_groundtruth/normal_26singlemask.tif",
+  "original_relpath": "dataset/singlecell_groundtruth/normal_26singlemask.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD634",
+      "image_id": "f5625634-c8fc-4035-a6b4-1cd64fb8d32e",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD634/dataset/singlecell_groundtruth/normal_26singlemask.tif",
+      "size": 5243248,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "cf53e567-248e-488a-ada9-e265c612c68c"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "file description": "Groundtruth for randomly selected nuclei of the testset (25 nuclei per testset class, a subset of all nuclei of the testset classes; human experts can compete with this low number of nuclei per subset by calculating Dice coefficients between their annotations and the groundtruth annotations)",
+    "source image": "dataset/rawimages/normal_26.tif"
+  }
+}
