@@ -1,0 +1,178 @@
+{
+  "accession_id": "S-DHCA0",
+  "title": "Multi-organ functions of yolk sac during human early development",
+  "description": "The yolk sac (YS) represents an evolutionarily-conserved extra-embryonic structure that ensures timely delivery of nutritional support and oxygen to the developing embryo. However, the YS remains ill-defined in humans. We therefore assemble a complete single cell 3D map of human YS from 3-8 post conception weeks by integrating multiomic protein and gene expression data. We reveal the YS as a site of primitive and definitive haematopoiesis including a YS-specific accelerated route to macrophage production, a source of nutritional/metabolic support and a regulator of oxygen-carrying capacity. We reconstruct the emergence of primitive haematopoietic stem and progenitor cells from YS hemogenic endothelium and their decline upon stromal support modulation as intraembryonic organs specialise to assume these functions. The YS therefore functions as ‘three organs in one’ revealing a multifaceted relay of vital organismal functions as pregnancy proceeds.\n\nWe provide a range of multi-modal spatially-defined validation imaging data including hiplex_RNA-scope, Light-sheet-microscopy and Immunofluorescence data.\n\nData_type:\n- hiplex_RNA-scope\n- Immunofluorescence\n- Light-sheet-microscopy (not on farm)",
+  "authors": [
+    {
+      "name": "Issac Goh"
+    }
+  ],
+  "organism": "Homo sapiens (human)",
+  "release_date": "2022-11-30",
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "file_references": {
+    "ffdbc24d-17fc-43c6-b62a-dd7499a82761": {
+      "id": "ffdbc24d-17fc-43c6-b62a-dd7499a82761",
+      "name": "RNAscope",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-DHCA0/RNAscope",
+      "size_in_bytes": 4096,
+      "type": null,
+      "attributes": {
+        "Description": "RNA-SCOPE data of fetal Yolksac and Liver",
+        "Type": "RNA-SCOPE",
+        "md5": null
+      }
+    },
+    "942d1c32-7d12-4710-8880-6917329d1938": {
+      "id": "942d1c32-7d12-4710-8880-6917329d1938",
+      "name": "OB01548-Cycle_1.ome.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-DHCA/000/S-DHCA0/Files/RNAscope.zip",
+      "size_in_bytes": 2114983301,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "RNA-SCOPE data of fetal Yolksac and Liver",
+        "Type": "RNA-SCOPE",
+        "md5": null
+      }
+    },
+    "71788755-2b5a-4359-8288-6510724371d4": {
+      "id": "71788755-2b5a-4359-8288-6510724371d4",
+      "name": "OB01548-Cycle_2.ome.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-DHCA/000/S-DHCA0/Files/RNAscope.zip",
+      "size_in_bytes": 388488341,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "RNA-SCOPE data of fetal Yolksac and Liver",
+        "Type": "RNA-SCOPE",
+        "md5": null
+      }
+    },
+    "1ba57c1d-f33d-424f-9742-d6e96f485042": {
+      "id": "1ba57c1d-f33d-424f-9742-d6e96f485042",
+      "name": "OB01548-Cycle_3.ome.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-DHCA/000/S-DHCA0/Files/RNAscope.zip",
+      "size_in_bytes": 692437291,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "RNA-SCOPE data of fetal Yolksac and Liver",
+        "Type": "RNA-SCOPE",
+        "md5": null
+      }
+    },
+    "5d7c2a12-de9a-4552-85fc-364607ee74d0": {
+      "id": "5d7c2a12-de9a-4552-85fc-364607ee74d0",
+      "name": "OB01548-Cycle_4.ome.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-DHCA/000/S-DHCA0/Files/RNAscope.zip",
+      "size_in_bytes": 529864651,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "RNA-SCOPE data of fetal Yolksac and Liver",
+        "Type": "RNA-SCOPE",
+        "md5": null
+      }
+    },
+    "5272114a-a57b-45f3-85a6-0ee8339d9717": {
+      "id": "5272114a-a57b-45f3-85a6-0ee8339d9717",
+      "name": "OB01548_registered.ome.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-DHCA/000/S-DHCA0/Files/RNAscope.zip",
+      "size_in_bytes": 1736029472,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "RNA-SCOPE data of fetal Yolksac and Liver",
+        "Type": "RNA-SCOPE",
+        "md5": null
+      }
+    },
+    "29cd14bf-8626-4df2-95c5-b570d741023a": {
+      "id": "29cd14bf-8626-4df2-95c5-b570d741023a",
+      "name": "OB01459-Cycle_1.ome.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-DHCA/000/S-DHCA0/Files/RNAscope.zip",
+      "size_in_bytes": 908391899,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "RNA-SCOPE data of fetal Yolksac and Liver",
+        "Type": "RNA-SCOPE",
+        "md5": null
+      }
+    },
+    "744fd3aa-d688-4447-8e4c-e7a0e504cc63": {
+      "id": "744fd3aa-d688-4447-8e4c-e7a0e504cc63",
+      "name": "OB01459-Cycle_2.ome.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-DHCA/000/S-DHCA0/Files/RNAscope.zip",
+      "size_in_bytes": 199550400,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "RNA-SCOPE data of fetal Yolksac and Liver",
+        "Type": "RNA-SCOPE",
+        "md5": null
+      }
+    },
+    "23af149f-981e-4e24-b1db-eaa0fa3bf844": {
+      "id": "23af149f-981e-4e24-b1db-eaa0fa3bf844",
+      "name": "OB01459-Cycle_3.ome.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-DHCA/000/S-DHCA0/Files/RNAscope.zip",
+      "size_in_bytes": 388143395,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "RNA-SCOPE data of fetal Yolksac and Liver",
+        "Type": "RNA-SCOPE",
+        "md5": null
+      }
+    },
+    "0a771f94-5571-451f-9435-5cda259914cf": {
+      "id": "0a771f94-5571-451f-9435-5cda259914cf",
+      "name": "OB01459_registered.ome.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-DHCA/000/S-DHCA0/Files/RNAscope.zip",
+      "size_in_bytes": 931650367,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "RNA-SCOPE data of fetal Yolksac and Liver",
+        "Type": "RNA-SCOPE",
+        "md5": null
+      }
+    },
+    "264d4147-7b5b-4dde-817a-f5f61dc2f73f": {
+      "id": "264d4147-7b5b-4dde-817a-f5f61dc2f73f",
+      "name": "MH_FYS_OB01549_Fob10-YOL_Nucleus_IBA1_P2RY12_Meas2_A2_F1T1_max.ome.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-DHCA/000/S-DHCA0/Files/RNAscope.zip",
+      "size_in_bytes": 15165234,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "RNA-SCOPE data of fetal Yolksac and Liver",
+        "Type": "RNA-SCOPE",
+        "md5": null
+      }
+    },
+    "a29c2e9b-81fc-4a6f-b132-0307934613fd": {
+      "id": "a29c2e9b-81fc-4a6f-b132-0307934613fd",
+      "name": "MH_FYS_OB01549_Fob10-YOL_Nucleus_IBA1_P2RY12_Meas2_A2_F2T1_max.ome.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-DHCA/000/S-DHCA0/Files/RNAscope.zip",
+      "size_in_bytes": 1003388196,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "RNA-SCOPE data of fetal Yolksac and Liver",
+        "Type": "RNA-SCOPE",
+        "md5": null
+      }
+    },
+    "37c1769c-8428-4e6b-84a1-42322a84a04a": {
+      "id": "37c1769c-8428-4e6b-84a1-42322a84a04a",
+      "name": "MH_FYS_OB01550_Fob10-YOL_Nucleus_IBA1_P2RY12_Meas2_A3_F1T1_max.ome.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-DHCA/000/S-DHCA0/Files/RNAscope.zip",
+      "size_in_bytes": 993506720,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "RNA-SCOPE data of fetal Yolksac and Liver",
+        "Type": "RNA-SCOPE",
+        "md5": null
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

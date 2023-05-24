@@ -1,0 +1,42 @@
+{
+  "id": "0fcebab3-9649-4119-b82b-d5eb13f8ef0c",
+  "accession_id": "S-BIAD677",
+  "name": "My_submission/Figure 1/Figure 1B X63 basal cells/Figure Z project/Z project all sinbasal cells day 1.tif",
+  "original_relpath": "My_submission/Figure 1/Figure 1B X63 basal cells/Figure Z project/Z project all sinbasal cells day 1.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD677",
+      "image_id": "0fcebab3-9649-4119-b82b-d5eb13f8ef0c",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/677/S-BIAD677/Files/My_submission/Figure 1/Figure 1B X63 basal cells/Figure Z project/Z project all sinbasal cells day 1.tif",
+      "size": 10490707,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "02ac1916-51d1-4bc0-bff5-77dd138ee883"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "data type": "processed image",
+    "donor age": "Adult",
+    "donor ID": "A8",
+    "infection": "yes",
+    "time [days post infection]": "1",
+    "micrsocope type": "confocal",
+    "magnification ": "63X",
+    "x,y resolution (nm)": "721,501",
+    "z rersolution (nm)": "2,083,781",
+    "view": "Z-projection",
+    "channels": "4.0",
+    "stained cell type [goblet/basal/ciliated]": "basal",
+    "stained antibody name": "Anti-CytK5 / Anti-N",
+    "stained cellular component": "Nucleus (DAPI), Actin (Phalloidine), protein N (anti-N), CytK5 (anti-CytK5)",
+    "linked to figure": "Figure 1B",
+    "IFN-λ addition [ng]": "0.0",
+    "associated_metadata": null
+  }
+}

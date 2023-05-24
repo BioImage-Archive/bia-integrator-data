@@ -1,0 +1,42 @@
+{
+  "id": "3cc93ead-11dd-4fae-be1f-60eb7d6f5aa1",
+  "accession_id": "S-BIAD677",
+  "name": "My_submission/Figure 1/Figure 1C X63 ciliated cells/Figure orthogonal view/Slice 177 645 SARS Day 1 N 488 phall Ac tubulin 647 dapi X63.tif",
+  "original_relpath": "My_submission/Figure 1/Figure 1C X63 ciliated cells/Figure orthogonal view/Slice 177 645 SARS Day 1 N 488 phall Ac tubulin 647 dapi X63.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD677",
+      "image_id": "3cc93ead-11dd-4fae-be1f-60eb7d6f5aa1",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/677/S-BIAD677/Files/My_submission/Figure 1/Figure 1C X63 ciliated cells/Figure orthogonal view/Slice 177 645 SARS Day 1 N 488 phall Ac tubulin 647 dapi X63.tif",
+      "size": 10491238,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "871444e7-6520-4533-aa63-d8c82983782c"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "data type": "processed image",
+    "donor age": "Adult",
+    "donor ID": "645",
+    "infection": "yes",
+    "time [days post infection]": "1",
+    "micrsocope type": "confocal",
+    "magnification ": "63X",
+    "x,y resolution (nm)": "721,501",
+    "z rersolution (nm)": null,
+    "view": "Z-section",
+    "channels": "4.0",
+    "stained cell type [goblet/basal/ciliated]": "basal",
+    "stained antibody name": "Anti-AcTubulin / Anti-N",
+    "stained cellular component": "Nucleus (DAPI), Actin (Phalloidine), Acetylated Tubulin,protein-N",
+    "linked to figure": "Figure 1C",
+    "IFN-λ addition [ng]": "0.0",
+    "associated_metadata": null
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "29ca326b-5bfe-49c8-93af-774527eeff05",
+  "accession_id": "S-BIAD677",
+  "name": "My_submission/Figure 1/Figure 1A X63 goblet cells/Raw data lif/A3 SARS Day 1 N 3G9 488 phall 560 5AC 647 dapi X63.lif",
+  "original_relpath": "My_submission/Figure 1/Figure 1A X63 goblet cells/Raw data lif/A3 SARS Day 1 N 3G9 488 phall 560 5AC 647 dapi X63.lif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD677",
+      "image_id": "29ca326b-5bfe-49c8-93af-774527eeff05",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/677/S-BIAD677/Files/My_submission/Figure 1/Figure 1A X63 goblet cells/Raw data lif/A3 SARS Day 1 N 3G9 488 phall 560 5AC 647 dapi X63.lif",
+      "size": 717400343,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "e4f69999-82e3-4862-9a14-0010cdc0e857"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "data type": "raw data",
+    "donor age": "Adult",
+    "donor ID": "A3",
+    "infection": "yes",
+    "time [days post infection]": "1",
+    "micrsocope type": "confocal",
+    "magnification ": "63X",
+    "x,y resolution (nm)": "901,876",
+    "z rersolution (nm)": "2,083,781",
+    "view": "Hyperstack",
+    "channels": "4.0",
+    "stained cell type [goblet/basal/ciliated]": "goblet",
+    "stained antibody name": "Anti-Muc5A / Anti-N",
+    "stained cellular component": "Nucleus (DAPI), Actin (Phalloidine), protein N (anti-N), MUC5AC (anti-Muc5A)",
+    "linked to figure": "Figure 1A",
+    "IFN-λ addition [ng]": "0.0",
+    "associated_metadata": "yes"
+  }
+}

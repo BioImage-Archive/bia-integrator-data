@@ -1,0 +1,42 @@
+{
+  "id": "f1fcca2d-f5e1-43a9-8f3b-50106b1ca814",
+  "accession_id": "S-BIAD677",
+  "name": "My_submission/Figure S4/Figure S4 C5 Kinetic by Epifluorescence X20/Treated composites/Composite C5 SARS Day 7 X20 calibrate.tif",
+  "original_relpath": "My_submission/Figure S4/Figure S4 C5 Kinetic by Epifluorescence X20/Treated composites/Composite C5 SARS Day 7 X20 calibrate.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD677",
+      "image_id": "f1fcca2d-f5e1-43a9-8f3b-50106b1ca814",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/677/S-BIAD677/Files/My_submission/Figure S4/Figure S4 C5 Kinetic by Epifluorescence X20/Treated composites/Composite C5 SARS Day 7 X20 calibrate.tif",
+      "size": 12323984,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "8ba7d4d0-5d6c-47e9-9c4d-26f862127af1"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "data type": "processed image",
+    "donor age": "Child",
+    "donor ID": "C5",
+    "infection": "yes",
+    "time [days post infection]": "7",
+    "micrsocope type": "wide field",
+    "magnification ": "20X",
+    "x,y resolution (nm)": "181,5",
+    "z rersolution (nm)": null,
+    "view": "Hyperstack",
+    "channels": "3.0",
+    "stained cell type [goblet/basal/ciliated]": null,
+    "stained antibody name": "Anti-CytK5 / Anti-N",
+    "stained cellular component": "Nucleus (DAPI), Actin (Phalloidine), protein N (anti-N), CytK5 (anti-CytK5)",
+    "linked to figure": "Figure S4",
+    "IFN-λ addition [ng]": "0.0",
+    "associated_metadata": "yes"
+  }
+}

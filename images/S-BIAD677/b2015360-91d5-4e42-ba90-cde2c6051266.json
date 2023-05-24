@@ -1,0 +1,42 @@
+{
+  "id": "b2015360-91d5-4e42-ba90-cde2c6051266",
+  "accession_id": "S-BIAD677",
+  "name": "My_submission/Figure 1/Figure 1E and 1F quantifications A1 A2 A3 and A4/Raw data/X10 A4 Day 4 Infected/A4 Day 4 X20 Infected.lif - TileScan 4 Merged.tif",
+  "original_relpath": "My_submission/Figure 1/Figure 1E and 1F quantifications A1 A2 A3 and A4/Raw data/X10 A4 Day 4 Infected/A4 Day 4 X20 Infected.lif - TileScan 4 Merged.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD677",
+      "image_id": "b2015360-91d5-4e42-ba90-cde2c6051266",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/677/S-BIAD677/Files/My_submission/Figure 1/Figure 1E and 1F quantifications A1 A2 A3 and A4/Raw data/X10 A4 Day 4 Infected/A4 Day 4 X20 Infected.lif - TileScan 4 Merged.tif",
+      "size": 4071084704,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "b1dc7939-7dae-4943-81dc-5b364a27a4c0"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "data type": "raw data",
+    "donor age": "Adult",
+    "donor ID": "A4",
+    "infection": "yes",
+    "time [days post infection]": "4",
+    "micrsocope type": "confocal",
+    "magnification ": "20X",
+    "x,y resolution (nm)": "445,6",
+    "z rersolution (nm)": "999,9",
+    "view": "Hyperstack",
+    "channels": "4.0",
+    "stained cell type [goblet/basal/ciliated]": null,
+    "stained antibody name": "Anti-CytK5 / Anti-N",
+    "stained cellular component": "Nucleus (DAPI), Actin (Phalloidine), protein N (anti-N), CytK5 (anti-CytK5)",
+    "linked to figure": "Figure 1E",
+    "IFN-λ addition [ng]": "0.0",
+    "associated_metadata": "yes"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "accession_id": "S-BIAD704",
+  "title": "idr0054 Human lymphoid organ cDC2 and macrophages play complementary roles in T follicular helper responses.",
+  "description": "Imaging mass cytometry of tonsil sections",
+  "authors": [
+    {
+      "name": "William Moore"
+    }
+  ],
+  "organism": "Unknown",
+  "release_date": "2023-05-18",
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "example_annotation_uri": "",
+  "file_references": {
+    "0f34fa95-b8c5-44fd-a3d9-9e85b765a892": {
+      "id": "0f34fa95-b8c5-44fd-a3d9-9e85b765a892",
+      "name": "Tonsil 1.ome.zarr.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/704/S-BIAD704/Files/Tonsil 1.ome.zarr.zip",
+      "size_in_bytes": 100250459,
+      "type": null,
+      "attributes": {}
+    },
+    "9bd77ef7-7d2f-49f1-bbe1-9481dfd078e2": {
+      "id": "9bd77ef7-7d2f-49f1-bbe1-9481dfd078e2",
+      "name": "Tonsil 2.ome.zarr.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/704/S-BIAD704/Files/Tonsil 2.ome.zarr.zip",
+      "size_in_bytes": 95126131,
+      "type": null,
+      "attributes": {}
+    },
+    "18c93bde-ac03-46a3-8a89-c9bd60e566aa": {
+      "id": "18c93bde-ac03-46a3-8a89-c9bd60e566aa",
+      "name": "Tonsil 3.ome.zarr.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/704/S-BIAD704/Files/Tonsil 3.ome.zarr.zip",
+      "size_in_bytes": 114078523,
+      "type": null,
+      "attributes": {}
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

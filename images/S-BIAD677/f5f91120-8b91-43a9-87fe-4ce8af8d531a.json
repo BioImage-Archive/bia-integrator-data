@@ -1,0 +1,42 @@
+{
+  "id": "f5f91120-8b91-43a9-87fe-4ce8af8d531a",
+  "accession_id": "S-BIAD677",
+  "name": "My_submission/Figure 2/Figure 2F/Figure Z project 3D reconstruction X63/FullResolution_Figure crop triple staining 3D views X63 up view 20 micron scale.tif",
+  "original_relpath": "My_submission/Figure 2/Figure 2F/Figure Z project 3D reconstruction X63/FullResolution_Figure crop triple staining 3D views X63 up view 20 micron scale.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD677",
+      "image_id": "f5f91120-8b91-43a9-87fe-4ce8af8d531a",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/677/S-BIAD677/Files/My_submission/Figure 2/Figure 2F/Figure Z project 3D reconstruction X63/FullResolution_Figure crop triple staining 3D views X63 up view 20 micron scale.tif",
+      "size": 12056063,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "318423e5-e7be-4316-b14f-66dbac8583dd"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "data type": "processed image",
+    "donor age": "Adult",
+    "donor ID": "652",
+    "infection": "yes",
+    "time [days post infection]": "4",
+    "micrsocope type": "confocal",
+    "magnification ": "63X",
+    "x,y resolution (nm)": "180,3",
+    "z rersolution (nm)": null,
+    "view": "Z-projection",
+    "channels": "5.0",
+    "stained cell type [goblet/basal/ciliated]": null,
+    "stained antibody name": "Anti-CytK5 / Anti-AcTubulin / Anti-N",
+    "stained cellular component": "Nucleus (DAPI), Acetylated Tubulin, protein-N, CytK5 (anti-CytK5)",
+    "linked to figure": "Figure 2F",
+    "IFN-λ addition [ng]": "0.0",
+    "associated_metadata": null
+  }
+}

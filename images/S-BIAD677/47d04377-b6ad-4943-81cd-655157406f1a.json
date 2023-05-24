@@ -1,0 +1,42 @@
+{
+  "id": "47d04377-b6ad-4943-81cd-655157406f1a",
+  "accession_id": "S-BIAD677",
+  "name": "My_submission/Figure 4/Figure 4D and 4E quantifications/raw data/X10 C5 Day 0 Non-infected/C5 Day 0 X10 Non-infected.lif",
+  "original_relpath": "My_submission/Figure 4/Figure 4D and 4E quantifications/raw data/X10 C5 Day 0 Non-infected/C5 Day 0 X10 Non-infected.lif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD677",
+      "image_id": "47d04377-b6ad-4943-81cd-655157406f1a",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/677/S-BIAD677/Files/My_submission/Figure 4/Figure 4D and 4E quantifications/raw data/X10 C5 Day 0 Non-infected/C5 Day 0 X10 Non-infected.lif",
+      "size": 1701011443,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "e858b29b-5c94-4c48-b27e-e95942803e9d"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "data type": "raw data",
+    "donor age": "Child",
+    "donor ID": "C5",
+    "infection": "no",
+    "time [days post infection]": "0",
+    "micrsocope type": "confocal",
+    "magnification ": "10X",
+    "x,y resolution (nm)": "2275",
+    "z rersolution (nm)": "1000",
+    "view": "Hyperstack",
+    "channels": "4.0",
+    "stained cell type [goblet/basal/ciliated]": null,
+    "stained antibody name": "Anti-CytK5 / Anti-AcTubulin / Anti-N",
+    "stained cellular component": "Nucleus (DAPI), Acetylated Tubulin, protein-N, CytK5 (anti-CytK5)",
+    "linked to figure": "Figure 4D",
+    "IFN-λ addition [ng]": "0.0",
+    "associated_metadata": "yes"
+  }
+}

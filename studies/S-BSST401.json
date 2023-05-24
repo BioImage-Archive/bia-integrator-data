@@ -1,0 +1,132 @@
+{
+  "accession_id": "S-BSST401",
+  "title": "Ultrasound Mouse embryo Images",
+  "description": "The data set used for developing the segmentation framework consists of 231 embryonic mice HFU volumes which were acquired in utero and in vivo from pregnant mice (10-14.5 days after mating) using a 5-element 40-MHz annular array. The dimensions of the HFU volumes vary from 150 × 161 × 81 to 210 × 281 × 282 voxels and each voxel size is 50 × 50 × 50 ?m. For each of the 231 volumes, manual BV and body segmentations were conducted by trained research assistants using Amira, a commercial software. The data were then randomly split into 185 for training and 46 for testing. Because the proposed segmentation performed accurately, the algorithm was then applied on the remaining unlabeled images and those images with reasonable automatic BV and body segmentation were selected. This process resulted in a total of 552 images with BV and body segmentation: 102 mutant and 440 normal. 6-fold cross validation was used to develop and evaluate the mutant classification algorithm.",
+  "authors": [
+    {
+      "name": "Ziming Qiu"
+    }
+  ],
+  "organism": "Unknown",
+  "release_date": "2020-05-31",
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "file_references": {
+    "5f4fbb54-895d-4fce-8607-6200cea4e31d": {
+      "id": "5f4fbb54-895d-4fce-8607-6200cea4e31d",
+      "name": "mouse_embryo_dataset.zip",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST401/mouse_embryo_dataset.zip",
+      "size_in_bytes": 1962457845,
+      "type": null,
+      "attributes": {
+        "Description": "segmentation and classification"
+      }
+    },
+    "3acd10c6-d09f-410c-b25b-cf628e8eb322": {
+      "id": "3acd10c6-d09f-410c-b25b-cf628e8eb322",
+      "name": "mouse_embryo_dataset/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/S-BSSTxxx401/S-BSST401/Files/mouse_embryo_dataset.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "segmentation and classification"
+      }
+    },
+    "27e8a1c6-f2f8-4706-a325-b75f05936205": {
+      "id": "27e8a1c6-f2f8-4706-a325-b75f05936205",
+      "name": "mouse_embryo_dataset/.DS_Store",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/S-BSSTxxx401/S-BSST401/Files/mouse_embryo_dataset.zip",
+      "size_in_bytes": 10244,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "segmentation and classification"
+      }
+    },
+    "874aeb35-2fae-4f99-b5ee-c9f327ece330": {
+      "id": "874aeb35-2fae-4f99-b5ee-c9f327ece330",
+      "name": "mouse_embryo_dataset/Segmentation_dataset/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/S-BSSTxxx401/S-BSST401/Files/mouse_embryo_dataset.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "segmentation and classification"
+      }
+    },
+    "c0ad3c57-1af3-4f5d-9d88-928bbc0c46b7": {
+      "id": "c0ad3c57-1af3-4f5d-9d88-928bbc0c46b7",
+      "name": "mouse_embryo_dataset/Segmentation_dataset/nii_test.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/S-BSSTxxx401/S-BSST401/Files/mouse_embryo_dataset.zip",
+      "size_in_bytes": 359983712,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "segmentation and classification"
+      }
+    },
+    "ed40bbf5-1727-4e97-a54f-9362fd8193ae": {
+      "id": "ed40bbf5-1727-4e97-a54f-9362fd8193ae",
+      "name": "mouse_embryo_dataset/Segmentation_dataset/nii_train.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/S-BSSTxxx401/S-BSST401/Files/mouse_embryo_dataset.zip",
+      "size_in_bytes": 1620857772,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "segmentation and classification"
+      }
+    },
+    "5ac7e116-2389-42eb-b9ac-9a98c53dddec": {
+      "id": "5ac7e116-2389-42eb-b9ac-9a98c53dddec",
+      "name": "mouse_embryo_dataset/Classification_dataset/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/S-BSSTxxx401/S-BSST401/Files/mouse_embryo_dataset.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "segmentation and classification"
+      }
+    },
+    "13e3f9ee-e58d-469c-8fb6-0736724b8a9f": {
+      "id": "13e3f9ee-e58d-469c-8fb6-0736724b8a9f",
+      "name": "mouse_embryo_dataset/Classification_dataset/.DS_Store",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/S-BSSTxxx401/S-BSST401/Files/mouse_embryo_dataset.zip",
+      "size_in_bytes": 6148,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "segmentation and classification"
+      }
+    },
+    "00a51dea-225a-4e8f-80ce-619ffb601162": {
+      "id": "00a51dea-225a-4e8f-80ce-619ffb601162",
+      "name": "mouse_embryo_dataset/Classification_dataset/mutant_names.txt",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/S-BSSTxxx401/S-BSST401/Files/mouse_embryo_dataset.zip",
+      "size_in_bytes": 2765,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "segmentation and classification"
+      }
+    },
+    "092feaf0-aa13-4112-a993-7082b352f070": {
+      "id": "092feaf0-aa13-4112-a993-7082b352f070",
+      "name": "mouse_embryo_dataset/Classification_dataset/bv_body_nii.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/S-BSSTxxx401/S-BSST401/Files/mouse_embryo_dataset.zip",
+      "size_in_bytes": 32355817,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "segmentation and classification"
+      }
+    },
+    "6e822dbf-d675-4cc1-a5ff-08b42389ff28": {
+      "id": "6e822dbf-d675-4cc1-a5ff-08b42389ff28",
+      "name": "mouse_embryo_dataset/ReadMe.txt",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/S-BSSTxxx401/S-BSST401/Files/mouse_embryo_dataset.zip",
+      "size_in_bytes": 1330,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "segmentation and classification"
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

@@ -1,0 +1,649 @@
+{
+  "accession_id": "S-BIAD679",
+  "title": "The order of sequential exposure of U2OS cells to gamma and alpha radiation influences the formation and decay dynamics of NBS1 foci",
+  "description": "Investigation of the effect of ionizing radiation on the dynamics of damage repair in the DNA of U2OS cells.",
+  "authors": [
+    {
+      "name": "Adrianna"
+    }
+  ],
+  "organism": "Unknown",
+  "release_date": "2023-04-25",
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "file_references": {
+    "68c58d29-d2c1-4cc9-8eb0-99fcb4439f51": {
+      "id": "68c58d29-d2c1-4cc9-8eb0-99fcb4439f51",
+      "name": "alpha_1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/alpha_1.tif",
+      "size_in_bytes": 184365834,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "alpha",
+        "Type": "raw data"
+      }
+    },
+    "52f1d628-4eef-4860-9d89-1687eef433e3": {
+      "id": "52f1d628-4eef-4860-9d89-1687eef433e3",
+      "name": "alpha_2a.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/alpha_2a.tif",
+      "size_in_bytes": 138286358,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "alpha",
+        "Type": "raw data"
+      }
+    },
+    "8627f105-c28c-4bf1-931a-2a6e6f6df67e": {
+      "id": "8627f105-c28c-4bf1-931a-2a6e6f6df67e",
+      "name": "alpha_2b.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/alpha_2b.tif",
+      "size_in_bytes": 46095458,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "alpha",
+        "Type": "raw data"
+      }
+    },
+    "ae3453f0-b6d0-4a40-b323-810ee521dc53": {
+      "id": "ae3453f0-b6d0-4a40-b323-810ee521dc53",
+      "name": "alpha_3a.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/alpha_3a.tif",
+      "size_in_bytes": 147505448,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "alpha",
+        "Type": "raw data"
+      }
+    },
+    "1d04a9fc-1ad2-49ff-91f0-f2834d82d141": {
+      "id": "1d04a9fc-1ad2-49ff-91f0-f2834d82d141",
+      "name": "alpha_3b.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/alpha_3b.tif",
+      "size_in_bytes": 36876368,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "alpha",
+        "Type": "raw data"
+      }
+    },
+    "9ea5a7c2-b311-4092-980f-5fde0dedcf91": {
+      "id": "9ea5a7c2-b311-4092-980f-5fde0dedcf91",
+      "name": "alpha_4.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/alpha_4.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "alpha",
+        "Type": "raw data"
+      }
+    },
+    "de9c1690-0a1e-42b6-92ab-cc4e5b8c560c": {
+      "id": "de9c1690-0a1e-42b6-92ab-cc4e5b8c560c",
+      "name": "alpha_5.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/alpha_5.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "alpha",
+        "Type": "raw data"
+      }
+    },
+    "902eda4f-55a2-41b9-8aca-6abd17aa5b83": {
+      "id": "902eda4f-55a2-41b9-8aca-6abd17aa5b83",
+      "name": "alpha_6.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/alpha_6.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "alpha",
+        "Type": "raw data"
+      }
+    },
+    "4030282f-816d-48cd-a28e-6472eee31ed4": {
+      "id": "4030282f-816d-48cd-a28e-6472eee31ed4",
+      "name": "alpha_7.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/alpha_7.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "alpha",
+        "Type": "raw data"
+      }
+    },
+    "d8b9d08b-8e15-4965-83cd-22b237c93d3a": {
+      "id": "d8b9d08b-8e15-4965-83cd-22b237c93d3a",
+      "name": "alpha_8.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/alpha_8.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "alpha",
+        "Type": "raw data"
+      }
+    },
+    "8a14bbcb-8dae-4f74-a030-f19cabb9be99": {
+      "id": "8a14bbcb-8dae-4f74-a030-f19cabb9be99",
+      "name": "alpha_9.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/alpha_9.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "alpha",
+        "Type": "raw data"
+      }
+    },
+    "8ccb030a-d05a-4791-9beb-58ac09f4c36b": {
+      "id": "8ccb030a-d05a-4791-9beb-58ac09f4c36b",
+      "name": "alpha_10.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/alpha_10.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "alpha",
+        "Type": "raw data"
+      }
+    },
+    "ff1fa637-523c-4dda-8080-649c8b39269d": {
+      "id": "ff1fa637-523c-4dda-8080-649c8b39269d",
+      "name": "alpha_gamma_1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/alpha_gamma_1.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Alpha + gamma (mixed)",
+        "Type": "raw data"
+      }
+    },
+    "4584c2fa-f31e-4343-8438-482edcd1e85e": {
+      "id": "4584c2fa-f31e-4343-8438-482edcd1e85e",
+      "name": "alpha_gamma_2.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/alpha_gamma_2.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Alpha + gamma (mixed)",
+        "Type": "raw data"
+      }
+    },
+    "f0188be3-00e9-416d-8c3f-5690fadf5d32": {
+      "id": "f0188be3-00e9-416d-8c3f-5690fadf5d32",
+      "name": "alpha_gamma_3.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/alpha_gamma_3.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Alpha + gamma (mixed)",
+        "Type": "raw data"
+      }
+    },
+    "beb4f1c8-e1c6-4e5b-a546-10ef734ddf07": {
+      "id": "beb4f1c8-e1c6-4e5b-a546-10ef734ddf07",
+      "name": "alpha_gamma_4.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/alpha_gamma_4.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Alpha + gamma (mixed)",
+        "Type": "raw data"
+      }
+    },
+    "ee9421bb-26b5-4fa6-b006-c473822a6e3e": {
+      "id": "ee9421bb-26b5-4fa6-b006-c473822a6e3e",
+      "name": "alpha_gamma_5.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/alpha_gamma_5.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Alpha + gamma (mixed)",
+        "Type": "raw data"
+      }
+    },
+    "167ef4ee-6a84-46fa-8ca6-ba693bd1935f": {
+      "id": "167ef4ee-6a84-46fa-8ca6-ba693bd1935f",
+      "name": "alpha_gamma_6.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/alpha_gamma_6.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Alpha + gamma (mixed)",
+        "Type": "raw data"
+      }
+    },
+    "45c58a83-4222-4ec7-bba1-591e9c68282d": {
+      "id": "45c58a83-4222-4ec7-bba1-591e9c68282d",
+      "name": "alpha_gamma_7.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/alpha_gamma_7.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Alpha + gamma (mixed)",
+        "Type": "raw data"
+      }
+    },
+    "85d62dbe-e2f5-46e4-9528-010844836e93": {
+      "id": "85d62dbe-e2f5-46e4-9528-010844836e93",
+      "name": "alpha_gamma_8.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/alpha_gamma_8.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Alpha + gamma (mixed)",
+        "Type": "raw data"
+      }
+    },
+    "3e4a60b1-e72a-4a66-8791-11ea3ec2807b": {
+      "id": "3e4a60b1-e72a-4a66-8791-11ea3ec2807b",
+      "name": "alpha_gamma_9.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/alpha_gamma_9.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Alpha + gamma (mixed)",
+        "Type": "raw data"
+      }
+    },
+    "cfd2dd0e-27de-41f2-be15-647dde5def55": {
+      "id": "cfd2dd0e-27de-41f2-be15-647dde5def55",
+      "name": "alpha_gamma_10.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/alpha_gamma_10.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Alpha + gamma (mixed)",
+        "Type": "raw data"
+      }
+    },
+    "028e3a0e-46dc-4d85-a078-255ecb7c0158": {
+      "id": "028e3a0e-46dc-4d85-a078-255ecb7c0158",
+      "name": "alpha_gamma_11.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/alpha_gamma_11.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Alpha + gamma (mixed)",
+        "Type": "raw data"
+      }
+    },
+    "e0a3c801-3c2c-432d-b234-f513ff3cdbab": {
+      "id": "e0a3c801-3c2c-432d-b234-f513ff3cdbab",
+      "name": "alpha_gamma_12.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/alpha_gamma_12.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Alpha + gamma (mixed)",
+        "Type": "raw data"
+      }
+    },
+    "ecba874b-8bcc-48cc-9fed-2fd6ed0a5f2e": {
+      "id": "ecba874b-8bcc-48cc-9fed-2fd6ed0a5f2e",
+      "name": "control_1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/control_1.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Control",
+        "Type": "raw data"
+      }
+    },
+    "e80f0ce9-58a0-4dbf-8e7b-d956dd8e5c04": {
+      "id": "e80f0ce9-58a0-4dbf-8e7b-d956dd8e5c04",
+      "name": "control_2.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/control_2.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Control",
+        "Type": "raw data"
+      }
+    },
+    "a749d226-d9ee-4083-81f3-a5d6cdd18496": {
+      "id": "a749d226-d9ee-4083-81f3-a5d6cdd18496",
+      "name": "control_3.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/control_3.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Control",
+        "Type": "raw data"
+      }
+    },
+    "ed44303d-7635-4fcb-a8ca-b6e6ae51ad59": {
+      "id": "ed44303d-7635-4fcb-a8ca-b6e6ae51ad59",
+      "name": "control_4.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/control_4.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Control",
+        "Type": "raw data"
+      }
+    },
+    "38d85acc-23f9-432f-aa07-5230c234f0e5": {
+      "id": "38d85acc-23f9-432f-aa07-5230c234f0e5",
+      "name": "control_5.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/control_5.tif",
+      "size_in_bytes": 183743468,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Control",
+        "Type": "raw data"
+      }
+    },
+    "d6bad28d-1005-4b7a-81b7-f122e335869b": {
+      "id": "d6bad28d-1005-4b7a-81b7-f122e335869b",
+      "name": "control_6.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/control_6.tif",
+      "size_in_bytes": 182514415,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Control",
+        "Type": "raw data"
+      }
+    },
+    "6772dc6b-61ca-4a75-a6c5-d3d396d11c71": {
+      "id": "6772dc6b-61ca-4a75-a6c5-d3d396d11c71",
+      "name": "control_7.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/control_7.tif",
+      "size_in_bytes": 181899889,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Control",
+        "Type": "raw data"
+      }
+    },
+    "956bde8a-aa3d-4ed0-8564-a73dbd187fa8": {
+      "id": "956bde8a-aa3d-4ed0-8564-a73dbd187fa8",
+      "name": "control_8.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/control_8.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Control",
+        "Type": "raw data"
+      }
+    },
+    "3be1b7d0-e210-4301-b56a-4738f451bb66": {
+      "id": "3be1b7d0-e210-4301-b56a-4738f451bb66",
+      "name": "control_9.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/control_9.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Control",
+        "Type": "raw data"
+      }
+    },
+    "a8d33422-0e84-45e1-a28a-53e368c2b898": {
+      "id": "a8d33422-0e84-45e1-a28a-53e368c2b898",
+      "name": "gamma_1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/gamma_1.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "gamma",
+        "Type": "raw data"
+      }
+    },
+    "ed58a7bb-b8a3-44ec-b99d-92d5ac0b6efe": {
+      "id": "ed58a7bb-b8a3-44ec-b99d-92d5ac0b6efe",
+      "name": "gamma_2.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/gamma_2.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "gamma",
+        "Type": "raw data"
+      }
+    },
+    "5ee5e669-1d43-4559-9662-2576d87d2ca8": {
+      "id": "5ee5e669-1d43-4559-9662-2576d87d2ca8",
+      "name": "gamma_3.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/gamma_3.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "gamma",
+        "Type": "raw data"
+      }
+    },
+    "228dae5e-a9ef-4d45-a4bc-0242960667ca": {
+      "id": "228dae5e-a9ef-4d45-a4bc-0242960667ca",
+      "name": "gamma_4.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/gamma_4.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "gamma",
+        "Type": "raw data"
+      }
+    },
+    "44384c68-3498-4232-80ba-e915c9bd9bed": {
+      "id": "44384c68-3498-4232-80ba-e915c9bd9bed",
+      "name": "gamma_5.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/gamma_5.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "gamma",
+        "Type": "raw data"
+      }
+    },
+    "ca4c41cf-a1ef-4dd0-a828-bae2864a6692": {
+      "id": "ca4c41cf-a1ef-4dd0-a828-bae2864a6692",
+      "name": "gamma_6.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/gamma_6.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "gamma",
+        "Type": "raw data"
+      }
+    },
+    "91f07029-716a-4cf5-8965-5816ad76c579": {
+      "id": "91f07029-716a-4cf5-8965-5816ad76c579",
+      "name": "gamma_7.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/gamma_7.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "gamma",
+        "Type": "raw data"
+      }
+    },
+    "c6471be7-9b5c-4e12-bded-5184bd92e83e": {
+      "id": "c6471be7-9b5c-4e12-bded-5184bd92e83e",
+      "name": "gamma_8.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/gamma_8.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "gamma",
+        "Type": "raw data"
+      }
+    },
+    "fcc00877-66ec-41f3-bbde-21e6b0e88df4": {
+      "id": "fcc00877-66ec-41f3-bbde-21e6b0e88df4",
+      "name": "gamma_9.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/gamma_9.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "gamma",
+        "Type": "raw data"
+      }
+    },
+    "4fd59ba7-e820-4e88-845b-3ae912f8e946": {
+      "id": "4fd59ba7-e820-4e88-845b-3ae912f8e946",
+      "name": "gamma_10.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/gamma_10.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "gamma",
+        "Type": "raw data"
+      }
+    },
+    "789e7fc8-27e5-4bab-ab8c-179357ec11f4": {
+      "id": "789e7fc8-27e5-4bab-ab8c-179357ec11f4",
+      "name": "gamma_11.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/gamma_11.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "gamma",
+        "Type": "raw data"
+      }
+    },
+    "70618d82-8b10-4b70-b6d0-f54d3befb4c8": {
+      "id": "70618d82-8b10-4b70-b6d0-f54d3befb4c8",
+      "name": "gamma_12.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/gamma_12.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "gamma",
+        "Type": "raw data"
+      }
+    },
+    "93bdcfd5-55eb-491e-8e93-83e61ea05e79": {
+      "id": "93bdcfd5-55eb-491e-8e93-83e61ea05e79",
+      "name": "gamma_13.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/gamma_13.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "gamma",
+        "Type": "raw data"
+      }
+    },
+    "28db8974-c560-4118-8814-056ba3e915f2": {
+      "id": "28db8974-c560-4118-8814-056ba3e915f2",
+      "name": "gamma_14.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/gamma_14.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "gamma",
+        "Type": "raw data"
+      }
+    },
+    "d7005c01-d1a7-4823-a5a7-2c550febcba4": {
+      "id": "d7005c01-d1a7-4823-a5a7-2c550febcba4",
+      "name": "gamma_alpha_1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/gamma_alpha_1.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Gamma + alpha (mixed)",
+        "Type": "raw data"
+      }
+    },
+    "efefac7d-0eb3-4b7f-854f-d27046a92b53": {
+      "id": "efefac7d-0eb3-4b7f-854f-d27046a92b53",
+      "name": "gamma_alpha_2.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/gamma_alpha_2.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Gamma + alpha (mixed)",
+        "Type": "raw data"
+      }
+    },
+    "d79a3652-6b8a-42a4-ad9f-2d0201c75709": {
+      "id": "d79a3652-6b8a-42a4-ad9f-2d0201c75709",
+      "name": "gamma_alpha_3.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/gamma_alpha_3.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Gamma + alpha (mixed)",
+        "Type": "raw data"
+      }
+    },
+    "deedf45f-fe28-4eb0-9468-2cac4581d4d0": {
+      "id": "deedf45f-fe28-4eb0-9468-2cac4581d4d0",
+      "name": "gamma_alpha_4.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/gamma_alpha_4.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Gamma + alpha (mixed)",
+        "Type": "raw data"
+      }
+    },
+    "749d6f8a-1b3e-4f2a-accb-1b84f42c4dfa": {
+      "id": "749d6f8a-1b3e-4f2a-accb-1b84f42c4dfa",
+      "name": "gamma_alpha_5.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/gamma_alpha_5.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Gamma + alpha (mixed)",
+        "Type": "raw data"
+      }
+    },
+    "71c25d7a-9ab7-4cf0-9153-f8252e931e0c": {
+      "id": "71c25d7a-9ab7-4cf0-9153-f8252e931e0c",
+      "name": "gamma_alpha_6.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/gamma_alpha_6.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Gamma + alpha (mixed)",
+        "Type": "raw data"
+      }
+    },
+    "71504516-aa88-4e48-baa7-49a644194108": {
+      "id": "71504516-aa88-4e48-baa7-49a644194108",
+      "name": "gamma_alpha_7.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/gamma_alpha_7.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Gamma + alpha (mixed)",
+        "Type": "raw data"
+      }
+    },
+    "95a99eb7-46f5-461c-88f9-f424b5f83e50": {
+      "id": "95a99eb7-46f5-461c-88f9-f424b5f83e50",
+      "name": "gamma_alpha_8.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/gamma_alpha_8.tif",
+      "size_in_bytes": 183128942,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Gamma + alpha (mixed)",
+        "Type": "raw data"
+      }
+    },
+    "a768c429-953d-4041-bfba-38eb76b22771": {
+      "id": "a768c429-953d-4041-bfba-38eb76b22771",
+      "name": "gamma_alpha_9.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/gamma_alpha_9.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Gamma + alpha (mixed)",
+        "Type": "raw data"
+      }
+    },
+    "6b7b1d37-9eee-44ca-8592-233c305ede45": {
+      "id": "6b7b1d37-9eee-44ca-8592-233c305ede45",
+      "name": "gamma_alpha_10.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/679/S-BIAD679/Files/gamma_alpha_10.tif",
+      "size_in_bytes": 184381808,
+      "type": null,
+      "attributes": {
+        "Type of ionizing radiation": "Gamma + alpha (mixed)",
+        "Type": "raw data"
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "d05ea2b6-3371-40eb-8f62-a23cc0301a57",
+  "accession_id": "S-BIAD677",
+  "name": "My_submission/Figure 2/Figure 2F/Raw data lif/652 SARS Day 4 N 3G9 488 CytK5 GP 594 Ac tub 647 dapi X20.lif",
+  "original_relpath": "My_submission/Figure 2/Figure 2F/Raw data lif/652 SARS Day 4 N 3G9 488 CytK5 GP 594 Ac tub 647 dapi X20.lif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD677",
+      "image_id": "d05ea2b6-3371-40eb-8f62-a23cc0301a57",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/677/S-BIAD677/Files/My_submission/Figure 2/Figure 2F/Raw data lif/652 SARS Day 4 N 3G9 488 CytK5 GP 594 Ac tub 647 dapi X20.lif",
+      "size": 537031527,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "a197c1d5-c62f-4773-99ee-99a8de03beb1"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "data type": "raw data",
+    "donor age": "Adult",
+    "donor ID": "652",
+    "infection": "yes",
+    "time [days post infection]": "4",
+    "micrsocope type": "confocal",
+    "magnification ": "20X",
+    "x,y resolution (nm)": "568,1",
+    "z rersolution (nm)": "549,7",
+    "view": "Hyperstack",
+    "channels": "5.0",
+    "stained cell type [goblet/basal/ciliated]": null,
+    "stained antibody name": "Anti-CytK5 / Anti-AcTubulin / Anti-N",
+    "stained cellular component": "Nucleus (DAPI), Acetylated Tubulin, protein-N, CytK5 (anti-CytK5)",
+    "linked to figure": "Figure 2F",
+    "IFN-λ addition [ng]": "0.0",
+    "associated_metadata": "yes"
+  }
+}
