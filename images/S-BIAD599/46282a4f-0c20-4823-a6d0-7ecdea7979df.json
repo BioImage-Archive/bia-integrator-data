@@ -1,0 +1,39 @@
+{
+  "id": "46282a4f-0c20-4823-a6d0-7ecdea7979df",
+  "accession_id": "S-BIAD599",
+  "name": "20200220-ftp/experimentJ/FEE47C8063/FEE47C8063_8bit_lynEGFP.tif",
+  "original_relpath": "20200220-ftp/experimentJ/FEE47C8063/FEE47C8063_8bit_lynEGFP.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD599",
+      "image_id": "46282a4f-0c20-4823-a6d0-7ecdea7979df",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/599/S-BIAD599/Files/20200220-ftp/experimentJ/FEE47C8063/FEE47C8063_8bit_lynEGFP.tif",
+      "size": 198949079,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "1d6d79bb-4ab4-4e9f-a185-18d894a53965"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Dataset Name": "membranes_lyso",
+    "Image Name": "FEE47C8063",
+    "Characteristics [Organism]": "Danio rerio",
+    "Term Source 1 REF": "NCBITaxon",
+    "Term Source 1 Accession": "NCBITaxon_7955",
+    "Characteristics [Organism Part]": "primary posterior lateral line primordium",
+    "Term Source 2 REF": "ZFA",
+    "Term Source 2 Accession": "ZFA_0005115",
+    "Experimental Condition [Fluorescent Labels]": "cldnB:lyn-EGFP",
+    "Comment [Fluorescent Label Reference DOIs]": "10.1016/j.devcel.2006.02.019; N/A",
+    "Image File": "FEE47C8063_8bit_lynEGFP.tif",
+    "Comment [Image File Path]": "./FEE47C8063/FEE47C8063_8bit_lynEGFP.tif",
+    "Comment [Image File Type]": "raw",
+    "Channels": "lynEGFP:cell membranes"
+  }
+}

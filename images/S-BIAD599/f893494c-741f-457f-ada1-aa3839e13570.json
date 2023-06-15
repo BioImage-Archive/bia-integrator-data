@@ -1,0 +1,39 @@
+{
+  "id": "f893494c-741f-457f-ada1-aa3839e13570",
+  "accession_id": "S-BIAD599",
+  "name": "20200220-ftp/experimentE/3E0EE13177/3E0EE13177_8bit_mKate2rab5.tif",
+  "original_relpath": "20200220-ftp/experimentE/3E0EE13177/3E0EE13177_8bit_mKate2rab5.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD599",
+      "image_id": "f893494c-741f-457f-ada1-aa3839e13570",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/599/S-BIAD599/Files/20200220-ftp/experimentE/3E0EE13177/3E0EE13177_8bit_mKate2rab5.tif",
+      "size": 198949980,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "e56c45cd-d046-4080-a9b4-7b3907ffd496"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Dataset Name": "membranes_earlyendo",
+    "Image Name": "3E0EE13177",
+    "Characteristics [Organism]": "Danio rerio",
+    "Term Source 1 REF": "NCBITaxon",
+    "Term Source 1 Accession": "NCBITaxon_7955",
+    "Characteristics [Organism Part]": "primary posterior lateral line primordium",
+    "Term Source 2 REF": "ZFA",
+    "Term Source 2 Accession": "ZFA_0005115",
+    "Experimental Condition [Fluorescent Labels]": "RNA:mKate2-Rab5a",
+    "Comment [Fluorescent Label Reference DOIs]": "10.1016/j.devcel.2006.02.019; study publication",
+    "Image File": "3E0EE13177_8bit_mKate2rab5.tif",
+    "Comment [Image File Path]": "./3E0EE13177/3E0EE13177_8bit_mKate2rab5.tif",
+    "Comment [Image File Type]": "raw",
+    "Channels": "mKate2rab5:early endosomes"
+  }
+}

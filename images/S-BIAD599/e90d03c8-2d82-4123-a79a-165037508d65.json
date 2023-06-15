@@ -1,0 +1,39 @@
+{
+  "id": "e90d03c8-2d82-4123-a79a-165037508d65",
+  "accession_id": "S-BIAD599",
+  "name": "20200220-ftp/experimentF/E17C99121A/E17C99121A_8bit_mKate2rab11.tif",
+  "original_relpath": "20200220-ftp/experimentF/E17C99121A/E17C99121A_8bit_mKate2rab11.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD599",
+      "image_id": "e90d03c8-2d82-4123-a79a-165037508d65",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/599/S-BIAD599/Files/20200220-ftp/experimentF/E17C99121A/E17C99121A_8bit_mKate2rab11.tif",
+      "size": 212302567,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "ea568722-3213-4217-85b3-767b1dc114ea"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Dataset Name": "membranes_recendo",
+    "Image Name": "E17C99121A",
+    "Characteristics [Organism]": "Danio rerio",
+    "Term Source 1 REF": "NCBITaxon",
+    "Term Source 1 Accession": "NCBITaxon_7955",
+    "Characteristics [Organism Part]": "primary posterior lateral line primordium",
+    "Term Source 2 REF": "ZFA",
+    "Term Source 2 Accession": "ZFA_0005115",
+    "Experimental Condition [Fluorescent Labels]": "Act2b:mKate2-Rab11a",
+    "Comment [Fluorescent Label Reference DOIs]": "10.1016/j.devcel.2006.02.019; study publication",
+    "Image File": "E17C99121A_8bit_mKate2rab11.tif",
+    "Comment [Image File Path]": "./E17C99121A/E17C99121A_8bit_mKate2rab11.tif",
+    "Comment [Image File Type]": "raw",
+    "Channels": "mKate2rab11:recycling endosomes"
+  }
+}
