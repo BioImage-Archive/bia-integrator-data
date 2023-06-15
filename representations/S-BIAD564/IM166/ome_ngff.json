@@ -1,0 +1,28 @@
+{
+  "accession_id": "S-BIAD564",
+  "image_id": "IM166",
+  "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-zarr-test/S-BIAD564/PST-1_experiments/km191/2020-05-01_Exp1_10-15-20uM_PST-1_2Hpreinc_561nm_Timelapse_F2.zarr/0",
+  "size": 4079516718,
+  "type": "ome_ngff",
+  "dimensions": null,
+  "attributes": null,
+  "rendering": {
+    "channel_renders": [
+      {
+        "colormap_start": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "colormap_end": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "scale_factor": 1.0
+      }
+    ],
+    "default_z": null,
+    "default_t": null
+  }
+}

@@ -8,7 +8,7 @@
     {
       "accession_id": "S-BIAD634",
       "image_id": "4c92bbb5-9ab1-4b5a-99d4-307d31cbf1d4",
-      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/634/S-BIAD634/Files/dataset/groundtruth_svgs/Ganglioneuroblastoma_6.jpg",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD634/dataset/groundtruth_svgs/Ganglioneuroblastoma_6.jpg",
       "size": 132206,
       "type": "fire_object",
       "dimensions": null,
@@ -22,7 +22,6 @@
   ],
   "attributes": {
     "file description": "Raw image in JPEG format",
-    "source image": "dataset/rawimages/Ganglioneuroblastoma_6.tif",
-    "Title": "Segmentation masks"
+    "source image": "dataset/rawimages/Ganglioneuroblastoma_6.tif"
   }
 }

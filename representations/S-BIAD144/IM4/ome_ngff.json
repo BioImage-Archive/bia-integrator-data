@@ -1,0 +1,41 @@
+{
+  "accession_id": "S-BIAD144",
+  "image_id": "IM4",
+  "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD144/IM4/IM4.zarr/0",
+  "size": 645401,
+  "type": "ome_ngff",
+  "dimensions": null,
+  "attributes": null,
+  "rendering": {
+    "channel_renders": [
+      {
+        "colormap_start": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "colormap_end": [
+          1.0,
+          0.4,
+          0.0
+        ],
+        "scale_factor": 1.0
+      },
+      {
+        "colormap_start": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "colormap_end": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "scale_factor": 1.0
+      }
+    ],
+    "default_z": null,
+    "default_t": null
+  }
+}

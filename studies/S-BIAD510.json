@@ -1,0 +1,392 @@
+{
+  "accession_id": "S-BIAD510",
+  "title": "ske-T, a T-box gene expressed in the skeletogenic mesenchyme lineage of the sea urchin embryo - raw image data",
+  "description": "T-box transcription factors regulate many developmental processes. Here we report the cloning and expression analysis of ske-T, a novel sea urchin T-box gene. The distribution of the maternal ske-T transcript is uniform in the egg and early embryonic stages while zygotic expression is restricted to the skeletogenic mesenchyme lineage.",
+  "organism": "Unknown",
+  "release_date": "2022-07-29",
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "S-BIAD510-example.png",
+  "images": {
+    "IM1": {
+      "id": "IM1",
+      "original_relpath": "20210812-ftp/HE EB.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD510",
+          "image_id": "IM1",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD510/20210812-ftp/HE EB.tif",
+          "size": 2024076,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "type": "image",
+        "md5": "648B1010D16079F11A10AD327A2D3ABD"
+      }
+    },
+    "IM2": {
+      "id": "IM2",
+      "original_relpath": "20210812-ftp/HE SkeT EB.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD510",
+          "image_id": "IM2",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD510/20210812-ftp/HE SkeT EB.tif",
+          "size": 2033508,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "type": "image",
+        "md5": "FDDA4B92C586A3550ACFA5E1B51C88EB"
+      }
+    },
+    "IM3": {
+      "id": "IM3",
+      "original_relpath": "20210812-ftp/SkeT 16c sens.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD510",
+          "image_id": "IM3",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD510/20210812-ftp/SkeT 16c sens.tif",
+          "size": 1641064,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "type": "image",
+        "md5": "15761865342498BF685FA05F7308557B"
+      }
+    },
+    "IM4": {
+      "id": "IM4",
+      "original_relpath": "20210812-ftp/SkeT 16c.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD510",
+          "image_id": "IM4",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD510/20210812-ftp/SkeT 16c.tif",
+          "size": 1625892,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "type": "image",
+        "md5": "26314B399B80D2DA9AB91C5A8495692F"
+      }
+    },
+    "IM5": {
+      "id": "IM5",
+      "original_relpath": "20210812-ftp/SkeT EB.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD510",
+          "image_id": "IM5",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD510/20210812-ftp/SkeT EB.tif",
+          "size": 1962684,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "type": "image",
+        "md5": "D642D2637A4E8902231203C5F21D1547"
+      }
+    },
+    "IM6": {
+      "id": "IM6",
+      "original_relpath": "20210812-ftp/SkeT Eb veg.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD510",
+          "image_id": "IM6",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD510/20210812-ftp/SkeT Eb veg.tif",
+          "size": 1962852,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "type": "image",
+        "md5": "5B42F42CEA7A0E498A31862F722656CE"
+      }
+    },
+    "IM7": {
+      "id": "IM7",
+      "original_relpath": "20210812-ftp/SkeT G sens.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD510",
+          "image_id": "IM7",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD510/20210812-ftp/SkeT G sens.tif",
+          "size": 1641548,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "type": "image",
+        "md5": "AD6BCE92235AC98FF97C353AC9D5C8D4"
+      }
+    },
+    "IM8": {
+      "id": "IM8",
+      "original_relpath": "20210812-ftp/SkeT G.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD510",
+          "image_id": "IM8",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD510/20210812-ftp/SkeT G.tif",
+          "size": 1626320,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "type": "image",
+        "md5": "9A8B54199F47C67AFEDE973526AEE411"
+      }
+    },
+    "IM9": {
+      "id": "IM9",
+      "original_relpath": "20210812-ftp/SkeT MB sens.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD510",
+          "image_id": "IM9",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD510/20210812-ftp/SkeT MB sens.tif",
+          "size": 1634792,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "type": "image",
+        "md5": "821FBE8A452E2F452346429A67251129"
+      }
+    },
+    "IM10": {
+      "id": "IM10",
+      "original_relpath": "20210812-ftp/SkeT MB.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD510",
+          "image_id": "IM10",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD510/20210812-ftp/SkeT MB.tif",
+          "size": 1626144,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "type": "image",
+        "md5": "F39F9A7CB8C7AFC3BD33763643CD3FB7"
+      }
+    },
+    "IM11": {
+      "id": "IM11",
+      "original_relpath": "20210812-ftp/SkeT Plut sens.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD510",
+          "image_id": "IM11",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD510/20210812-ftp/SkeT Plut sens.tif",
+          "size": 1641572,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "type": "image",
+        "md5": "1BB7F2A0CD4EA63D4F803E34E71E731D"
+      }
+    },
+    "IM12": {
+      "id": "IM12",
+      "original_relpath": "20210812-ftp/SkeT Plut.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD510",
+          "image_id": "IM12",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD510/20210812-ftp/SkeT Plut.tif",
+          "size": 1637220,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "type": "image",
+        "md5": "7C10D16E93F77D7E4F748DD5D38CF102"
+      }
+    },
+    "IM13": {
+      "id": "IM13",
+      "original_relpath": "20210812-ftp/SkeT Prism Sens.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD510",
+          "image_id": "IM13",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD510/20210812-ftp/SkeT Prism Sens.tif",
+          "size": 1641648,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "type": "image",
+        "md5": "4611BB623AFB7D87D2AAB61687E70CE6"
+      }
+    },
+    "IM14": {
+      "id": "IM14",
+      "original_relpath": "20210812-ftp/SkeT Prism.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD510",
+          "image_id": "IM14",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD510/20210812-ftp/SkeT Prism.tif",
+          "size": 1641596,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "type": "image",
+        "md5": "69375B5C0A294C062C665EADFDBDE9F7"
+      }
+    },
+    "IM15": {
+      "id": "IM15",
+      "original_relpath": "20210812-ftp/SkeT SB sens.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD510",
+          "image_id": "IM15",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD510/20210812-ftp/SkeT SB sens.tif",
+          "size": 1641616,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "type": "image",
+        "md5": "0FEC9B72B9F2B6917FB8C16E4BBF0C4A"
+      }
+    },
+    "IM16": {
+      "id": "IM16",
+      "original_relpath": "20210812-ftp/SkeT SB.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD510",
+          "image_id": "IM16",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD510/20210812-ftp/SkeT SB.tif",
+          "size": 1625984,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "type": "image",
+        "md5": "50DF361F83C386F3BC5B386248A9C951"
+      }
+    },
+    "IM17": {
+      "id": "IM17",
+      "original_relpath": "20210812-ftp/SkeT egg sens.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD510",
+          "image_id": "IM17",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD510/20210812-ftp/SkeT egg sens.tif",
+          "size": 1625564,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "type": "image",
+        "md5": "4AD2A1CADBA48EF34348A461BCF3D0AE"
+      }
+    },
+    "IM18": {
+      "id": "IM18",
+      "original_relpath": "20210812-ftp/SkeT egg.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD510",
+          "image_id": "IM18",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD510/20210812-ftp/SkeT egg.tif",
+          "size": 1625808,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "type": "image",
+        "md5": "55D81D026DDB3B35748E22D35C6612F7"
+      }
+    },
+    "IM19": {
+      "id": "IM19",
+      "original_relpath": "20210812-ftp/SkeT vEB sens.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD510",
+          "image_id": "IM19",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD510/20210812-ftp/SkeT vEB sens.tif",
+          "size": 1641380,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "type": "image",
+        "md5": "BE18582D033C5071428C9B7B82A1C6C4"
+      }
+    },
+    "IM20": {
+      "id": "IM20",
+      "original_relpath": "20210812-ftp/SkeT vEB.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD510",
+          "image_id": "IM20",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD510/20210812-ftp/SkeT vEB.tif",
+          "size": 1625944,
+          "type": "fire_object",
+          "dimensions": null
+        }
+      ],
+      "attributes": {
+        "type": "image",
+        "md5": "511C7705D58CE089BF4BD2DC5D093E59"
+      }
+    }
+  }
+}

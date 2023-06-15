@@ -1,0 +1,28 @@
+{
+  "accession_id": "EXT-HD0002",
+  "title": "Plankton",
+  "description": "Testing external import again",
+  "authors": [],
+  "organism": "Emiliania huxleyi",
+  "release_date": "2023-01-01",
+  "imaging_type": "FIB-SEM",
+  "attributes": {},
+  "example_image_uri": "",
+  "file_references": {
+    "16ec2003-b973-4b60-8597-b8aaaa694d67": {
+      "id": "16ec2003-b973-4b60-8597-b8aaaa694d67",
+      "name": "fibsem-raw",
+      "uri": "s3://plankton-fibsem/emiliania/images/bdv-n5/raw.n5",
+      "size_in_bytes": 0,
+      "type": "S3-n5",
+      "attributes": {
+        "endpoint_url": "https://s3.embl.de"
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

@@ -1,0 +1,28 @@
+{
+  "accession_id": "S-BSST707",
+  "image_id": "IM2",
+  "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BSST707/IM2/IM2.zarr/0",
+  "size": 35260734,
+  "type": "ome_ngff",
+  "dimensions": null,
+  "attributes": {},
+  "rendering": {
+    "channel_renders": [
+      {
+        "colormap_start": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "colormap_end": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "scale_factor": 1.0
+      }
+    ],
+    "default_z": null,
+    "default_t": null
+  }
+}

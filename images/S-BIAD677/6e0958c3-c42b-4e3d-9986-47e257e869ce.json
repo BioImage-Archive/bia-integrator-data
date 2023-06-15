@@ -1,0 +1,42 @@
+{
+  "id": "6e0958c3-c42b-4e3d-9986-47e257e869ce",
+  "accession_id": "S-BIAD677",
+  "name": "My_submission/Figure 1/Figure 1D A3 Kinetic by Epifluorescence X20/raw Images/Day 1/A3 Day 1 SARS N 488 phall CytK5 647 dapi_w1LED Cy5.TIF",
+  "original_relpath": "My_submission/Figure 1/Figure 1D A3 Kinetic by Epifluorescence X20/raw Images/Day 1/A3 Day 1 SARS N 488 phall CytK5 647 dapi_w1LED Cy5.TIF",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD677",
+      "image_id": "6e0958c3-c42b-4e3d-9986-47e257e869ce",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/677/S-BIAD677/Files/My_submission/Figure 1/Figure 1D A3 Kinetic by Epifluorescence X20/raw Images/Day 1/A3 Day 1 SARS N 488 phall CytK5 647 dapi_w1LED Cy5.TIF",
+      "size": 5541056,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "e430b56f-1080-4873-a0ac-c710c7ff87d3"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "data type": "raw data",
+    "donor age": "Adult",
+    "donor ID": "A3",
+    "infection": "yes",
+    "time [days post infection]": "1",
+    "micrsocope type": "wide field",
+    "magnification ": "20X",
+    "x,y resolution (nm)": "181,5",
+    "z rersolution (nm)": null,
+    "view": "Z-section",
+    "channels": "1.0",
+    "stained cell type [goblet/basal/ciliated]": null,
+    "stained antibody name": "Anti-CytK5 / Anti-N",
+    "stained cellular component": "Nucleus (DAPI), Actin (Phalloidine), protein N (anti-N), CytK5 (anti-CytK5)",
+    "linked to figure": "Figure 1D",
+    "IFN-λ addition [ng]": "0.0",
+    "associated_metadata": "yes"
+  }
+}

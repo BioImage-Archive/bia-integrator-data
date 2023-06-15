@@ -1,0 +1,41 @@
+{
+  "accession_id": "S-BIAD564",
+  "image_id": "IM36",
+  "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-zarr-test/S-BIAD564/Wt_microglia/Phagocytosis/km162_Fish1/Dsheet-fusion_px180nm_e0.5um_e30sec.zarr/0",
+  "size": 1689424480,
+  "type": "ome_ngff",
+  "dimensions": null,
+  "attributes": null,
+  "rendering": {
+    "channel_renders": [
+      {
+        "colormap_start": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "colormap_end": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "scale_factor": 1.0
+      },
+      {
+        "colormap_start": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "colormap_end": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "scale_factor": 1.0
+      }
+    ],
+    "default_z": null,
+    "default_t": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "accession_id": "S-BIAD564",
+  "image_id": "IM220",
+  "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-zarr-test/S-BIAD564/Drug-treatments/PLCi/Ak011/AK011_Dsheet_3.5umthick_e30sec_e0.532um_2H_Fish6.zarr/0",
+  "size": 1228445541,
+  "type": "ome_ngff",
+  "dimensions": null,
+  "attributes": null,
+  "rendering": {
+    "channel_renders": [
+      {
+        "colormap_start": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "colormap_end": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "scale_factor": 1.0
+      },
+      {
+        "colormap_start": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "colormap_end": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "scale_factor": 1.0
+      }
+    ],
+    "default_z": null,
+    "default_t": null
+  }
+}

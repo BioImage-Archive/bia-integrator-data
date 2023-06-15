@@ -8,7 +8,7 @@
     {
       "accession_id": "S-BIAD634",
       "image_id": "4addad72-5061-4640-b5ac-b6af833026d5",
-      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/634/S-BIAD634/Files/dataset/visualized_singlecell_groundtruth/otherspecimen_3_singlemask.png",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD634/dataset/visualized_singlecell_groundtruth/otherspecimen_3_singlemask.png",
       "size": 9109,
       "type": "fire_object",
       "dimensions": null,
@@ -22,7 +22,6 @@
   ],
   "attributes": {
     "file description": "Visualization of groundtruth for randomly selected nuclei in PNG format",
-    "source image": "dataset/rawimages/otherspecimen_3.tif",
-    "Title": "Segmentation masks"
+    "source image": "dataset/rawimages/otherspecimen_3.tif"
   }
 }

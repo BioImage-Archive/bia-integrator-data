@@ -8,7 +8,7 @@
     {
       "accession_id": "S-BIAD634",
       "image_id": "7b162dbc-a46d-43d0-977f-d52f10d83487",
-      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/634/S-BIAD634/Files/dataset/visualized_groundtruth/normal_23.png",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD634/dataset/visualized_groundtruth/normal_23.png",
       "size": 13316,
       "type": "fire_object",
       "dimensions": null,
@@ -22,7 +22,6 @@
   ],
   "attributes": {
     "file description": "Visualization of groundtruth masks in PNG format",
-    "source image": "dataset/rawimages/normal_23.tif",
-    "Title": "Segmentation masks"
+    "source image": "dataset/rawimages/normal_23.tif"
   }
 }

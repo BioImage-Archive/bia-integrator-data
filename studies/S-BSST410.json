@@ -1,0 +1,359 @@
+{
+  "accession_id": "S-BSST410",
+  "title": "Axis Specification in Zebrafish Is Robust to Cell Mixing and Reveals a Regulation of Pattern Formation by Morphogenesis",
+  "description": "A fundamental question in developmental biology is how the early embryo establishes the spatial coordinate system that is later important for the organization of the embryonic body plan. Although we know a lot about the signaling and gene-regulatory networks required for this process, much less is understood about how these can operate to pattern tissues in the context of the extensive cell movements that drive gastrulation. In zebrafish, germ layer specification depends on the inheritance of maternal mRNAs, cortical rotation to generate a dorsal pole of ?-catenin activity, and the release of Nodal signals from the yolk syncytial layer (YSL). To determine whether germ layer specification is robust to altered cell-to-cell positioning, we separated embryonic cells from the yolk and allowed them to develop as spherical aggregates. These aggregates break symmetry autonomously to form elongated structures with an anterior-posterior pattern. Both forced reaggregation and endogenous cell mixing reveals how robust early axis specification is to spatial disruption of maternal pre-patterning. During these movements, a pole of Nodal signaling emerges that is required for explant elongation via the planar cell polarity (PCP) pathway. Blocking of PCP-dependent elongation disrupts the shaping of opposing poles of BMP and Wnt/TCF activity and the anterior-posterior patterning of neural tissue. These results lead us to suggest that embryo elongation plays a causal role in timing the exposure of cells to changes in BMP and Wnt signal activity during zebrafish gastrulation.",
+  "authors": [
+    {
+      "name": "Timothy Fulton"
+    },
+    {
+      "name": "Benjamin Steventon"
+    }
+  ],
+  "organism": "Danio rerio (Zebrafish)",
+  "release_date": "2020-06-05",
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "S-BSST410-example.png",
+  "images": {
+    "IM1": {
+      "id": "IM1",
+      "original_relpath": "Figshare Upload/2018-09-28 Krox20 Cdx4_2.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST410",
+          "image_id": "IM1",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST410/Figshare Upload/2018-09-28 Krox20 Cdx4_2.tif",
+          "size": 270576990,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "Krox20 Cdx4 7hpc",
+        "Type": ".tiff"
+      }
+    },
+    "IM2": {
+      "id": "IM2",
+      "original_relpath": "Figshare Upload/2019-07-10 Pescoids BMP4 647 DKK1b 546 Chordin 488_6hpc_2019_07_10__12_39_25.lsm",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST410",
+          "image_id": "IM2",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST410/Figshare Upload/2019-07-10 Pescoids BMP4 647 DKK1b 546 Chordin 488_6hpc_2019_07_10__12_39_25.lsm",
+          "size": 201974608,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "BMP4 Dkk1b Chordin 6hpc",
+        "Type": ".lsm"
+      }
+    },
+    "IM3": {
+      "id": "IM3",
+      "original_relpath": "Figshare Upload/2019-07-26 pH3 647 Eomes 488 Ntl 546 Timecourse_1hpc_p5.lsm",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST410",
+          "image_id": "IM3",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST410/Figshare Upload/2019-07-26 pH3 647 Eomes 488 Ntl 546 Timecourse_1hpc_p5.lsm",
+          "size": 184801465,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "Tbxta Eomes pH3 1hpc",
+        "Type": ".lsm"
+      }
+    },
+    "IM4": {
+      "id": "IM4",
+      "original_relpath": "Figshare Upload/2019-07-26 pH3 647 Eomes 488 Ntl 546 Timecourse_2hpc_p1.lsm",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST410",
+          "image_id": "IM4",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST410/Figshare Upload/2019-07-26 pH3 647 Eomes 488 Ntl 546 Timecourse_2hpc_p1.lsm",
+          "size": 221295099,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "Tbxta Eomes pH3 2hpc",
+        "Type": ".lsm"
+      }
+    },
+    "IM5": {
+      "id": "IM5",
+      "original_relpath": "Figshare Upload/2019-07-26 pH3 647 Eomes 488 Ntl 546 Timecourse_4hpc_p2.lsm",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST410",
+          "image_id": "IM5",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST410/Figshare Upload/2019-07-26 pH3 647 Eomes 488 Ntl 546 Timecourse_4hpc_p2.lsm",
+          "size": 191242090,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "Tbxta Eomes pH3 4hpc",
+        "Type": ".lsm"
+      }
+    },
+    "IM6": {
+      "id": "IM6",
+      "original_relpath": "Figshare Upload/2019-07-26 pH3 647 Eomes 488 Ntl 546 Timecourse_7hpc_p3.lsm",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST410",
+          "image_id": "IM6",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST410/Figshare Upload/2019-07-26 pH3 647 Eomes 488 Ntl 546 Timecourse_7hpc_p3.lsm",
+          "size": 214853988,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "Tbxta Eomes pH3 7hpc",
+        "Type": ".lsm"
+      }
+    },
+    "IM7": {
+      "id": "IM7",
+      "original_relpath": "Figshare Upload/2020-01-09 Nanos 647 Sox32 546 Vasa 488_7hpc_2020_01_09__21_42_30__p2.lsm",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST410",
+          "image_id": "IM7",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST410/Figshare Upload/2020-01-09 Nanos 647 Sox32 546 Vasa 488_7hpc_2020_01_09__21_42_30__p2.lsm",
+          "size": 165481466,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "Nanos Sox32 Vasa 7hpc",
+        "Type": ".lsm"
+      }
+    },
+    "IM8": {
+      "id": "IM8",
+      "original_relpath": "Figshare Upload/2020-01-09 Tbxta 647 Sox2 546 Sox17 488_7hpc_2020_01_09__11_29_14__p1.lsm",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST410",
+          "image_id": "IM8",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST410/Figshare Upload/2020-01-09 Tbxta 647 Sox2 546 Sox17 488_7hpc_2020_01_09__11_29_14__p1.lsm",
+          "size": 133282081,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "Tbxta Sox2 Sox17 7hpc",
+        "Type": ".lsm"
+      }
+    },
+    "IM9": {
+      "id": "IM9",
+      "original_relpath": "Figshare Upload/2020-01-10 Wnt11 546 Frd 647_7hpc_2020_01_10__15_09_58__p1.lsm",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST410",
+          "image_id": "IM9",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST410/Figshare Upload/2020-01-10 Wnt11 546 Frd 647_7hpc_2020_01_10__15_09_58__p1.lsm",
+          "size": 118581096,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "Wnt112f Frz2 7hpc",
+        "Type": ".lsm"
+      }
+    },
+    "IM10": {
+      "id": "IM10",
+      "original_relpath": "Figshare Upload/2020-01-16 BMP2b  (488) BMP4 (647) BMP7 (546)Timecourse_2hpc_2020_01_17__08_53_05__p8.lsm",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST410",
+          "image_id": "IM10",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST410/Figshare Upload/2020-01-16 BMP2b  (488) BMP4 (647) BMP7 (546)Timecourse_2hpc_2020_01_17__08_53_05__p8.lsm",
+          "size": 57290733,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "BMP2b BMP4 BMP7 2hpc",
+        "Type": ".lsm"
+      }
+    },
+    "IM11": {
+      "id": "IM11",
+      "original_relpath": "Figshare Upload/2020-01-16 BMP2b  (488) BMP4 (647) BMP7 (546)Timecourse_5hpc_2020_01_16__16_54_24__p2.lsm",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST410",
+          "image_id": "IM11",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST410/Figshare Upload/2020-01-16 BMP2b  (488) BMP4 (647) BMP7 (546)Timecourse_5hpc_2020_01_16__16_54_24__p2.lsm",
+          "size": 75956969,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "BMP2b BMP4 BMP7 5hpc",
+        "Type": ".lsm"
+      }
+    },
+    "IM12": {
+      "id": "IM12",
+      "original_relpath": "Figshare Upload/2020-01-16 BMP2b  (488) BMP4 (647) BMP7 (546)Timecourse_7hpc_2020_01_16__14_12_19__p2.lsm",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST410",
+          "image_id": "IM12",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST410/Figshare Upload/2020-01-16 BMP2b  (488) BMP4 (647) BMP7 (546)Timecourse_7hpc_2020_01_16__14_12_19__p2.lsm",
+          "size": 61682314,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "BMP2b BMP4 BMP7 7hpc",
+        "Type": ".lsm"
+      }
+    },
+    "IM13": {
+      "id": "IM13",
+      "original_relpath": "Figshare Upload/2020-02-26 TCFGFP Timecourse HCR_2hpc_p12.lsm",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST410",
+          "image_id": "IM13",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST410/Figshare Upload/2020-02-26 TCFGFP Timecourse HCR_2hpc_p12.lsm",
+          "size": 129938629,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "TCF::GFP 2hpc",
+        "Type": ".lsm"
+      }
+    },
+    "IM14": {
+      "id": "IM14",
+      "original_relpath": "Figshare Upload/2020-02-26 TCFGFP Timecourse HCR_5hpc_p22.lsm",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST410",
+          "image_id": "IM14",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST410/Figshare Upload/2020-02-26 TCFGFP Timecourse HCR_5hpc_p22.lsm",
+          "size": 129938629,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "TCF::GFP 5hpc",
+        "Type": ".lsm"
+      }
+    },
+    "IM15": {
+      "id": "IM15",
+      "original_relpath": "Figshare Upload/Pescoid_8hpc_Keratin647_2.lsm",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST410",
+          "image_id": "IM15",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST410/Figshare Upload/Pescoid_8hpc_Keratin647_2.lsm",
+          "size": 186849642,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "Keratin18 8hpc",
+        "Type": ".lsm"
+      }
+    },
+    "IM16": {
+      "id": "IM16",
+      "original_relpath": "Figshare Upload/TCF647_7hpc.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST410",
+          "image_id": "IM16",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST410/Figshare Upload/TCF647_7hpc.tif",
+          "size": 93353898,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "TCF::GFP 7hpc",
+        "Type": ".tiff"
+      }
+    }
+  },
+  "archive_files": {},
+  "other_files": {},
+  "tags": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "c6b39950-4c62-47c6-ba94-1a4802ab530d",
+  "accession_id": "S-BIAD677",
+  "name": "My_submission/Figure 2/Figure 2F/3D views/anti AcTub DAPI.tif",
+  "original_relpath": "My_submission/Figure 2/Figure 2F/3D views/anti AcTub DAPI.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD677",
+      "image_id": "c6b39950-4c62-47c6-ba94-1a4802ab530d",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/677/S-BIAD677/Files/My_submission/Figure 2/Figure 2F/3D views/anti AcTub DAPI.tif",
+      "size": 26559540,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "11da2cac-bead-41d6-8c74-fed3572142f7"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "data type": "processed image",
+    "donor age": "Adult",
+    "donor ID": "652",
+    "infection": "yes",
+    "time [days post infection]": "4",
+    "micrsocope type": "confocal",
+    "magnification ": "63X",
+    "x,y resolution (nm)": "180,3",
+    "z rersolution (nm)": null,
+    "view": "Z-projection",
+    "channels": "1.0",
+    "stained cell type [goblet/basal/ciliated]": null,
+    "stained antibody name": "Anti Ac-Tubulin",
+    "stained cellular component": "Nucleus (DAPI), Acetylated Tubulin (Anti-Ac-Tubulin)",
+    "linked to figure": "Figure 2F",
+    "IFN-λ addition [ng]": "0.0",
+    "associated_metadata": null
+  }
+}

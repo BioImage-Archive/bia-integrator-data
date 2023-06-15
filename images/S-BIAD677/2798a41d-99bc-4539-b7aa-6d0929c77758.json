@@ -1,0 +1,42 @@
+{
+  "id": "2798a41d-99bc-4539-b7aa-6d0929c77758",
+  "accession_id": "S-BIAD677",
+  "name": "My_submission/Figure 2/Figure 2F/3D views/Top view boxed area X63.tif",
+  "original_relpath": "My_submission/Figure 2/Figure 2F/3D views/Top view boxed area X63.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD677",
+      "image_id": "2798a41d-99bc-4539-b7aa-6d0929c77758",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/677/S-BIAD677/Files/My_submission/Figure 2/Figure 2F/3D views/Top view boxed area X63.tif",
+      "size": 26559540,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "50415b40-3848-4817-a55b-5f4cbea53bd3"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "data type": "processed image",
+    "donor age": "Adult",
+    "donor ID": "652",
+    "infection": "yes",
+    "time [days post infection]": "4",
+    "micrsocope type": "confocal",
+    "magnification ": "63X",
+    "x,y resolution (nm)": "180,3",
+    "z rersolution (nm)": null,
+    "view": "3D-view",
+    "channels": "1.0",
+    "stained cell type [goblet/basal/ciliated]": null,
+    "stained antibody name": "Anti-CytK5 / Anti-AcTubulin / Anti-N",
+    "stained cellular component": "Nucleus (DAPI), Acetylated Tubulin, protein-N, CytK5 (anti-CytK5)",
+    "linked to figure": "Figure 2F",
+    "IFN-λ addition [ng]": "0.0",
+    "associated_metadata": null
+  }
+}

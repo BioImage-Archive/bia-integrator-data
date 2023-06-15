@@ -1,0 +1,42 @@
+{
+  "id": "55eef425-e904-4803-8287-d0f1d60e5d5b",
+  "accession_id": "S-BIAD677",
+  "name": "My_submission/Figure S5/Figure S5B X10 X20 X63 A5 Day 4/Figure Z project/FullResolution_Figure A5 overview X20 X63.tif",
+  "original_relpath": "My_submission/Figure S5/Figure S5B X10 X20 X63 A5 Day 4/Figure Z project/FullResolution_Figure A5 overview X20 X63.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD677",
+      "image_id": "55eef425-e904-4803-8287-d0f1d60e5d5b",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/677/S-BIAD677/Files/My_submission/Figure S5/Figure S5B X10 X20 X63 A5 Day 4/Figure Z project/FullResolution_Figure A5 overview X20 X63.tif",
+      "size": 40185034,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "06e30b6f-5741-428d-8b54-091ec9a774dc"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "data type": "processed image",
+    "donor age": "Adult",
+    "donor ID": "A5",
+    "infection": "yes",
+    "time [days post infection]": "4",
+    "micrsocope type": "confocal",
+    "magnification ": null,
+    "x,y resolution (nm)": null,
+    "z rersolution (nm)": null,
+    "view": "Figure",
+    "channels": "1.0",
+    "stained antibody name": "Anti-CytK5 / Anti-N",
+    "stained cellular component": "Nucleus (DAPI), Actin (Phalloidine), protein N (anti-N), CytK5 (anti-CytK5)",
+    "linked to figure": "Figure S5B",
+    "genetic_alteration": "CRISPR(ΔIFN-λ)",
+    "IFN-λ addition [ng]": "0.0",
+    "associated_metadata": null
+  }
+}

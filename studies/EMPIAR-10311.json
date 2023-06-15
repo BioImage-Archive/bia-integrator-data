@@ -1,0 +1,34 @@
+{
+  "accession_id": "EMPIAR-10311",
+  "title": "FIB-SEM of a HeLa cell",
+  "description": "FIB-SEM of a HeLa cell",
+  "authors": [],
+  "organism": "Homo sapiens",
+  "release_date": "2020-02-07",
+  "imaging_type": "FIB-SEM",
+  "attributes": {},
+  "example_image_uri": "https://www.ebi.ac.uk/pdbe/emdb-empiar/entryIcons/10311-l.gif",
+  "images": {
+    "IM1": {
+      "id": "IM1",
+      "original_relpath": "20140801_hela-wt_xy5z8nm_as",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "EMPIAR-10311",
+          "image_id": "IM1",
+          "uri": "https://hl.fire.sdo.ebi.ac.uk/imaging-public/world_availability/10311/data/20140801_hela-wt_xy5z8nm_as",
+          "size": 0,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {}
+    }
+  },
+  "archive_files": {},
+  "other_files": {},
+  "tags": []
+}

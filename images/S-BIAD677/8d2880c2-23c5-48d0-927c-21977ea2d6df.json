@@ -1,0 +1,42 @@
+{
+  "id": "8d2880c2-23c5-48d0-927c-21977ea2d6df",
+  "accession_id": "S-BIAD677",
+  "name": "My_submission/Figure 1/Figure 1C Graph quantifications/Raw data goblet cells/645 Day 1 N 488 phall 560 Muc5A 647 X63 dapi 25 03 2022.lif",
+  "original_relpath": "My_submission/Figure 1/Figure 1C Graph quantifications/Raw data goblet cells/645 Day 1 N 488 phall 560 Muc5A 647 X63 dapi 25 03 2022.lif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD677",
+      "image_id": "8d2880c2-23c5-48d0-927c-21977ea2d6df",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/677/S-BIAD677/Files/My_submission/Figure 1/Figure 1C Graph quantifications/Raw data goblet cells/645 Day 1 N 488 phall 560 Muc5A 647 X63 dapi 25 03 2022.lif",
+      "size": 629913637,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "3a10b135-3a00-46df-bb2d-59772d7779d8"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "data type": "raw data",
+    "donor age": "Adult",
+    "donor ID": "645",
+    "infection": "yes",
+    "time [days post infection]": "1",
+    "micrsocope type": "confocal",
+    "magnification ": "63X",
+    "x,y resolution (nm)": "721,501",
+    "z rersolution (nm)": "2,083,781",
+    "view": "Hyperstack",
+    "channels": "4.0",
+    "stained cell type [goblet/basal/ciliated]": "ciliated",
+    "stained antibody name": "Anti-AcTubulin / Anti-N",
+    "stained cellular component": "Nucleus (DAPI), Actin (Phalloidine), MUC5AC (anti-Muc5A) , Protein-N",
+    "linked to figure": "Figure 1C",
+    "IFN-λ addition [ng]": "0.0",
+    "associated_metadata": "yes"
+  }
+}

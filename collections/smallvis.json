@@ -1,0 +1,13 @@
+{
+  "name": "smallvis",
+  "title": "Small test collection",
+  "description": "This is a collection of datasets from the BioImage Archive from which one or more images have been converted to OME-Zarr. It is intended to demonstrate visualisation of images from the archive's collection, and to provide a range of example OME-Zarr images to test and encourage tool development.",
+  "subtitle": "BIA studies with images converted to OME-NGFF",
+  "accession_ids": [
+    "S-BIAD144",
+    "S-BIAD564",
+    "S-BIAD610",
+    "S-BIAD628",
+    "S-BIAD629"
+  ]
+}

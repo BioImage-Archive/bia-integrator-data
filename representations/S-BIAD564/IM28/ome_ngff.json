@@ -1,0 +1,41 @@
+{
+  "accession_id": "S-BIAD564",
+  "image_id": "IM28",
+  "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-zarr-test/S-BIAD564/Wt_microglia/Microglia-motility/km198_Exp3_secA5-BFP_mpeg1-eGFP-caax_Timelapse.zarr/0",
+  "size": 25155023076,
+  "type": "ome_ngff",
+  "dimensions": null,
+  "attributes": null,
+  "rendering": {
+    "channel_renders": [
+      {
+        "colormap_start": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "colormap_end": [
+          0.1568627450980392,
+          1.0,
+          0.0
+        ],
+        "scale_factor": 1.0
+      },
+      {
+        "colormap_start": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "colormap_end": [
+          0.0,
+          0.10196078431372549,
+          1.0
+        ],
+        "scale_factor": 1.0
+      }
+    ],
+    "default_z": null,
+    "default_t": null
+  }
+}

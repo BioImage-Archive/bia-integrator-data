@@ -1,0 +1,42 @@
+{
+  "id": "e7c19f51-d8f1-4341-910d-66f8d9a89434",
+  "accession_id": "S-BIAD677",
+  "name": "My_submission/Figure 2/Figure 2A/Figure orthogonal view/XZ 498-1.tif",
+  "original_relpath": "My_submission/Figure 2/Figure 2A/Figure orthogonal view/XZ 498-1.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD677",
+      "image_id": "e7c19f51-d8f1-4341-910d-66f8d9a89434",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/677/S-BIAD677/Files/My_submission/Figure 2/Figure 2A/Figure orthogonal view/XZ 498-1.tif",
+      "size": 1401283,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "b536228f-5fd4-43cf-9f9b-0b464d886a0c"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "data type": "processed image",
+    "donor age": "Adult",
+    "donor ID": "A3",
+    "infection": "yes",
+    "time [days post infection]": "4",
+    "micrsocope type": "confocal",
+    "magnification ": "63X",
+    "x,y resolution (nm)": "721,501",
+    "z rersolution (nm)": "2,083,781",
+    "view": "Y-section",
+    "channels": "4.0",
+    "stained cell type [goblet/basal/ciliated]": null,
+    "stained antibody name": "Anti-CytK5 / Anti-N",
+    "stained cellular component": "Nucleus (DAPI), Actin (Phalloidine), protein N (anti-N), CytK5 (anti-CytK5)",
+    "linked to figure": "Figure 2A",
+    "IFN-λ addition [ng]": "0.0",
+    "associated_metadata": null
+  }
+}

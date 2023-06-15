@@ -8,7 +8,7 @@
     {
       "accession_id": "S-BIAD634",
       "image_id": "a57e2e3a-87ec-4043-af2d-98793d8fbf01",
-      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/634/S-BIAD634/Files/dataset/groundtruth/Neuroblastoma_6.tif",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD634/dataset/groundtruth/Neuroblastoma_6.tif",
       "size": 2621808,
       "type": "fire_object",
       "dimensions": null,
@@ -22,7 +22,6 @@
   ],
   "attributes": {
     "file description": "Groundtruth, annotated segmentation masks in TIFF format",
-    "source image": "dataset/rawimages/Neuroblastoma_6.tif",
-    "Title": "Segmentation masks"
+    "source image": "dataset/rawimages/Neuroblastoma_6.tif"
   }
 }

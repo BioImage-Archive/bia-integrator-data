@@ -1,0 +1,28 @@
+{
+  "accession_id": "S-BSST604",
+  "image_id": "47432ea6-7479-4dba-8385-02f96e62dd67",
+  "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BSST604/47432ea6-7479-4dba-8385-02f96e62dd67/47432ea6-7479-4dba-8385-02f96e62dd67.zarr/0",
+  "size": 0,
+  "type": "ome_ngff",
+  "dimensions": null,
+  "attributes": {},
+  "rendering": {
+    "channel_renders": [
+      {
+        "colormap_start": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "colormap_end": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "scale_factor": 1.0
+      }
+    ],
+    "default_z": null,
+    "default_t": null
+  }
+}

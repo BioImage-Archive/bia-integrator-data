@@ -8,7 +8,7 @@
     {
       "accession_id": "S-BIAD634",
       "image_id": "cd3b9cb1-7ec4-482f-a125-3f39f7c56258",
-      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/634/S-BIAD634/Files/dataset/groundtruth/normal_10.tif",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD634/dataset/groundtruth/normal_10.tif",
       "size": 2621808,
       "type": "fire_object",
       "dimensions": null,
@@ -22,7 +22,6 @@
   ],
   "attributes": {
     "file description": "Groundtruth, annotated segmentation masks in TIFF format",
-    "source image": "dataset/rawimages/normal_10.tif",
-    "Title": "Segmentation masks"
+    "source image": "dataset/rawimages/normal_10.tif"
   }
 }

@@ -1,0 +1,250 @@
+{
+  "accession_id": "S-BSST730",
+  "title": "Cryogenic 3D-CLEM targeted lamella preparation of HeLa cells",
+  "description": "Cryogenic correlative FIB, SEM, TEM and fluorescence images of HeLa cells ",
+  "authors": [
+    {
+      "name": "Julia Mahamid"
+    },
+    {
+      "name": "Jürgen M Plitzko"
+    },
+    {
+      "name": "Sara K Goetz"
+    },
+    {
+      "name": "Herman KH Fung"
+    },
+    {
+      "name": "Sven Klumpe"
+    }
+  ],
+  "organism": "Homo sapiens (human)",
+  "release_date": "2022-01-04",
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "file_references": {
+    "edd435f5-1575-4002-95b4-4abde09766d8": {
+      "id": "edd435f5-1575-4002-95b4-4abde09766d8",
+      "name": "Grid2_Position3_FIB_before.tif",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST730/Grid2_Position3_FIB_before.tif",
+      "size_in_bytes": 6458644,
+      "attributes": {
+        "Description": "FIB image of HeLa cells on an EM grid before FIB milling."
+      }
+    },
+    "76730142-eb73-426f-b2ae-4d9c97bb55b0": {
+      "id": "76730142-eb73-426f-b2ae-4d9c97bb55b0",
+      "name": "Grid2_Position3_FIB_after.tif",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST730/Grid2_Position3_FIB_after.tif",
+      "size_in_bytes": 6297464,
+      "attributes": {
+        "Description": "FIB image of HeLa cells on an EM grid after FIB milling."
+      }
+    },
+    "43a247ad-d138-4a95-8ba0-80e7bc919fcb": {
+      "id": "43a247ad-d138-4a95-8ba0-80e7bc919fcb",
+      "name": "Grid3_Position3_TEM_montage.mrc",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST730/Grid3_Position3_TEM_montage.mrc",
+      "size_in_bytes": 585912688,
+      "attributes": {
+        "Description": "TEM montage of lamella from HeLa cells at 300 kV. Objective aperture, 100 ?m."
+      }
+    },
+    "45313852-4ca4-4b7b-ac28-d8abcdbbfeaf": {
+      "id": "45313852-4ca4-4b7b-ac28-d8abcdbbfeaf",
+      "name": "Grid2_Position3_TEM_montage.mrc",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST730/Grid2_Position3_TEM_montage.mrc",
+      "size_in_bytes": 585912688,
+      "attributes": {
+        "Description": "TEM montage of lamella from HeLa cells at 300 kV. Objective aperture, 100 ?m."
+      }
+    },
+    "4bfa2c07-7b44-4333-94fe-4d6a355535bb": {
+      "id": "4bfa2c07-7b44-4333-94fe-4d6a355535bb",
+      "name": "Grid3_Position3_SEM_before.tif",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST730/Grid3_Position3_SEM_before.tif",
+      "size_in_bytes": 6480092,
+      "attributes": {
+        "Description": "SEM image of HeLa cells on an EM grid before FIB milling."
+      }
+    },
+    "7ab02a17-ca6b-4b0f-8c3a-97034f2ed885": {
+      "id": "7ab02a17-ca6b-4b0f-8c3a-97034f2ed885",
+      "name": "Grid3_Position3_FIB_before.tif",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST730/Grid3_Position3_FIB_before.tif",
+      "size_in_bytes": 6458644,
+      "attributes": {
+        "Description": "FIB image of HeLa cells on an EM grid before FIB milling."
+      }
+    },
+    "1b64df05-c28c-40f9-97bb-cbc2fff142b2": {
+      "id": "1b64df05-c28c-40f9-97bb-cbc2fff142b2",
+      "name": "Grid3_Position3_FIB_after.tif",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST730/Grid3_Position3_FIB_after.tif",
+      "size_in_bytes": 6297505,
+      "attributes": {
+        "Description": "FIB image of HeLa cells on an EM grid after FIB milling."
+      }
+    },
+    "c3c85a2e-f089-4d56-95d7-669b08bc1d6f": {
+      "id": "c3c85a2e-f089-4d56-95d7-669b08bc1d6f",
+      "name": "Grid2_Position3_SEM_before.tif",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST730/Grid2_Position3_SEM_before.tif",
+      "size_in_bytes": 6479856,
+      "attributes": {
+        "Description": "SEM image of HeLa cells on an EM grid before FIB milling."
+      }
+    },
+    "dad18d6d-5a24-45a4-bb97-362c46de659f": {
+      "id": "dad18d6d-5a24-45a4-bb97-362c46de659f",
+      "name": "Grid2_Position3_fluorescence_ch00.tif",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST730/Grid2_Position3_fluorescence_ch00.tif",
+      "size_in_bytes": 98731806,
+      "attributes": {
+        "Description": "Cryo-confocal z-stack of HeLa cells on an EM grid. Pixel size, 109 × 109 × 342 nm.",
+        "Channel": "MitoTracker Green FM: Mitochondria"
+      }
+    },
+    "39e45ae5-7c33-440b-b0cf-f57d419f3cbb": {
+      "id": "39e45ae5-7c33-440b-b0cf-f57d419f3cbb",
+      "name": "Grid2_Position3_fluorescence_ch01.tif",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST730/Grid2_Position3_fluorescence_ch01.tif",
+      "size_in_bytes": 98731806,
+      "attributes": {
+        "Description": "Cryo-confocal z-stack of HeLa cells on an EM grid. Pixel size, 109 × 109 × 342 nm.",
+        "Channel": "Crimson FluoSpheres"
+      }
+    },
+    "ab258c41-1242-41f2-ac96-885fe48ce045": {
+      "id": "ab258c41-1242-41f2-ac96-885fe48ce045",
+      "name": "Grid2_Position3_fluorescence_ch02.tif",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST730/Grid2_Position3_fluorescence_ch02.tif",
+      "size_in_bytes": 98731806,
+      "attributes": {
+        "Description": "Cryo-confocal z-stack of HeLa cells on an EM grid. Pixel size, 109 × 109 × 342 nm.",
+        "Channel": "BODIPY 558/568 C12: Lipid Droplet"
+      }
+    },
+    "c1d5de15-d0af-473b-bf7a-e3d4ae0acb01": {
+      "id": "c1d5de15-d0af-473b-bf7a-e3d4ae0acb01",
+      "name": "Grid3_Position3_fluorescence_ch00.tif",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST730/Grid3_Position3_fluorescence_ch00.tif",
+      "size_in_bytes": 39872572,
+      "attributes": {
+        "Description": "Cryo-confocal z-stack of HeLa cells on an EM grid. Pixel size, 178 × 178 × 331 nm.",
+        "Channel": "MitoTracker Green FM: Mitochondria"
+      }
+    },
+    "731d62a5-b4fb-47d0-9500-ea959f465da4": {
+      "id": "731d62a5-b4fb-47d0-9500-ea959f465da4",
+      "name": "Grid3_Position3_fluorescence_ch01.tif",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST730/Grid3_Position3_fluorescence_ch01.tif",
+      "size_in_bytes": 39872572,
+      "attributes": {
+        "Description": "Cryo-confocal z-stack of HeLa cells on an EM grid. Pixel size, 178 × 178 × 331 nm.",
+        "Channel": "Crimson FluoSpheres"
+      }
+    },
+    "59243013-31d1-4282-b320-0fa5e6ebe2e8": {
+      "id": "59243013-31d1-4282-b320-0fa5e6ebe2e8",
+      "name": "Grid3_Position3_fluorescence_ch02.tif",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST730/Grid3_Position3_fluorescence_ch02.tif",
+      "size_in_bytes": 39872572,
+      "attributes": {
+        "Description": "Cryo-confocal z-stack of HeLa cells on an EM grid. Pixel size, 178 × 178 × 331 nm.",
+        "Channel": "BODIPY 558/568 C12: Lipid Droplet"
+      }
+    },
+    "a691f556-9e7a-44fd-86ea-b1be53cb5ad4": {
+      "id": "a691f556-9e7a-44fd-86ea-b1be53cb5ad4",
+      "name": "Grid1_Position1_SEM_before.tif",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST730/Grid1_Position1_SEM_before.tif",
+      "size_in_bytes": 6479047,
+      "attributes": {
+        "Description": "SEM image of HeLa cells on an EM grid before FIB milling."
+      }
+    },
+    "bf6e6e5f-b444-40c5-9781-59595a25cf83": {
+      "id": "bf6e6e5f-b444-40c5-9781-59595a25cf83",
+      "name": "Grid1_Position1_FIB_before.tif",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST730/Grid1_Position1_FIB_before.tif",
+      "size_in_bytes": 6458703,
+      "attributes": {
+        "Description": "FIB image of HeLa cells on an EM grid before FIB milling."
+      }
+    },
+    "0b0a4b3e-8132-42fb-a871-0dcb704e5792": {
+      "id": "0b0a4b3e-8132-42fb-a871-0dcb704e5792",
+      "name": "Grid1_Position1_FIB_after.tif",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST730/Grid1_Position1_FIB_after.tif",
+      "size_in_bytes": 1577023,
+      "attributes": {
+        "Description": "FIB image of HeLa cells on an EM grid after FIB milling."
+      }
+    },
+    "2abbda47-4bf8-4fea-968a-2ff98994fd18": {
+      "id": "2abbda47-4bf8-4fea-968a-2ff98994fd18",
+      "name": "Grid1_Position1_SEM_after.tif",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST730/Grid1_Position1_SEM_after.tif",
+      "size_in_bytes": 6296260,
+      "attributes": {
+        "Description": "SEM image of HeLa cells on an EM grid after FIB milling."
+      }
+    },
+    "f29898a3-c448-4d6d-ae4c-42a78fa35ea8": {
+      "id": "f29898a3-c448-4d6d-ae4c-42a78fa35ea8",
+      "name": "Grid1_Position1_fluorescence_ch01.tif",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST730/Grid1_Position1_fluorescence_ch01.tif",
+      "size_in_bytes": 98731823,
+      "attributes": {
+        "Description": "Cryo-confocal z-stack of HeLa cells on an EM grid. Pixel size, 110 × 110 × 342 nm",
+        "Channel": "Crimson FluoSpheres"
+      }
+    },
+    "a71ed363-5cac-415c-8f49-2a3d83fba687": {
+      "id": "a71ed363-5cac-415c-8f49-2a3d83fba687",
+      "name": "Grid1_Position1_fluorescence_ch03.tif",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST730/Grid1_Position1_fluorescence_ch03.tif",
+      "size_in_bytes": 98731823,
+      "attributes": {
+        "Description": "Cryo-confocal z-stack of HeLa cells on an EM grid. Pixel size, 110 × 110 × 342 nm.",
+        "Channel": "BODIPY 558/568 C12: Lipid Droplet"
+      }
+    },
+    "ff820af0-deed-4378-986b-def2c71bb3c8": {
+      "id": "ff820af0-deed-4378-986b-def2c71bb3c8",
+      "name": "Grid1_Position1_fluorescence_ch00.tif",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST730/Grid1_Position1_fluorescence_ch00.tif",
+      "size_in_bytes": 98731806,
+      "attributes": {
+        "Description": "Cryo-confocal z-stack of HeLa cells on an EM grid. Pixel size, 110 × 110 × 342 nm.",
+        "Channel": "MitoTracker Green FM: Mitochondria"
+      }
+    },
+    "ba9d6417-d454-43af-bbf5-d0c1954b4c53": {
+      "id": "ba9d6417-d454-43af-bbf5-d0c1954b4c53",
+      "name": "Grid1_Position1_fluorescence_ch02.tif",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST730/Grid1_Position1_fluorescence_ch02.tif",
+      "size_in_bytes": 98731806,
+      "attributes": {
+        "Description": "Cryo-confocal z-stack of HeLa cells on an EM grid. Pixel size, 110 × 110 × 342 nm.",
+        "Channel": "Trasmitted Light"
+      }
+    },
+    "25dbf3d0-7d99-40cd-8d36-5f1bb27ffd2c": {
+      "id": "25dbf3d0-7d99-40cd-8d36-5f1bb27ffd2c",
+      "name": "Grid1_Position1_TEM_montage.mrc",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST730/Grid1_Position1_TEM_montage.mrc",
+      "size_in_bytes": 379642624,
+      "attributes": {
+        "Description": "TEM montage of lamella from HeLa cells at 300 kV. Objective aperture, 100 ?m."
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "tags": []
+}

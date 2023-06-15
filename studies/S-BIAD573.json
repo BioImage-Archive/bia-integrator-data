@@ -1,0 +1,1063 @@
+{
+  "accession_id": "S-BIAD573",
+  "title": "Plasma membrane topography governs the 3D dynamic localization of IgM B cell antigen receptor clusters",
+  "description": "B lymphocytes recognize bacterial or viral antigens via different classes of the B cell antigen receptor (BCR). Protrusive structures termed microvilli cover lymphocyte surfaces and are thought to perform sensory functions in screening antigen-bearing surfaces. Here, we have studied the cell surface topography of Ramos B cells and the spatiotemporal organization of the IgM-BCR using lattice light sheet microscopy in combination with tailored custom-built 4D image analysis. Ramos B cell surfaces were found to form dynamic networks of elevated ridges bridging individual microvilli. A proportion of membrane-localized IgM-BCR was found in clusters, which were mainly associated with the ridges and the microvilli. The dynamic ridge network organization and the IgM-BCR cluster mobility were linked and both were controlled by Arp2/3 complex activity. Our results suggest that dynamic topographical features of the cell surface govern the localization and transport of IgM-BCR clusters to facilitate antigen screening.",
+  "authors": [
+    {
+      "name": "Deniz Saltukoglu"
+    },
+    {
+      "name": "Bugra \u00d6zdemir"
+    },
+    {
+      "name": "Michael Holtmannsp\u00f6tter"
+    },
+    {
+      "name": "Ralf Reski"
+    },
+    {
+      "name": "Jacob Piehler"
+    },
+    {
+      "name": "Rainer Kurre"
+    },
+    {
+      "name": "Michael Reth"
+    }
+  ],
+  "organism": "Homo sapiens (human)",
+  "release_date": "2022-12-30",
+  "imaging_type": "lattice light sheet microscopy",
+  "attributes": {},
+  "example_image_uri": "S-BIAD573-example.png",
+  "images": {
+    "IM1": {
+      "id": "IM1",
+      "original_relpath": "Data/UT/SNAP_IgM_BCR_Cell_1.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM1",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/UT/SNAP_IgM_BCR_Cell_1.tif",
+          "size": 4704002007,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Untreated",
+        "Concentration": "N.A",
+        "Ch1": "SNAP-IgM-BCR",
+        "Ch2": "EGFP-CaaX",
+        "Voxel Size (\u00b5m)": "0.2166833, 0.1045, 0.1045",
+        "md5": "E1D16350A559D9448164A0DBA3CCF137"
+      }
+    },
+    "IM2": {
+      "id": "IM2",
+      "original_relpath": "Data/UT/SNAP_IgM_BCR_Cell_2.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM2",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/UT/SNAP_IgM_BCR_Cell_2.tif",
+          "size": 3226437032,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Untreated",
+        "Concentration": "N.A",
+        "Ch1": "SNAP-IgM-BCR",
+        "Ch2": "EGFP-CaaX",
+        "Voxel Size (\u00b5m)": "0.2166833, 0.1045, 0.1045",
+        "md5": "5FE01B0F179C85B2CEB9E5EC28D15348"
+      }
+    },
+    "IM3": {
+      "id": "IM3",
+      "original_relpath": "Data/UT/SNAP_IgM_BCR_Cell_3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM3",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/UT/SNAP_IgM_BCR_Cell_3.tif",
+          "size": 3539781032,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Untreated",
+        "Concentration": "N.A",
+        "Ch1": "SNAP-IgM-BCR",
+        "Ch2": "EGFP-CaaX",
+        "Voxel Size (\u00b5m)": "0.2166833, 0.1045, 0.1045",
+        "md5": "23711DE6F600BA1FED2BF23083E8CE34"
+      }
+    },
+    "IM4": {
+      "id": "IM4",
+      "original_relpath": "Data/UT/SNAP_IgM_BCR_Cell_4.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM4",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/UT/SNAP_IgM_BCR_Cell_4.tif",
+          "size": 3318805833,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Untreated",
+        "Concentration": "N.A",
+        "Ch1": "SNAP-IgM-BCR",
+        "Ch2": "EGFP-CaaX",
+        "Voxel Size (\u00b5m)": "0.2166833, 0.1045, 0.1045",
+        "md5": "07E62C3AE6B95B61598BC1FE51846124"
+      }
+    },
+    "IM5": {
+      "id": "IM5",
+      "original_relpath": "Data/UT/SNAP_IgM_BCR_Cell_5.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM5",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/UT/SNAP_IgM_BCR_Cell_5.tif",
+          "size": 3111445832,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Untreated",
+        "Concentration": "N.A",
+        "Ch1": "SNAP-IgM-BCR",
+        "Ch2": "EGFP-CaaX",
+        "Voxel Size (\u00b5m)": "0.2166833, 0.1045, 0.1045",
+        "md5": "630E656422CFACC5967BD110F93BB286"
+      }
+    },
+    "IM6": {
+      "id": "IM6",
+      "original_relpath": "Data/UT/SNAP_IgM_BCR_Cell_6.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM6",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/UT/SNAP_IgM_BCR_Cell_6.tif",
+          "size": 2409285032,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Untreated",
+        "Concentration": "N.A",
+        "Ch1": "SNAP-IgM-BCR",
+        "Ch2": "EGFP-CaaX",
+        "Voxel Size (\u00b5m)": "0.2166833, 0.1045, 0.1045",
+        "md5": "E2CBD204CFB03AD17F027AC488A10F9B"
+      }
+    },
+    "IM7": {
+      "id": "IM7",
+      "original_relpath": "Data/UT/SNAP_IgM_BCR_Cell_7.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM7",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/UT/SNAP_IgM_BCR_Cell_7.tif",
+          "size": 2803298611,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Untreated",
+        "Concentration": "N.A",
+        "Ch1": "SNAP-IgM-BCR",
+        "Ch2": "EGFP-CaaX",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "2F3D897FB00FC6116525320716551221"
+      }
+    },
+    "IM8": {
+      "id": "IM8",
+      "original_relpath": "Data/UT/SNAP_CD40_Cell_8.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM8",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/UT/SNAP_CD40_Cell_8.tif",
+          "size": 2655318694,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Untreated",
+        "Concentration": "N.A",
+        "Ch1": "SNAP-CD40",
+        "Ch2": "EGFP-CaaX",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "39FB142FAAC6335E42AC6B8244B29BB9"
+      }
+    },
+    "IM9": {
+      "id": "IM9",
+      "original_relpath": "Data/UT/SNAP_CD40_Cell_9.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM9",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/UT/SNAP_CD40_Cell_9.tif",
+          "size": 3716058629,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Untreated",
+        "Concentration": "N.A",
+        "Ch1": "SNAP-CD40",
+        "Ch2": "EGFP-CaaX",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "3D722314BF43EAA2A4FB76F5972988AE"
+      }
+    },
+    "IM10": {
+      "id": "IM10",
+      "original_relpath": "Data/UT/SNAP_CD40_Cell_10.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM10",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/UT/SNAP_CD40_Cell_10.tif",
+          "size": 6103478761,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Untreated",
+        "Concentration": "N.A",
+        "Ch1": "SNAP-CD40",
+        "Ch2": "EGFP-CaaX",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "F3F1BBD9AD00E29BFAAABD8A836CE9CF"
+      }
+    },
+    "IM11": {
+      "id": "IM11",
+      "original_relpath": "Data/CK666/SNAP-IgM-BCR_Cell_11.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM11",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/CK666/SNAP-IgM-BCR_Cell_11.tif",
+          "size": 4148245834,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "CK-666",
+        "Concentration": "100 \u00b5M",
+        "Ch1": "SNAP-IgM-BCR",
+        "Ch2": "EGFP-CaaX",
+        "Voxel Size (\u00b5m)": "0.2166833, 0.1045, 0.1045",
+        "md5": "16C5D4B19808BF49CB6540F28432E14F"
+      }
+    },
+    "IM12": {
+      "id": "IM12",
+      "original_relpath": "Data/CK666/SNAP-IgM-BCR_Cell_12.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM12",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/CK666/SNAP-IgM-BCR_Cell_12.tif",
+          "size": 2489365834,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "CK-666",
+        "Concentration": "100 \u00b5M",
+        "Ch1": "SNAP-IgM-BCR",
+        "Ch2": "EGFP-CaaX",
+        "Voxel Size (\u00b5m)": "0.2166833, 0.1045, 0.1045",
+        "md5": "E14589751FCBCF3B82BF3A7D337A631B"
+      }
+    },
+    "IM13": {
+      "id": "IM13",
+      "original_relpath": "Data/CK666/SNAP-IgM-BCR_Cell_13.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM13",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/CK666/SNAP-IgM-BCR_Cell_13.tif",
+          "size": 1475605833,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "CK-666",
+        "Concentration": "100 \u00b5M",
+        "Ch1": "SNAP-IgM-BCR",
+        "Ch2": "EGFP-CaaX",
+        "Voxel Size (\u00b5m)": "0.2166833, 0.1045, 0.1045",
+        "md5": "0731EBB08A8F3099B0D8F3EAF82FE845"
+      }
+    },
+    "IM14": {
+      "id": "IM14",
+      "original_relpath": "Data/CK666/SNAP-IgM-BCR_Cell_14.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM14",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/CK666/SNAP-IgM-BCR_Cell_14.tif",
+          "size": 3457045834,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "CK-666",
+        "Concentration": "100 \u00b5M",
+        "Ch1": "SNAP-IgM-BCR",
+        "Ch2": "EGFP-CaaX",
+        "Voxel Size (\u00b5m)": "0.2166833, 0.1045, 0.1045",
+        "md5": "0E5513E516B6AC50EE445C44FAD1ECC1"
+      }
+    },
+    "IM15": {
+      "id": "IM15",
+      "original_relpath": "Data/CK666/SNAP-IgM-BCR_Cell_15.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM15",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/CK666/SNAP-IgM-BCR_Cell_15.tif",
+          "size": 2940780089,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "CK-666",
+        "Concentration": "100 \u00b5M",
+        "Ch1": "EGFP-CaaX",
+        "Ch2": "SNAP-IgM-BCR",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "1FC7FDAEB2477499301F395787F5EE5A"
+      }
+    },
+    "IM16": {
+      "id": "IM16",
+      "original_relpath": "Data/NIP/SNAP-IgM-BCR_Cell_16.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM16",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/NIP/SNAP-IgM-BCR_Cell_16.tif",
+          "size": 7680002009,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "NIP-15-BSA",
+        "Concentration": "50 ng/ml",
+        "Ch1": "EGFP-CaaX",
+        "Ch2": "SNAP-IgM-BCR",
+        "Voxel Size (\u00b5m)": "0.2166833, 0.1045, 0.1045",
+        "md5": "FED19AC47F39C789D3D3D8DD66F7737B"
+      }
+    },
+    "IM17": {
+      "id": "IM17",
+      "original_relpath": "Data/NIP/SNAP-IgM-BCR_Cell_17.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM17",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/NIP/SNAP-IgM-BCR_Cell_17.tif",
+          "size": 768349834,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "NIP-15-BSA",
+        "Concentration": "50 ng/ml",
+        "Ch1": "SNAP-IgM-BCR",
+        "Ch2": "EGFP-CaaX",
+        "Voxel Size (\u00b5m)": "0.2166833, 0.1045, 0.1045",
+        "md5": "690E34E54EB2CB153A5D74F610BC89CA"
+      }
+    },
+    "IM18": {
+      "id": "IM18",
+      "original_relpath": "Data/NIP/SNAP-IgM-BCR_Cell_18.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM18",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/NIP/SNAP-IgM-BCR_Cell_18.tif",
+          "size": 2337465059,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "NIP-15-BSA",
+        "Concentration": "50 ng/ml",
+        "Ch1": "EGFP-CaaX",
+        "Ch2": "SNAP-IgM-BCR",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "3B18CC5B6A8E3742B7ECA6D9F0137C0B"
+      }
+    },
+    "IM19": {
+      "id": "IM19",
+      "original_relpath": "Data/NIP/SNAP-IgM-BCR_Cell_19.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM19",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/NIP/SNAP-IgM-BCR_Cell_19.tif",
+          "size": 2201325060,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "NIP-15-BSA",
+        "Concentration": "50 ng/ml",
+        "Ch1": "EGFP-CaaX",
+        "Ch2": "SNAP-IgM-BCR",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "4D67159E243C10C471D1EE7FCB10B465"
+      }
+    },
+    "IM20": {
+      "id": "IM20",
+      "original_relpath": "Data/NIP/SNAP-IgM-BCR_Cell_20.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM20",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/NIP/SNAP-IgM-BCR_Cell_20.tif",
+          "size": 2595165061,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "NIP-15-BSA",
+        "Concentration": "50 ng/ml",
+        "Ch1": "EGFP-CaaX",
+        "Ch2": "SNAP-IgM-BCR",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "574515BFEC3CCD48F6F8B879AD4A6C2D"
+      }
+    },
+    "IM21": {
+      "id": "IM21",
+      "original_relpath": "Data/NIP/SNAP-IgM-BCR_Cell_21.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM21",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/NIP/SNAP-IgM-BCR_Cell_21.tif",
+          "size": 2124570058,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "NIP-15-BSA",
+        "Concentration": "50 ng/ml",
+        "Ch1": "EGFP-CaaX",
+        "Ch2": "SNAP-IgM-BCR",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "C676D51663C5F9838A04EDCD7DB41870"
+      }
+    },
+    "IM22": {
+      "id": "IM22",
+      "original_relpath": "Data/NIP/SNAP-IgM-BCR_Cell_22.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM22",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/NIP/SNAP-IgM-BCR_Cell_22.tif",
+          "size": 4793178185,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "NIP-15-BSA",
+        "Concentration": "50 ng/ml",
+        "Ch1": "EGFP-CaaX",
+        "Ch2": "SNAP-IgM-BCR",
+        "Voxel Size (\u00b5m)": "0.103, 0.103, 0.103",
+        "md5": "476C31B70EADAD2A632C6B3DCBA075DC"
+      }
+    },
+    "IM23": {
+      "id": "IM23",
+      "original_relpath": "Data/NIP/SNAP-IgM-BCR_Cell_23.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM23",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/NIP/SNAP-IgM-BCR_Cell_23.tif",
+          "size": 3705978611,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "NIP-15-BSA",
+        "Concentration": "50 ng/ml",
+        "Ch1": "SNAP-IgM-BCR",
+        "Ch2": "EGFP-CaaX",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "88263B32C89DF091D2766957488B2D3B"
+      }
+    },
+    "IM24": {
+      "id": "IM24",
+      "original_relpath": "Data/LatA/SNAP_IgM_BCR_Cell_24.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM24",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/LatA/SNAP_IgM_BCR_Cell_24.tif",
+          "size": 7225498777,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Latrunculin A",
+        "Concentration": "2 \u00b5M",
+        "Ch1": "SNAP-IgM-BCR",
+        "Ch2": "EGFP-CaaX",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "F4FF403B497136F3231548D957765336"
+      }
+    },
+    "IM25": {
+      "id": "IM25",
+      "original_relpath": "Data/LatA/SNAP_IgM_BCR_Cell_25.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM25",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/LatA/SNAP_IgM_BCR_Cell_25.tif",
+          "size": 2417398611,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Latrunculin A",
+        "Concentration": "2 \u00b5M",
+        "Ch1": "EGFP-CaaX",
+        "Ch2": "SNAP-IgM-BCR",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "6990385F359D5B317B97D28B6066D070"
+      }
+    },
+    "IM26": {
+      "id": "IM26",
+      "original_relpath": "Data/LatA/SNAP_IgM_BCR_Cell_26.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM26",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/LatA/SNAP_IgM_BCR_Cell_26.tif",
+          "size": 2665658612,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Latrunculin A",
+        "Concentration": "2 \u00b5M",
+        "Ch1": "SNAP-IgM-BCR",
+        "Ch2": "EGFP-CaaX",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "2CDC2C23E021ED636A56C2A1E71E52FC"
+      }
+    },
+    "IM27": {
+      "id": "IM27",
+      "original_relpath": "Data/LatA/SNAP_IgM_BCR_Cell_27.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM27",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/LatA/SNAP_IgM_BCR_Cell_27.tif",
+          "size": 2086918612,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Latrunculin A",
+        "Concentration": "2 \u00b5M",
+        "Ch1": "SNAP-IgM-BCR",
+        "Ch2": "EGFP-CaaX",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "7DDFE6875370C96187AAF3464662451F"
+      }
+    },
+    "IM28": {
+      "id": "IM28",
+      "original_relpath": "Data/LatA/SNAP_IgM_BCR_Cell_28.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM28",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/LatA/SNAP_IgM_BCR_Cell_28.tif",
+          "size": 2953778612,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Latrunculin A",
+        "Concentration": "2 \u00b5M",
+        "Ch1": "SNAP-IgM-BCR",
+        "Ch2": "EGFP-CaaX",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "BD3E3BF5B593FB8EDE3FF4B6447BCD82"
+      }
+    },
+    "IM29": {
+      "id": "IM29",
+      "original_relpath": "Data/LatA/SNAP_IgM_BCR_Cell_29.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM29",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/LatA/SNAP_IgM_BCR_Cell_29.tif",
+          "size": 3228438612,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Latrunculin A",
+        "Concentration": "2 \u00b5M",
+        "Ch1": "SNAP-IgM-BCR",
+        "Ch2": "EGFP-CaaX",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "A272C29180D94E1C5E051B0B1D7D0219"
+      }
+    },
+    "IM30": {
+      "id": "IM30",
+      "original_relpath": "Data/LatA_NIP/SNAP-IgM-BCR_Cell_30.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM30",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/LatA_NIP/SNAP-IgM-BCR_Cell_30.tif",
+          "size": 2254498612,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Latrunculin A, NIP-15-BSA",
+        "Concentration": "2 \u00b5M, 50 ng/ml",
+        "Ch1": "EGFP-CaaX",
+        "Ch2": "SNAP-IgM-BCR",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "07006BCCA7C1271F84D5EC960771C187"
+      }
+    },
+    "IM31": {
+      "id": "IM31",
+      "original_relpath": "Data/LatA_NIP/SNAP-IgM-BCR_Cell_31.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM31",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/LatA_NIP/SNAP-IgM-BCR_Cell_31.tif",
+          "size": 2960378611,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Latrunculin A, NIP-15-BSA",
+        "Concentration": "2 \u00b5M, 50 ng/ml",
+        "Ch1": "EGFP-CaaX",
+        "Ch2": "SNAP-IgM-BCR",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "DE9707618C41595BF85D571A099D55C5"
+      }
+    },
+    "IM32": {
+      "id": "IM32",
+      "original_relpath": "Data/LatA_NIP/SNAP-IgM-BCR_Cell_32.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM32",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/LatA_NIP/SNAP-IgM-BCR_Cell_32.tif",
+          "size": 2419518611,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Latrunculin A, NIP-15-BSA",
+        "Concentration": "2 \u00b5M, 50 ng/ml",
+        "Ch1": "EGFP-CaaX",
+        "Ch2": "SNAP-IgM-BCR",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "6024DF3EDE56EB427FEB601654C9824C"
+      }
+    },
+    "IM33": {
+      "id": "IM33",
+      "original_relpath": "Data/LatA_NIP/SNAP-IgM-BCR_Cell_33.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM33",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/LatA_NIP/SNAP-IgM-BCR_Cell_33.tif",
+          "size": 2631958611,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Latrunculin A, NIP-15-BSA",
+        "Concentration": "2 \u00b5M, 50 ng/ml",
+        "Ch1": "EGFP-CaaX",
+        "Ch2": "SNAP-IgM-BCR",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "CBE28AC34F70260E0DD04149E2DEEFB0"
+      }
+    },
+    "IM34": {
+      "id": "IM34",
+      "original_relpath": "Data/LatA_NIP/SNAP-IgM-BCR_Cell_34.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM34",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/LatA_NIP/SNAP-IgM-BCR_Cell_34.tif",
+          "size": 2252698611,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Latrunculin A, NIP-15-BSA",
+        "Concentration": "2 \u00b5M, 50 ng/ml",
+        "Ch1": "EGFP-CaaX",
+        "Ch2": "SNAP-IgM-BCR",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "2DB32478C68B6F67008C251CD39BADB0"
+      }
+    },
+    "IM35": {
+      "id": "IM35",
+      "original_relpath": "Data/LatA_NIP/SNAP-IgM-BCR_Cell_35.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM35",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/LatA_NIP/SNAP-IgM-BCR_Cell_35.tif",
+          "size": 2840278612,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Latrunculin A, NIP-15-BSA",
+        "Concentration": "2 \u00b5M, 50 ng/ml",
+        "Ch1": "EGFP-CaaX",
+        "Ch2": "SNAP-IgM-BCR",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "C3FC6D9F17253B1B3FBCDD60CEFF220D"
+      }
+    },
+    "IM36": {
+      "id": "IM36",
+      "original_relpath": "Data/LatA_NIP/SNAP-IgM-BCR_Cell_36.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM36",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/LatA_NIP/SNAP-IgM-BCR_Cell_36.tif",
+          "size": 6343878776,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Latrunculin A, NIP-15-BSA",
+        "Concentration": "2 \u00b5M, 50 ng/ml",
+        "Ch1": "EGFP-CaaX",
+        "Ch2": "SNAP-IgM-BCR",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "A295FD315E56736E480B3000155FDDC4"
+      }
+    },
+    "IM37": {
+      "id": "IM37",
+      "original_relpath": "Data/Noc/SNAP_IgM_BCR_Cell37.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM37",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/Noc/SNAP_IgM_BCR_Cell37.tif",
+          "size": 6775423138,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Nocodazole",
+        "Concentration": "20 \u00b5M",
+        "Ch1": "EGFP-CaaX",
+        "Ch2": "SNAP-IgM-BCR",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "654C0B8F831C6918043FC27230F26724"
+      }
+    },
+    "IM38": {
+      "id": "IM38",
+      "original_relpath": "Data/Noc_LatA/SNAP_IgM_BCR_Cell38.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM38",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/Noc_LatA/SNAP_IgM_BCR_Cell38.tif",
+          "size": 5081615457,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Nocodazole, Latrunculin A",
+        "Concentration": "20 \u00b5M, 2 \u00b5M",
+        "Ch1": "EGFP-CaaX",
+        "Ch2": "SNAP-IgM-BCR",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "FCC82F584EB7A99270818EF5D5F523AE"
+      }
+    },
+    "IM39": {
+      "id": "IM39",
+      "original_relpath": "Data/LatA_Noc/SNAP_IgM_BCR_Cell39.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM39",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/LatA_Noc/SNAP_IgM_BCR_Cell39.tif",
+          "size": 4678198819,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Latrunculin A, Nocodazole ",
+        "Concentration": "2 \u00b5M, 20 \u00b5M",
+        "Ch1": "EGFP-CaaX",
+        "Ch2": "SNAP-IgM-BCR",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "717434BFA99628EB1EA8513C9AA0DC13"
+      }
+    },
+    "IM40": {
+      "id": "IM40",
+      "original_relpath": "Data/Noc_LatA_NIP/SNAP_IgM_BCR_Cell40.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM40",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/Noc_LatA_NIP/SNAP_IgM_BCR_Cell40.tif",
+          "size": 5530943458,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "Nocodazole, LatrunculinA, NIP-15-BSA",
+        "Concentration": "20 \u00b5M, 2 \u00b5M, 50 ng/ml",
+        "Ch1": "EGFP-CaaX",
+        "Ch2": "SNAP-IgM-BCR",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "61A819389A00AA76FE5C99E5A50E2964"
+      }
+    },
+    "IM41": {
+      "id": "IM41",
+      "original_relpath": "Data/LatA_Noc_NIP/SNAP_IgM_BCR_Cell41.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD573",
+          "image_id": "IM41",
+          "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD573/Data/LatA_Noc_NIP/SNAP_IgM_BCR_Cell41.tif",
+          "size": 3638778657,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Compound": "LatrunculinA, Nocodazole, NIP-15-BSA",
+        "Concentration": "2 \u00b5M, 20 \u00b5M, 50 ng/ml",
+        "Ch1": "EGFP-CaaX",
+        "Ch2": "SNAP-IgM-BCR",
+        "Voxel Size (\u00b5m)": "0.2708541, 0.103, 0.103",
+        "md5": "593A4B6045415AA4BB6633AD50CFA99A"
+      }
+    }
+  },
+  "archive_files": {},
+  "other_files": {},
+  "tags": []
+}

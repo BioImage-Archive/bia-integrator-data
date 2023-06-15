@@ -1,0 +1,80 @@
+{
+  "accession_id": "EMPIAR-10903",
+  "title": "A biological nano-foam: the wall of coniferous bisaccate pollen (data sets)",
+  "description": "A biological nano-foam: the wall of coniferous bisaccate pollen (data sets)",
+  "authors": [
+    {
+      "name": "Cojocaru R"
+    },
+    {
+      "name": "Mannix O"
+    },
+    {
+      "name": "Capron M"
+    },
+    {
+      "name": "Miller CG"
+    },
+    {
+      "name": "Jouneau PH"
+    },
+    {
+      "name": "Gallet B"
+    },
+    {
+      "name": "Falconet D"
+    },
+    {
+      "name": "Pacureanu A"
+    },
+    {
+      "name": "Stukins S"
+    }
+  ],
+  "organism": "pine",
+  "release_date": "2022-03-07",
+  "imaging_type": "FIB-SEM",
+  "attributes": {},
+  "example_image_uri": "https://www.ebi.ac.uk/pdbe/emdb-empiar/entryIcons/10903-l.gif",
+  "images": {
+    "IM1": {
+      "id": "IM1",
+      "original_relpath": "stack02_ESB_60_2367_TM2b_cr_bchm_r05_8b_i.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "EMPIAR-10903",
+          "image_id": "IM1",
+          "uri": "https://hl.fire.sdo.ebi.ac.uk/imaging-public/world_availability/10903/data/stack02_ESB_60_2367_TM2b_cr_bchm_r05_8b_i.tif",
+          "size": 0,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {}
+    },
+    "IM2": {
+      "id": "IM2",
+      "original_relpath": "stack03_ESB_50_4200_TM1b_cr_r05_ibc_8b.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "EMPIAR-10903",
+          "image_id": "IM2",
+          "uri": "https://hl.fire.sdo.ebi.ac.uk/imaging-public/world_availability/10903/data/stack03_ESB_50_4200_TM1b_cr_r05_ibc_8b.tif",
+          "size": 0,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {}
+    }
+  },
+  "archive_files": {},
+  "other_files": {},
+  "tags": []
+}

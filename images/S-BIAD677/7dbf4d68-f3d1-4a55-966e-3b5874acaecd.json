@@ -1,0 +1,42 @@
+{
+  "id": "7dbf4d68-f3d1-4a55-966e-3b5874acaecd",
+  "accession_id": "S-BIAD677",
+  "name": "My_submission/Figure 2/Figure 2G/3D views/3D view anti-N_DAPI.tif",
+  "original_relpath": "My_submission/Figure 2/Figure 2G/3D views/3D view anti-N_DAPI.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD677",
+      "image_id": "7dbf4d68-f3d1-4a55-966e-3b5874acaecd",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/677/S-BIAD677/Files/My_submission/Figure 2/Figure 2G/3D views/3D view anti-N_DAPI.tif",
+      "size": 26559540,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "45a90993-85b5-44e2-9b53-51f5dfb046eb"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "data type": "processed image",
+    "donor age": "Adult",
+    "donor ID": "652",
+    "infection": "yes",
+    "time [days post infection]": "4",
+    "micrsocope type": "confocal",
+    "magnification ": "63X",
+    "x,y resolution (nm)": "180,3",
+    "z rersolution (nm)": null,
+    "view": "Figure",
+    "channels": "1.0",
+    "stained cell type [goblet/basal/ciliated]": null,
+    "stained antibody name": "Anti-N",
+    "stained cellular component": "Nucleus (DAPI), protein N (anti-N)",
+    "linked to figure": "Figure 2G",
+    "IFN-λ addition [ng]": "0.0",
+    "associated_metadata": null
+  }
+}

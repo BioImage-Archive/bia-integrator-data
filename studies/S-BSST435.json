@@ -1,0 +1,33 @@
+{
+  "accession_id": "S-BSST435",
+  "title": "Lattice Light Sheet Sample Data - EB3/H2B (mitosis)",
+  "description": "A raw sample dataset collected on a lattice light sheet in stage scanning mode.  Deskewing required.  Depicts anaphase with microtubule tip binding protein EB3 labeled with EGFP and histone H2B labeled with mCherry.  600 volumetric frames in 2 channels, with a 3.87 second inter-frame interval.",
+  "authors": [
+    {
+      "name": "Talley Lambert"
+    }
+  ],
+  "organism": "Homo sapiens (human)",
+  "release_date": "2020-07-10",
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "file_references": {
+    "0328b01f-78af-4249-8e61-c6bf0564d411": {
+      "id": "0328b01f-78af-4249-8e61-c6bf0564d411",
+      "name": "LLS_RAW_SAMPLE_EB3_H2B.zip",
+      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BSST435/LLS_RAW_SAMPLE_EB3_H2B.zip",
+      "size_in_bytes": 5171465473,
+      "type": null,
+      "attributes": {
+        "Description": "Zip file containing the full dataset",
+        "Type": "zip"
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "54756d9d-75ef-4ef4-aca4-306bb42f0b67",
+  "accession_id": "S-BIAD677",
+  "name": "My_submission/Figure 1/Figure 1A X63 goblet cells/Movie S4/Movie S4.avi",
+  "original_relpath": "My_submission/Figure 1/Figure 1A X63 goblet cells/Movie S4/Movie S4.avi",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD677",
+      "image_id": "54756d9d-75ef-4ef4-aca4-306bb42f0b67",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/677/S-BIAD677/Files/My_submission/Figure 1/Figure 1A X63 goblet cells/Movie S4/Movie S4.avi",
+      "size": 22363228,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "0fbd35ef-9170-4e33-ba1a-4fe19ed10e05"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "data type": "processed image",
+    "donor age": "Adult",
+    "donor ID": "A3",
+    "infection": "yes",
+    "time [days post infection]": "1",
+    "micrsocope type": "confocal",
+    "magnification ": "63X",
+    "x,y resolution (nm)": "901,876",
+    "z rersolution (nm)": null,
+    "view": "animted Z-serie",
+    "channels": "1.0",
+    "stained cell type [goblet/basal/ciliated]": "goblet",
+    "stained antibody name": "Anti-Muc5A / Anti-N",
+    "stained cellular component": "Nucleus (DAPI), Actin (Phalloidine), protein N (anti-N), MUC5AC (anti-Muc5A)",
+    "linked to figure": "Figure 1A",
+    "IFN-λ addition [ng]": "0.0",
+    "associated_metadata": null
+  }
+}

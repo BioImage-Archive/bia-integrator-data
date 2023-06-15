@@ -1,0 +1,42 @@
+{
+  "id": "84ff3300-9280-49c6-9e37-975c0d69141e",
+  "accession_id": "S-BIAD677",
+  "name": "My_submission/Figure S5/Figure S5A X10 A7 Day 4/Raw data lif/A7 5ng IFN SARS Day 4 N 3G9 488 phall 560 CytK5 647 dapi X10.lif",
+  "original_relpath": "My_submission/Figure S5/Figure S5A X10 A7 Day 4/Raw data lif/A7 5ng IFN SARS Day 4 N 3G9 488 phall 560 CytK5 647 dapi X10.lif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD677",
+      "image_id": "84ff3300-9280-49c6-9e37-975c0d69141e",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/677/S-BIAD677/Files/My_submission/Figure S5/Figure S5A X10 A7 Day 4/Raw data lif/A7 5ng IFN SARS Day 4 N 3G9 488 phall 560 CytK5 647 dapi X10.lif",
+      "size": 2911585103,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "564f6199-47b3-41a2-b189-4fa71b6ffb38"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "data type": "raw data",
+    "donor age": "Adult",
+    "donor ID": "A7",
+    "infection": "yes",
+    "time [days post infection]": "4",
+    "micrsocope type": "confocal",
+    "magnification ": "10X",
+    "x,y resolution (nm)": "2275",
+    "z rersolution (nm)": "1000",
+    "view": "Hyperstack",
+    "channels": "4.0",
+    "stained antibody name": "Anti-CytK5 / Anti-N",
+    "stained cellular component": "Nucleus (DAPI), Actin (Phalloidine), protein N (anti-N), CytK5 (anti-CytK5)",
+    "linked to figure": "Figure S5A",
+    "genetic_alteration": null,
+    "IFN-λ addition [ng]": "5.0",
+    "associated_metadata": "yes"
+  }
+}

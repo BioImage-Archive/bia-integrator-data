@@ -1,0 +1,42 @@
+{
+  "id": "d971e518-2bb7-47c4-a0e9-1f2dea38e4f5",
+  "accession_id": "S-BIAD677",
+  "name": "My_submission/Figure 4/C2 Day 4 X20 not published/Treated data/Z project _composite C2 SARS Day 4 N 3G9 488 phall 560 CytK5 647 dapi X20.tif",
+  "original_relpath": "My_submission/Figure 4/C2 Day 4 X20 not published/Treated data/Z project _composite C2 SARS Day 4 N 3G9 488 phall 560 CytK5 647 dapi X20.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD677",
+      "image_id": "d971e518-2bb7-47c4-a0e9-1f2dea38e4f5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/677/S-BIAD677/Files/My_submission/Figure 4/C2 Day 4 X20 not published/Treated data/Z project _composite C2 SARS Day 4 N 3G9 488 phall 560 CytK5 647 dapi X20.tif",
+      "size": 8392592,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "a3c510f3-ff99-4908-8949-7cb1db93f659"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "data type": "processed image",
+    "donor age": "Child",
+    "donor ID": "C2",
+    "infection": "yes",
+    "time [days post infection]": "4",
+    "micrsocope type": "confocal",
+    "magnification ": "20X",
+    "x,y resolution (nm)": "1784,3",
+    "z rersolution (nm)": "2988,3",
+    "view": "Z-projection",
+    "channels": "4.0",
+    "stained cell type [goblet/basal/ciliated]": null,
+    "stained antibody name": "Anti-CytK5 / Anti-N",
+    "stained cellular component": "Nucleus (DAPI), Actin (Phalloidine), protein N (anti-N), CytK5 (anti-CytK5)",
+    "linked to figure": "Unpublished",
+    "IFN-λ addition [ng]": "0.0",
+    "associated_metadata": null
+  }
+}
