@@ -1,0 +1,30 @@
+{
+  "id": "81c5fb58-7e67-499c-9f30-5acfe2b5007f",
+  "accession_id": "S-BIAD531",
+  "name": "Zebrafish_ML_Archive/outputs/2020.08.04_FishDev_WT_25C_1/pix_probs/FishDev_WT_25C_1_MMStack_A10-Site_0.ome_Probabilities.tiff",
+  "original_relpath": "Zebrafish_ML_Archive/outputs/2020.08.04_FishDev_WT_25C_1/pix_probs/FishDev_WT_25C_1_MMStack_A10-Site_0.ome_Probabilities.tiff",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD531",
+      "image_id": "81c5fb58-7e67-499c-9f30-5acfe2b5007f",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/531/S-BIAD531/Files/Zebrafish_ML_Archive/outputs/2020.08.04_FishDev_WT_25C_1/pix_probs/FishDev_WT_25C_1_MMStack_A10-Site_0.ome_Probabilities.tiff",
+      "size": 4294452442,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "102dfe8c-2286-4c2a-85c0-2b898e54d954"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Incubation Temperature": "25C",
+    "Training or Testing": "Testing",
+    "Input or Output": "Output",
+    "Data Type": "Pixel Classifier Output",
+    "md5": "5B3E10ABB2A2D23B1DB9E2F4E231875F"
+  }
+}

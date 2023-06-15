@@ -8,7 +8,7 @@
     {
       "accession_id": "S-BIAD634",
       "image_id": "abe97a77-0ce5-4d45-9377-84596dd7bfb7",
-      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD634/dataset/singlecell_groundtruth/otherspecimen_3singlemask.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/634/S-BIAD634/Files/dataset/singlecell_groundtruth/otherspecimen_3singlemask.tif",
       "size": 3112928,
       "type": "fire_object",
       "dimensions": null,
@@ -22,6 +22,7 @@
   ],
   "attributes": {
     "file description": "Groundtruth for randomly selected nuclei of the testset (25 nuclei per testset class, a subset of all nuclei of the testset classes; human experts can compete with this low number of nuclei per subset by calculating Dice coefficients between their annotations and the groundtruth annotations)",
-    "source image": "dataset/rawimages/otherspecimen_3.tif"
+    "source image": "dataset/rawimages/otherspecimen_3.tif",
+    "Title": "Segmentation masks"
   }
 }

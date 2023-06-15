@@ -1,0 +1,39 @@
+{
+  "id": "2308a601-7371-4972-8b9f-280f797250b4",
+  "accession_id": "S-BIAD599",
+  "name": "20200220-ftp/experimentJ/87AA6901DC/87AA6901DC_8bit_lysotrackerdeepred.tif",
+  "original_relpath": "20200220-ftp/experimentJ/87AA6901DC/87AA6901DC_8bit_lysotrackerdeepred.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD599",
+      "image_id": "2308a601-7371-4972-8b9f-280f797250b4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/599/S-BIAD599/Files/20200220-ftp/experimentJ/87AA6901DC/87AA6901DC_8bit_lysotrackerdeepred.tif",
+      "size": 174918045,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "b9b9059b-70a2-44ef-b137-cc6f1a887f03"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Dataset Name": "membranes_lyso",
+    "Image Name": "87AA6901DC",
+    "Characteristics [Organism]": "Danio rerio",
+    "Term Source 1 REF": "NCBITaxon",
+    "Term Source 1 Accession": "NCBITaxon_7955",
+    "Characteristics [Organism Part]": "primary posterior lateral line primordium",
+    "Term Source 2 REF": "ZFA",
+    "Term Source 2 Accession": "ZFA_0005115",
+    "Experimental Condition [Fluorescent Labels]": "lysotracker deep red staining",
+    "Comment [Fluorescent Label Reference DOIs]": "10.1016/j.devcel.2006.02.019; N/A",
+    "Image File": "87AA6901DC_8bit_lysotrackerdeepred.tif",
+    "Comment [Image File Path]": "./87AA6901DC/87AA6901DC_8bit_lysotrackerdeepred.tif",
+    "Comment [Image File Type]": "raw",
+    "Channels": "lysotrackerdeepred:lysosomes"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "611f8e5b-d9ec-44ae-8520-31e36b9f8ce7",
+  "accession_id": "S-BIAD599",
+  "name": "20200220-ftp/experimentG/321DEF59FC/321DEF59FC_8bit_CDMPRtagRFPt.tif",
+  "original_relpath": "20200220-ftp/experimentG/321DEF59FC/321DEF59FC_8bit_CDMPRtagRFPt.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD599",
+      "image_id": "611f8e5b-d9ec-44ae-8520-31e36b9f8ce7",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/599/S-BIAD599/Files/20200220-ftp/experimentG/321DEF59FC/321DEF59FC_8bit_CDMPRtagRFPt.tif",
+      "size": 232331334,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "99628527-dd31-4404-9c67-56411a9e534f"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Dataset Name": "membranes_tgn",
+    "Image Name": "321DEF59FC",
+    "Characteristics [Organism]": "Danio rerio",
+    "Term Source 1 REF": "NCBITaxon",
+    "Term Source 1 Accession": "NCBITaxon_7955",
+    "Characteristics [Organism Part]": "primary posterior lateral line primordium",
+    "Term Source 2 REF": "ZFA",
+    "Term Source 2 Accession": "ZFA_0005115",
+    "Experimental Condition [Fluorescent Labels]": "LexOP:CDMPR-tagRFPt",
+    "Comment [Fluorescent Label Reference DOIs]": "10.1016/j.devcel.2006.02.019; study publication",
+    "Image File": "321DEF59FC_8bit_CDMPRtagRFPt.tif",
+    "Comment [Image File Path]": "./321DEF59FC/321DEF59FC_8bit_CDMPRtagRFPt.tif",
+    "Comment [Image File Type]": "raw",
+    "Channels": "CDMPRtagRFPt:trans-golgi network and late endosomes"
+  }
+}

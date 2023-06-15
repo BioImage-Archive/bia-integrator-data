@@ -1,0 +1,42 @@
+{
+  "id": "3eeb7127-4179-4b94-9b54-ec136f207a92",
+  "accession_id": "S-BIAD599",
+  "name": "20200220-ftp/experimentK/D8EF7BBD36/D8EF7BBD36_8bit_lynEGFP_seg.tif",
+  "original_relpath": "20200220-ftp/experimentK/D8EF7BBD36/D8EF7BBD36_8bit_lynEGFP_seg.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD599",
+      "image_id": "3eeb7127-4179-4b94-9b54-ec136f207a92",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/599/S-BIAD599/Files/20200220-ftp/experimentK/D8EF7BBD36/D8EF7BBD36_8bit_lynEGFP_seg.tif",
+      "size": 340908849,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "db4ef707-39b7-4365-9b5a-745540ddd4a5"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Dataset Name": "membranes_pea3fish_seg",
+    "Image Name": "D8EF7BBD36_seg",
+    "Characteristics [Organism]": "Danio rerio",
+    "Term Source 1 REF": "NCBITaxon",
+    "Term Source 1 Accession": "NCBITaxon_7955",
+    "Characteristics [Organism Part]": "primary posterior lateral line primordium",
+    "Term Source 2 REF": "ZFA",
+    "Term Source 2 Accession": "ZFA_0005115",
+    "Experimental Condition [Fluorescent Labels]": "cldnB:lyn-EGFP; pea3 smFISH",
+    "Comment [Fluorescent Label Reference DOIs]": "10.1016/j.devcel.2006.02.019; 10.1038/nature13852",
+    "Gene Identifier": "ENSDART00000013033",
+    "Gene Symbol": "pea3",
+    "Comment [Gene Annotation Comments]": "Transcript identifier and gene symbol from Ensembl release 99, Jan 2020",
+    "Image File": "D8EF7BBD36_8bit_lynEGFP_seg.tif",
+    "Comment [Image File Path]": "./D8EF7BBD36/D8EF7BBD36_8bit_lynEGFP_seg.tif",
+    "Comment [Image File Type]": "derived",
+    "Channels": "seg:single-cell segmentation"
+  }
+}

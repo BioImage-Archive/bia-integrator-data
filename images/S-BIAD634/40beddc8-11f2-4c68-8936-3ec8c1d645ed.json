@@ -8,7 +8,7 @@
     {
       "accession_id": "S-BIAD634",
       "image_id": "40beddc8-11f2-4c68-8936-3ec8c1d645ed",
-      "uri": "https://www.ebi.ac.uk/biostudies/files/S-BIAD634/dataset/groundtruth_svgs/normal_6.jpg",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/634/S-BIAD634/Files/dataset/groundtruth_svgs/normal_6.jpg",
       "size": 337250,
       "type": "fire_object",
       "dimensions": null,
@@ -22,6 +22,7 @@
   ],
   "attributes": {
     "file description": "Raw image in JPEG format",
-    "source image": "dataset/rawimages/normal_6.tif"
+    "source image": "dataset/rawimages/normal_6.tif",
+    "Title": "Segmentation masks"
   }
 }

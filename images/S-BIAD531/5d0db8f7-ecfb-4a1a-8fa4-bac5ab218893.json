@@ -1,0 +1,30 @@
+{
+  "id": "5d0db8f7-ecfb-4a1a-8fa4-bac5ab218893",
+  "accession_id": "S-BIAD531",
+  "name": "Zebrafish_ML_Archive/test_data/FishDev_WT_25C_1/FishDev_WT_25C_1_MMStack_D11-Site_0.ome.tif",
+  "original_relpath": "Zebrafish_ML_Archive/test_data/FishDev_WT_25C_1/FishDev_WT_25C_1_MMStack_D11-Site_0.ome.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD531",
+      "image_id": "5d0db8f7-ecfb-4a1a-8fa4-bac5ab218893",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/531/S-BIAD531/Files/Zebrafish_ML_Archive/test_data/FishDev_WT_25C_1/FishDev_WT_25C_1_MMStack_D11-Site_0.ome.tif",
+      "size": 1277770853,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "55167769-f439-4431-8d6d-b8577fdfc49d"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Incubation Temperature": "25C",
+    "Training or Testing": "Testing",
+    "Input or Output": "Input",
+    "Data Type": "Raw Image",
+    "md5": "1751C08C667828A350C20DAB6BC2A6F4"
+  }
+}

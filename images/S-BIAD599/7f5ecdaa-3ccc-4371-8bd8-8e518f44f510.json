@@ -1,0 +1,39 @@
+{
+  "id": "7f5ecdaa-3ccc-4371-8bd8-8e518f44f510",
+  "accession_id": "S-BIAD599",
+  "name": "20200220-ftp/experimentD/8494E67C25/8494E67C25_8bit_mKate2GM130.tif",
+  "original_relpath": "20200220-ftp/experimentD/8494E67C25/8494E67C25_8bit_mKate2GM130.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD599",
+      "image_id": "7f5ecdaa-3ccc-4371-8bd8-8e518f44f510",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/599/S-BIAD599/Files/20200220-ftp/experimentD/8494E67C25/8494E67C25_8bit_mKate2GM130.tif",
+      "size": 172245722,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "70f26991-eb9e-459f-a811-5c6c92e94c75"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Dataset Name": "membranes_cisgolgi",
+    "Image Name": "8494E67C25",
+    "Characteristics [Organism]": "Danio rerio",
+    "Term Source 1 REF": "NCBITaxon",
+    "Term Source 1 Accession": "NCBITaxon_7955",
+    "Characteristics [Organism Part]": "primary posterior lateral line primordium",
+    "Term Source 2 REF": "ZFA",
+    "Term Source 2 Accession": "ZFA_0005115",
+    "Experimental Condition [Fluorescent Labels]": "RNA:mKate2-GM130(rat)",
+    "Comment [Fluorescent Label Reference DOIs]": "10.1016/j.devcel.2006.02.019; 10.1242/jcs.026849",
+    "Image File": "8494E67C25_8bit_mKate2GM130.tif",
+    "Comment [Image File Path]": "./8494E67C25/8494E67C25_8bit_mKate2GM130.tif",
+    "Comment [Image File Type]": "raw",
+    "Channels": "mKate2GM130:cis-Golgi"
+  }
+}

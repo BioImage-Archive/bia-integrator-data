@@ -1,0 +1,39 @@
+{
+  "id": "ab31bba8-e1fb-4f0d-b7e0-fa0e02dc02c6",
+  "accession_id": "S-BIAD599",
+  "name": "20200220-ftp/experimentC/A07C79157A/A07C79157A_8bit_tagRFPtUtrCH.tif",
+  "original_relpath": "20200220-ftp/experimentC/A07C79157A/A07C79157A_8bit_tagRFPtUtrCH.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD599",
+      "image_id": "ab31bba8-e1fb-4f0d-b7e0-fa0e02dc02c6",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/599/S-BIAD599/Files/20200220-ftp/experimentC/A07C79157A/A07C79157A_8bit_tagRFPtUtrCH.tif",
+      "size": 163547745,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "6d72090f-8797-4523-b934-dddb30f8dd95"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Dataset Name": "membranes_actin",
+    "Image Name": "A07C79157A",
+    "Characteristics [Organism]": "Danio rerio",
+    "Term Source 1 REF": "NCBITaxon",
+    "Term Source 1 Accession": "NCBITaxon_7955",
+    "Characteristics [Organism Part]": "primary posterior lateral line primordium",
+    "Term Source 2 REF": "ZFA",
+    "Term Source 2 Accession": "ZFA_0005115",
+    "Experimental Condition [Fluorescent Labels]": "6xUAS:tagRFPt-UtrCH",
+    "Comment [Fluorescent Label Reference DOIs]": "10.1016/j.devcel.2006.02.019; study publication",
+    "Image File": "A07C79157A_8bit_tagRFPtUtrCH.tif",
+    "Comment [Image File Path]": "./A07C79157A/A07C79157A_8bit_tagRFPtUtrCH.tif",
+    "Comment [Image File Type]": "raw",
+    "Channels": "tagRFPtUtrCH:F-actin"
+  }
+}
