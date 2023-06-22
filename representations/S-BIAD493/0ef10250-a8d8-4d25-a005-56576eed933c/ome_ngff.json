@@ -1,0 +1,28 @@
+{
+  "accession_id": "S-BIAD493",
+  "image_id": "0ef10250-a8d8-4d25-a005-56576eed933c",
+  "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD493/0ef10250-a8d8-4d25-a005-56576eed933c/0ef10250-a8d8-4d25-a005-56576eed933c.zarr/0",
+  "size": 0,
+  "type": "ome_ngff",
+  "dimensions": null,
+  "attributes": {},
+  "rendering": {
+    "channel_renders": [
+      {
+        "colormap_start": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "colormap_end": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "scale_factor": 1.0
+      }
+    ],
+    "default_z": null,
+    "default_t": null
+  }
+}
