@@ -1,0 +1,84 @@
+{
+  "accession_id": "S-BIAD615",
+  "title": "Spatially resolved single-cell multiomics map of human trophoblast differentiation in early pregnancy",
+  "description": "Multiplexed single molecule fluorescence in situ hybridisation and histological staining (H&E) performed on human maternal-fetal interface (decidua, placenta) tissue.",
+  "authors": [
+    {
+      "name": "Kenny Roberts"
+    },
+    {
+      "name": "Roser Vento-Tormo"
+    }
+  ],
+  "organism": "Unknown",
+  "release_date": "2023-04-30",
+  "license": "CC BY 4.0",
+  "links": {},
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "example_annotation_uri": "",
+  "file_references": {
+    "cb045f65-d66a-4870-9343-345199904eb8": {
+      "id": "cb045f65-d66a-4870-9343-345199904eb8",
+      "name": "RV_END_015Y_P10-UTR_Nucleus_FOXJ1 (IHC)_EPCAM_LGR5_Meas1b_A2_F1T0.ome.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/615/S-BIAD615/Files/RV_END_015Y_P10-UTR_Nucleus_FOXJ1 (IHC)_EPCAM_LGR5_Meas1b_A2_F1T0.ome.tif",
+      "size_in_bytes": 16501981828,
+      "type": null,
+      "attributes": {
+        "Species": "Human",
+        "Age": "Adult",
+        "Tissue": "Endometrium",
+        "PatientID": "P10",
+        "Menstrual_cycle_phase": "Secretory phase",
+        "Sample_1": "P10-UTR-0-FFPE-1-S12",
+        "SlideID": "RV_END_015Y",
+        "Technology": "RNAscope 2-plex + IHC",
+        "Image_cycle": "1",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "FOXJ1 (IHC)",
+        "Channel3": "Opal 570",
+        "Target3": "EPCAM",
+        "Channel4": "Opal 650",
+        "Target4": "LGR5",
+        "Channel5": null,
+        "Target5": null
+      }
+    },
+    "7b13f96e-92e2-48b3-8e55-f2a193c3f79c": {
+      "id": "7b13f96e-92e2-48b3-8e55-f2a193c3f79c",
+      "name": "RV_END_01AU_P10-UTR_Nucleus_JAG1_JAG2_HEY1_EPCAM (IHC)_Meas1b_A2_F1T0_max.ome.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/615/S-BIAD615/Files/RV_END_01AU_P10-UTR_Nucleus_JAG1_JAG2_HEY1_EPCAM (IHC)_Meas1b_A2_F1T0_max.ome.tif",
+      "size_in_bytes": 16243170970,
+      "type": null,
+      "attributes": {
+        "Species": "Human ",
+        "Age": "Adult",
+        "Tissue": "Endometrium",
+        "PatientID": "P10",
+        "Menstrual_cycle_phase": "Secretory phase",
+        "Sample_1": "P10-UTR-0-FFPE-1-S15",
+        "SlideID": "RV_END_01AU",
+        "Technology": "RNAscope 3-plex + IHC",
+        "Image_cycle": "1",
+        "Channel1": "DAPI",
+        "Target1": "Nucleus",
+        "Channel2": "Opal 520",
+        "Target2": "JAG1",
+        "Channel3": "Opal 570",
+        "Target3": "JAG2",
+        "Channel4": "Opal 650",
+        "Target4": "HEY1",
+        "Channel5": "Atto 425",
+        "Target5": "EPCAM (IHC)"
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

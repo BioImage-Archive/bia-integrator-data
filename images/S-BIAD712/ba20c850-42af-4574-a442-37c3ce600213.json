@@ -1,0 +1,48 @@
+{
+  "id": "ba20c850-42af-4574-a442-37c3ce600213",
+  "accession_id": "S-BIAD712",
+  "name": "ZSTACK_PBTOhNGN2hiPSCs_BR2_N02_Unmixed.czi",
+  "original_relpath": "ZSTACK_PBTOhNGN2hiPSCs_BR2_N02_Unmixed.czi",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD712",
+      "image_id": "ba20c850-42af-4574-a442-37c3ce600213",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/712/S-BIAD712/Files/ZSTACK_PBTOhNGN2hiPSCs_BR2_N02_Unmixed.czi",
+      "size": 207787296,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "3161f33a-e00e-4eeb-9ac3-e25323166167"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "File Name": "ZSTACK_PBTOhNGN2hiPSCs_BR2_N02_Unmixed",
+    "Model Organism": "human iPSCs undifferentiated",
+    "strain": "KOLF2.1J wild-type/ pbTOhNGN2",
+    "Microscopy": "Lambda scan - Unmixed",
+    "Image Type": "Zstack",
+    "Zstack slices/cycles Number": "22",
+    "Biological replicate Number": "2",
+    "Image Number": "2",
+    "Channel 1 Tag": "mBFP2",
+    "Channel 1 Organelle": "Nuclei",
+    "Channel 2 Tag": "mTurquoise2",
+    "Channel 2 Organelle": "Lysosomes",
+    "Channel 3 Tag": "eGFP",
+    "Channel 3 Organelle": "Mitochondria",
+    "Channel 4 Tag": "oxVenus",
+    "Channel 4 Organelle": "Golgi",
+    "Channel 5 Tag": "mOrange2",
+    "Channel 5 Organelle": "Peroxisomes",
+    "Channel 6 Tag": "mApple",
+    "Channel 6 Organelle": "Endoplasmic Reticulum",
+    "Channel 7 Tag": "Dye Bodipy665",
+    "Channel 7 Organelle": "Lipid Droplets",
+    "Channel 8": "Residual channel generated post-Unmixing"
+  }
+}

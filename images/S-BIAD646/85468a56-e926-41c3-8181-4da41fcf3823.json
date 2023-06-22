@@ -1,0 +1,27 @@
+{
+  "id": "85468a56-e926-41c3-8181-4da41fcf3823",
+  "accession_id": "S-BIAD646",
+  "name": "2I_CON-dapi.tif",
+  "original_relpath": "2I_CON-dapi.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD646",
+      "image_id": "85468a56-e926-41c3-8181-4da41fcf3823",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/2I_CON-dapi.tif",
+      "size": 2902298,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "f14816af-cb73-46c3-85f1-ae49511a8fac"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Panel": "2I",
+    "Description of the image": "DAPI staining of an in utero electroporated cortical tissue with a control shRNA and a plasmid expressing GFP"
+  }
+}

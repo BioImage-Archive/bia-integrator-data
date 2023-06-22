@@ -1,0 +1,35 @@
+{
+  "id": "fddbba69-79e5-4292-b457-af35039614ab",
+  "accession_id": "S-BIAD618",
+  "name": "8bits/Figure2_Cauda_4Lymph.ims",
+  "original_relpath": "8bits/Figure2_Cauda_4Lymph.ims",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD618",
+      "image_id": "fddbba69-79e5-4292-b457-af35039614ab",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2_datasources.zip",
+      "size": 1110198062,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "e9bbe2e0-76aa-4278-b6ac-ed560ee2b4b6"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Figures": "/Figure2_Cauda_4lymph.ims",
+    "Format": "ims",
+    "Chanels": "4",
+    "Markers": "VEGFR3:YFP;  LYVE1; PDPN; PROX1",
+    "imaging technic": "Ultra microscope 1",
+    "Microscope": "LaVision Biotec",
+    "Magnification": "4x",
+    "Analysis": "na",
+    "ROI": "0",
+    "Protocol": "Whole-mount + 3DISCO"
+  }
+}

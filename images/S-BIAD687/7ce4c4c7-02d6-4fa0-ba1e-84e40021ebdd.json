@@ -1,0 +1,34 @@
+{
+  "id": "7ce4c4c7-02d6-4fa0-ba1e-84e40021ebdd",
+  "accession_id": "S-BIAD687",
+  "name": "ORF3a anti-Bst2 chased TGN46 anti-rb anti-Strep 7.czi",
+  "original_relpath": "ORF3a anti-Bst2 chased TGN46 anti-rb anti-Strep 7.czi",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD687",
+      "image_id": "7ce4c4c7-02d6-4fa0-ba1e-84e40021ebdd",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/687/S-BIAD687/Files/Figure 5H and Quant 5I.zip",
+      "size": 4356640,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "d5cd37c2-d4b0-4d95-acfe-c639f236c319"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Figure": "5H",
+    "Quantification shown in Figure": "5I",
+    "Cells": "HeLa",
+    "Green": "TGN46",
+    "Red": "Anti-555",
+    "White": "strep",
+    "imaging method": "confocal",
+    "Analysis": "Mander's coefficient (Tetherin / TGN)",
+    "Comparitor": "mock vs ORF3a-strep"
+  }
+}

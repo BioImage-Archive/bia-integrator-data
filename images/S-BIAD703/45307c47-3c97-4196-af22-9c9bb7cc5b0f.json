@@ -1,0 +1,30 @@
+{
+  "id": "45307c47-3c97-4196-af22-9c9bb7cc5b0f",
+  "accession_id": "S-BIAD703",
+  "name": "Enhanced SOX17 Fig 5 raw data/esox17_R8_c2_fast.nd2",
+  "original_relpath": "Enhanced SOX17 Fig 5 raw data/esox17_R8_c2_fast.nd2",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD703",
+      "image_id": "45307c47-3c97-4196-af22-9c9bb7cc5b0f",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/703/S-BIAD703/Files/Enhanced SOX17 Fig 5 raw data/esox17_R8_c2_fast.nd2",
+      "size": 812318720,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "18c17a28-9296-4fbf-bab2-391bcb800211"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Type": "Raw data",
+    "Target protein mutation": "eSOX17",
+    "Fluorescent ligand": "Halo-JF549",
+    "Acqustiion frame rate": "20ms",
+    "Cell type": "HeLa"
+  }
+}

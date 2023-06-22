@@ -1,0 +1,27 @@
+{
+  "id": "1fa4b6e0-135c-4c45-9afb-9b54d94ae920",
+  "accession_id": "S-BIAD696",
+  "name": "Singlet345_344DrugHoliday/Exp_345/images/VID345_B1_84_00d00h00m.tif",
+  "original_relpath": "Singlet345_344DrugHoliday/Exp_345/images/VID345_B1_84_00d00h00m.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD696",
+      "image_id": "1fa4b6e0-135c-4c45-9afb-9b54d94ae920",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/696/S-BIAD696/Files/Timelapse.zip",
+      "size": 629068,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "fd8fc9e3-28b9-4c86-996a-468a4e7a0131"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "SecondaryFileStructure": "drugDose_WM980mCherry; Singlet345_344DrugHoliday",
+    "DataDescription": "Time-lapse fluorescent images of melanoma cells treated with drug for mCherry tagged line. Taken with incucyte; Time-lapse Brightfield images of resistant clones across drug treatement and removal. Taken with incucyte"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "34036fe7-65e5-494f-af67-97d0aaf33fda",
+  "accession_id": "S-BIAD687",
+  "name": "anti-H4A3 anti-Bst2 ORF3a b.tif",
+  "original_relpath": "anti-H4A3 anti-Bst2 ORF3a b.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD687",
+      "image_id": "34036fe7-65e5-494f-af67-97d0aaf33fda",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/687/S-BIAD687/Files/Figure 5F and Quant 5G.zip",
+      "size": 3150028,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "6c310595-2743-4072-b5d5-9dc60fab7680"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Figure": "5F",
+    "Quantification shown in Figure": "5G",
+    "Cells": "HeLa",
+    "Green": "LAMP1",
+    "Red": "Tetherin",
+    "White": "(strep)",
+    "imaging method": "confocal",
+    "Analysis": "Mander's coefficient (Tetherin / LAMP1)",
+    "Comparitor": "mock vs ORF3a-strep"
+  }
+}

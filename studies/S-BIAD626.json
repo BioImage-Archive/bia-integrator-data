@@ -1,0 +1,3150 @@
+{
+  "accession_id": "S-BIAD626",
+  "title": "A PDLP-NHL3 complex integrates plasmodesmal immune signaling cascades",
+  "description": "The plant immune system relies on the perception of molecules that signal the presence of a microbe threat. This triggers signal transduction that mediates a range of cellular responses via a collection of molecular machinery including receptors, small molecules, and enzymes. One response to pathogen perception is the restriction of cell-to-cell communication by plasmodesmal closure. We previously found that while chitin and flg22 trigger specialized immune signaling cascades in the plasmodesmal plasma membrane, both execute plasmodesmal closure via callose synthesis at the plasmodesmata. This indicates the signaling pathways ultimately converge at or upstream of callose synthesis. To establish the hierarchy of signaling at plasmodesmata and characterize points of convergence in microbe elicitor-triggered signaling, we profiled the dependence of plasmodesmal responses triggered by different elicitors on a range of plasmodesmal signaling machinery. We identified that, like chitin, flg22 signals via RBOHD to induce plasmodesmal closure. Further, we found that PDLP1, PDLP5 and CALS1 are common to microbe- and SA-triggered responses, identifying PDLPs as a candidate signaling nexus. To understand how PDLPs relay a signal to CALS1, we screened for PDLP5 interactors and found NHL3, which is also required for chitin-, flg22- and SA-triggered plasmodesmal responses and PDLP-mediated activation of callose synthesis. We conclude that a PDLP-NHL3 complex acts as an integrating node of plasmodesmal signaling cascades, transmitting multiple immune signals to activate CALS1 and plasmodesmata closure.",
+  "authors": [
+    {
+      "name": "Estee E. Tee"
+    },
+    {
+      "name": "Christine Faulkner"
+    }
+  ],
+  "organism": "Unknown",
+  "release_date": "2023-03-01",
+  "license": "CC0",
+  "links": {
+    "Automated image analysis pipeline to quantify aniline blue stained plasmodesmata": "https://github.com/faulknerfalcons/PD_detection"
+  },
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "example_annotation_uri": "",
+  "file_references": {
+    "95e4fbf5-9210-4f64-ba43-5955633b1c6c": {
+      "id": "95e4fbf5-9210-4f64-ba43-5955633b1c6c",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_1-01_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_1-01_1.czi",
+      "size_in_bytes": 53183552,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "51938"
+      }
+    },
+    "d7035c82-26c9-44c4-a386-28dc72882c3b": {
+      "id": "d7035c82-26c9-44c4-a386-28dc72882c3b",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_1-01_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_1-01_2.czi",
+      "size_in_bytes": 101375858,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "99000"
+      }
+    },
+    "ea3111f9-ffce-4998-8337-f67196f9ac77": {
+      "id": "ea3111f9-ffce-4998-8337-f67196f9ac77",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_1-02_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_1-02_1.czi",
+      "size_in_bytes": 88842560,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "86761"
+      }
+    },
+    "dcedc19c-3ec4-41f7-a9d1-e6af72bb110d": {
+      "id": "dcedc19c-3ec4-41f7-a9d1-e6af72bb110d",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_1-02_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_1-02_2.czi",
+      "size_in_bytes": 92986328,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "90807"
+      }
+    },
+    "fa09252f-0157-448a-86fc-5275b4b9290e": {
+      "id": "fa09252f-0157-448a-86fc-5275b4b9290e",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_1-03_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_1-03_1.czi",
+      "size_in_bytes": 67858880,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "66269"
+      }
+    },
+    "3afd3837-3c81-4933-8d48-4b4ef7ae7007": {
+      "id": "3afd3837-3c81-4933-8d48-4b4ef7ae7007",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_1-03_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_1-03_2.czi",
+      "size_in_bytes": 76206466,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "74421"
+      }
+    },
+    "c47eaf67-2184-46a4-86d1-a35a506fd0dc": {
+      "id": "c47eaf67-2184-46a4-86d1-a35a506fd0dc",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_1-04_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_1-04_1.czi",
+      "size_in_bytes": 63662208,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "62171"
+      }
+    },
+    "f23b845d-d685-45ef-96bc-3551a304922c": {
+      "id": "f23b845d-d685-45ef-96bc-3551a304922c",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_1-04_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_1-04_2.czi",
+      "size_in_bytes": 109764494,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "107192"
+      }
+    },
+    "6d7107cf-98b3-4e31-bfd1-e40dfa2ab8a8": {
+      "id": "6d7107cf-98b3-4e31-bfd1-e40dfa2ab8a8",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_2-01_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_2-01_1.czi",
+      "size_in_bytes": 80448704,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "78564"
+      }
+    },
+    "be1b4dd5-b162-40eb-8406-0e074dec5659": {
+      "id": "be1b4dd5-b162-40eb-8406-0e074dec5659",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_2-01_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_2-01_2.czi",
+      "size_in_bytes": 88790698,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "86710"
+      }
+    },
+    "d29fd282-7324-426b-94cc-bab9127e5837": {
+      "id": "d29fd282-7324-426b-94cc-bab9127e5837",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_2-02_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_2-02_1.czi",
+      "size_in_bytes": 67858880,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "66269"
+      }
+    },
+    "740095e7-84fa-4660-a37d-2a28a92c0ec8": {
+      "id": "740095e7-84fa-4660-a37d-2a28a92c0ec8",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_2-02_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_2-02_2.czi",
+      "size_in_bytes": 59428200,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "58036"
+      }
+    },
+    "436b20e3-ea28-42cd-baf8-775c3f017bda": {
+      "id": "436b20e3-ea28-42cd-baf8-775c3f017bda",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_2-03_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_2-03_1.czi",
+      "size_in_bytes": 76252224,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "74466"
+      }
+    },
+    "67f89d49-1550-4eca-af48-e7bef74107b3": {
+      "id": "67f89d49-1550-4eca-af48-e7bef74107b3",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_2-03_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_2-03_2.czi",
+      "size_in_bytes": 105570596,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "103097"
+      }
+    },
+    "373b9767-e9ac-407f-9d43-60420b94bbe6": {
+      "id": "373b9767-e9ac-407f-9d43-60420b94bbe6",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_2-04_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_2-04_1.czi",
+      "size_in_bytes": 88842240,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "86760"
+      }
+    },
+    "31fd3187-1f41-4b23-8474-9d486b6e118b": {
+      "id": "31fd3187-1f41-4b23-8474-9d486b6e118b",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_2-04_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_2-04_2.czi",
+      "size_in_bytes": 59428218,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "58036"
+      }
+    },
+    "d5fd6ccf-9a58-47cf-b101-0d7078b8d7e8": {
+      "id": "d5fd6ccf-9a58-47cf-b101-0d7078b8d7e8",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_3-01_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_3-01_1.czi",
+      "size_in_bytes": 80448960,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "78564"
+      }
+    },
+    "de389a3c-2660-4b66-b6ac-56b221c1d63e": {
+      "id": "de389a3c-2660-4b66-b6ac-56b221c1d63e",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_3-01_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_3-01_2.czi",
+      "size_in_bytes": 88831946,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "86750"
+      }
+    },
+    "2db37aac-7481-4ce2-9d1c-855d6cf03f7f": {
+      "id": "2db37aac-7481-4ce2-9d1c-855d6cf03f7f",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_3-02_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_3-02_1.czi",
+      "size_in_bytes": 72055616,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "70367"
+      }
+    },
+    "dcca2e9e-0c84-4d07-97b9-21944f2f03ad": {
+      "id": "dcca2e9e-0c84-4d07-97b9-21944f2f03ad",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_3-02_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_3-02_2.czi",
+      "size_in_bytes": 97221464,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "94943"
+      }
+    },
+    "332b0a46-a509-4d2a-8c13-bed8ca0d1b1f": {
+      "id": "332b0a46-a509-4d2a-8c13-bed8ca0d1b1f",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_3-03_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_3-03_1.czi",
+      "size_in_bytes": 76252192,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "74466"
+      }
+    },
+    "0c9d60c8-b5b8-4d6a-a240-d21d41313f87": {
+      "id": "0c9d60c8-b5b8-4d6a-a240-d21d41313f87",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_3-03_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_3-03_2.czi",
+      "size_in_bytes": 51078248,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "49882"
+      }
+    },
+    "bf641610-3d56-4fa6-b873-69752df8c1dd": {
+      "id": "bf641610-3d56-4fa6-b873-69752df8c1dd",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_3-04_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_3-04_1.czi",
+      "size_in_bytes": 67858880,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "66269"
+      }
+    },
+    "192f5262-d06e-4974-a979-3ba2ff52ca7a": {
+      "id": "192f5262-d06e-4974-a979-3ba2ff52ca7a",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_3-04_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_3-04_2.czi",
+      "size_in_bytes": 67858126,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "66268"
+      }
+    },
+    "1f4bc894-e3de-45c2-bcac-1f139ff6d09b": {
+      "id": "1f4bc894-e3de-45c2-bcac-1f139ff6d09b",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_4-01_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_4-01_1.czi",
+      "size_in_bytes": 67858624,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "66269"
+      }
+    },
+    "d00a3658-c780-4b20-b410-a26b579a6ea6": {
+      "id": "d00a3658-c780-4b20-b410-a26b579a6ea6",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_4-01_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_4-01_2.czi",
+      "size_in_bytes": 72050760,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "70363"
+      }
+    },
+    "57af29d5-0e90-4caf-a2e2-450c789cf7bc": {
+      "id": "57af29d5-0e90-4caf-a2e2-450c789cf7bc",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_4-02_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_4-02_1.czi",
+      "size_in_bytes": 80437824,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "78553"
+      }
+    },
+    "7160c7db-3dbe-45a9-9b68-ca5b1d6a0320": {
+      "id": "7160c7db-3dbe-45a9-9b68-ca5b1d6a0320",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_4-02_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_4-02_2.czi",
+      "size_in_bytes": 72050780,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "70363"
+      }
+    },
+    "e209a1d8-3ffc-428c-bc0a-7b6b12779e2d": {
+      "id": "e209a1d8-3ffc-428c-bc0a-7b6b12779e2d",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_4-03_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_4-03_1.czi",
+      "size_in_bytes": 80448864,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "78564"
+      }
+    },
+    "b1a0ae0d-8949-4f38-ac0c-5b2908c2958e": {
+      "id": "b1a0ae0d-8949-4f38-ac0c-5b2908c2958e",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_4-03_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_4-03_2.czi",
+      "size_in_bytes": 80439420,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "78555"
+      }
+    },
+    "0144a410-05dd-43ae-a406-efc67359ea1b": {
+      "id": "0144a410-05dd-43ae-a406-efc67359ea1b",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_4-04_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_4-04_1.czi",
+      "size_in_bytes": 76252000,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "74465"
+      }
+    },
+    "fc099a37-851d-493f-864a-42e868ea1c93": {
+      "id": "fc099a37-851d-493f-864a-42e868ea1c93",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_4-04_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_p19_4-04_2.czi",
+      "size_in_bytes": 63660402,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "p19_only",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "62169"
+      }
+    },
+    "5007307a-8b3b-4161-9968-4b1056a20ef9": {
+      "id": "5007307a-8b3b-4161-9968-4b1056a20ef9",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_1-01_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_1-01_1.czi",
+      "size_in_bytes": 105651680,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "103176"
+      }
+    },
+    "d009221c-48a5-49b0-a408-769f39dd9573": {
+      "id": "d009221c-48a5-49b0-a408-769f39dd9573",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_1-01_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_1-01_2.czi",
+      "size_in_bytes": 88833450,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "86752"
+      }
+    },
+    "8a6911b4-1c09-4a4c-a4aa-45796fadf54a": {
+      "id": "8a6911b4-1c09-4a4c-a4aa-45796fadf54a",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_1-02_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_1-02_1.czi",
+      "size_in_bytes": 67881184,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "66291"
+      }
+    },
+    "acb3c261-9cab-49cf-b5a4-02de0a46b2d1": {
+      "id": "acb3c261-9cab-49cf-b5a4-02de0a46b2d1",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_1-02_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_1-02_2.czi",
+      "size_in_bytes": 88832060,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "86751"
+      }
+    },
+    "613dea38-35fb-45ff-ade8-327d4b656c2c": {
+      "id": "613dea38-35fb-45ff-ade8-327d4b656c2c",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_1-03_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_1-03_1.czi",
+      "size_in_bytes": 97258240,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "94979"
+      }
+    },
+    "94a9fd5d-c724-461c-8b78-9195c0a8c24e": {
+      "id": "94a9fd5d-c724-461c-8b78-9195c0a8c24e",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_1-03_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_1-03_2.czi",
+      "size_in_bytes": 109805910,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "107233"
+      }
+    },
+    "2f66948d-7256-4209-bd3f-aabb2dce004e": {
+      "id": "2f66948d-7256-4209-bd3f-aabb2dce004e",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_1-04_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_1-04_1.czi",
+      "size_in_bytes": 101454784,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "99077"
+      }
+    },
+    "b5f86024-eb04-48ef-9029-3d18a1344140": {
+      "id": "b5f86024-eb04-48ef-9029-3d18a1344140",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_1-04_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_1-04_2.czi",
+      "size_in_bytes": 109804906,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "107232"
+      }
+    },
+    "10b926b5-2912-4f96-a5ba-9fa0a7500b38": {
+      "id": "10b926b5-2912-4f96-a5ba-9fa0a7500b38",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_2-01_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_2-01_1.czi",
+      "size_in_bytes": 67881728,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "66291"
+      }
+    },
+    "6b45687e-c0e5-4dba-9d6a-03fd7cc16556": {
+      "id": "6b45687e-c0e5-4dba-9d6a-03fd7cc16556",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_2-01_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_2-01_2.czi",
+      "size_in_bytes": 80442496,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "78558"
+      }
+    },
+    "54279271-6c00-4ace-92b0-eaab37fb7675": {
+      "id": "54279271-6c00-4ace-92b0-eaab37fb7675",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_2-02_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_2-02_1.czi",
+      "size_in_bytes": 114044768,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "111372"
+      }
+    },
+    "a6433e41-c128-4658-8c5c-0bb0ff2f5885": {
+      "id": "a6433e41-c128-4658-8c5c-0bb0ff2f5885",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_2-02_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_2-02_2.czi",
+      "size_in_bytes": 84667872,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "82684"
+      }
+    },
+    "bfc51b90-97cf-47ba-a46e-6d9f01e40337": {
+      "id": "bfc51b90-97cf-47ba-a46e-6d9f01e40337",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_2-03_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_2-03_1.czi",
+      "size_in_bytes": 76274816,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "74488"
+      }
+    },
+    "48a7c8d9-7795-477d-963b-928e612e2166": {
+      "id": "48a7c8d9-7795-477d-963b-928e612e2166",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_2-03_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_2-03_2.czi",
+      "size_in_bytes": 101416358,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "99040"
+      }
+    },
+    "8bc0621e-9e13-4877-a62b-51936984f4fe": {
+      "id": "8bc0621e-9e13-4877-a62b-51936984f4fe",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_2-04_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_2-04_1.czi",
+      "size_in_bytes": 88864672,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "86782"
+      }
+    },
+    "89d945c7-f73a-410b-9e6c-1efbf90c167a": {
+      "id": "89d945c7-f73a-410b-9e6c-1efbf90c167a",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_2-04_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_2-04_2.czi",
+      "size_in_bytes": 105611074,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "103136"
+      }
+    },
+    "45357409-d4c8-4600-b58c-c840cd631f92": {
+      "id": "45357409-d4c8-4600-b58c-c840cd631f92",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_3-01_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_3-01_1.czi",
+      "size_in_bytes": 84668000,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "82684"
+      }
+    },
+    "531481a1-47b0-475f-8002-76774a208ee1": {
+      "id": "531481a1-47b0-475f-8002-76774a208ee1",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_3-01_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_3-01_2.czi",
+      "size_in_bytes": 105611100,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "103136"
+      }
+    },
+    "86822290-56ca-42a8-afa9-9375565173ec": {
+      "id": "86822290-56ca-42a8-afa9-9375565173ec",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_3-02_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_3-02_1.czi",
+      "size_in_bytes": 109847936,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "107274"
+      }
+    },
+    "42583581-182f-4ab3-946f-92480fa9051f": {
+      "id": "42583581-182f-4ab3-946f-92480fa9051f",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_3-02_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_3-02_2.czi",
+      "size_in_bytes": 93026810,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "90847"
+      }
+    },
+    "9cc4ffc1-c4a7-4f87-85c9-2c88aa6bdaea": {
+      "id": "9cc4ffc1-c4a7-4f87-85c9-2c88aa6bdaea",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_3-03_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_3-03_1.czi",
+      "size_in_bytes": 63685536,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "62193"
+      }
+    },
+    "5e6e6fc1-41f4-4624-8e13-c569ced6c83d": {
+      "id": "5e6e6fc1-41f4-4624-8e13-c569ced6c83d",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_3-03_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_3-03_2.czi",
+      "size_in_bytes": 76247748,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "74461"
+      }
+    },
+    "07efc383-edfd-4711-83b7-d55c34d65a1d": {
+      "id": "07efc383-edfd-4711-83b7-d55c34d65a1d",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_3-04_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_3-04_1.czi",
+      "size_in_bytes": 80471584,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "78586"
+      }
+    },
+    "ffc649d7-10eb-4887-9847-81b74030d9ef": {
+      "id": "ffc649d7-10eb-4887-9847-81b74030d9ef",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_3-04_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_3-04_2.czi",
+      "size_in_bytes": 72052142,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "70364"
+      }
+    },
+    "459693a6-e163-403d-88ca-09de6485e84b": {
+      "id": "459693a6-e163-403d-88ca-09de6485e84b",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_4-01_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_4-01_1.czi",
+      "size_in_bytes": 76274208,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "74487"
+      }
+    },
+    "d27654aa-0247-486c-99e8-e0c39b09acaa": {
+      "id": "d27654aa-0247-486c-99e8-e0c39b09acaa",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_4-01_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_4-01_2.czi",
+      "size_in_bytes": 122389314,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "119521"
+      }
+    },
+    "d65d3b02-b099-4c1a-a55e-a72a2b9bf935": {
+      "id": "d65d3b02-b099-4c1a-a55e-a72a2b9bf935",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_4-02_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_4-02_1.czi",
+      "size_in_bytes": 101454272,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "99077"
+      }
+    },
+    "dacc3ecd-5b8e-4f2f-9f45-368d24e20918": {
+      "id": "dacc3ecd-5b8e-4f2f-9f45-368d24e20918",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_4-02_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_4-02_2.czi",
+      "size_in_bytes": 118195416,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "115426"
+      }
+    },
+    "157bd833-54bf-471f-995f-4cc7d5f84c15": {
+      "id": "157bd833-54bf-471f-995f-4cc7d5f84c15",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_4-03_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_4-03_1.czi",
+      "size_in_bytes": 101454400,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "99077"
+      }
+    },
+    "64c1871b-174e-4a07-9bae-b0e0ba727dc0": {
+      "id": "64c1871b-174e-4a07-9bae-b0e0ba727dc0",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_4-03_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_4-03_2.czi",
+      "size_in_bytes": 114000620,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "111329"
+      }
+    },
+    "55fbf25f-3552-4899-934a-4384fff0213b": {
+      "id": "55fbf25f-3552-4899-934a-4384fff0213b",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_4-04_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_4-04_1.czi",
+      "size_in_bytes": 88864480,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "86782"
+      }
+    },
+    "0ac6cc8d-93c2-40a7-a4b3-186a604ba79d": {
+      "id": "0ac6cc8d-93c2-40a7-a4b3-186a604ba79d",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_4-04_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3_4-04_2.czi",
+      "size_in_bytes": 118195394,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "115426"
+      }
+    },
+    "381b2554-b3a6-400b-9b83-a5c0e1f8ef3f": {
+      "id": "381b2554-b3a6-400b-9b83-a5c0e1f8ef3f",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_1-01_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_1-01_1.czi",
+      "size_in_bytes": 59498048,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "58104"
+      }
+    },
+    "36e6b425-42ad-44a8-9b8c-8f0cca89a52b": {
+      "id": "36e6b425-42ad-44a8-9b8c-8f0cca89a52b",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_1-01_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_1-01_2.czi",
+      "size_in_bytes": 80467362,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "78582"
+      }
+    },
+    "4dcec4c6-aeb7-4c99-b73b-566f336c98ba": {
+      "id": "4dcec4c6-aeb7-4c99-b73b-566f336c98ba",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_1-02_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_1-02_1.czi",
+      "size_in_bytes": 63694624,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "62202"
+      }
+    },
+    "5865296d-9347-43e3-b4be-bc0c52086024": {
+      "id": "5865296d-9347-43e3-b4be-bc0c52086024",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_1-02_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_1-02_2.czi",
+      "size_in_bytes": 93051646,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "90871"
+      }
+    },
+    "f1525838-9efc-48bf-946c-d9659634baeb": {
+      "id": "f1525838-9efc-48bf-946c-d9659634baeb",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_1-03_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_1-03_1.czi",
+      "size_in_bytes": 59498176,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "58104"
+      }
+    },
+    "3ff8dbd5-0d7e-4f6e-bd59-be9f0677b4a8": {
+      "id": "3ff8dbd5-0d7e-4f6e-bd59-be9f0677b4a8",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_1-03_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_1-03_2.czi",
+      "size_in_bytes": 88856856,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "86775"
+      }
+    },
+    "79efb52d-44ff-4d1a-80c1-6014f0ff279e": {
+      "id": "79efb52d-44ff-4d1a-80c1-6014f0ff279e",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_1-04_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_1-04_1.czi",
+      "size_in_bytes": 84677472,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "82693"
+      }
+    },
+    "7beeb197-2973-43c4-8047-783605fc3836": {
+      "id": "7beeb197-2973-43c4-8047-783605fc3836",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_1-04_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_1-04_2.czi",
+      "size_in_bytes": 126609794,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "123643"
+      }
+    },
+    "4e7a4a36-2cf7-46c6-980b-35aec9d50a41": {
+      "id": "4e7a4a36-2cf7-46c6-980b-35aec9d50a41",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_2-01_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_2-01_1.czi",
+      "size_in_bytes": 84677696,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "82694"
+      }
+    },
+    "46638264-2774-4e6c-8e81-444bf29dce51": {
+      "id": "46638264-2774-4e6c-8e81-444bf29dce51",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_2-01_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_2-01_2.czi",
+      "size_in_bytes": 80466546,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "78581"
+      }
+    },
+    "a4ab7f4a-abd6-4b2c-a381-9bd797eb0dc0": {
+      "id": "a4ab7f4a-abd6-4b2c-a381-9bd797eb0dc0",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_2-02_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_2-02_1.czi",
+      "size_in_bytes": 88874336,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "86792"
+      }
+    },
+    "78430a00-5e6d-482e-ba03-83b73b53aba3": {
+      "id": "78430a00-5e6d-482e-ba03-83b73b53aba3",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_2-02_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_2-02_2.czi",
+      "size_in_bytes": 88855890,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "86774"
+      }
+    },
+    "4e283554-10e4-4961-8192-c2177456f291": {
+      "id": "4e283554-10e4-4961-8192-c2177456f291",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_2-03_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_2-03_1.czi",
+      "size_in_bytes": 93070528,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "90890"
+      }
+    },
+    "ce55ef4c-3622-4e2c-bad7-f416073c7411": {
+      "id": "ce55ef4c-3622-4e2c-bad7-f416073c7411",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_2-03_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_2-03_2.czi",
+      "size_in_bytes": 80467324,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "78582"
+      }
+    },
+    "7117cb4f-b962-4d8f-bfd0-a025d9d2d8ff": {
+      "id": "7117cb4f-b962-4d8f-bfd0-a025d9d2d8ff",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_2-04_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_2-04_1.czi",
+      "size_in_bytes": 101464064,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "99086"
+      }
+    },
+    "88d269b6-fbe0-4bdd-b92c-437bbda5c5d1": {
+      "id": "88d269b6-fbe0-4bdd-b92c-437bbda5c5d1",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_2-04_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_2-04_2.czi",
+      "size_in_bytes": 109829888,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "107256"
+      }
+    },
+    "8f63fc06-7457-4fd4-acaf-59ad67a8c00c": {
+      "id": "8f63fc06-7457-4fd4-acaf-59ad67a8c00c",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_3-01_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_3-01_1.czi",
+      "size_in_bytes": 88875424,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "86793"
+      }
+    },
+    "8cd84aaa-9a72-46a6-8ffb-7b7a28273582": {
+      "id": "8cd84aaa-9a72-46a6-8ffb-7b7a28273582",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_3-01_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_3-01_2.czi",
+      "size_in_bytes": 105635166,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "103161"
+      }
+    },
+    "9a930d24-7470-4794-b80e-5724c66e1627": {
+      "id": "9a930d24-7470-4794-b80e-5724c66e1627",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_3-02_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_3-02_1.czi",
+      "size_in_bytes": 72087872,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "70399"
+      }
+    },
+    "249b28f1-d066-4fac-885f-b0cc64d71d0a": {
+      "id": "249b28f1-d066-4fac-885f-b0cc64d71d0a",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_3-02_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_3-02_2.czi",
+      "size_in_bytes": 105636030,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "103161"
+      }
+    },
+    "da793756-fbeb-4922-83fc-32b0e3cb3e3c": {
+      "id": "da793756-fbeb-4922-83fc-32b0e3cb3e3c",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_3-03_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_3-03_1.czi",
+      "size_in_bytes": 63694080,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "62202"
+      }
+    },
+    "a322f469-8508-4dbb-ac7d-e3141aa65cf5": {
+      "id": "a322f469-8508-4dbb-ac7d-e3141aa65cf5",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_3-03_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_3-03_2.czi",
+      "size_in_bytes": 88856932,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "86775"
+      }
+    },
+    "0befca4f-5622-4237-8903-5999162723f6": {
+      "id": "0befca4f-5622-4237-8903-5999162723f6",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_3-04_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_3-04_1.czi",
+      "size_in_bytes": 76283616,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "74496"
+      }
+    },
+    "3d33b9c7-6032-40e6-9029-51f69cd89648": {
+      "id": "3d33b9c7-6032-40e6-9029-51f69cd89648",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_3-04_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_3-04_2.czi",
+      "size_in_bytes": 101441244,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "99064"
+      }
+    },
+    "eea658ee-fa30-46d6-9543-770cb8b3f6bc": {
+      "id": "eea658ee-fa30-46d6-9543-770cb8b3f6bc",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_4-01_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_4-01_1.czi",
+      "size_in_bytes": 80490784,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "78605"
+      }
+    },
+    "38a4dfcb-74e1-4eb4-b5da-f4dc10bdd6b3": {
+      "id": "38a4dfcb-74e1-4eb4-b5da-f4dc10bdd6b3",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_4-01_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_4-01_2.czi",
+      "size_in_bytes": 97246512,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "94968"
+      }
+    },
+    "629ab25a-ccc9-4b28-b0d7-570ce884defc": {
+      "id": "629ab25a-ccc9-4b28-b0d7-570ce884defc",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_4-02_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_4-02_1.czi",
+      "size_in_bytes": 67900576,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "66310"
+      }
+    },
+    "dbfdb57f-1692-4709-86b3-9d73477eecf7": {
+      "id": "dbfdb57f-1692-4709-86b3-9d73477eecf7",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_4-02_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_4-02_2.czi",
+      "size_in_bytes": 76272628,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "74485"
+      }
+    },
+    "bf0fd8b2-59e3-4006-b3ff-ee79d826093d": {
+      "id": "bf0fd8b2-59e3-4006-b3ff-ee79d826093d",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_4-03_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_4-03_1.czi",
+      "size_in_bytes": 59507264,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "58113"
+      }
+    },
+    "b8f46dc0-3827-4411-8b58-742f9c8fff45": {
+      "id": "b8f46dc0-3827-4411-8b58-742f9c8fff45",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_4-03_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_4-03_2.czi",
+      "size_in_bytes": 67883116,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "66293"
+      }
+    },
+    "7a77720c-7b21-4b79-b4a5-dc299e0f129b": {
+      "id": "7a77720c-7b21-4b79-b4a5-dc299e0f129b",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_4-04_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_4-04_1.czi",
+      "size_in_bytes": 93080064,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "90899"
+      }
+    },
+    "3a37d5bb-8f9f-439b-ae36-fab0bc4ff017": {
+      "id": "3a37d5bb-8f9f-439b-ae36-fab0bc4ff017",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_4-04_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_PDLP5_4-04_2.czi",
+      "size_in_bytes": 122415096,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "PDLP5",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "119546"
+      }
+    },
+    "760b0e98-09fc-486f-a4fa-69a27e2c374f": {
+      "id": "760b0e98-09fc-486f-a4fa-69a27e2c374f",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_1-01_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_1-01_1.czi",
+      "size_in_bytes": 42717504,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "41717"
+      }
+    },
+    "32ee8537-d775-48d7-843f-dcdeebb39664": {
+      "id": "32ee8537-d775-48d7-843f-dcdeebb39664",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_1-01_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_1-01_2.czi",
+      "size_in_bytes": 118195192,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "115425"
+      }
+    },
+    "76b417f5-0608-472f-bfaf-225a948c95aa": {
+      "id": "76b417f5-0608-472f-bfaf-225a948c95aa",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_1-02_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_1-02_1.czi",
+      "size_in_bytes": 88884352,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "86802"
+      }
+    },
+    "460a921f-4660-40a0-83b3-cecb23ee104e": {
+      "id": "460a921f-4660-40a0-83b3-cecb23ee104e",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_1-02_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_1-02_2.czi",
+      "size_in_bytes": 97221200,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "94943"
+      }
+    },
+    "446480c9-3e84-4284-9af7-63e9715c35bc": {
+      "id": "446480c9-3e84-4284-9af7-63e9715c35bc",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_1-03_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_1-03_1.czi",
+      "size_in_bytes": 105670592,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "103194"
+      }
+    },
+    "218ccd81-1ac7-46b3-a7f8-9ae106e4fe41": {
+      "id": "218ccd81-1ac7-46b3-a7f8-9ae106e4fe41",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_1-03_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_1-03_2.czi",
+      "size_in_bytes": 134975150,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "131812"
+      }
+    },
+    "d1e2edd1-3b91-49ba-9618-fbf1c7b11238": {
+      "id": "d1e2edd1-3b91-49ba-9618-fbf1c7b11238",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_1-04_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_1-04_1.czi",
+      "size_in_bytes": 97278048,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "94999"
+      }
+    },
+    "99ca5d46-75ae-4df8-a3b5-6e0b1fdf48c8": {
+      "id": "99ca5d46-75ae-4df8-a3b5-6e0b1fdf48c8",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_1-04_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_1-04_2.czi",
+      "size_in_bytes": 101416024,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "99040"
+      }
+    },
+    "5ce1d3e1-31e8-44fe-9494-9fa8f386b5c7": {
+      "id": "5ce1d3e1-31e8-44fe-9494-9fa8f386b5c7",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_2-01_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_2-01_1.czi",
+      "size_in_bytes": 72100224,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "70411"
+      }
+    },
+    "3e10268e-8272-4d7b-95af-78adf76457a5": {
+      "id": "3e10268e-8272-4d7b-95af-78adf76457a5",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_2-01_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_2-01_2.czi",
+      "size_in_bytes": 55274316,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "53979"
+      }
+    },
+    "7862ef4a-cb0d-4bbc-8205-c3df4be73b93": {
+      "id": "7862ef4a-cb0d-4bbc-8205-c3df4be73b93",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_2-02_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_2-02_1.czi",
+      "size_in_bytes": 84688640,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "82704"
+      }
+    },
+    "7acfb08b-cbc3-4003-8595-05f08a41429a": {
+      "id": "7acfb08b-cbc3-4003-8595-05f08a41429a",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_2-02_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_2-02_2.czi",
+      "size_in_bytes": 114000508,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "111329"
+      }
+    },
+    "efe20194-2993-496d-91b0-2d72655b4255": {
+      "id": "efe20194-2993-496d-91b0-2d72655b4255",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_2-03_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_2-03_1.czi",
+      "size_in_bytes": 55311584,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "54016"
+      }
+    },
+    "2778097f-d252-4060-83fc-8a71bfa6a143": {
+      "id": "2778097f-d252-4060-83fc-8a71bfa6a143",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_2-03_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_2-03_2.czi",
+      "size_in_bytes": 80443046,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "78558"
+      }
+    },
+    "b7daeb10-fb53-4048-94a0-5ebef8f43648": {
+      "id": "b7daeb10-fb53-4048-94a0-5ebef8f43648",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_2-04_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_2-04_1.czi",
+      "size_in_bytes": 63705088,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "62212"
+      }
+    },
+    "03ac9270-6e64-413a-88d5-1042eab72806": {
+      "id": "03ac9270-6e64-413a-88d5-1042eab72806",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_2-04_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_2-04_2.czi",
+      "size_in_bytes": 101417014,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "99041"
+      }
+    },
+    "94cf8e4c-5165-45df-8400-bea484eac6f0": {
+      "id": "94cf8e4c-5165-45df-8400-bea484eac6f0",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_3-01_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_3-01_1.czi",
+      "size_in_bytes": 59509152,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "58115"
+      }
+    },
+    "a79b106d-fb5e-4c00-9033-9d0b5d393222": {
+      "id": "a79b106d-fb5e-4c00-9033-9d0b5d393222",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_3-01_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_3-01_2.czi",
+      "size_in_bytes": 72052606,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "70364"
+      }
+    },
+    "c4ffbcf8-f0c5-4be7-a5fe-29d13f90bfc0": {
+      "id": "c4ffbcf8-f0c5-4be7-a5fe-29d13f90bfc0",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_3-02_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_3-02_1.czi",
+      "size_in_bytes": 80490752,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "78605"
+      }
+    },
+    "d2c4c403-ae51-47d9-a293-0c06d6f8dcca": {
+      "id": "d2c4c403-ae51-47d9-a293-0c06d6f8dcca",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_3-02_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_3-02_2.czi",
+      "size_in_bytes": 134975274,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "131812"
+      }
+    },
+    "a5a2ee29-6f66-43ab-901e-61dc0202bd03": {
+      "id": "a5a2ee29-6f66-43ab-901e-61dc0202bd03",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_3-03_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_3-03_1.czi",
+      "size_in_bytes": 76295008,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "74507"
+      }
+    },
+    "c8674e86-8e33-4a1a-afa4-01fb01f23520": {
+      "id": "c8674e86-8e33-4a1a-afa4-01fb01f23520",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_3-03_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_3-03_2.czi",
+      "size_in_bytes": 126585676,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "123619"
+      }
+    },
+    "c8ca650f-8676-41ae-9186-a3ea8d1b631a": {
+      "id": "c8ca650f-8676-41ae-9186-a3ea8d1b631a",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_3-04_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_3-04_1.czi",
+      "size_in_bytes": 84687808,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "82703"
+      }
+    },
+    "beea5109-34db-4e76-8483-eac72aff1b81": {
+      "id": "beea5109-34db-4e76-8483-eac72aff1b81",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_3-04_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_3-04_2.czi",
+      "size_in_bytes": 84637790,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "82655"
+      }
+    },
+    "5427ab89-5926-4a6a-824e-a3d8f250751d": {
+      "id": "5427ab89-5926-4a6a-824e-a3d8f250751d",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_4-01_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_4-01_1.czi",
+      "size_in_bytes": 80491680,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "78606"
+      }
+    },
+    "e364fa06-834c-4373-952c-efd14d1896bf": {
+      "id": "e364fa06-834c-4373-952c-efd14d1896bf",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_4-01_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_4-01_2.czi",
+      "size_in_bytes": 122390040,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "119522"
+      }
+    },
+    "9174b7e3-e463-468c-8c35-bd8d875118e5": {
+      "id": "9174b7e3-e463-468c-8c35-bd8d875118e5",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_4-02_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_4-02_1.czi",
+      "size_in_bytes": 84688384,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "82704"
+      }
+    },
+    "12acf290-85d6-4dd3-8cee-46d4340f87a8": {
+      "id": "12acf290-85d6-4dd3-8cee-46d4340f87a8",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_4-02_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_4-02_2.czi",
+      "size_in_bytes": 72053464,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "70365"
+      }
+    },
+    "22ae05f7-6eae-4cdd-9404-d69bc1c0692e": {
+      "id": "22ae05f7-6eae-4cdd-9404-d69bc1c0692e",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_4-03_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_4-03_1.czi",
+      "size_in_bytes": 101474400,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "99097"
+      }
+    },
+    "29bd2663-0626-46ce-a752-591faf03bee3": {
+      "id": "29bd2663-0626-46ce-a752-591faf03bee3",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_4-03_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_4-03_2.czi",
+      "size_in_bytes": 126585714,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "123619"
+      }
+    },
+    "ccd87195-e21d-4672-9363-4ef4621b139b": {
+      "id": "ccd87195-e21d-4672-9363-4ef4621b139b",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_4-04_1.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_4-04_1.czi",
+      "size_in_bytes": 76294592,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "74507"
+      }
+    },
+    "ec81a4a6-ac3f-41e7-ae16-e4d3316625a2": {
+      "id": "ec81a4a6-ac3f-41e7-ae16-e4d3316625a2",
+      "name": "Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_4-04_2.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4A.S7/Fig4A.S7_NHL3+PDLP5_4-04_2.czi",
+      "size_in_bytes": 93027388,
+      "type": null,
+      "attributes": {
+        "Organism": "Nicotiana benthamiana",
+        "Genotype/Gene_Expressed": "NHL3+PDLP5",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "90848"
+      }
+    },
+    "d1559a7c-2239-4c95-94ac-f395a074e7dc": {
+      "id": "d1559a7c-2239-4c95-94ac-f395a074e7dc",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_Col-0_1-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_Col-0_1-01.czi",
+      "size_in_bytes": 46894464,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "45796"
+      }
+    },
+    "2feda80e-37d7-4eb1-8986-80a17ca39d1b": {
+      "id": "2feda80e-37d7-4eb1-8986-80a17ca39d1b",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_Col-0_1-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_Col-0_1-02.czi",
+      "size_in_bytes": 46894496,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "45796"
+      }
+    },
+    "e9ff830e-c5b9-453e-8a02-da2d24b69186": {
+      "id": "e9ff830e-c5b9-453e-8a02-da2d24b69186",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_Col-0_1-03.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_Col-0_1-03.czi",
+      "size_in_bytes": 42697760,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "41698"
+      }
+    },
+    "3da4edce-0c4b-4f02-9e72-406d6978de57": {
+      "id": "3da4edce-0c4b-4f02-9e72-406d6978de57",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_Col-0_2-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_Col-0_2-01.czi",
+      "size_in_bytes": 42697568,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "41697"
+      }
+    },
+    "e26ab1f0-5e04-4845-a3b3-54a454a3641e": {
+      "id": "e26ab1f0-5e04-4845-a3b3-54a454a3641e",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_Col-0_2-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_Col-0_2-02.czi",
+      "size_in_bytes": 63681344,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "62189"
+      }
+    },
+    "9c38275b-d90b-4aa3-877f-d803d47ea914": {
+      "id": "9c38275b-d90b-4aa3-877f-d803d47ea914",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_Col-0_2-03.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_Col-0_2-03.czi",
+      "size_in_bytes": 51091232,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "49894"
+      }
+    },
+    "01c67561-a1f1-4488-8b5d-4d5011829600": {
+      "id": "01c67561-a1f1-4488-8b5d-4d5011829600",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_Col-0_3-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_Col-0_3-01.czi",
+      "size_in_bytes": 42697568,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "41697"
+      }
+    },
+    "2b672ccc-d20d-488d-8c14-c2f0b32e1b6b": {
+      "id": "2b672ccc-d20d-488d-8c14-c2f0b32e1b6b",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_Col-0_3-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_Col-0_3-02.czi",
+      "size_in_bytes": 46894368,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "45796"
+      }
+    },
+    "d808c254-7568-4655-8006-e586331d0eba": {
+      "id": "d808c254-7568-4655-8006-e586331d0eba",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_Col-0_3-03.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_Col-0_3-03.czi",
+      "size_in_bytes": 46894432,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "45796"
+      }
+    },
+    "7d2ded32-03a1-4431-94a9-c3713e255b89": {
+      "id": "7d2ded32-03a1-4431-94a9-c3713e255b89",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_Col-0_4-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_Col-0_4-01.czi",
+      "size_in_bytes": 63681152,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "62189"
+      }
+    },
+    "7c61e972-3827-4642-84e3-bbe5555f0946": {
+      "id": "7c61e972-3827-4642-84e3-bbe5555f0946",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_Col-0_4-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_Col-0_4-02.czi",
+      "size_in_bytes": 55280000,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "53985"
+      }
+    },
+    "19eef789-3415-4779-b85f-df2fdc8b121a": {
+      "id": "19eef789-3415-4779-b85f-df2fdc8b121a",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_Col-0_4-03.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_Col-0_4-03.czi",
+      "size_in_bytes": 63681120,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "62189"
+      }
+    },
+    "3ee2390a-5a75-4c60-8bd0-17eb849aa736": {
+      "id": "3ee2390a-5a75-4c60-8bd0-17eb849aa736",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_Col-0_5-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_Col-0_5-01.czi",
+      "size_in_bytes": 38495872,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "37594"
+      }
+    },
+    "7f5c0a26-fe2b-484c-b3de-8ede9622eaf1": {
+      "id": "7f5c0a26-fe2b-484c-b3de-8ede9622eaf1",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_Col-0_5-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_Col-0_5-02.czi",
+      "size_in_bytes": 46894400,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "45796"
+      }
+    },
+    "d790bd21-dbe4-4282-8204-9e811ec3ded7": {
+      "id": "d790bd21-dbe4-4282-8204-9e811ec3ded7",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_Col-0_5-03.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_Col-0_5-03.czi",
+      "size_in_bytes": 63681024,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "62189"
+      }
+    },
+    "e33fa424-fc4a-4b24-9974-b4920734c03c": {
+      "id": "e33fa424-fc4a-4b24-9974-b4920734c03c",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_nhl3-2_1-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_nhl3-2_1-01.czi",
+      "size_in_bytes": 38501216,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "nhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "37599"
+      }
+    },
+    "224acdc6-d2a8-4d1b-b564-15863e0fb763": {
+      "id": "224acdc6-d2a8-4d1b-b564-15863e0fb763",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_nhl3-2_1-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_nhl3-2_1-02.czi",
+      "size_in_bytes": 63681024,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "nhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "62189"
+      }
+    },
+    "1c5d097a-7275-43e5-8f3f-d25ad951ac67": {
+      "id": "1c5d097a-7275-43e5-8f3f-d25ad951ac67",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_nhl3-2_1-03.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_nhl3-2_1-03.czi",
+      "size_in_bytes": 67877728,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "nhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "66287"
+      }
+    },
+    "37b19470-49d6-4c25-a090-f1ca6df0bbb5": {
+      "id": "37b19470-49d6-4c25-a090-f1ca6df0bbb5",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_nhl3-2_2-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_nhl3-2_2-01.czi",
+      "size_in_bytes": 38496704,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "nhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "37595"
+      }
+    },
+    "82b7441e-991b-47da-8382-2fb9a07fafe4": {
+      "id": "82b7441e-991b-47da-8382-2fb9a07fafe4",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_nhl3-2_2-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_nhl3-2_2-02.czi",
+      "size_in_bytes": 46888256,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "nhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "45790"
+      }
+    },
+    "328a0541-6dda-48bd-bf32-4b11b6f52ed4": {
+      "id": "328a0541-6dda-48bd-bf32-4b11b6f52ed4",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_nhl3-2_2-03.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_nhl3-2_2-03.czi",
+      "size_in_bytes": 38496512,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "nhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "37595"
+      }
+    },
+    "66a457af-bb62-47c1-8f31-b4f5cb2853ba": {
+      "id": "66a457af-bb62-47c1-8f31-b4f5cb2853ba",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_nhl3-2_3-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_nhl3-2_3-01.czi",
+      "size_in_bytes": 51091008,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "nhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "49894"
+      }
+    },
+    "56c37fb1-94da-42af-9f73-a509ed734cd6": {
+      "id": "56c37fb1-94da-42af-9f73-a509ed734cd6",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_nhl3-2_3-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_nhl3-2_3-02.czi",
+      "size_in_bytes": 46888032,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "nhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "45790"
+      }
+    },
+    "57b0b030-ae83-44bd-a6d8-6c31b5a48533": {
+      "id": "57b0b030-ae83-44bd-a6d8-6c31b5a48533",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_nhl3-2_3-03.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_nhl3-2_3-03.czi",
+      "size_in_bytes": 55287808,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "nhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "53992"
+      }
+    },
+    "22aae4b6-e41f-49e5-b799-241afe014ee6": {
+      "id": "22aae4b6-e41f-49e5-b799-241afe014ee6",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_nhl3-2_4-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_nhl3-2_4-01.czi",
+      "size_in_bytes": 59476608,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "nhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "58083"
+      }
+    },
+    "f6bc0479-c596-4de3-899e-9ae21c1daae5": {
+      "id": "f6bc0479-c596-4de3-899e-9ae21c1daae5",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_nhl3-2_4-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_nhl3-2_4-02.czi",
+      "size_in_bytes": 63681504,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "nhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "62189"
+      }
+    },
+    "49810488-41bb-4e57-ab34-762a96070dba": {
+      "id": "49810488-41bb-4e57-ab34-762a96070dba",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_nhl3-2_4-03.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_nhl3-2_4-03.czi",
+      "size_in_bytes": 59475936,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "nhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "58082"
+      }
+    },
+    "86e35824-73aa-4086-a907-1240e05390b7": {
+      "id": "86e35824-73aa-4086-a907-1240e05390b7",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_nhl3-2_5-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_nhl3-2_5-01.czi",
+      "size_in_bytes": 59484480,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "nhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "58091"
+      }
+    },
+    "96ad34fc-b353-45a0-8cc8-9b9b4c762644": {
+      "id": "96ad34fc-b353-45a0-8cc8-9b9b4c762644",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_nhl3-2_5-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_nhl3-2_5-02.czi",
+      "size_in_bytes": 46894336,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "nhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "45796"
+      }
+    },
+    "9661bf19-a042-4b38-a87d-77546ab8043a": {
+      "id": "9661bf19-a042-4b38-a87d-77546ab8043a",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_nhl3-2_5-03.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_nhl3-2_5-03.czi",
+      "size_in_bytes": 63681152,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "nhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "62189"
+      }
+    },
+    "ff083626-5118-471a-889c-b5616e4a1956": {
+      "id": "ff083626-5118-471a-889c-b5616e4a1956",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_1-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_1-01.czi",
+      "size_in_bytes": 46894688,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OE",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "45796"
+      }
+    },
+    "e053015c-23cd-48d5-baf5-7cdf119d48e1": {
+      "id": "e053015c-23cd-48d5-baf5-7cdf119d48e1",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_1-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_1-02.czi",
+      "size_in_bytes": 67878112,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OE",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "66288"
+      }
+    },
+    "b81186b7-2062-4fbd-bb8c-1bff8e7f08f7": {
+      "id": "b81186b7-2062-4fbd-bb8c-1bff8e7f08f7",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_1-03.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_1-03.czi",
+      "size_in_bytes": 67878112,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OE",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "66288"
+      }
+    },
+    "d9d41c3a-fc7e-4fb3-a2a4-34c3b21de90f": {
+      "id": "d9d41c3a-fc7e-4fb3-a2a4-34c3b21de90f",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_2-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_2-01.czi",
+      "size_in_bytes": 46894752,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OE",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "45796"
+      }
+    },
+    "65c6d8b8-48fe-48a3-a117-06d1b886ca85": {
+      "id": "65c6d8b8-48fe-48a3-a117-06d1b886ca85",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_2-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_2-02.czi",
+      "size_in_bytes": 42698016,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OE",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "41698"
+      }
+    },
+    "a3240335-1e9e-40b2-b10c-7454518a0a4b": {
+      "id": "a3240335-1e9e-40b2-b10c-7454518a0a4b",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_2-03.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_2-03.czi",
+      "size_in_bytes": 67878016,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OE",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "66288"
+      }
+    },
+    "3e520cb7-c1eb-49e0-9866-83c8e944db30": {
+      "id": "3e520cb7-c1eb-49e0-9866-83c8e944db30",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_3-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_3-01.czi",
+      "size_in_bytes": 51090976,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OE",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "49894"
+      }
+    },
+    "36ab566f-ba27-4447-ba67-8ef17c66925e": {
+      "id": "36ab566f-ba27-4447-ba67-8ef17c66925e",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_3-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_3-02.czi",
+      "size_in_bytes": 55287840,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OE",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "53993"
+      }
+    },
+    "1c00b478-2b0a-4117-83f1-fe0e4933aae2": {
+      "id": "1c00b478-2b0a-4117-83f1-fe0e4933aae2",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_3-03.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_3-03.czi",
+      "size_in_bytes": 63681152,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OE",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "62189"
+      }
+    },
+    "fbfeb5bb-db83-48f4-9ae8-5ae9ad7ccf00": {
+      "id": "fbfeb5bb-db83-48f4-9ae8-5ae9ad7ccf00",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_4-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_4-01.czi",
+      "size_in_bytes": 55280800,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OE",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "53968"
+      }
+    },
+    "caf8f0b2-c1a9-4372-9fe3-fe212c703d9e": {
+      "id": "caf8f0b2-c1a9-4372-9fe3-fe212c703d9e",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_4-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_4-02.czi",
+      "size_in_bytes": 51084352,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OE",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "49888"
+      }
+    },
+    "31054af3-659b-401a-aa36-2c44e5563fa5": {
+      "id": "31054af3-659b-401a-aa36-2c44e5563fa5",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_4-03.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_4-03.czi",
+      "size_in_bytes": 63681376,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OE",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "62189"
+      }
+    },
+    "080066a1-c227-4538-a577-6508dbc40f82": {
+      "id": "080066a1-c227-4538-a577-6508dbc40f82",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_5-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_5-01.czi",
+      "size_in_bytes": 59484320,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OE",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "58091"
+      }
+    },
+    "60dbf8ac-9df9-4fe2-b836-d5fb3c449414": {
+      "id": "60dbf8ac-9df9-4fe2-b836-d5fb3c449414",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_5-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_5-02.czi",
+      "size_in_bytes": 59484384,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OE",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "58091"
+      }
+    },
+    "a0870b39-10dd-4c40-86ab-3c44ca24cd05": {
+      "id": "a0870b39-10dd-4c40-86ab-3c44ca24cd05",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_5-03.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OE_5-03.czi",
+      "size_in_bytes": 63681024,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OE",
+        "Associated_GeneIdentifier": "AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "62189"
+      }
+    },
+    "adbf4c57-bce7-4720-b53d-6e3e992052e5": {
+      "id": "adbf4c57-bce7-4720-b53d-6e3e992052e5",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_1-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_1-01.czi",
+      "size_in_bytes": 38501120,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OExnhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "37599"
+      }
+    },
+    "12c873bc-ddc4-41e1-aabe-2ee5bbcd69cc": {
+      "id": "12c873bc-ddc4-41e1-aabe-2ee5bbcd69cc",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_1-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_1-02.czi",
+      "size_in_bytes": 46894560,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OExnhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "45796"
+      }
+    },
+    "d9d4761c-aaab-4550-b39a-9beced7a45c0": {
+      "id": "d9d4761c-aaab-4550-b39a-9beced7a45c0",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_1-03.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_1-03.czi",
+      "size_in_bytes": 63681440,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OExnhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "62189"
+      }
+    },
+    "553c8928-9802-4536-a720-283d8b2d3a01": {
+      "id": "553c8928-9802-4536-a720-283d8b2d3a01",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_2-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_2-01.czi",
+      "size_in_bytes": 34299808,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OExnhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "33493"
+      }
+    },
+    "a5dff8a1-6e2a-4590-8297-23a6fd6b82a2": {
+      "id": "a5dff8a1-6e2a-4590-8297-23a6fd6b82a2",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_2-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_2-02.czi",
+      "size_in_bytes": 51091200,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OExnhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "49894"
+      }
+    },
+    "a1aaa39d-d354-4bb5-8242-f380a230e475": {
+      "id": "a1aaa39d-d354-4bb5-8242-f380a230e475",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_2-03.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_2-03.czi",
+      "size_in_bytes": 51091104,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OExnhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "49894"
+      }
+    },
+    "1358b2ac-ca74-46bf-92bf-5a6e8e634af1": {
+      "id": "1358b2ac-ca74-46bf-92bf-5a6e8e634af1",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_3-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_3-01.czi",
+      "size_in_bytes": 51091200,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OExnhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "49894"
+      }
+    },
+    "485e499e-59e9-4d6b-81aa-187b51f88887": {
+      "id": "485e499e-59e9-4d6b-81aa-187b51f88887",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_3-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_3-02.czi",
+      "size_in_bytes": 55287808,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OExnhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "53992"
+      }
+    },
+    "41a8ba19-2ace-4b1e-b87f-a3effdd12693": {
+      "id": "41a8ba19-2ace-4b1e-b87f-a3effdd12693",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_3-03.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_3-03.czi",
+      "size_in_bytes": 55287776,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OExnhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "53992"
+      }
+    },
+    "1fc9b496-dab6-4aaf-85b2-a80b209cd581": {
+      "id": "1fc9b496-dab6-4aaf-85b2-a80b209cd581",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_4-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_4-01.czi",
+      "size_in_bytes": 46894592,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OExnhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "45796"
+      }
+    },
+    "c0dd47fd-5e35-4c2f-ad6d-51f2fba38f7c": {
+      "id": "c0dd47fd-5e35-4c2f-ad6d-51f2fba38f7c",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_4-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_4-02.czi",
+      "size_in_bytes": 55288128,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OExnhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "53993"
+      }
+    },
+    "253e8466-0efc-4019-b5d2-684a9e2a1037": {
+      "id": "253e8466-0efc-4019-b5d2-684a9e2a1037",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_4-03.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_4-03.czi",
+      "size_in_bytes": 42697792,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OExnhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "41698"
+      }
+    },
+    "93721f06-8c89-4870-87db-01c23411cb85": {
+      "id": "93721f06-8c89-4870-87db-01c23411cb85",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_5-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_5-01.czi",
+      "size_in_bytes": 55287712,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OExnhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "53992"
+      }
+    },
+    "2c759db8-9cf9-4535-9859-6e845c656b1a": {
+      "id": "2c759db8-9cf9-4535-9859-6e845c656b1a",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_5-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_5-02.czi",
+      "size_in_bytes": 51091104,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OExnhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "49894"
+      }
+    },
+    "742fa117-2f45-4d48-b30d-f98845a92e5d": {
+      "id": "742fa117-2f45-4d48-b30d-f98845a92e5d",
+      "name": "Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_5-03.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/Fig4C/Fig4C_PDLP5OExnhl3-2_5-03.czi",
+      "size_in_bytes": 55287904,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "PDLP5OExnhl3-2",
+        "Associated_GeneIdentifier": "AT5G06320+AT1G70690",
+        "Treatment": "n/a",
+        "Analysis_Stage": "original_file",
+        "Size": "53993"
+      }
+    },
+    "8f9d7747-5d42-4d5d-850a-29f7e75530df": {
+      "id": "8f9d7747-5d42-4d5d-850a-29f7e75530df",
+      "name": "Tee_etal_2023/FigS2/FigS2_mock_1-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/FigS2/FigS2_mock_1-01.czi",
+      "size_in_bytes": 84665824,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "mock",
+        "Analysis_Stage": "original_file",
+        "Size": "82682"
+      }
+    },
+    "2f34fd6b-3c0b-49f8-90b7-5c4a4003640a": {
+      "id": "2f34fd6b-3c0b-49f8-90b7-5c4a4003640a",
+      "name": "Tee_etal_2023/FigS2/FigS2_mock_1-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/FigS2/FigS2_mock_1-02.czi",
+      "size_in_bytes": 93059104,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "mock",
+        "Analysis_Stage": "original_file",
+        "Size": "90879"
+      }
+    },
+    "027f0139-6096-40f7-a35f-e512c940c292": {
+      "id": "027f0139-6096-40f7-a35f-e512c940c292",
+      "name": "Tee_etal_2023/FigS2/FigS2_mock_2-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/FigS2/FigS2_mock_2-01.czi",
+      "size_in_bytes": 84665696,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "mock",
+        "Analysis_Stage": "original_file",
+        "Size": "82682"
+      }
+    },
+    "95ed4f48-1cd3-419c-a92f-ef8b638a8fbe": {
+      "id": "95ed4f48-1cd3-419c-a92f-ef8b638a8fbe",
+      "name": "Tee_etal_2023/FigS2/FigS2_mock_2-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/FigS2/FigS2_mock_2-02.czi",
+      "size_in_bytes": 72065888,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "mock",
+        "Analysis_Stage": "original_file",
+        "Size": "70377"
+      }
+    },
+    "992f55cc-73a8-48d7-98a7-730625d2c97f": {
+      "id": "992f55cc-73a8-48d7-98a7-730625d2c97f",
+      "name": "Tee_etal_2023/FigS2/FigS2_mock_3-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/FigS2/FigS2_mock_3-01.czi",
+      "size_in_bytes": 80469088,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "mock",
+        "Analysis_Stage": "original_file",
+        "Size": "78584"
+      }
+    },
+    "bbd92574-e10d-4f7f-8982-01ed8efd139b": {
+      "id": "bbd92574-e10d-4f7f-8982-01ed8efd139b",
+      "name": "Tee_etal_2023/FigS2/FigS2_mock_3-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/FigS2/FigS2_mock_3-02.czi",
+      "size_in_bytes": 109845888,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "mock",
+        "Analysis_Stage": "original_file",
+        "Size": "107272"
+      }
+    },
+    "96ca3b34-139b-4291-8d55-eb49883d0c23": {
+      "id": "96ca3b34-139b-4291-8d55-eb49883d0c23",
+      "name": "Tee_etal_2023/FigS2/FigS2_mock_4-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/FigS2/FigS2_mock_4-01.czi",
+      "size_in_bytes": 93059072,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "mock",
+        "Analysis_Stage": "original_file",
+        "Size": "90878"
+      }
+    },
+    "6b8edb2a-5bec-4923-865f-1ceac1df0794": {
+      "id": "6b8edb2a-5bec-4923-865f-1ceac1df0794",
+      "name": "Tee_etal_2023/FigS2/FigS2_mock_4-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/FigS2/FigS2_mock_4-02.czi",
+      "size_in_bytes": 88862432,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "mock",
+        "Analysis_Stage": "original_file",
+        "Size": "86780"
+      }
+    },
+    "e9548127-46fb-4725-b694-880722fceb5f": {
+      "id": "e9548127-46fb-4725-b694-880722fceb5f",
+      "name": "Tee_etal_2023/FigS2/FigS2_mock_5-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/FigS2/FigS2_mock_5-01.czi",
+      "size_in_bytes": 67878976,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "mock",
+        "Analysis_Stage": "original_file",
+        "Size": "66289"
+      }
+    },
+    "3a160d77-be5b-412e-a6e9-c41eb8e8cd69": {
+      "id": "3a160d77-be5b-412e-a6e9-c41eb8e8cd69",
+      "name": "Tee_etal_2023/FigS2/FigS2_mock_5-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/FigS2/FigS2_mock_5-02.czi",
+      "size_in_bytes": 63682272,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "mock",
+        "Analysis_Stage": "original_file",
+        "Size": "62190"
+      }
+    },
+    "fe0c1d42-f850-4e8a-a3b3-8b2dee925f3b": {
+      "id": "fe0c1d42-f850-4e8a-a3b3-8b2dee925f3b",
+      "name": "Tee_etal_2023/FigS2/FigS2_SA_1-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/FigS2/FigS2_SA_1-01.czi",
+      "size_in_bytes": 84653952,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "salicylic_acid",
+        "Analysis_Stage": "original_file",
+        "Size": "82670"
+      }
+    },
+    "ad37947c-20f7-4ddb-89e5-56f459c6de0f": {
+      "id": "ad37947c-20f7-4ddb-89e5-56f459c6de0f",
+      "name": "Tee_etal_2023/FigS2/FigS2_SA_1-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/FigS2/FigS2_SA_1-02.czi",
+      "size_in_bytes": 93059232,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "salicylic_acid",
+        "Analysis_Stage": "original_file",
+        "Size": "90879"
+      }
+    },
+    "94f56abd-c00e-48d6-b3f7-2566e55b4221": {
+      "id": "94f56abd-c00e-48d6-b3f7-2566e55b4221",
+      "name": "Tee_etal_2023/FigS2/FigS2_SA_2-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/FigS2/FigS2_SA_2-01.czi",
+      "size_in_bytes": 72075680,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "salicylic_acid",
+        "Analysis_Stage": "original_file",
+        "Size": "70387"
+      }
+    },
+    "47799426-7687-4047-bbfe-554ab44f2925": {
+      "id": "47799426-7687-4047-bbfe-554ab44f2925",
+      "name": "Tee_etal_2023/FigS2/FigS2_SA_2-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/FigS2/FigS2_SA_2-02.czi",
+      "size_in_bytes": 93059200,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "salicylic_acid",
+        "Analysis_Stage": "original_file",
+        "Size": "90879"
+      }
+    },
+    "d6742f6d-3469-4341-b85b-54252fabe7d0": {
+      "id": "d6742f6d-3469-4341-b85b-54252fabe7d0",
+      "name": "Tee_etal_2023/FigS2/FigS2_SA_3-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/FigS2/FigS2_SA_3-01.czi",
+      "size_in_bytes": 84665728,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "salicylic_acid",
+        "Analysis_Stage": "original_file",
+        "Size": "82682"
+      }
+    },
+    "d681a388-708c-45ad-aae9-eb710291e311": {
+      "id": "d681a388-708c-45ad-aae9-eb710291e311",
+      "name": "Tee_etal_2023/FigS2/FigS2_SA_3-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/FigS2/FigS2_SA_3-02.czi",
+      "size_in_bytes": 105649312,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "salicylic_acid",
+        "Analysis_Stage": "original_file",
+        "Size": "103174"
+      }
+    },
+    "0f1f6522-c5e9-4a08-a4e3-f3769843ef0f": {
+      "id": "0f1f6522-c5e9-4a08-a4e3-f3769843ef0f",
+      "name": "Tee_etal_2023/FigS2/FigS2_SA_4-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/FigS2/FigS2_SA_4-01.czi",
+      "size_in_bytes": 80469216,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "salicylic_acid",
+        "Analysis_Stage": "original_file",
+        "Size": "78584"
+      }
+    },
+    "e1cc242f-758f-4514-9d7c-2dc22d2f8c3d": {
+      "id": "e1cc242f-758f-4514-9d7c-2dc22d2f8c3d",
+      "name": "Tee_etal_2023/FigS2/FigS2_SA_4-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/FigS2/FigS2_SA_4-02.czi",
+      "size_in_bytes": 88862496,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "salicylic_acid",
+        "Analysis_Stage": "original_file",
+        "Size": "86780"
+      }
+    },
+    "a6a8027d-c778-4d73-bd4e-9a0a91528daf": {
+      "id": "a6a8027d-c778-4d73-bd4e-9a0a91528daf",
+      "name": "Tee_etal_2023/FigS2/FigS2_SA_5-01.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/FigS2/FigS2_SA_5-01.czi",
+      "size_in_bytes": 84665760,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "salicylic_acid",
+        "Analysis_Stage": "original_file",
+        "Size": "82682"
+      }
+    },
+    "ef49382a-75c8-4698-9442-17bab3c9a00f": {
+      "id": "ef49382a-75c8-4698-9442-17bab3c9a00f",
+      "name": "Tee_etal_2023/FigS2/FigS2_SA_5-02.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/626/S-BIAD626/Files/Tee_etal_2023/FigS2/FigS2_SA_5-02.czi",
+      "size_in_bytes": 101452512,
+      "type": null,
+      "attributes": {
+        "Organism": "Arabidopsis thaliana",
+        "Genotype/Gene_Expressed": "Col-0",
+        "Associated_GeneIdentifier": "n/a",
+        "Treatment": "salicylic_acid",
+        "Analysis_Stage": "original_file",
+        "Size": "99075"
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

@@ -1,0 +1,203 @@
+{
+  "accession_id": "S-BSST1065",
+  "title": "Simple optical nanomotion method for single-bacterium viability and antibiotic response testing",
+  "description": "Here we used a nanomotion detection method based on optical microscopy for testing bacterial viability. This novel technique only requires a very basic microfluidic analysis chamber, and a optical microscope equipped with a camera or a mobile phone. No attachment of the microorganisms is needed, nor are specific bacterial stains or markers. This single-cell technique was successfully tested to obtain AST for motile, non-motile, gram-positive and -negative bacteria. The simplicity and efficiency of the method make it a game-changer in the field of rapid AST.",
+  "authors": [
+    {
+      "name": "Maria Ines Villalba"
+    },
+    {
+      "name": "Eugenia Rossetti"
+    },
+    {
+      "name": "Allan Bonvallat"
+    },
+    {
+      "name": "Charlotte Yvanoff"
+    },
+    {
+      "name": "Vjera Radonicic"
+    },
+    {
+      "name": "Ronnie Willaert"
+    },
+    {
+      "name": "Sandor Kasas"
+    }
+  ],
+  "organism": "Escherichia coli, Staphylococcus aureus, Lactobacillus rhamnosus and Mycobacterium smegmatis",
+  "release_date": "2023-04-12",
+  "license": "CC0",
+  "links": {},
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "example_annotation_uri": "",
+  "file_references": {
+    "74ecf254-9165-4690-aefb-03db4d026919": {
+      "id": "74ecf254-9165-4690-aefb-03db4d026919",
+      "name": "E coli 1.avi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/065/S-BSST1065/Files/E coli 1.avi",
+      "size_in_bytes": 306117392,
+      "type": null,
+      "attributes": {
+        "Description": "30 sec movie of E. coli in LB"
+      }
+    },
+    "3cf59846-e8ce-485e-b6c4-e2dc5a1fe2e4": {
+      "id": "3cf59846-e8ce-485e-b6c4-e2dc5a1fe2e4",
+      "name": "E coli 2.avi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/065/S-BSST1065/Files/E coli 2.avi",
+      "size_in_bytes": 316446216,
+      "type": null,
+      "attributes": {
+        "Description": "30 sec movie of E. coli in LB"
+      }
+    },
+    "706b74e8-1f1d-44a4-aee3-86e4b1db9a5a": {
+      "id": "706b74e8-1f1d-44a4-aee3-86e4b1db9a5a",
+      "name": "L rhamnosus 1.avi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/065/S-BSST1065/Files/L rhamnosus 1.avi",
+      "size_in_bytes": 321141136,
+      "type": null,
+      "attributes": {
+        "Description": "30 sec movie of L. rhamnosus in MRS"
+      }
+    },
+    "9094a15c-5218-4ee7-8a2b-d2d73cde08ad": {
+      "id": "9094a15c-5218-4ee7-8a2b-d2d73cde08ad",
+      "name": "L rhamnosus 2.avi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/065/S-BSST1065/Files/L rhamnosus 2.avi",
+      "size_in_bytes": 350535344,
+      "type": null,
+      "attributes": {
+        "Description": "30 sec movie of L. rhamnosus in MRS"
+      }
+    },
+    "18426e48-99e2-40a1-9cc7-804764e678f0": {
+      "id": "18426e48-99e2-40a1-9cc7-804764e678f0",
+      "name": "L rhamnosus 3.avi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/065/S-BSST1065/Files/L rhamnosus 3.avi",
+      "size_in_bytes": 284398224,
+      "type": null,
+      "attributes": {
+        "Description": "30 sec movie of L. rhamnosus in MRS"
+      }
+    },
+    "e5f58039-796d-4000-9e51-5fd25e9f10fa": {
+      "id": "e5f58039-796d-4000-9e51-5fd25e9f10fa",
+      "name": "L rhamnosus 4.avi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/065/S-BSST1065/Files/L rhamnosus 4.avi",
+      "size_in_bytes": 338981832,
+      "type": null,
+      "attributes": {
+        "Description": "30 sec movie of L. rhamnosus in MRS"
+      }
+    },
+    "7e544508-977b-4d0a-b177-6c898f0b4b24": {
+      "id": "7e544508-977b-4d0a-b177-6c898f0b4b24",
+      "name": "L rhamnosus 5.avi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/065/S-BSST1065/Files/L rhamnosus 5.avi",
+      "size_in_bytes": 367542032,
+      "type": null,
+      "attributes": {
+        "Description": "30 sec movie of L. rhamnosus in MRS"
+      }
+    },
+    "4e30222c-4378-4e09-844b-91a68a1cc96c": {
+      "id": "4e30222c-4378-4e09-844b-91a68a1cc96c",
+      "name": "L rhamnosus Heat-killed 1.avi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/065/S-BSST1065/Files/L rhamnosus Heat-killed 1.avi",
+      "size_in_bytes": 287337712,
+      "type": null,
+      "attributes": {
+        "Description": "30 sec movie of L. rhamnosus heat-killed"
+      }
+    },
+    "c69d27e4-23fb-4a2a-b778-03ef278ac09f": {
+      "id": "c69d27e4-23fb-4a2a-b778-03ef278ac09f",
+      "name": "L rhamnosus Heat-killed 2.avi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/065/S-BSST1065/Files/L rhamnosus Heat-killed 2.avi",
+      "size_in_bytes": 281703808,
+      "type": null,
+      "attributes": {
+        "Description": "30 sec movie of L. rhamnosus heat-killed"
+      }
+    },
+    "46fd5163-f472-4372-bc38-d0b2b4b285b2": {
+      "id": "46fd5163-f472-4372-bc38-d0b2b4b285b2",
+      "name": "L rhamnosus Heat-killed 3.avi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/065/S-BSST1065/Files/L rhamnosus Heat-killed 3.avi",
+      "size_in_bytes": 456354736,
+      "type": null,
+      "attributes": {
+        "Description": "30 sec movie of L. rhamnosus heat-killed"
+      }
+    },
+    "b36f244b-50fc-4217-925f-4b676fc1d64c": {
+      "id": "b36f244b-50fc-4217-925f-4b676fc1d64c",
+      "name": "M smegmatis 1.avi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/065/S-BSST1065/Files/M smegmatis 1.avi",
+      "size_in_bytes": 311751296,
+      "type": null,
+      "attributes": {
+        "Description": "30 sec movie of M. smegmatis alive in LB"
+      }
+    },
+    "fc2dd511-04ac-4e21-8065-5862aeae19cf": {
+      "id": "fc2dd511-04ac-4e21-8065-5862aeae19cf",
+      "name": "M smegmatis 2.avi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/065/S-BSST1065/Files/M smegmatis 2.avi",
+      "size_in_bytes": 154001984,
+      "type": null,
+      "attributes": {
+        "Description": "30 sec movie of M. smegmatis alive in LB"
+      }
+    },
+    "b7c5de84-8b23-400c-a9bb-232d48ae44f4": {
+      "id": "b7c5de84-8b23-400c-a9bb-232d48ae44f4",
+      "name": "M smegmatis 3.avi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/065/S-BSST1065/Files/M smegmatis 3.avi",
+      "size_in_bytes": 292971616,
+      "type": null,
+      "attributes": {
+        "Description": "30 sec movie of M. smegmatis alive in LB"
+      }
+    },
+    "902625ab-a43b-4143-9f56-cd94f144a921": {
+      "id": "902625ab-a43b-4143-9f56-cd94f144a921",
+      "name": "M smegmatis 4.avi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/065/S-BSST1065/Files/M smegmatis 4.avi",
+      "size_in_bytes": 297666536,
+      "type": null,
+      "attributes": {
+        "Description": "30 sec movie of M. smegmatis alive in LB"
+      }
+    },
+    "c712fd00-97c1-492b-8764-0f34b87cd8ef": {
+      "id": "c712fd00-97c1-492b-8764-0f34b87cd8ef",
+      "name": "M smegmatis GA-treated.avi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/065/S-BSST1065/Files/M smegmatis GA-treated.avi",
+      "size_in_bytes": 294849584,
+      "type": null,
+      "attributes": {
+        "Description": "30 sec movie of M. smegmatis GA-treated"
+      }
+    },
+    "5599b475-5218-4bfa-9568-adcf060da93e": {
+      "id": "5599b475-5218-4bfa-9568-adcf060da93e",
+      "name": "Processed data.xlsx",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/065/S-BSST1065/Files/Processed data.xlsx",
+      "size_in_bytes": 84504,
+      "type": null,
+      "attributes": {
+        "Description": "Processed data"
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

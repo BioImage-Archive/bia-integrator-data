@@ -1,0 +1,27 @@
+{
+  "id": "fa8bbfb8-6572-4ece-bb29-7a3d39d282ca",
+  "accession_id": "S-BIAD106",
+  "name": "ImagingDataRelatedToFigS7b/Images/UN--W00015--P00004--Z00000--T00000--FITC SEM.tif",
+  "original_relpath": "ImagingDataRelatedToFigS7b/Images/UN--W00015--P00004--Z00000--T00000--FITC SEM.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD106",
+      "image_id": "fa8bbfb8-6572-4ece-bb29-7a3d39d282ca",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/106/S-BIAD106/Files/ImagingDataRelatedToFigS7b.zip",
+      "size": 8389307,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "40f32907-5333-4026-b126-d0f13a768157"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Description": "Original TIFFs corresponding to the panel, Well Description.txt file with Experimental Conditions in the folder",
+    "Acquisition method": "High-content widefield fluorescence microscopy"
+  }
+}

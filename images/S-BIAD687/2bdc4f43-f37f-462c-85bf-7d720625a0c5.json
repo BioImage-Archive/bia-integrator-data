@@ -1,0 +1,34 @@
+{
+  "id": "2bdc4f43-f37f-462c-85bf-7d720625a0c5",
+  "accession_id": "S-BIAD687",
+  "name": "ORF3a TGN46 Bst2 72hr e3.tif",
+  "original_relpath": "ORF3a TGN46 Bst2 72hr e3.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD687",
+      "image_id": "2bdc4f43-f37f-462c-85bf-7d720625a0c5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/687/S-BIAD687/Files/Figure 5D and Quant 5E.zip",
+      "size": 3150028,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "e3d36d91-d8ca-4b27-b831-071236fe16a8"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Figure": "5D",
+    "Quantification shown in Figure": "5E",
+    "Cells": "HeLa",
+    "Green": "TGN46",
+    "Red": "Tetherin",
+    "White": "(strep)",
+    "imaging method": "confocal",
+    "Analysis": "Mander's coefficient (Tetherin / TGN)",
+    "Comparitor": "mock vs ORF3a-strep"
+  }
+}

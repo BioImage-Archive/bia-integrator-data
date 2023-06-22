@@ -1,0 +1,30 @@
+{
+  "id": "e47f9748-a254-48a6-9ccc-ecafffbec5d8",
+  "accession_id": "S-BIAD686",
+  "name": "nii_test/E13/20170316_En1_E13_E1a_BODY_labels.nii",
+  "original_relpath": "nii_test/E13/20170316_En1_E13_E1a_BODY_labels.nii",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD686",
+      "image_id": "e47f9748-a254-48a6-9ccc-ecafffbec5d8",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/686/S-BIAD686/Files/nii_test/E13/20170316_En1_E13_E1a_BODY_labels.nii",
+      "size": 76696192,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "87d9d38e-c672-45f5-9795-8b7795f7acd9"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "date": "20170316",
+    "label type": "BODY",
+    "source image": "nii_test/E13/20170316_En1_E13_E1a.nii",
+    "Train-/Testset split": "test",
+    "Title": "Segmentation masks"
+  }
+}

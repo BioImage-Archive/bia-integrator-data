@@ -1,0 +1,27 @@
+{
+  "id": "1dcad6a9-965c-499e-8be0-38a39d2e6ddb",
+  "accession_id": "S-BIAD696",
+  "name": "FinalFigureRepresentativeImages/MDA/colony1.tiff",
+  "original_relpath": "FinalFigureRepresentativeImages/MDA/colony1.tiff",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD696",
+      "image_id": "1dcad6a9-965c-499e-8be0-38a39d2e6ddb",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/696/S-BIAD696/Files/ResistantColoniesAll.zip",
+      "size": 12583286,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "89b11b90-91a3-4d49-ae30-a25bf6298915"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "SecondaryFileStructure": "ExpandedResistantColonies_EndPointRNASeq; BulkResistant_LongitudonalRNASeq; FinalFigureRepresentativeImages",
+    "DataDescription": "Brightfield images of resistant clones across drug doses;  longitudonally brightfield imaged resistant clones for 1uM PLX; Selected representative images for final figures from all data"
+  }
+}

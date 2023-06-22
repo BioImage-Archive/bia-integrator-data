@@ -1,0 +1,35 @@
+{
+  "id": "2bf9d786-9d8d-41b8-b386-e5dee233fef2",
+  "accession_id": "S-BIAD618",
+  "name": "8bits/Figure4_Caput_40DPN.ims",
+  "original_relpath": "8bits/Figure4_Caput_40DPN.ims",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD618",
+      "image_id": "2bf9d786-9d8d-41b8-b386-e5dee233fef2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure4_datasources.zip",
+      "size": 1221346279,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "53adfb6c-20a1-4ac0-a67e-e704037c5a79"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Figures": "Figure4_Caput_40DPN.ims",
+    "Format": "ims",
+    "Chanels": "3",
+    "Markers": "VEGFR3:YFP; PLVAP, LYVE4",
+    "imaging technic": "Ultra microscope 1",
+    "Microscope": "LaVision Biotec",
+    "Magnification": "4x",
+    "Analysis": "na",
+    "ROI": "0",
+    "Protocol": "Whole-mount + 3DISCO"
+  }
+}

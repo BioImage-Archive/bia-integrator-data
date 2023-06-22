@@ -1,0 +1,40 @@
+{
+  "id": "38c4c8ec-8b19-4582-84d2-532b4b60b2da",
+  "accession_id": "S-BIAD368",
+  "name": "EuHetChrom/EuHetChrom_Rep1/200903_exp4.38_slide14_newsettings_010.nd2",
+  "original_relpath": "EuHetChrom/EuHetChrom_Rep1/200903_exp4.38_slide14_newsettings_010.nd2",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD368",
+      "image_id": "38c4c8ec-8b19-4582-84d2-532b4b60b2da",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/368/S-BIAD368/Files/EuHetChrom/EuHetChrom_Rep1/200903_exp4.38_slide14_newsettings_010.nd2",
+      "size": 17829888,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "ae2aa985-8adc-4b57-b2e8-65bc91441b56"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "File_Type": "nd2 image",
+    "Microscope": "Nikon A1 point-scanning confocal microscope ",
+    "Cell_Line": "HeLa-S3",
+    "Timepoint": "8hrs late G1",
+    "Treatment": "DMSO",
+    "Time_TreatmentAdded": "t2hrs",
+    "Experiment_Type": "Euchromatin/Heterochromatin Localization",
+    "Experimental_Replicate": "1",
+    "Mitotic_Sync_Protocol": "single thymidine block + 12hr nocodazole",
+    "Channel1": "DAPI",
+    "Channel2": "EGFP",
+    "Channel3": "Texas Red",
+    "Channel4": "NA",
+    "Stains_Tags": "DAPI, anti-H3K9me3 (AF488/EGFP channel), anti-H3K27ac (AF568/Texas Red channel)",
+    "Analysis_Step": "NA"
+  }
+}

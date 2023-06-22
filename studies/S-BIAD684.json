@@ -1,0 +1,109 @@
+{
+  "accession_id": "S-BIAD684",
+  "title": "Zebrafish behavioral phenotyping with SauronX",
+  "description": "Data for SauronX, a platform for phenotypic neuroactive compound discovery (doi:10.1101/2020.01.01.891432).",
+  "authors": [
+    {
+      "name": "Douglas Myers-Turnbull"
+    },
+    {
+      "name": "Jack C Taylor"
+    },
+    {
+      "name": "Cole Helsell"
+    },
+    {
+      "name": "Matthew McCarroll"
+    },
+    {
+      "name": "Reid Kinser"
+    },
+    {
+      "name": "Amanda Carbajal"
+    },
+    {
+      "name": "Rebekah Alexander"
+    },
+    {
+      "name": "Ashley Oh"
+    },
+    {
+      "name": "David Kokel"
+    },
+    {
+      "name": "Giancarlo Bruni"
+    },
+    {
+      "name": "Adam Melgoza"
+    },
+    {
+      "name": "Peter Rohweder"
+    },
+    {
+      "name": "Doug Wassarman"
+    },
+    {
+      "name": "Ethan Fertsch"
+    },
+    {
+      "name": "Louie Ramos"
+    },
+    {
+      "name": "Jason Town"
+    },
+    {
+      "name": "Carmen Espinosa"
+    },
+    {
+      "name": "Jackie Ernest"
+    },
+    {
+      "name": "Zach Hoisington"
+    }
+  ],
+  "organism": "Unknown",
+  "release_date": "2023-04-29",
+  "license": "CC BY 4.0",
+  "links": {},
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "example_annotation_uri": "",
+  "file_references": {
+    "f16b6b75-6c5b-4d6a-8990-759fcfc42a36": {
+      "id": "f16b6b75-6c5b-4d6a-8990-759fcfc42a36",
+      "name": "sets/qc-opt.arrow",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/684/S-BIAD684/Files/sets/qc-opt.arrow",
+      "size_in_bytes": 140461954,
+      "type": null,
+      "attributes": {
+        "Description": "Quality-control data on a 14-compound at optimal concentrations"
+      }
+    },
+    "658fdaf0-6857-4569-b31b-b501d067d570": {
+      "id": "658fdaf0-6857-4569-b31b-b501d067d570",
+      "name": "sets/qc-dr.arrow",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/684/S-BIAD684/Files/sets/qc-dr.arrow",
+      "size_in_bytes": 121570154,
+      "type": null,
+      "attributes": {
+        "Description": "Quality–control data on a 14-compound set at multiple concentrations"
+      }
+    },
+    "d125092c-fec2-44ed-8080-352181a7293c": {
+      "id": "d125092c-fec2-44ed-8080-352181a7293c",
+      "name": "sets/nt650.arrow",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/684/S-BIAD684/Files/sets/nt650.arrow",
+      "size_in_bytes": 900884210,
+      "type": null,
+      "attributes": {
+        "Description": "Reference data on the Enzo Life Sciences SCREEN-WELL® Neurotransmitter Library"
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

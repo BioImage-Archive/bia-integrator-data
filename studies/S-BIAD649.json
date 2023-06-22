@@ -1,0 +1,65 @@
+{
+  "accession_id": "S-BIAD649",
+  "title": "HSV-1 exploits host heterochromatin for nuclear egress: Figure 1",
+  "description": "HSV-1 exploits host heterochromatin for nuclear egress: Figure 1 Source Data",
+  "authors": [
+    {
+      "name": "Daphne Avgousti"
+    }
+  ],
+  "organism": "Unknown",
+  "release_date": "2023-04-30",
+  "license": "CC0",
+  "links": {},
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "example_annotation_uri": "",
+  "file_references": {
+    "b4d7855b-902d-4933-a550-3729124edbc4": {
+      "id": "b4d7855b-902d-4933-a550-3729124edbc4",
+      "name": "1a/WT_Uninfected_bottom_left.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/649/S-BIAD649/Files/1a/WT_Uninfected_bottom_left.tif",
+      "size_in_bytes": 30691724,
+      "type": null,
+      "attributes": {
+        "Cell Treatment": "WT uninfected"
+      }
+    },
+    "d2a6eaa2-7e71-4040-af0b-dfcb611ea17a": {
+      "id": "d2a6eaa2-7e71-4040-af0b-dfcb611ea17a",
+      "name": "1a/WT_Uninfected_bottom_right.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/649/S-BIAD649/Files/1a/WT_Uninfected_bottom_right.tif",
+      "size_in_bytes": 26074192,
+      "type": null,
+      "attributes": {
+        "Cell Treatment": "WT uninfected"
+      }
+    },
+    "e4f28963-69fd-40d8-85b6-a4893f57965c": {
+      "id": "e4f28963-69fd-40d8-85b6-a4893f57965c",
+      "name": "1a/WT_Uninfected_top_left.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/649/S-BIAD649/Files/1a/WT_Uninfected_top_left.tif",
+      "size_in_bytes": 22911612,
+      "type": null,
+      "attributes": {
+        "Cell Treatment": "WT uninfected"
+      }
+    },
+    "9fad9602-03ec-447b-bc7b-29fc4947a29d": {
+      "id": "9fad9602-03ec-447b-bc7b-29fc4947a29d",
+      "name": "1a/WT_Uninfected_top_right.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/649/S-BIAD649/Files/1a/WT_Uninfected_top_right.tif",
+      "size_in_bytes": 18161000,
+      "type": null,
+      "attributes": {
+        "Cell Treatment": "WT uninfected"
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

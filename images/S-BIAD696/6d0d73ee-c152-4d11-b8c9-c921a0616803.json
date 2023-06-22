@@ -1,0 +1,27 @@
+{
+  "id": "6d0d73ee-c152-4d11-b8c9-c921a0616803",
+  "accession_id": "S-BIAD696",
+  "name": "DAPIScans/WM989/drugDoseType/plate1/WellA3_Plate1/Stitch_Small_Scan001_dapi.tif",
+  "original_relpath": "DAPIScans/WM989/drugDoseType/plate1/WellA3_Plate1/Stitch_Small_Scan001_dapi.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD696",
+      "image_id": "6d0d73ee-c152-4d11-b8c9-c921a0616803",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/696/S-BIAD696/Files/ImmunoFluorescence.zip",
+      "size": 2108766,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "02fa6274-f5c5-4092-918b-fb374c1f6f8a"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "SecondaryFileStructure": "BarcodeSilencing; DAPIScans; dpERK; NGFR",
+    "DataDescription": "fluorescent imaging of barcoded GFP; fluorescent imaging of DAPI on fixed samples; fluorescent imaging of antibody dpERK for cell culture; fluorescent imaging of antibody NGFR for cell culture"
+  }
+}

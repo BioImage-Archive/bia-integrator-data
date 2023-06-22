@@ -1,0 +1,33 @@
+{
+  "id": "372e55e9-982b-497a-9b7a-95a1db41c290",
+  "accession_id": "S-BIAD608",
+  "name": "07_Confocal_image/02_Minflux_w2112_tracking__GFP_zoom.tif",
+  "original_relpath": "07_Confocal_image/02_Minflux_w2112_tracking__GFP_zoom.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD608",
+      "image_id": "372e55e9-982b-497a-9b7a-95a1db41c290",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/608/S-BIAD608/Files/Astra_upload_files/07_K560N_U2OS.zip",
+      "size": 262265,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "160beacb-ceb0-4af9-ac02-3fac09fd8318"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Description": "2D tracking in living cells",
+    "Biosample": "U2OS cell",
+    "Specimen": "Live cell HaloTag-K560",
+    "Image acquisition": "2D tracking high laser",
+    "Figure": "2",
+    "Data type": "Kinesin tracking data in npy file in zip",
+    "Kinesin type": "HaloTag-K560",
+    "Note ": "HaloTag-K560 live"
+  }
+}

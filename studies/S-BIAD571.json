@@ -1,0 +1,116 @@
+{
+  "accession_id": "S-BIAD571",
+  "title": "DNA-PK enables cGAS activation to promote cancer-associated inflammation",
+  "description": "Cytosolic DNAs promote inflammatory responses upon detection by the cyclic GMP-AMP (cGAMP) synthase (cGAS). It has been thus suggested that cGAS downregulation is an immune escape strategy harnessed by tumor cells. Here, we used glioblastoma cells that present undetectable cGAS levels to question whether alternative DNA detection pathways can promote pro-inflammatory signaling. We show that the DNA-PK DNA repair complex drives cGAS-independent inflammatory responses but that its catalytic activity is required for cGAS-dependent cGAMP production and optimal downstream signaling. We further show that the cooperation between DNA-PK and cGAS favors the expression of chemokines that promote macrophage recruitment in the tumor microenvironment, a process that impairesd early tumorigenesis but correlatesd with poor outcome. Thus, our study supports that cGAS-dependent signaling is acquired during tumorigenesis and that cGAS and DNA-PK activities should be analyzed concertedly to predict the impact of strategies aiming to boost tumor immunogenicity.",
+  "authors": [
+    {
+      "name": "Clara Taffoni"
+    },
+    {
+      "name": "Nadine Laguette"
+    }
+  ],
+  "organism": "Danio rerio (zebrafish)",
+  "release_date": "2023-01-19",
+  "license": "CC0",
+  "links": {},
+  "imaging_type": "Imaging",
+  "attributes": {},
+  "example_image_uri": "",
+  "example_annotation_uri": "",
+  "file_references": {
+    "0434bb94-38d4-4c03-8537-54d91c9189a5": {
+      "id": "0434bb94-38d4-4c03-8537-54d91c9189a5",
+      "name": "EV Figure 4/EV Fig 4B_T98G-GFP-cGAS.czi.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/571/S-BIAD571/Files/EV Figure 4/EV Fig 4B_T98G-GFP-cGAS.czi.tif",
+      "size_in_bytes": 114813035,
+      "type": null,
+      "attributes": {
+        "Description": "Representative images of T98G-GFP-cGAS cells xenotransplanted in Zebrafish head and counted in EV Fig 4A",
+        "md5": "EEC86BF7740515180452A7AEDBF7C23E"
+      }
+    },
+    "422af62d-722b-48a1-a1dc-15a3a9eff841": {
+      "id": "422af62d-722b-48a1-a1dc-15a3a9eff841",
+      "name": "EV Figure 4/EV Fig 4B_T98G-GFP-Empty.czi.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/571/S-BIAD571/Files/EV Figure 4/EV Fig 4B_T98G-GFP-Empty.czi.tif",
+      "size_in_bytes": 114813235,
+      "type": null,
+      "attributes": {
+        "Description": "Representative images of elongated T98G_GFP_Empty cells xenotransplanted in Zebrafish head and counted in EV Fig 4A",
+        "md5": "C47368CDAA0D750D556AF410F9DFB1EB"
+      }
+    },
+    "3bc1d896-e489-4c4e-b03b-3cafed0dc280": {
+      "id": "3bc1d896-e489-4c4e-b03b-3cafed0dc280",
+      "name": "Figure 4F/Fig 4F_T98G-GFP-cGAS D0.czi.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/571/S-BIAD571/Files/Figure 4F/Fig 4F_T98G-GFP-cGAS D0.czi.tif",
+      "size_in_bytes": 229617984,
+      "type": null,
+      "attributes": {
+        "Description": "T98G-GFP-cGAS were xenotransplanted in Zebrafish head. Tumor in green is visualized the day of the transplantation",
+        "md5": "1AB22CC6D244242F048F3E9BFAC2B66C"
+      }
+    },
+    "728e8408-bee8-4913-a359-e467e93090f4": {
+      "id": "728e8408-bee8-4913-a359-e467e93090f4",
+      "name": "Figure 4F/Fig 4F_T98G-GFP-cGAS D1.czi.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/571/S-BIAD571/Files/Figure 4F/Fig 4F_T98G-GFP-cGAS D1.czi.tif",
+      "size_in_bytes": 229617984,
+      "type": null,
+      "attributes": {
+        "Description": "T98G-GFP-cGAS were xenotransplanted in Zebrafish head. Tumor in green is visualized 1 day post transplantation",
+        "md5": "288EF27728EF96EBA3709549267CB90C"
+      }
+    },
+    "e116f20a-63b1-419c-955b-c39ffba64b4d": {
+      "id": "e116f20a-63b1-419c-955b-c39ffba64b4d",
+      "name": "Figure 4F/Fig 4F_T98G-GFP-cGAS D2.czi.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/571/S-BIAD571/Files/Figure 4F/Fig 4F_T98G-GFP-cGAS D2.czi.tif",
+      "size_in_bytes": 229617984,
+      "type": null,
+      "attributes": {
+        "Description": "T98G-GFP-cGAS were xenotransplanted in Zebrafish head. Tumor in green is visualized 2 days post transplantation",
+        "md5": "1A79C3F942694DF8B6D886F3B7FEC763"
+      }
+    },
+    "c32441aa-4203-4159-ac56-3c53db334aa2": {
+      "id": "c32441aa-4203-4159-ac56-3c53db334aa2",
+      "name": "Figure 4F/Fig 4F_T98G-GFP-Empty D0.czi.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/571/S-BIAD571/Files/Figure 4F/Fig 4F_T98G-GFP-Empty D0.czi.tif",
+      "size_in_bytes": 229617984,
+      "type": null,
+      "attributes": {
+        "Description": "T98G-GFP-Empty were xenotransplanted in Zebrafish head. Tumor in green is visualized the day of the transplantation",
+        "md5": "DED1F375073C06971A818A9349919F57"
+      }
+    },
+    "eba16bc6-0144-4740-beb8-e56134db95ac": {
+      "id": "eba16bc6-0144-4740-beb8-e56134db95ac",
+      "name": "Figure 4F/Fig 4F_T98G-GFP-Empty D1.czi.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/571/S-BIAD571/Files/Figure 4F/Fig 4F_T98G-GFP-Empty D1.czi.tif",
+      "size_in_bytes": 229617984,
+      "type": null,
+      "attributes": {
+        "Description": "T98G-GFP-Empty were xenotransplanted in Zebrafish head. Tumor in green is visualized 1 day post transplantation",
+        "md5": "57FA0D1D624195DFDF18EB84B14CCB9E"
+      }
+    },
+    "badde32c-ad35-4b18-b7d6-9d6aa6c3b043": {
+      "id": "badde32c-ad35-4b18-b7d6-9d6aa6c3b043",
+      "name": "Figure 4F/Fig 4F_T98G-GFP-Empty D2.czi.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/571/S-BIAD571/Files/Figure 4F/Fig 4F_T98G-GFP-Empty D2.czi.tif",
+      "size_in_bytes": 229617984,
+      "type": null,
+      "attributes": {
+        "Description": "T98G-GFP-Empty were xenotransplanted in Zebrafish head. Tumor in green is visualized 2 days post transplantation",
+        "md5": "FA8DBD0A9916C56E277C977DC941DC0B"
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

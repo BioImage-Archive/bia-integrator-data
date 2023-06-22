@@ -1,0 +1,2447 @@
+{
+  "accession_id": "S-BSST1025",
+  "title": "In support of: In the murine and bovine maternal mammary gland signal transducer and activator of transcription 3 is activated in clusters of epithelial cells around the day of birth",
+  "description": "Image-data, ilastik pixel classification project, CellProfiler pipeline and MATLAB code enabling the local correlation quotient analysis described in the paper entitled: In the murine and bovine maternal mammary gland signal transducer and activator of transcription 3 is activated in clusters of epithelial cells around the day of birth.",
+  "authors": [
+    {
+      "name": "John Wills"
+    }
+  ],
+  "organism": "Bos Taurus (cow)",
+  "release_date": "2023-02-28",
+  "license": "CC0",
+  "links": {},
+  "imaging_type": "Unknown",
+  "attributes": {
+    "filetype_breakdown": "{'.zip': {'n': 1, 'size_in_bytes': 1049042803, 'size_human_readable': '1000.4MiB'}, 'none in .zip': {'n': 6, 'size_in_bytes': 38936, 'size_human_readable': '38.0KiB'}, '.tif in .zip': {'n': 40, 'size_in_bytes': 1345572408, 'size_human_readable': '1.3GiB'}, '.ilp in .zip': {'n': 2, 'size_in_bytes': 335929445, 'size_human_readable': '320.4MiB'}, '.cpproj in .zip': {'n': 1, 'size_in_bytes': 975987, 'size_human_readable': '953.1KiB'}, '.m in .zip': {'n': 1, 'size_in_bytes': 4685, 'size_human_readable': '4.6KiB'}, '.png in .zip': {'n': 8, 'size_in_bytes': 6030434, 'size_human_readable': '5.8MiB'}, '.txt in .zip': {'n': 2, 'size_in_bytes': 16494455, 'size_human_readable': '15.7MiB'}, '.npy in .zip': {'n': 8, 'size_in_bytes': 926080608, 'size_human_readable': '883.2MiB'}}",
+    "filetype_breakdown_html": "<ul><li>.zip: 1 (1000.4MiB)</li><li>Zip contents (not included it study totals above):<ul><li>.cpproj in .zip: 1 (953.1KiB)</li><li>.ilp in .zip: 2 (320.4MiB)</li><li>.m in .zip: 1 (4.6KiB)</li><li>.npy in .zip: 8 (883.2MiB)</li><li>.png in .zip: 8 (5.8MiB)</li><li>.tif in .zip: 40 (1.3GiB)</li><li>.txt in .zip: 2 (15.7MiB)</li><li>none in .zip: 6 (38.0KiB)</li></ul></ul>",
+    "n_files_excluding_zip_contents": "1",
+    "n_files_including_zip_contents": "69",
+    "study_size": "1000.4MiB",
+    "study_size_human_readable": "1000.4MiB",
+    "study_size_in_bytes": "1049042803"
+  },
+  "example_image_uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BSST1025/1db2156a-e607-4edd-a871-b044c2f1f040/1db2156a-e607-4edd-a871-b044c2f1f040-representative-512-512.png",
+  "example_annotation_uri": "",
+  "file_references": {
+    "05166f03-e178-40e6-95ba-e1bee2365a8e": {
+      "id": "05166f03-e178-40e6-95ba-e1bee2365a8e",
+      "name": "20230211_pSTAT3_BioStudies_upload.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 1049042803,
+      "type": null,
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "de4fc497-d2e2-455c-92d8-22de71b16485": {
+      "id": "de4fc497-d2e2-455c-92d8-22de71b16485",
+      "name": "20230211_PSTAT3_BioStudies_upload/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "fcb2a6bc-de18-46be-858d-6f63aad3ff80": {
+      "id": "fcb2a6bc-de18-46be-858d-6f63aad3ff80",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "52d708ca-3562-4156-bb3a-d161ab306ef4": {
+      "id": "52d708ca-3562-4156-bb3a-d161ab306ef4",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/.DS_Store",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 6148,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "05f17202-0814-4185-97d3-668457f72ea7": {
+      "id": "05f17202-0814-4185-97d3-668457f72ea7",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/004.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 86386724,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "7f8cca13-ff9a-407c-bfa4-ebd5c31606f2": {
+      "id": "7f8cca13-ff9a-407c-bfa4-ebd5c31606f2",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/tissue_masks_outputs/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "94e10246-cc14-4428-b192-fb23a641401a": {
+      "id": "94e10246-cc14-4428-b192-fb23a641401a",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/tissue_masks_outputs/004_Simple Segmentation.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 606850,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "7f758f49-7583-4735-a205-d234ebc9c817": {
+      "id": "7f758f49-7583-4735-a205-d234ebc9c817",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/tissue_masks_outputs/003_Simple Segmentation.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 388386,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "c847c12a-44d1-4e1f-978a-647e8bf36690": {
+      "id": "c847c12a-44d1-4e1f-978a-647e8bf36690",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/tissue_masks_outputs/001_Simple Segmentation.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 329082,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "0bd7bf5e-fd51-4bb4-b190-83b15d91c195": {
+      "id": "0bd7bf5e-fd51-4bb4-b190-83b15d91c195",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/tissue_masks_outputs/002_Simple Segmentation.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 365730,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "c7d8a65d-8f0b-4d34-aedd-999b3244195f": {
+      "id": "c7d8a65d-8f0b-4d34-aedd-999b3244195f",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/nuclei_pmap_outputs/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "74b1552b-acd0-412d-a18c-5c518bf1365f": {
+      "id": "74b1552b-acd0-412d-a18c-5c518bf1365f",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/nuclei_pmap_outputs/004_ProbabilitiesL2.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 15678414,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "5dd8fc33-c330-4b86-baf7-a93db5ea2846": {
+      "id": "5dd8fc33-c330-4b86-baf7-a93db5ea2846",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/nuclei_pmap_outputs/004_ProbabilitiesL1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 9213510,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "122fc5f5-f862-4cbe-9089-2f63e67d7895": {
+      "id": "122fc5f5-f862-4cbe-9089-2f63e67d7895",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/nuclei_pmap_outputs/001_ProbabilitiesL2.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 16058632,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "e6fdd5e8-92d8-426c-afac-7000a0db9327": {
+      "id": "e6fdd5e8-92d8-426c-afac-7000a0db9327",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/nuclei_pmap_outputs/003_ProbabilitiesL1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 8555702,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "f0454d10-2008-44e9-bbf3-fcce8eef7679": {
+      "id": "f0454d10-2008-44e9-bbf3-fcce8eef7679",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/nuclei_pmap_outputs/002_ProbabilitiesL1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 3894434,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "df9761fb-4ca3-4af4-8526-6e943eb80fa6": {
+      "id": "df9761fb-4ca3-4af4-8526-6e943eb80fa6",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/nuclei_pmap_outputs/001_ProbabilitiesL1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 7712776,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "39564efc-327a-40a3-9a3d-16c5fdf1486b": {
+      "id": "39564efc-327a-40a3-9a3d-16c5fdf1486b",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/nuclei_pmap_outputs/003_ProbabilitiesL2.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 19205398,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "a3e1399b-1523-412b-9be0-bde8f703840c": {
+      "id": "a3e1399b-1523-412b-9be0-bde8f703840c",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/nuclei_pmap_outputs/002_ProbabilitiesL2.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 11882478,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "e830bce9-6c0a-458e-99ec-31c608afd515": {
+      "id": "e830bce9-6c0a-458e-99ec-31c608afd515",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/003.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 86760552,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "b143f81a-cc7e-438e-b77d-7964bc999f78": {
+      "id": "b143f81a-cc7e-438e-b77d-7964bc999f78",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/002.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 87179420,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "310e03cd-5be2-45f1-a1e9-dcbd351be48b": {
+      "id": "310e03cd-5be2-45f1-a1e9-dcbd351be48b",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/001.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 87046972,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "f7e4f306-8306-4de1-8015-77dac138208d": {
+      "id": "f7e4f306-8306-4de1-8015-77dac138208d",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/20210124_masks.ilp",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 301621188,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "f8922a3d-a5c8-4643-b988-4adab9943095": {
+      "id": "f8922a3d-a5c8-4643-b988-4adab9943095",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/20210124_nuclei.ilp",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 34308257,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "bf0786d4-0138-4dfd-b3a0-7c7da8b93d69": {
+      "id": "bf0786d4-0138-4dfd-b3a0-7c7da8b93d69",
+      "name": "20230211_PSTAT3_BioStudies_upload/.DS_Store",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 8196,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "2d40f218-19e9-4b0f-8c2c-6c48b3a00869": {
+      "id": "2d40f218-19e9-4b0f-8c2c-6c48b3a00869",
+      "name": "20230211_PSTAT3_BioStudies_upload/3_CellProfiler_Pipeline/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "a2575233-f1a8-4571-bf25-d2bf3b3a6ef8": {
+      "id": "a2575233-f1a8-4571-bf25-d2bf3b3a6ef8",
+      "name": "20230211_PSTAT3_BioStudies_upload/3_CellProfiler_Pipeline/.DS_Store",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 6148,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "e246d8be-f0be-43ec-a222-d77975f436be": {
+      "id": "e246d8be-f0be-43ec-a222-d77975f436be",
+      "name": "20230211_PSTAT3_BioStudies_upload/3_CellProfiler_Pipeline/20210218_pSTAT3_image_analysis_pipeline.cpproj",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 975987,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "157f1d42-49b0-43dc-82af-00788cc8356f": {
+      "id": "157f1d42-49b0-43dc-82af-00788cc8356f",
+      "name": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "40ece743-3646-423b-b6c3-abd7e268d2fa": {
+      "id": "40ece743-3646-423b-b6c3-abd7e268d2fa",
+      "name": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/.DS_Store",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 6148,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "d3dbba9d-a72a-4985-9716-540354d83712": {
+      "id": "d3dbba9d-a72a-4985-9716-540354d83712",
+      "name": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/C_pSTAT3_analysis_self_clustering.m",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 4685,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "289223a8-df9a-4f63-8a4b-9f6a6ba2664c": {
+      "id": "289223a8-df9a-4f63-8a4b-9f6a6ba2664c",
+      "name": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "275fd2a7-f69d-4b84-83fc-c1ef3f023102": {
+      "id": "275fd2a7-f69d-4b84-83fc-c1ef3f023102",
+      "name": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/Positive/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "b4c6039c-5fd7-421f-90c7-ad490f7f9b13": {
+      "id": "b4c6039c-5fd7-421f-90c7-ad490f7f9b13",
+      "name": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/Positive/pSTAT3-positive_self_clustering__field4.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 643798,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "8242bfab-cf52-4af6-8342-54ab01084b36": {
+      "id": "8242bfab-cf52-4af6-8342-54ab01084b36",
+      "name": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/Positive/pSTAT3-positive_self_clustering__field1.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 734920,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "828dcee4-054a-46f9-9980-8c9eef9f6b69": {
+      "id": "828dcee4-054a-46f9-9980-8c9eef9f6b69",
+      "name": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/Positive/pSTAT3-positive_self_clustering__field2.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 526258,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "67ce6c6b-cad2-42fc-912d-53beaaa433f4": {
+      "id": "67ce6c6b-cad2-42fc-912d-53beaaa433f4",
+      "name": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/Positive/pSTAT3-positive_self_clustering__field3.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 880773,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "74be0192-9d79-4716-9ef1-537064b8f4ef": {
+      "id": "74be0192-9d79-4716-9ef1-537064b8f4ef",
+      "name": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/Negative/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "f236fb36-bcb7-49fc-9d66-2ba7bb0937a8": {
+      "id": "f236fb36-bcb7-49fc-9d66-2ba7bb0937a8",
+      "name": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/Negative/pSTAT3-negative_self_clustering__field1.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 932678,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "ccfe0bbf-befa-4cfd-a1b7-d6824ffacc4f": {
+      "id": "ccfe0bbf-befa-4cfd-a1b7-d6824ffacc4f",
+      "name": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/Negative/pSTAT3-negative_self_clustering__field3.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 914761,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "9e992433-2f16-4a78-bb40-448e52cbbac3": {
+      "id": "9e992433-2f16-4a78-bb40-448e52cbbac3",
+      "name": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/Negative/pSTAT3-negative_self_clustering__field2.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 611109,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "d4e7a6d9-4982-453e-a321-11d26f14430e": {
+      "id": "d4e7a6d9-4982-453e-a321-11d26f14430e",
+      "name": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/Negative/pSTAT3-negative_self_clustering__field4.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 786137,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "2ab2a6a0-f69e-4f12-92d9-6da068513dab": {
+      "id": "2ab2a6a0-f69e-4f12-92d9-6da068513dab",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "ffe87632-e39d-405b-a0e6-e8369a696c56": {
+      "id": "ffe87632-e39d-405b-a0e6-e8369a696c56",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/MyExpt_Negative_Nuclei.txt",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 13066329,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "8b417a4f-c5aa-4401-9b02-adea90b08afd": {
+      "id": "8b417a4f-c5aa-4401-9b02-adea90b08afd",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/.DS_Store",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 6148,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "6ba35a51-00a9-4948-9962-29f96cb36566": {
+      "id": "6ba35a51-00a9-4948-9962-29f96cb36566",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/MyExpt_Positive_Nuclei.txt",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 3428126,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "6f8a685b-ce45-4800-b548-f83e6ebfa468": {
+      "id": "6f8a685b-ce45-4800-b548-f83e6ebfa468",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/Segmentation_checker/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "17cec65f-ee59-4a2c-96f7-32d07cacb72b": {
+      "id": "17cec65f-ee59-4a2c-96f7-32d07cacb72b",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/Segmentation_checker/Segmentation_checker004.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 86362880,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "f106a73e-b7f6-4ae0-b54a-5597a1e2ce7c": {
+      "id": "f106a73e-b7f6-4ae0-b54a-5597a1e2ce7c",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/Segmentation_checker/Segmentation_checker003.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 86737580,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "69b58712-c445-4cab-91f0-51d82db4b01c": {
+      "id": "69b58712-c445-4cab-91f0-51d82db4b01c",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/Segmentation_checker/Segmentation_checker002.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 87157688,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "95e4330a-2710-49d5-870b-b7a766502307": {
+      "id": "95e4330a-2710-49d5-870b-b7a766502307",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/Segmentation_checker/Segmentation_checker001.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 87022976,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "b88837c1-7556-4541-88eb-650c171d7fb7": {
+      "id": "b88837c1-7556-4541-88eb-650c171d7fb7",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/PositiveNuclei_Masks/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "36e6d187-98c7-4175-a837-c9c28970d6bb": {
+      "id": "36e6d187-98c7-4175-a837-c9c28970d6bb",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/PositiveNuclei_Masks/PositiveNuclei_Masks003.npy",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 115649808,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "3e3d8e13-e56b-471f-a003-14bae9d80599": {
+      "id": "3e3d8e13-e56b-471f-a003-14bae9d80599",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/PositiveNuclei_Masks/PositiveNuclei_Masks002.npy",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 116209952,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "54b966bc-c767-423b-878f-2587fcea79fc": {
+      "id": "54b966bc-c767-423b-878f-2587fcea79fc",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/PositiveNuclei_Masks/PositiveNuclei_Masks001.npy",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 116030336,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "4f4cab58-adb3-4e03-9732-404b598160da": {
+      "id": "4f4cab58-adb3-4e03-9732-404b598160da",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/PositiveNuclei_Masks/PositiveNuclei_Masks004.npy",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 115150208,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "ce05908f-9215-4550-be9b-6203fe51e237": {
+      "id": "ce05908f-9215-4550-be9b-6203fe51e237",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/NegativeNuclei_Masks/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "b66f9adf-7d4f-434c-a475-16aeeb50e440": {
+      "id": "b66f9adf-7d4f-434c-a475-16aeeb50e440",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/NegativeNuclei_Masks/NegativeNuclei_Masks004.npy",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 115150208,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "7b648fa3-c8c2-4cd9-863d-5ffcf5e3b5b8": {
+      "id": "7b648fa3-c8c2-4cd9-863d-5ffcf5e3b5b8",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/NegativeNuclei_Masks/NegativeNuclei_Masks002.npy",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 116209952,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "003ac0ae-2566-477c-8ff1-fc5840a3e3b0": {
+      "id": "003ac0ae-2566-477c-8ff1-fc5840a3e3b0",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/NegativeNuclei_Masks/NegativeNuclei_Masks003.npy",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 115649808,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "a29b7170-121b-47a5-beab-66b963368fa3": {
+      "id": "a29b7170-121b-47a5-beab-66b963368fa3",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/NegativeNuclei_Masks/NegativeNuclei_Masks001.npy",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 116030336,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "caf79072-4a6c-488e-bda5-398b4c0925dc": {
+      "id": "caf79072-4a6c-488e-bda5-398b4c0925dc",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/Tissue_Mask/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "441b783d-b26d-451b-817a-3c8d84e83ae7": {
+      "id": "441b783d-b26d-451b-817a-3c8d84e83ae7",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/Tissue_Mask/Tissue_Mask001.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 29007856,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "e218b336-53f8-4428-8527-b6ebab637d84": {
+      "id": "e218b336-53f8-4428-8527-b6ebab637d84",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/Tissue_Mask/Tissue_Mask004.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 28787824,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "a0417ca5-b8cc-4274-ab8a-cac291103b49": {
+      "id": "a0417ca5-b8cc-4274-ab8a-cac291103b49",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/Tissue_Mask/Tissue_Mask002.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 29052760,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "a394b6a4-fa35-4929-a6a7-12b43bc33055": {
+      "id": "a394b6a4-fa35-4929-a6a7-12b43bc33055",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/Tissue_Mask/Tissue_Mask003.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 28912724,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "b5eb1d90-df8d-4586-9e49-8797ef7a6149": {
+      "id": "b5eb1d90-df8d-4586-9e49-8797ef7a6149",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "3c9d2ec5-b23a-4774-97a6-0f7ce81b07a2": {
+      "id": "3c9d2ec5-b23a-4774-97a6-0f7ce81b07a2",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/.DS_Store",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 6148,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "d0dd816d-b459-4c73-943d-1eb7509c176d": {
+      "id": "d0dd816d-b459-4c73-943d-1eb7509c176d",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_1/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "3d65853e-5d8b-434a-a121-f92ed4cf9787": {
+      "id": "3d65853e-5d8b-434a-a121-f92ed4cf9787",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_1/Ch_1_lm_001.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 87046972,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "5c8f6b79-83db-45d3-9f35-8fab4c789769": {
+      "id": "5c8f6b79-83db-45d3-9f35-8fab4c789769",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_1/Ch_1_lm_003.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 86760552,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "b89a0328-cb61-4a02-9c64-8e96bfb8beff": {
+      "id": "b89a0328-cb61-4a02-9c64-8e96bfb8beff",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_1/Ch_1_lm_002.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 87179420,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "113c5e2d-d9b3-4b2a-885e-fd05403e490e": {
+      "id": "113c5e2d-d9b3-4b2a-885e-fd05403e490e",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_1/Ch_1_lm_004.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 86386724,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "7b30055a-103b-4979-8de8-3a6beea354a4": {
+      "id": "7b30055a-103b-4979-8de8-3a6beea354a4",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_3/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "42e59d87-63ba-4c09-b2bb-8b53e8d90145": {
+      "id": "42e59d87-63ba-4c09-b2bb-8b53e8d90145",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_3/Ch_3_lm_001.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 16058632,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "ed48facf-c3e4-4964-b0b8-22b7b13b6593": {
+      "id": "ed48facf-c3e4-4964-b0b8-22b7b13b6593",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_3/Ch_3_lm_002.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 11882478,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "ae72c891-5a87-4bd3-92b5-04f5a3ea53b5": {
+      "id": "ae72c891-5a87-4bd3-92b5-04f5a3ea53b5",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_3/Ch_3_lm_003.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 19205398,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "7817cd8a-515a-4c2f-97d9-87627918cdb9": {
+      "id": "7817cd8a-515a-4c2f-97d9-87627918cdb9",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_3/Ch_3_lm_004.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 15678414,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "7c6304a1-d1ab-4b0f-9507-3f1fb3655ed8": {
+      "id": "7c6304a1-d1ab-4b0f-9507-3f1fb3655ed8",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_4/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "a0c1ca10-bd9f-4c6a-b5bc-d14646e8a3cd": {
+      "id": "a0c1ca10-bd9f-4c6a-b5bc-d14646e8a3cd",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_4/Ch_4_lm_004.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 606850,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "6a9628ea-d396-4a3c-aaf8-ebb2f72f3f01": {
+      "id": "6a9628ea-d396-4a3c-aaf8-ebb2f72f3f01",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_4/Ch_4_lm_003.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 388386,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "9cda6ca2-2fe9-4fbe-866a-9e66d8512954": {
+      "id": "9cda6ca2-2fe9-4fbe-866a-9e66d8512954",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_4/Ch_4_lm_002.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 365730,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "8ecb20c4-8d36-4034-bf0d-c7ebf68a970b": {
+      "id": "8ecb20c4-8d36-4034-bf0d-c7ebf68a970b",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_4/Ch_4_lm_001.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 329082,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "9539d9cd-5c10-4473-8467-00fb8d23b9a1": {
+      "id": "9539d9cd-5c10-4473-8467-00fb8d23b9a1",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_2/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "45f13da9-f09c-4515-9d1e-e4ab0dc48c27": {
+      "id": "45f13da9-f09c-4515-9d1e-e4ab0dc48c27",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_2/Ch_2_lm_004.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 9213510,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "710d67b9-d812-4601-b8a3-cc5849f93d47": {
+      "id": "710d67b9-d812-4601-b8a3-cc5849f93d47",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_2/Ch_2_lm_001.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 7712776,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "468f12a6-e6ed-4f84-882b-6e4c9312f7eb": {
+      "id": "468f12a6-e6ed-4f84-882b-6e4c9312f7eb",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_2/Ch_2_lm_002.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 3894434,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    },
+    "f236b5e2-8a33-4786-8455-b90664a15ee7": {
+      "id": "f236b5e2-8a33-4786-8455-b90664a15ee7",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_2/Ch_2_lm_003.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+      "size_in_bytes": 8555702,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code"
+      }
+    }
+  },
+  "images": {
+    "06b07265-5f4d-4eb9-b28b-781745f08f51": {
+      "id": "06b07265-5f4d-4eb9-b28b-781745f08f51",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_4/Ch_4_lm_004.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_4/Ch_4_lm_004.tif",
+      "dimensions": "(1, 1, 1, 4584, 6280)",
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "06b07265-5f4d-4eb9-b28b-781745f08f51",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 606850,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "a0c1ca10-bd9f-4c6a-b5bc-d14646e8a3cd"
+            ]
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "06b07265-5f4d-4eb9-b28b-781745f08f51",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BSST1025/06b07265-5f4d-4eb9-b28b-781745f08f51/06b07265-5f4d-4eb9-b28b-781745f08f51.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "06b07265-5f4d-4eb9-b28b-781745f08f51",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BSST1025/06b07265-5f4d-4eb9-b28b-781745f08f51/06b07265-5f4d-4eb9-b28b-781745f08f51-thumbnail-128-128.png",
+          "size": 0,
+          "type": "thumbnail",
+          "dimensions": "(128, 128)",
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "SizeC": "1",
+        "SizeT": "1",
+        "SizeX": "6280",
+        "SizeY": "4584",
+        "SizeZ": "1",
+        "big_endian": "True",
+        "channels": "[{'id': 'Channel:0:0', 'color': 'white', 'samples_per_pixel': 1}]",
+        "dimension_order": "XYZCT",
+        "download_size": "In 1000.4MiB zip",
+        "interleaved": "False",
+        "metadata_only": "True",
+        "significant_bits": "8",
+        "size_c": "1",
+        "size_t": "1",
+        "size_x": "6280",
+        "size_y": "4584",
+        "size_z": "1",
+        "type": "uint8"
+      }
+    },
+    "073673c9-220f-454f-924b-47d17ddd7894": {
+      "id": "073673c9-220f-454f-924b-47d17ddd7894",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_3/Ch_3_lm_002.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_3/Ch_3_lm_002.tif",
+      "dimensions": "(1, 1, 1, 4594, 6324)",
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "073673c9-220f-454f-924b-47d17ddd7894",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 11882478,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "ed48facf-c3e4-4964-b0b8-22b7b13b6593"
+            ]
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "073673c9-220f-454f-924b-47d17ddd7894",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BSST1025/073673c9-220f-454f-924b-47d17ddd7894/073673c9-220f-454f-924b-47d17ddd7894.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "073673c9-220f-454f-924b-47d17ddd7894",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BSST1025/073673c9-220f-454f-924b-47d17ddd7894/073673c9-220f-454f-924b-47d17ddd7894-thumbnail-128-128.png",
+          "size": 0,
+          "type": "thumbnail",
+          "dimensions": "(128, 128)",
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "SizeC": "1",
+        "SizeT": "1",
+        "SizeX": "6324",
+        "SizeY": "4594",
+        "SizeZ": "1",
+        "big_endian": "True",
+        "channels": "[{'id': 'Channel:0:0', 'color': 'white', 'samples_per_pixel': 1}]",
+        "dimension_order": "XYZCT",
+        "download_size": "In 1000.4MiB zip",
+        "interleaved": "False",
+        "metadata_only": "True",
+        "significant_bits": "32",
+        "size_c": "1",
+        "size_t": "1",
+        "size_x": "6324",
+        "size_y": "4594",
+        "size_z": "1",
+        "type": "float"
+      }
+    },
+    "0c11c045-106d-4547-85a0-425cdd735dcd": {
+      "id": "0c11c045-106d-4547-85a0-425cdd735dcd",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/nuclei_pmap_outputs/002_ProbabilitiesL2.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/nuclei_pmap_outputs/002_ProbabilitiesL2.tif",
+      "dimensions": "(1, 1, 1, 4594, 6324)",
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "0c11c045-106d-4547-85a0-425cdd735dcd",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 11882478,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "a3e1399b-1523-412b-9be0-bde8f703840c"
+            ]
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "0c11c045-106d-4547-85a0-425cdd735dcd",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BSST1025/0c11c045-106d-4547-85a0-425cdd735dcd/0c11c045-106d-4547-85a0-425cdd735dcd.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "0c11c045-106d-4547-85a0-425cdd735dcd",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BSST1025/0c11c045-106d-4547-85a0-425cdd735dcd/0c11c045-106d-4547-85a0-425cdd735dcd-thumbnail-128-128.png",
+          "size": 0,
+          "type": "thumbnail",
+          "dimensions": "(128, 128)",
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "SizeC": "1",
+        "SizeT": "1",
+        "SizeX": "6324",
+        "SizeY": "4594",
+        "SizeZ": "1",
+        "big_endian": "True",
+        "channels": "[{'id': 'Channel:0:0', 'color': 'white', 'samples_per_pixel': 1}]",
+        "dimension_order": "XYZCT",
+        "download_size": "In 1000.4MiB zip",
+        "interleaved": "False",
+        "metadata_only": "True",
+        "significant_bits": "32",
+        "size_c": "1",
+        "size_t": "1",
+        "size_x": "6324",
+        "size_y": "4594",
+        "size_z": "1",
+        "type": "float"
+      }
+    },
+    "0eb51dc1-4b7a-4d19-8f23-78754a463230": {
+      "id": "0eb51dc1-4b7a-4d19-8f23-78754a463230",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_2/Ch_2_lm_002.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_2/Ch_2_lm_002.tif",
+      "dimensions": "(1, 1, 1, 4594, 6324)",
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "0eb51dc1-4b7a-4d19-8f23-78754a463230",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 3894434,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "468f12a6-e6ed-4f84-882b-6e4c9312f7eb"
+            ]
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "0eb51dc1-4b7a-4d19-8f23-78754a463230",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BSST1025/0eb51dc1-4b7a-4d19-8f23-78754a463230/0eb51dc1-4b7a-4d19-8f23-78754a463230.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "0eb51dc1-4b7a-4d19-8f23-78754a463230",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BSST1025/0eb51dc1-4b7a-4d19-8f23-78754a463230/0eb51dc1-4b7a-4d19-8f23-78754a463230-thumbnail-128-128.png",
+          "size": 0,
+          "type": "thumbnail",
+          "dimensions": "(128, 128)",
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "SizeC": "1",
+        "SizeT": "1",
+        "SizeX": "6324",
+        "SizeY": "4594",
+        "SizeZ": "1",
+        "big_endian": "True",
+        "channels": "[{'id': 'Channel:0:0', 'color': 'white', 'samples_per_pixel': 1}]",
+        "dimension_order": "XYZCT",
+        "download_size": "In 1000.4MiB zip",
+        "interleaved": "False",
+        "metadata_only": "True",
+        "significant_bits": "32",
+        "size_c": "1",
+        "size_t": "1",
+        "size_x": "6324",
+        "size_y": "4594",
+        "size_z": "1",
+        "type": "float"
+      }
+    },
+    "1a9dddcf-18d5-477b-b7d9-2a7e83c633d7": {
+      "id": "1a9dddcf-18d5-477b-b7d9-2a7e83c633d7",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/Positive/pSTAT3-positive_self_clustering__field1.png",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/Positive/pSTAT3-positive_self_clustering__field1.png",
+      "dimensions": "(1, 3, 1, 1819, 2784)",
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "1a9dddcf-18d5-477b-b7d9-2a7e83c633d7",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 734920,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "8242bfab-cf52-4af6-8342-54ab01084b36"
+            ]
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "1a9dddcf-18d5-477b-b7d9-2a7e83c633d7",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BSST1025/1a9dddcf-18d5-477b-b7d9-2a7e83c633d7/1a9dddcf-18d5-477b-b7d9-2a7e83c633d7.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "1a9dddcf-18d5-477b-b7d9-2a7e83c633d7",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BSST1025/1a9dddcf-18d5-477b-b7d9-2a7e83c633d7/1a9dddcf-18d5-477b-b7d9-2a7e83c633d7-thumbnail-128-128.png",
+          "size": 0,
+          "type": "thumbnail",
+          "dimensions": "(128, 128)",
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "SizeC": "3",
+        "SizeT": "1",
+        "SizeX": "2784",
+        "SizeY": "1819",
+        "SizeZ": "1",
+        "big_endian": "True",
+        "channels": "[{'id': 'Channel:0:0', 'color': 'white', 'samples_per_pixel': 1}, {'id': 'Channel:0:1', 'color': 'white', 'samples_per_pixel': 1}, {'id': 'Channel:0:2', 'color': 'white', 'samples_per_pixel': 1}]",
+        "dimension_order": "XYZCT",
+        "download_size": "In 1000.4MiB zip",
+        "interleaved": "True",
+        "metadata_only": "True",
+        "significant_bits": "8",
+        "size_c": "3",
+        "size_t": "1",
+        "size_x": "2784",
+        "size_y": "1819",
+        "size_z": "1",
+        "type": "uint8"
+      }
+    },
+    "1db2156a-e607-4edd-a871-b044c2f1f040": {
+      "id": "1db2156a-e607-4edd-a871-b044c2f1f040",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_1/Ch_1_lm_002.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_1/Ch_1_lm_002.tif",
+      "dimensions": "(1, 3, 1, 4594, 6324)",
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "1db2156a-e607-4edd-a871-b044c2f1f040",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 87179420,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "b89a0328-cb61-4a02-9c64-8e96bfb8beff"
+            ]
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "1db2156a-e607-4edd-a871-b044c2f1f040",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BSST1025/1db2156a-e607-4edd-a871-b044c2f1f040/1db2156a-e607-4edd-a871-b044c2f1f040.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "1db2156a-e607-4edd-a871-b044c2f1f040",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BSST1025/1db2156a-e607-4edd-a871-b044c2f1f040/1db2156a-e607-4edd-a871-b044c2f1f040-representative-512-512.png",
+          "size": 0,
+          "type": "representative",
+          "dimensions": "(512, 512)",
+          "attributes": null,
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "1db2156a-e607-4edd-a871-b044c2f1f040",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BSST1025/1db2156a-e607-4edd-a871-b044c2f1f040/1db2156a-e607-4edd-a871-b044c2f1f040-thumbnail-128-128.png",
+          "size": 0,
+          "type": "thumbnail",
+          "dimensions": "(128, 128)",
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "SizeC": "3",
+        "SizeT": "1",
+        "SizeX": "6324",
+        "SizeY": "4594",
+        "SizeZ": "1",
+        "big_endian": "True",
+        "channels": "[{'id': 'Channel:0:0', 'color': 'white', 'samples_per_pixel': 1}, {'id': 'Channel:0:1', 'color': 'white', 'samples_per_pixel': 1}, {'id': 'Channel:0:2', 'color': 'white', 'samples_per_pixel': 1}]",
+        "dimension_order": "XYZCT",
+        "download_size": "In 1000.4MiB zip",
+        "interleaved": "False",
+        "metadata_only": "True",
+        "physical_size_x": "31.75",
+        "physical_size_x_unit": "µm",
+        "physical_size_y": "31.75",
+        "physical_size_y_unit": "µm",
+        "planes": "[{'the_c': 0, 'the_t': 0, 'the_z': 0}]",
+        "significant_bits": "8",
+        "size_c": "3",
+        "size_t": "1",
+        "size_x": "6324",
+        "size_y": "4594",
+        "size_z": "1",
+        "type": "uint8"
+      }
+    },
+    "1ff60a02-a03b-4822-aa08-0cad6f3121bf": {
+      "id": "1ff60a02-a03b-4822-aa08-0cad6f3121bf",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/002.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/002.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "1ff60a02-a03b-4822-aa08-0cad6f3121bf",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 87179420,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "b143f81a-cc7e-438e-b77d-7964bc999f78"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "20433aa5-12a0-4601-88a3-8c6eaff4db4f": {
+      "id": "20433aa5-12a0-4601-88a3-8c6eaff4db4f",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_3/Ch_3_lm_004.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_3/Ch_3_lm_004.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "20433aa5-12a0-4601-88a3-8c6eaff4db4f",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 15678414,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "7817cd8a-515a-4c2f-97d9-87627918cdb9"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "2127c9de-2b79-4d08-8756-13c1bcc14bc7": {
+      "id": "2127c9de-2b79-4d08-8756-13c1bcc14bc7",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_2/Ch_2_lm_003.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_2/Ch_2_lm_003.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "2127c9de-2b79-4d08-8756-13c1bcc14bc7",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 8555702,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "f236b5e2-8a33-4786-8455-b90664a15ee7"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "22ed4d8f-f6b9-4e8a-b077-fc89212f1b3c": {
+      "id": "22ed4d8f-f6b9-4e8a-b077-fc89212f1b3c",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/001.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/001.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "22ed4d8f-f6b9-4e8a-b077-fc89212f1b3c",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 87046972,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "310e03cd-5be2-45f1-a1e9-dcbd351be48b"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "286f2c11-c602-4d3f-bfa3-d46885a56389": {
+      "id": "286f2c11-c602-4d3f-bfa3-d46885a56389",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/nuclei_pmap_outputs/003_ProbabilitiesL2.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/nuclei_pmap_outputs/003_ProbabilitiesL2.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "286f2c11-c602-4d3f-bfa3-d46885a56389",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 19205398,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "39564efc-327a-40a3-9a3d-16c5fdf1486b"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "3f57cc48-b23b-49ef-ae7d-fbe2a16614e5": {
+      "id": "3f57cc48-b23b-49ef-ae7d-fbe2a16614e5",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/tissue_masks_outputs/001_Simple Segmentation.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/tissue_masks_outputs/001_Simple Segmentation.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "3f57cc48-b23b-49ef-ae7d-fbe2a16614e5",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 329082,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "c847c12a-44d1-4e1f-978a-647e8bf36690"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "4275ac2b-c61f-4b77-b042-fe6d2c7e95d9": {
+      "id": "4275ac2b-c61f-4b77-b042-fe6d2c7e95d9",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/Tissue_Mask/Tissue_Mask004.tiff",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/Tissue_Mask/Tissue_Mask004.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "4275ac2b-c61f-4b77-b042-fe6d2c7e95d9",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 28787824,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "e218b336-53f8-4428-8527-b6ebab637d84"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "4c75839f-6ea8-44a9-badc-464c6b2a5a99": {
+      "id": "4c75839f-6ea8-44a9-badc-464c6b2a5a99",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/Positive/pSTAT3-positive_self_clustering__field4.png",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/Positive/pSTAT3-positive_self_clustering__field4.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "4c75839f-6ea8-44a9-badc-464c6b2a5a99",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 643798,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "b4c6039c-5fd7-421f-90c7-ad490f7f9b13"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "5004e2bb-300b-476e-ab9a-36bfdca4fc5d": {
+      "id": "5004e2bb-300b-476e-ab9a-36bfdca4fc5d",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_4/Ch_4_lm_002.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_4/Ch_4_lm_002.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "5004e2bb-300b-476e-ab9a-36bfdca4fc5d",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 365730,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "9cda6ca2-2fe9-4fbe-866a-9e66d8512954"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "51bba84e-072b-4f04-956d-dfd72c35bbe1": {
+      "id": "51bba84e-072b-4f04-956d-dfd72c35bbe1",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/003.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/003.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "51bba84e-072b-4f04-956d-dfd72c35bbe1",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 86760552,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "e830bce9-6c0a-458e-99ec-31c608afd515"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "52f3ef35-060b-4d14-8e76-89043eab4f4f": {
+      "id": "52f3ef35-060b-4d14-8e76-89043eab4f4f",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/nuclei_pmap_outputs/004_ProbabilitiesL2.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/nuclei_pmap_outputs/004_ProbabilitiesL2.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "52f3ef35-060b-4d14-8e76-89043eab4f4f",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 15678414,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "74b1552b-acd0-412d-a18c-5c518bf1365f"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "5d375bbc-c935-4e6e-84e6-916bc4928f68": {
+      "id": "5d375bbc-c935-4e6e-84e6-916bc4928f68",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/Positive/pSTAT3-positive_self_clustering__field2.png",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/Positive/pSTAT3-positive_self_clustering__field2.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "5d375bbc-c935-4e6e-84e6-916bc4928f68",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 526258,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "828dcee4-054a-46f9-9980-8c9eef9f6b69"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "70739415-a102-4356-b4d3-7449e2a05369": {
+      "id": "70739415-a102-4356-b4d3-7449e2a05369",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/nuclei_pmap_outputs/004_ProbabilitiesL1.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/nuclei_pmap_outputs/004_ProbabilitiesL1.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "70739415-a102-4356-b4d3-7449e2a05369",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 9213510,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "5dd8fc33-c330-4b86-baf7-a93db5ea2846"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "7223fbe9-df2a-476a-8df5-15a73d75df52": {
+      "id": "7223fbe9-df2a-476a-8df5-15a73d75df52",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_4/Ch_4_lm_003.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_4/Ch_4_lm_003.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "7223fbe9-df2a-476a-8df5-15a73d75df52",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 388386,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "6a9628ea-d396-4a3c-aaf8-ebb2f72f3f01"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "7b10c376-f40b-43ef-9983-f6590ba71ff8": {
+      "id": "7b10c376-f40b-43ef-9983-f6590ba71ff8",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_3/Ch_3_lm_003.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_3/Ch_3_lm_003.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "7b10c376-f40b-43ef-9983-f6590ba71ff8",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 19205398,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "ae72c891-5a87-4bd3-92b5-04f5a3ea53b5"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "84b1eec4-a795-45eb-ba08-6bd45ded36fe": {
+      "id": "84b1eec4-a795-45eb-ba08-6bd45ded36fe",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_1/Ch_1_lm_003.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_1/Ch_1_lm_003.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "84b1eec4-a795-45eb-ba08-6bd45ded36fe",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 86760552,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "5c8f6b79-83db-45d3-9f35-8fab4c789769"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "876e4fd0-d024-40d0-a5b1-767b32b68d4e": {
+      "id": "876e4fd0-d024-40d0-a5b1-767b32b68d4e",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/nuclei_pmap_outputs/001_ProbabilitiesL2.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/nuclei_pmap_outputs/001_ProbabilitiesL2.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "876e4fd0-d024-40d0-a5b1-767b32b68d4e",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 16058632,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "122fc5f5-f862-4cbe-9089-2f63e67d7895"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "8afef7bf-de65-442f-9ce2-7f54a79c8a64": {
+      "id": "8afef7bf-de65-442f-9ce2-7f54a79c8a64",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/tissue_masks_outputs/002_Simple Segmentation.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/tissue_masks_outputs/002_Simple Segmentation.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "8afef7bf-de65-442f-9ce2-7f54a79c8a64",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 365730,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "0bd7bf5e-fd51-4bb4-b190-83b15d91c195"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "9196fa55-5568-498a-98d6-5c9b6f8e9b1e": {
+      "id": "9196fa55-5568-498a-98d6-5c9b6f8e9b1e",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/Tissue_Mask/Tissue_Mask001.tiff",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/Tissue_Mask/Tissue_Mask001.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "9196fa55-5568-498a-98d6-5c9b6f8e9b1e",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 29007856,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "441b783d-b26d-451b-817a-3c8d84e83ae7"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "940df470-6452-42c1-9db1-13ef927d9a1f": {
+      "id": "940df470-6452-42c1-9db1-13ef927d9a1f",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_1/Ch_1_lm_004.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_1/Ch_1_lm_004.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "940df470-6452-42c1-9db1-13ef927d9a1f",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 86386724,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "113c5e2d-d9b3-4b2a-885e-fd05403e490e"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "9a743294-6732-4341-ad7b-b66817203a74": {
+      "id": "9a743294-6732-4341-ad7b-b66817203a74",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/nuclei_pmap_outputs/002_ProbabilitiesL1.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/nuclei_pmap_outputs/002_ProbabilitiesL1.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "9a743294-6732-4341-ad7b-b66817203a74",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 3894434,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "f0454d10-2008-44e9-bbf3-fcce8eef7679"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "9c6d7700-0cc7-4577-9899-2fa94d3db533": {
+      "id": "9c6d7700-0cc7-4577-9899-2fa94d3db533",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/Negative/pSTAT3-negative_self_clustering__field3.png",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/Negative/pSTAT3-negative_self_clustering__field3.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "9c6d7700-0cc7-4577-9899-2fa94d3db533",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 914761,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "ccfe0bbf-befa-4cfd-a1b7-d6824ffacc4f"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "a18c1a45-bed3-4d9f-bd04-8c65d74d612c": {
+      "id": "a18c1a45-bed3-4d9f-bd04-8c65d74d612c",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/004.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/004.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "a18c1a45-bed3-4d9f-bd04-8c65d74d612c",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 86386724,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "05f17202-0814-4185-97d3-668457f72ea7"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "a85b61a7-93e1-4530-811d-08e8f1141224": {
+      "id": "a85b61a7-93e1-4530-811d-08e8f1141224",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/Tissue_Mask/Tissue_Mask003.tiff",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/Tissue_Mask/Tissue_Mask003.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "a85b61a7-93e1-4530-811d-08e8f1141224",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 28912724,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "a394b6a4-fa35-4929-a6a7-12b43bc33055"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "aac0d630-1d49-4556-aa90-d5cb308e19cf": {
+      "id": "aac0d630-1d49-4556-aa90-d5cb308e19cf",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/nuclei_pmap_outputs/003_ProbabilitiesL1.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/nuclei_pmap_outputs/003_ProbabilitiesL1.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "aac0d630-1d49-4556-aa90-d5cb308e19cf",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 8555702,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "e6fdd5e8-92d8-426c-afac-7000a0db9327"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "b2a6dcd3-9b68-4ff3-9b83-d4cc89b2d2d6": {
+      "id": "b2a6dcd3-9b68-4ff3-9b83-d4cc89b2d2d6",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_2/Ch_2_lm_004.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_2/Ch_2_lm_004.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "b2a6dcd3-9b68-4ff3-9b83-d4cc89b2d2d6",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 9213510,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "45f13da9-f09c-4515-9d1e-e4ab0dc48c27"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "c08dd143-7d56-4ec4-a797-b66cc38642db": {
+      "id": "c08dd143-7d56-4ec4-a797-b66cc38642db",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/Tissue_Mask/Tissue_Mask002.tiff",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/Tissue_Mask/Tissue_Mask002.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "c08dd143-7d56-4ec4-a797-b66cc38642db",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 29052760,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "a0417ca5-b8cc-4274-ab8a-cac291103b49"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "c7c205da-e8ed-47d2-948e-a56b3e967a06": {
+      "id": "c7c205da-e8ed-47d2-948e-a56b3e967a06",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/Negative/pSTAT3-negative_self_clustering__field2.png",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/Negative/pSTAT3-negative_self_clustering__field2.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "c7c205da-e8ed-47d2-948e-a56b3e967a06",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 611109,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "9e992433-2f16-4a78-bb40-448e52cbbac3"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "c7fae9b8-2ad1-4e1f-9778-b54dd42d0577": {
+      "id": "c7fae9b8-2ad1-4e1f-9778-b54dd42d0577",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/Negative/pSTAT3-negative_self_clustering__field1.png",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/Negative/pSTAT3-negative_self_clustering__field1.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "c7fae9b8-2ad1-4e1f-9778-b54dd42d0577",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 932678,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "f236fb36-bcb7-49fc-9d66-2ba7bb0937a8"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "cfe49420-c29d-48a4-ab44-d489fee75f77": {
+      "id": "cfe49420-c29d-48a4-ab44-d489fee75f77",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_3/Ch_3_lm_001.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_3/Ch_3_lm_001.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "cfe49420-c29d-48a4-ab44-d489fee75f77",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 16058632,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "42e59d87-63ba-4c09-b2bb-8b53e8d90145"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "d0aeb411-7410-45b0-a3ed-5a6fbd3ed337": {
+      "id": "d0aeb411-7410-45b0-a3ed-5a6fbd3ed337",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/Positive/pSTAT3-positive_self_clustering__field3.png",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/Positive/pSTAT3-positive_self_clustering__field3.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "d0aeb411-7410-45b0-a3ed-5a6fbd3ed337",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 880773,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "67ce6c6b-cad2-42fc-912d-53beaaa433f4"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "da370e95-6552-42a2-9261-06380a79c8e6": {
+      "id": "da370e95-6552-42a2-9261-06380a79c8e6",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/tissue_masks_outputs/003_Simple Segmentation.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/tissue_masks_outputs/003_Simple Segmentation.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "da370e95-6552-42a2-9261-06380a79c8e6",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 388386,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "7f758f49-7583-4735-a205-d234ebc9c817"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "dbdbe1ed-ecf9-48d0-8cb2-fd96c03c4cf7": {
+      "id": "dbdbe1ed-ecf9-48d0-8cb2-fd96c03c4cf7",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/Segmentation_checker/Segmentation_checker004.tiff",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/Segmentation_checker/Segmentation_checker004.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "dbdbe1ed-ecf9-48d0-8cb2-fd96c03c4cf7",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 86362880,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "17cec65f-ee59-4a2c-96f7-32d07cacb72b"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "dcf5bd46-2a6b-457d-be88-dca8b977414f": {
+      "id": "dcf5bd46-2a6b-457d-be88-dca8b977414f",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_2/Ch_2_lm_001.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_2/Ch_2_lm_001.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "dcf5bd46-2a6b-457d-be88-dca8b977414f",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 7712776,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "710d67b9-d812-4601-b8a3-cc5849f93d47"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "df8feda0-2169-43d3-ba9a-1ec2de745eee": {
+      "id": "df8feda0-2169-43d3-ba9a-1ec2de745eee",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/Segmentation_checker/Segmentation_checker003.tiff",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/Segmentation_checker/Segmentation_checker003.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "df8feda0-2169-43d3-ba9a-1ec2de745eee",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 86737580,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "f106a73e-b7f6-4ae0-b54a-5597a1e2ce7c"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "e18dbf0d-08b4-4e7d-a95b-0ad2f01ac19c": {
+      "id": "e18dbf0d-08b4-4e7d-a95b-0ad2f01ac19c",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_1/Ch_1_lm_001.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_1/Ch_1_lm_001.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "e18dbf0d-08b4-4e7d-a95b-0ad2f01ac19c",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 87046972,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "3d65853e-5d8b-434a-a121-f92ed4cf9787"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "e1b2f401-8c52-4c21-ae9f-f696f5f2ade1": {
+      "id": "e1b2f401-8c52-4c21-ae9f-f696f5f2ade1",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/nuclei_pmap_outputs/001_ProbabilitiesL1.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/nuclei_pmap_outputs/001_ProbabilitiesL1.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "e1b2f401-8c52-4c21-ae9f-f696f5f2ade1",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 7712776,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "df9761fb-4ca3-4af4-8526-6e943eb80fa6"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "e6a0bcd7-75d2-4790-81e2-428eec413e1b": {
+      "id": "e6a0bcd7-75d2-4790-81e2-428eec413e1b",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/Segmentation_checker/Segmentation_checker001.tiff",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/Segmentation_checker/Segmentation_checker001.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "e6a0bcd7-75d2-4790-81e2-428eec413e1b",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 87022976,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "95e4330a-2710-49d5-870b-b7a766502307"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "ea60b7f1-d2ff-4750-8a7a-37a2fdfb3cef": {
+      "id": "ea60b7f1-d2ff-4750-8a7a-37a2fdfb3cef",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/tissue_masks_outputs/004_Simple Segmentation.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/1_Nuclei_Ilastik_project/tissue_masks_outputs/004_Simple Segmentation.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "ea60b7f1-d2ff-4750-8a7a-37a2fdfb3cef",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 606850,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "94e10246-cc14-4428-b192-fb23a641401a"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "eb985f56-72db-4505-80fb-ebe02977f307": {
+      "id": "eb985f56-72db-4505-80fb-ebe02977f307",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/Negative/pSTAT3-negative_self_clustering__field4.png",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/5_MATLAB_Huw's_self_colocalisation_quotient/20210305_example_outputs/Negative/pSTAT3-negative_self_clustering__field4.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "eb985f56-72db-4505-80fb-ebe02977f307",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 786137,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "d4e7a6d9-4982-453e-a321-11d26f14430e"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "ededb770-a752-4775-bfd9-acc91708fec3": {
+      "id": "ededb770-a752-4775-bfd9-acc91708fec3",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/Segmentation_checker/Segmentation_checker002.tiff",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/4_CellProfiler_outputs/Segmentation_checker/Segmentation_checker002.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "ededb770-a752-4775-bfd9-acc91708fec3",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 87157688,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "69b58712-c445-4cab-91f0-51d82db4b01c"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    },
+    "eefbacfd-dff2-41c0-80b3-3c8fc34e0904": {
+      "id": "eefbacfd-dff2-41c0-80b3-3c8fc34e0904",
+      "accession_id": "S-BSST1025",
+      "name": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_4/Ch_4_lm_001.tif",
+      "original_relpath": "20230211_PSTAT3_BioStudies_upload/2_data_structure_for_CP/Channel_4/Ch_4_lm_001.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BSST1025",
+          "image_id": "eefbacfd-dff2-41c0-80b3-3c8fc34e0904",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/025/S-BSST1025/Files/20230211_pSTAT3_BioStudies_upload.zip",
+          "size": 329082,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "8ecb20c4-8d36-4034-bf0d-c7ebf68a970b"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Description": "image data and image analysis / spatial stats code",
+        "download_size": "In 1000.4MiB zip"
+      }
+    }
+  },
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "83ff0382-003a-4bf2-822e-6f77fc09ce0d",
+  "accession_id": "S-BIAD608",
+  "name": "06_FullLength_Confocal_images/05_Minflux_w2112_tracking__GFP_large.tif",
+  "original_relpath": "06_FullLength_Confocal_images/05_Minflux_w2112_tracking__GFP_large.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD608",
+      "image_id": "83ff0382-003a-4bf2-822e-6f77fc09ce0d",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/608/S-BIAD608/Files/Astra_upload_files/06_FullLength_Confocal_images.zip",
+      "size": 569751,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "0a10a5ac-8880-43dd-9c0b-bf6bc9e3892f"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Description": "2D tracking in living cells",
+    "Biosample": "U2OS cell",
+    "Specimen": "Live cell full-length kinesin",
+    "Image acquisition": "2D tracking high laser",
+    "Figure": "2",
+    "Data type": "Confocal images",
+    "Kinesin type": "HaloTag-KIF5B(full-length)",
+    "Note ": "Full-length kinesin-1 live"
+  }
+}

@@ -1,0 +1,784 @@
+{
+  "accession_id": "S-BIAD676",
+  "title": "Spatial characterization of tangle-bearing neurons and ghost tangles in the human inferior temporal gyrus with three-dimensional imaging",
+  "description": "Studies of postmortem human tissue provide insight into pathological processes, but are inherently limited by practical considerations that limit the scale at which tissue can be examined, and the obvious issue that the tissue reflects only one time point in a continuous disease process.  We approached this problem by adapting new tissue clearance techniques to an entire cortical area of human brain, which allows surveillance of hundreds of thousands of neurons throughout the depth of the entire cortical thickness.  This approach allows detection of “rare” events, that may be difficult to detect in standard 5 micron-thick paraffin sections. For example, it is well established that neurofibrillary tangles begin within a neuron, and ultimately, in at least some instances, persist in the brain even after the neuron has died. These are referred to as “ghost tangles”, a term that appropriately implies their “difficult to see” ephemeral qualities. We set out to find ghost tangles as one example of the power of the tissue clearance/image analysis techniques to detect rare events, and to learn what happens at the end point of a tangle’s life history. We were able to identify 8103 AT8+ tau tangles, 132465 HuD+ neurons, and 299640 DAPI+ nuclei in tissue samples from three subjects with severe Alzheimer’s disease (Braak V-VI) and 4 AT8+ tau tangles, 200447 HuD+ neurons, and 462715 DAPI+ nuclei in tissue samples from three subjects with no significant tau pathology (Braak 0-I).  Among these data we located 57 ghost tangles, which makes them only 0.7% of the total tau tangles observed. We found that ghost tangles are more likely to be found in cortical layers 3 and 5 (49/57), with a select few scattered across other layers 1, 2, 4, and 6. This ability to find rare events, such as ghost tangles, in large enough quantities to statistically test their distribution exemplifies how tissue clearing can be used as a powerful tool for studying selective vulnerability or resilience to pathology across brain regions.",
+  "authors": [
+    {
+      "name": "Theodore J. Zwang"
+    },
+    {
+      "name": "Benjamin Woost"
+    },
+    {
+      "name": "Joshua Bailey"
+    },
+    {
+      "name": "Zachary Hoglund"
+    },
+    {
+      "name": "Douglas S. Richardson"
+    },
+    {
+      "name": "Rachel E. Bennett"
+    },
+    {
+      "name": "Bradley T. Hyman"
+    }
+  ],
+  "organism": "Unknown",
+  "release_date": "2023-04-11",
+  "license": "CC0",
+  "links": {},
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "example_annotation_uri": "",
+  "file_references": {
+    "c223771f-62c6-4dcc-a803-2c6e1d88a912": {
+      "id": "c223771f-62c6-4dcc-a803-2c6e1d88a912",
+      "name": "CortexSegmentationMasks/2131.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/CortexSegmentationMasks/2131.tif",
+      "size_in_bytes": 2113945812,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2131",
+        "Braak Stage": "VI",
+        "Staining Target": "None"
+      }
+    },
+    "67d621f1-c175-4ceb-ba98-bcc98ed28216": {
+      "id": "67d621f1-c175-4ceb-ba98-bcc98ed28216",
+      "name": "CortexSegmentationMasks/2302.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/CortexSegmentationMasks/2302.tif",
+      "size_in_bytes": 2235937444,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2302",
+        "Braak Stage": "VI",
+        "Staining Target": "None"
+      }
+    },
+    "3b9733ee-bc0b-47da-b7ba-a46bc7cd2ffe": {
+      "id": "3b9733ee-bc0b-47da-b7ba-a46bc7cd2ffe",
+      "name": "CortexSegmentationMasks/2399.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/CortexSegmentationMasks/2399.tif",
+      "size_in_bytes": 865206116,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2399",
+        "Braak Stage": "V",
+        "Staining Target": "None"
+      }
+    },
+    "36569a63-4ac3-4403-94f1-2162000b46ed": {
+      "id": "36569a63-4ac3-4403-94f1-2162000b46ed",
+      "name": "CortexSegmentationMasks/2417.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/CortexSegmentationMasks/2417.tif",
+      "size_in_bytes": 2635684446,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2417",
+        "Braak Stage": "I",
+        "Staining Target": "None"
+      }
+    },
+    "53f31acd-d391-4346-9ef1-a43630eb8606": {
+      "id": "53f31acd-d391-4346-9ef1-a43630eb8606",
+      "name": "CortexSegmentationMasks/2470.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/CortexSegmentationMasks/2470.tif",
+      "size_in_bytes": 2706907424,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2470",
+        "Braak Stage": "0",
+        "Staining Target": "None"
+      }
+    },
+    "ff27455d-ae0e-4c76-8d60-0af9f5a1725d": {
+      "id": "ff27455d-ae0e-4c76-8d60-0af9f5a1725d",
+      "name": "CortexSegmentationMasks/2477.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/CortexSegmentationMasks/2477.tif",
+      "size_in_bytes": 3952284064,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2477",
+        "Braak Stage": "I",
+        "Staining Target": "None"
+      }
+    },
+    "b59eb67d-d3de-481f-a506-f9123d299a6a": {
+      "id": "b59eb67d-d3de-481f-a506-f9123d299a6a",
+      "name": "ObjectIDMasks/2131_AT8_Object Identities.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDMasks/2131_AT8_Object Identities.h5",
+      "size_in_bytes": 6286762032,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2131",
+        "Braak Stage": "VI",
+        "Staining Target": "Phosphorylated Tau"
+      }
+    },
+    "86f6099e-8f6a-4a74-8420-b9440ea6d794": {
+      "id": "86f6099e-8f6a-4a74-8420-b9440ea6d794",
+      "name": "ObjectIDMasks/2131_DAPI_Object Identities.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDMasks/2131_DAPI_Object Identities.h5",
+      "size_in_bytes": 6286762032,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2131",
+        "Braak Stage": "VI",
+        "Staining Target": "Nuclei"
+      }
+    },
+    "308075f6-3281-4a2b-8023-535fe80c9170": {
+      "id": "308075f6-3281-4a2b-8023-535fe80c9170",
+      "name": "ObjectIDMasks/2131_HUD_Object Identities.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDMasks/2131_HUD_Object Identities.h5",
+      "size_in_bytes": 6286778736,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2131",
+        "Braak Stage": "VI",
+        "Staining Target": "Neurons"
+      }
+    },
+    "a1164b37-c1e6-40a6-8738-a701489ea86e": {
+      "id": "a1164b37-c1e6-40a6-8738-a701489ea86e",
+      "name": "ObjectIDMasks/2302_AT8_Object Identities.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDMasks/2302_AT8_Object Identities.h5",
+      "size_in_bytes": 5958188400,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2302",
+        "Braak Stage": "VI",
+        "Staining Target": "Phosphorylated Tau"
+      }
+    },
+    "09a99be9-b670-43af-9a2e-954634395a8c": {
+      "id": "09a99be9-b670-43af-9a2e-954634395a8c",
+      "name": "ObjectIDMasks/2302_DAPI_Object Identities.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDMasks/2302_DAPI_Object Identities.h5",
+      "size_in_bytes": 5958188400,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2302",
+        "Braak Stage": "VI",
+        "Staining Target": "Nuclei"
+      }
+    },
+    "e33c2920-5020-40d1-843a-bbf29592a2e1": {
+      "id": "e33c2920-5020-40d1-843a-bbf29592a2e1",
+      "name": "ObjectIDMasks/2302_HUD_Object Identities.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDMasks/2302_HUD_Object Identities.h5",
+      "size_in_bytes": 5958188400,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2302",
+        "Braak Stage": "VI",
+        "Staining Target": "Neurons"
+      }
+    },
+    "05121e65-1a34-4061-a7dd-25f00af3a47c": {
+      "id": "05121e65-1a34-4061-a7dd-25f00af3a47c",
+      "name": "ObjectIDMasks/2399_AT8_Object Identities.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDMasks/2399_AT8_Object Identities.h5",
+      "size_in_bytes": 5027317296,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2399",
+        "Braak Stage": "V",
+        "Staining Target": "Phosphorylated Tau"
+      }
+    },
+    "38300241-0ce0-4709-b89e-313eda191ece": {
+      "id": "38300241-0ce0-4709-b89e-313eda191ece",
+      "name": "ObjectIDMasks/2399_DAPI_Object Identities.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDMasks/2399_DAPI_Object Identities.h5",
+      "size_in_bytes": 5027317296,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2399",
+        "Braak Stage": "V",
+        "Staining Target": "Nuclei"
+      }
+    },
+    "0f9db50f-c97e-4d15-93ce-1772c979c132": {
+      "id": "0f9db50f-c97e-4d15-93ce-1772c979c132",
+      "name": "ObjectIDMasks/2399_HUD_Object Identities.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDMasks/2399_HUD_Object Identities.h5",
+      "size_in_bytes": 5027827296,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2399",
+        "Braak Stage": "V",
+        "Staining Target": "Neurons"
+      }
+    },
+    "5009555a-955c-496d-925b-83d23e0cab00": {
+      "id": "5009555a-955c-496d-925b-83d23e0cab00",
+      "name": "ObjectIDMasks/2417_DAPI_Object Identities.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDMasks/2417_DAPI_Object Identities.h5",
+      "size_in_bytes": 7494216000,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2417",
+        "Braak Stage": "I",
+        "Staining Target": "Nuclei"
+      }
+    },
+    "5bb83c61-31cd-482f-aa74-dd45d7b54910": {
+      "id": "5bb83c61-31cd-482f-aa74-dd45d7b54910",
+      "name": "ObjectIDMasks/2417_HUD_Object Identities.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDMasks/2417_HUD_Object Identities.h5",
+      "size_in_bytes": 7494216000,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2417",
+        "Braak Stage": "I",
+        "Staining Target": "Neurons"
+      }
+    },
+    "31315c20-61a9-44a1-901c-a2699a604034": {
+      "id": "31315c20-61a9-44a1-901c-a2699a604034",
+      "name": "ObjectIDMasks/2470_DAPI_Object Identities.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDMasks/2470_DAPI_Object Identities.h5",
+      "size_in_bytes": 7162971264,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2470",
+        "Braak Stage": "0",
+        "Staining Target": "Nuclei"
+      }
+    },
+    "c8e94425-1a8c-4c21-8c6d-59d27b328df1": {
+      "id": "c8e94425-1a8c-4c21-8c6d-59d27b328df1",
+      "name": "ObjectIDMasks/2470_HUD_Object Identities.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDMasks/2470_HUD_Object Identities.h5",
+      "size_in_bytes": 7162971264,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2470",
+        "Braak Stage": "0",
+        "Staining Target": "Neurons"
+      }
+    },
+    "db5719f1-5c41-4a88-9148-158f68c99b85": {
+      "id": "db5719f1-5c41-4a88-9148-158f68c99b85",
+      "name": "ObjectIDMasks/2477_DAPI_Object Identities.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDMasks/2477_DAPI_Object Identities.h5",
+      "size_in_bytes": 9390107328,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2477",
+        "Braak Stage": "I",
+        "Staining Target": "Nuclei"
+      }
+    },
+    "893c2577-4876-4f42-a648-9600fd7589f2": {
+      "id": "893c2577-4876-4f42-a648-9600fd7589f2",
+      "name": "ObjectIDMasks/2477_HUD_Object Identities.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDMasks/2477_HUD_Object Identities.h5",
+      "size_in_bytes": 9390107328,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2477",
+        "Braak Stage": "I",
+        "Staining Target": "Neurons"
+      }
+    },
+    "2757a995-bbee-47ae-83d1-ca4aae276b9f": {
+      "id": "2757a995-bbee-47ae-83d1-ca4aae276b9f",
+      "name": "ObjectIDTables/2131_AT8_table.xlsx",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDTables/2131_AT8_table.xlsx",
+      "size_in_bytes": 2858680,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2131",
+        "Braak Stage": "VI",
+        "Staining Target": "Phosphorylated Tau"
+      }
+    },
+    "1c8e6474-f56f-41f3-b0f1-b4a76670d879": {
+      "id": "1c8e6474-f56f-41f3-b0f1-b4a76670d879",
+      "name": "ObjectIDTables/2131_DAPI_table.xlsx",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDTables/2131_DAPI_table.xlsx",
+      "size_in_bytes": 99881926,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2131",
+        "Braak Stage": "VI",
+        "Staining Target": "Nuclei"
+      }
+    },
+    "282b0f98-83fb-492a-a23d-9adaaf269fb8": {
+      "id": "282b0f98-83fb-492a-a23d-9adaaf269fb8",
+      "name": "ObjectIDTables/2131_HUD_table.xlsx",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDTables/2131_HUD_table.xlsx",
+      "size_in_bytes": 94176583,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2131",
+        "Braak Stage": "VI",
+        "Staining Target": "Neurons"
+      }
+    },
+    "b69b55b0-11f4-4442-9c1b-f50fd64efeda": {
+      "id": "b69b55b0-11f4-4442-9c1b-f50fd64efeda",
+      "name": "ObjectIDTables/2302_AT8_table.xlsx",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDTables/2302_AT8_table.xlsx",
+      "size_in_bytes": 7567129,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2302",
+        "Braak Stage": "VI",
+        "Staining Target": "Phosphorylated Tau"
+      }
+    },
+    "d3473def-b510-409b-a2f0-4af668b88217": {
+      "id": "d3473def-b510-409b-a2f0-4af668b88217",
+      "name": "ObjectIDTables/2302_DAPI_table.xlsx",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDTables/2302_DAPI_table.xlsx",
+      "size_in_bytes": 170061420,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2302",
+        "Braak Stage": "VI",
+        "Staining Target": "Nuclei"
+      }
+    },
+    "2e457f93-a4a0-49da-aa39-e149021e80ee": {
+      "id": "2e457f93-a4a0-49da-aa39-e149021e80ee",
+      "name": "ObjectIDTables/2302_HUD_table.xlsx",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDTables/2302_HUD_table.xlsx",
+      "size_in_bytes": 81041979,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2302",
+        "Braak Stage": "VI",
+        "Staining Target": "Neurons"
+      }
+    },
+    "fa2d6b51-7c3c-4f77-a3d5-ecebd8e24f0f": {
+      "id": "fa2d6b51-7c3c-4f77-a3d5-ecebd8e24f0f",
+      "name": "ObjectIDTables/2399_AT8_table.xlsx",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDTables/2399_AT8_table.xlsx",
+      "size_in_bytes": 24894477,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2399",
+        "Braak Stage": "V",
+        "Staining Target": "Phosphorylated Tau"
+      }
+    },
+    "9a1d9a97-fc01-49e3-b33d-168e1e501abc": {
+      "id": "9a1d9a97-fc01-49e3-b33d-168e1e501abc",
+      "name": "ObjectIDTables/2399_DAPI_table.xlsx",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDTables/2399_DAPI_table.xlsx",
+      "size_in_bytes": 143224563,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2399",
+        "Braak Stage": "V",
+        "Staining Target": "Nuclei"
+      }
+    },
+    "fdc5155e-3b7f-4f38-9dbb-2a4b52aa8bae": {
+      "id": "fdc5155e-3b7f-4f38-9dbb-2a4b52aa8bae",
+      "name": "ObjectIDTables/2399_HUD_table.xlsx",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDTables/2399_HUD_table.xlsx",
+      "size_in_bytes": 54343022,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2399",
+        "Braak Stage": "V",
+        "Staining Target": "Neurons"
+      }
+    },
+    "de1e66b5-8b58-4dcc-9743-37333bf3f4eb": {
+      "id": "de1e66b5-8b58-4dcc-9743-37333bf3f4eb",
+      "name": "ObjectIDTables/2417_AT8_table.xlsx",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDTables/2417_AT8_table.xlsx",
+      "size_in_bytes": 1120639,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2417",
+        "Braak Stage": "I",
+        "Staining Target": "Phosphorylated Tau"
+      }
+    },
+    "715258fe-c42d-4015-aca0-fbd9c1e1deaf": {
+      "id": "715258fe-c42d-4015-aca0-fbd9c1e1deaf",
+      "name": "ObjectIDTables/2417_DAPI_table.xlsx",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDTables/2417_DAPI_table.xlsx",
+      "size_in_bytes": 463984953,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2417",
+        "Braak Stage": "I",
+        "Staining Target": "Nuclei"
+      }
+    },
+    "04157505-c442-49a2-858b-94b21c3aaed4": {
+      "id": "04157505-c442-49a2-858b-94b21c3aaed4",
+      "name": "ObjectIDTables/2417_HUD_table.xlsx",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDTables/2417_HUD_table.xlsx",
+      "size_in_bytes": 192823475,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2417",
+        "Braak Stage": "I",
+        "Staining Target": "Neurons"
+      }
+    },
+    "c0630801-00dc-409c-8da0-1efe1c708204": {
+      "id": "c0630801-00dc-409c-8da0-1efe1c708204",
+      "name": "ObjectIDTables/2470_AT8_table.xlsx",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDTables/2470_AT8_table.xlsx",
+      "size_in_bytes": 4555402,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2470",
+        "Braak Stage": "0",
+        "Staining Target": "Phosphorylated Tau"
+      }
+    },
+    "4ac8f12b-e567-4852-9de1-b97a97f44f0c": {
+      "id": "4ac8f12b-e567-4852-9de1-b97a97f44f0c",
+      "name": "ObjectIDTables/2470_DAPI_table.xlsx",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDTables/2470_DAPI_table.xlsx",
+      "size_in_bytes": 153941139,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2470",
+        "Braak Stage": "0",
+        "Staining Target": "Nuclei"
+      }
+    },
+    "f8506418-1c9b-469a-89ea-939dc89619f5": {
+      "id": "f8506418-1c9b-469a-89ea-939dc89619f5",
+      "name": "ObjectIDTables/2470_HUD_table.xlsx",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDTables/2470_HUD_table.xlsx",
+      "size_in_bytes": 78647378,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2470",
+        "Braak Stage": "0",
+        "Staining Target": "Neurons"
+      }
+    },
+    "f16e3645-7086-42cb-8ac8-5bca4475d039": {
+      "id": "f16e3645-7086-42cb-8ac8-5bca4475d039",
+      "name": "ObjectIDTables/2477_AT8_table.xlsx",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDTables/2477_AT8_table.xlsx",
+      "size_in_bytes": 856665,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2477",
+        "Braak Stage": "I",
+        "Staining Target": "Phosphorylated Tau"
+      }
+    },
+    "dbcbe76b-a61d-4561-9132-4eca0f11d3c6": {
+      "id": "dbcbe76b-a61d-4561-9132-4eca0f11d3c6",
+      "name": "ObjectIDTables/2477_DAPI_table.xlsx",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDTables/2477_DAPI_table.xlsx",
+      "size_in_bytes": 166703111,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2477",
+        "Braak Stage": "I",
+        "Staining Target": "Nuclei"
+      }
+    },
+    "0d22f3f9-7539-4046-84d4-fb02728a53b0": {
+      "id": "0d22f3f9-7539-4046-84d4-fb02728a53b0",
+      "name": "ObjectIDTables/2477_HUD_table.xlsx",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/ObjectIDTables/2477_HUD_table.xlsx",
+      "size_in_bytes": 92658792,
+      "type": null,
+      "attributes": {
+        "Type": "Analysis File",
+        "Sample ID": "2477",
+        "Braak Stage": "I",
+        "Staining Target": "Neurons"
+      }
+    },
+    "5457169d-2410-43fc-986f-e676852583c5": {
+      "id": "5457169d-2410-43fc-986f-e676852583c5",
+      "name": "RawData/2131_AT8.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/RawData/2131_AT8.h5",
+      "size_in_bytes": 3026496528,
+      "type": null,
+      "attributes": {
+        "Type": "Raw Data",
+        "Sample ID": "2131",
+        "Braak Stage": "VI",
+        "Staining Target": "Phosphorylated Tau"
+      }
+    },
+    "5dbba99c-34bf-4c40-8255-bcc4e5b75491": {
+      "id": "5dbba99c-34bf-4c40-8255-bcc4e5b75491",
+      "name": "RawData/2131_DAPI.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/RawData/2131_DAPI.h5",
+      "size_in_bytes": 3026496528,
+      "type": null,
+      "attributes": {
+        "Type": "Raw Data",
+        "Sample ID": "2131",
+        "Braak Stage": "VI",
+        "Staining Target": "Nuclei"
+      }
+    },
+    "2d6cac4f-1dc3-4dff-b9cc-bff810465364": {
+      "id": "2d6cac4f-1dc3-4dff-b9cc-bff810465364",
+      "name": "RawData/2131_HUD.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/RawData/2131_HUD.h5",
+      "size_in_bytes": 3026496528,
+      "type": null,
+      "attributes": {
+        "Type": "Raw Data",
+        "Sample ID": "2131",
+        "Braak Stage": "VI",
+        "Staining Target": "Neurons"
+      }
+    },
+    "9700f0e7-33c5-44e7-9c3d-d571f77f0610": {
+      "id": "9700f0e7-33c5-44e7-9c3d-d571f77f0610",
+      "name": "RawData/2302_AT8.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/RawData/2302_AT8.h5",
+      "size_in_bytes": 2855644512,
+      "type": null,
+      "attributes": {
+        "Type": "Raw Data",
+        "Sample ID": "2302",
+        "Braak Stage": "VI",
+        "Staining Target": "Phosphorylated Tau"
+      }
+    },
+    "15dbca30-ee1c-475a-b706-43f3069525df": {
+      "id": "15dbca30-ee1c-475a-b706-43f3069525df",
+      "name": "RawData/2302_DAPI.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/RawData/2302_DAPI.h5",
+      "size_in_bytes": 2855644512,
+      "type": null,
+      "attributes": {
+        "Type": "Raw Data",
+        "Sample ID": "2302",
+        "Braak Stage": "VI",
+        "Staining Target": "Nuclei"
+      }
+    },
+    "025a4b73-3ee0-4810-b5b6-ca095386530f": {
+      "id": "025a4b73-3ee0-4810-b5b6-ca095386530f",
+      "name": "RawData/2302_HUD.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/RawData/2302_HUD.h5",
+      "size_in_bytes": 2855644512,
+      "type": null,
+      "attributes": {
+        "Type": "Raw Data",
+        "Sample ID": "2302",
+        "Braak Stage": "VI",
+        "Staining Target": "Neurons"
+      }
+    },
+    "838b2a2d-4e41-4f01-ace0-1eabdefcdf30": {
+      "id": "838b2a2d-4e41-4f01-ace0-1eabdefcdf30",
+      "name": "RawData/2399_AT8.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/RawData/2399_AT8.h5",
+      "size_in_bytes": 1053990224,
+      "type": null,
+      "attributes": {
+        "Type": "Raw Data",
+        "Sample ID": "2399",
+        "Braak Stage": "V",
+        "Staining Target": "Phosphorylated Tau"
+      }
+    },
+    "a5328f56-6f3b-4402-b902-7e1617e10823": {
+      "id": "a5328f56-6f3b-4402-b902-7e1617e10823",
+      "name": "RawData/2399_DAPI.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/RawData/2399_DAPI.h5",
+      "size_in_bytes": 1053990224,
+      "type": null,
+      "attributes": {
+        "Type": "Raw Data",
+        "Sample ID": "2399",
+        "Braak Stage": "V",
+        "Staining Target": "Nuclei"
+      }
+    },
+    "845f9882-d35f-46c6-95e2-9282d38e48c9": {
+      "id": "845f9882-d35f-46c6-95e2-9282d38e48c9",
+      "name": "RawData/2399_HUD.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/RawData/2399_HUD.h5",
+      "size_in_bytes": 1053990224,
+      "type": null,
+      "attributes": {
+        "Type": "Raw Data",
+        "Sample ID": "2399",
+        "Braak Stage": "V",
+        "Staining Target": "Neurons"
+      }
+    },
+    "68cf8144-7495-4105-ae22-9cb6171e9ba5": {
+      "id": "68cf8144-7495-4105-ae22-9cb6171e9ba5",
+      "name": "RawData/2417_AT8.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/RawData/2417_AT8.h5",
+      "size_in_bytes": 3207052048,
+      "type": null,
+      "attributes": {
+        "Type": "Raw Data",
+        "Sample ID": "2417",
+        "Braak Stage": "I",
+        "Staining Target": "Phosphorylated Tau"
+      }
+    },
+    "817b9578-9285-45ac-8271-b5cca2a547df": {
+      "id": "817b9578-9285-45ac-8271-b5cca2a547df",
+      "name": "RawData/2417_DAPI.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/RawData/2417_DAPI.h5",
+      "size_in_bytes": 3207052048,
+      "type": null,
+      "attributes": {
+        "Type": "Raw Data",
+        "Sample ID": "2417",
+        "Braak Stage": "I",
+        "Staining Target": "Nuclei"
+      }
+    },
+    "84878691-ba80-4698-bad0-27df81fef5a2": {
+      "id": "84878691-ba80-4698-bad0-27df81fef5a2",
+      "name": "RawData/2417_HUD.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/RawData/2417_HUD.h5",
+      "size_in_bytes": 3207052048,
+      "type": null,
+      "attributes": {
+        "Type": "Raw Data",
+        "Sample ID": "2417",
+        "Braak Stage": "I",
+        "Staining Target": "Neurons"
+      }
+    },
+    "717aa0a4-9b00-4922-bab2-57f718447106": {
+      "id": "717aa0a4-9b00-4922-bab2-57f718447106",
+      "name": "RawData/2470_AT8.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/RawData/2470_AT8.h5",
+      "size_in_bytes": 3422911872,
+      "type": null,
+      "attributes": {
+        "Type": "Raw Data",
+        "Sample ID": "2470",
+        "Braak Stage": "0",
+        "Staining Target": "Phosphorylated Tau"
+      }
+    },
+    "28b761e1-7721-4320-a223-3800174cfede": {
+      "id": "28b761e1-7721-4320-a223-3800174cfede",
+      "name": "RawData/2470_DAPI.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/RawData/2470_DAPI.h5",
+      "size_in_bytes": 3422911872,
+      "type": null,
+      "attributes": {
+        "Type": "Raw Data",
+        "Sample ID": "2470",
+        "Braak Stage": "0",
+        "Staining Target": "Nuclei"
+      }
+    },
+    "834f87c9-0bdb-4d0e-aed7-390b68c71ae8": {
+      "id": "834f87c9-0bdb-4d0e-aed7-390b68c71ae8",
+      "name": "RawData/2470_HUD.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/RawData/2470_HUD.h5",
+      "size_in_bytes": 3422911872,
+      "type": null,
+      "attributes": {
+        "Type": "Raw Data",
+        "Sample ID": "2470",
+        "Braak Stage": "0",
+        "Staining Target": "Neurons"
+      }
+    },
+    "e2fcffa4-215b-4e8a-8fe3-f4284186c2fc": {
+      "id": "e2fcffa4-215b-4e8a-8fe3-f4284186c2fc",
+      "name": "RawData/2477_AT8.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/RawData/2477_AT8.h5",
+      "size_in_bytes": 4515330720,
+      "type": null,
+      "attributes": {
+        "Type": "Raw Data",
+        "Sample ID": "2477",
+        "Braak Stage": "I",
+        "Staining Target": "Phosphorylated Tau"
+      }
+    },
+    "4b14949d-51b8-4391-bfb5-05c07c26e6c9": {
+      "id": "4b14949d-51b8-4391-bfb5-05c07c26e6c9",
+      "name": "RawData/2477_DAPI.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/RawData/2477_DAPI.h5",
+      "size_in_bytes": 4515330720,
+      "type": null,
+      "attributes": {
+        "Type": "Raw Data",
+        "Sample ID": "2477",
+        "Braak Stage": "I",
+        "Staining Target": "Nuclei"
+      }
+    },
+    "8cf6211c-d2db-46a8-b927-a5773224c8e9": {
+      "id": "8cf6211c-d2db-46a8-b927-a5773224c8e9",
+      "name": "RawData/2477_HUD.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/676/S-BIAD676/Files/RawData/2477_HUD.h5",
+      "size_in_bytes": 4515330720,
+      "type": null,
+      "attributes": {
+        "Type": "Raw Data",
+        "Sample ID": "2477",
+        "Braak Stage": "I",
+        "Staining Target": "Neurons"
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

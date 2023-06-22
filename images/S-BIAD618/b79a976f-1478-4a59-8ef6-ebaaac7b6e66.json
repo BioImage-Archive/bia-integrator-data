@@ -1,0 +1,35 @@
+{
+  "id": "b79a976f-1478-4a59-8ef6-ebaaac7b6e66",
+  "accession_id": "S-BIAD618",
+  "name": "figure6_datasources/Figure6_B9_Control.ims",
+  "original_relpath": "figure6_datasources/Figure6_B9_Control.ims",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD618",
+      "image_id": "b79a976f-1478-4a59-8ef6-ebaaac7b6e66",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+      "size": 27004542,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "7957bdbb-466c-4edb-b53a-5b57a0a20200"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Figures": "Figure6_B9_Control.ims",
+    "Format": "ims",
+    "Chanels": "3",
+    "Markers": "A488 ; A555 ; Hoechst",
+    "imaging technic": "Confocal",
+    "Microscope": "Leica",
+    "Magnification": "40x",
+    "Analysis": "na",
+    "ROI": "0",
+    "Protocol": "Paraffin, Immunofluorescence"
+  }
+}

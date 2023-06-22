@@ -1,0 +1,34 @@
+{
+  "id": "517005c3-d8dd-4acf-9ce0-3624f7da8f95",
+  "accession_id": "S-BIAD687",
+  "name": "ORF3aLAMP1Bst2 72hr f.tif",
+  "original_relpath": "ORF3aLAMP1Bst2 72hr f.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD687",
+      "image_id": "517005c3-d8dd-4acf-9ce0-3624f7da8f95",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/687/S-BIAD687/Files/Figure 5F and Quant 5G.zip",
+      "size": 3150028,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "3525cb7a-d114-4b94-9951-c4c56cf60932"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Figure": "5F",
+    "Quantification shown in Figure": "5G",
+    "Cells": "HeLa",
+    "Green": "LAMP1",
+    "Red": "Tetherin",
+    "White": "(strep)",
+    "imaging method": "confocal",
+    "Analysis": "Mander's coefficient (Tetherin / LAMP1)",
+    "Comparitor": "mock vs ORF3a-strep"
+  }
+}

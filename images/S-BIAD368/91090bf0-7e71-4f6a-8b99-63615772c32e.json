@@ -1,0 +1,40 @@
+{
+  "id": "91090bf0-7e71-4f6a-8b99-63615772c32e",
+  "accession_id": "S-BIAD368",
+  "name": "CellCycle/CellCycle_Rep3/3_WT_t2/190321_exp3.25_Slide1_009.nd2",
+  "original_relpath": "CellCycle/CellCycle_Rep3/3_WT_t2/190321_exp3.25_Slide1_009.nd2",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD368",
+      "image_id": "91090bf0-7e71-4f6a-8b99-63615772c32e",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/368/S-BIAD368/Files/CellCycle/CellCycle_Rep3/3_WT_t2/190321_exp3.25_Slide1_009.nd2",
+      "size": 44810240,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "608c3d69-1e6d-4ae3-acf9-fd3bd2ffa887"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "File_Type": "nd2 image",
+    "Microscope": "Nikon Eclipse Ti Wide-field Fluorescence Microscope",
+    "Cell_Line": "HeLa-S3",
+    "Timepoint": "2hrs ana/telo",
+    "Treatment": "NA",
+    "Time_TreatmentAdded": "NA",
+    "Experiment_Type": "Cell Cycle State",
+    "Experimental_Replicate": "3",
+    "Mitotic_Sync_Protocol": "single thymidine block + 12hr nocodazole",
+    "Channel1": "DIC",
+    "Channel2": "GFP",
+    "Channel3": "Cy3",
+    "Channel4": "DAPI",
+    "Stains_Tags": "anti-Tubulin(AF488/GFP channel), anti-LaminA(AF568/Cy3 channel), DAPI",
+    "Analysis_Step": "NA"
+  }
+}

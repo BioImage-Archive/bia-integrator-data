@@ -1,0 +1,3735 @@
+{
+  "accession_id": "S-BIAD658",
+  "title": "Development of a shortwave infrared (SWIR) sinuscope for the detection of cerebrospinal fluid (CSF) leaks.",
+  "description": "Significance: CSF rhinorrhea (leakage of brain fluid from the nose) can be difficult to identify and currently requires invasive procedures such as intrathecal fluorescein which requires a lumbar drain placement. Fluorescein is also known to have rare but significant side effects including seizures and death. As the number of endonasal skull base cases increase, the number of CSF leaks have also increased for which an alternative diagnostic method would be highly advantageous to patients.\nAim:  To develop an instrument to identify CSF leaks based on water absorption in the SWIR without the need of intrathecal contrast agents. This device needed to be adapted to the anatomy of the human nasal cavity while maintaining low weight and ergonomic characteristics of current surgical instruments.\nApproach: Absorption spectra of CSF and artificial CSF were obtained to characterize the absorption peaks that could be targeted with SWIR light. Different illumination systems were tested and refined prior to adapting them into a portable endoscope for testing in 3D printed models and cadavers for feasibility. \nResults: We identified CSF to have an identical absorption profile as water. In our testing, a narrow band laser source at 1480nm proved superior to using a broad 1450 nm LED. Using a SWIR enabling endoscope set up, we tested the ability to detect artificial CSF in a cadaver model.\nConclusions: An endoscopic system based on SWIR narrow band imaging can provide an alternative in the future to invasive methods of CSF leak detection.",
+  "authors": [
+    {
+      "name": "Tjadina Klein"
+    },
+    {
+      "name": "Tulio Valdez"
+    },
+    {
+      "name": "Thomas Bischof"
+    },
+    {
+      "name": "Oliver Bruns"
+    },
+    {
+      "name": "Jayakar Nayak"
+    },
+    {
+      "name": "Michael Chang"
+    },
+    {
+      "name": "Stella Yang"
+    },
+    {
+      "name": "Mahbuba Afrin Tusty"
+    }
+  ],
+  "organism": "Unknown",
+  "release_date": "2023-03-21",
+  "license": "CC BY 4.0",
+  "links": {},
+  "imaging_type": "Unknown",
+  "attributes": {
+    "filetype_breakdown": "{'.tif': {'n': 76, 'size_in_bytes': 238912422, 'size_human_readable': '227.8MiB'}, '.pdf': {'n': 7, 'size_in_bytes': 101361, 'size_human_readable': '99.0KiB'}, '.csv': {'n': 9, 'size_in_bytes': 181665, 'size_human_readable': '177.4KiB'}, '.png': {'n': 9, 'size_in_bytes': 35918991, 'size_human_readable': '34.3MiB'}, '.roi': {'n': 2, 'size_in_bytes': 298, 'size_human_readable': '298.0B'}, '.zip': {'n': 1, 'size_in_bytes': 374, 'size_human_readable': '374.0B'}, '.mp4': {'n': 4, 'size_in_bytes': 717228318, 'size_human_readable': '684.0MiB'}, '.avi': {'n': 1, 'size_in_bytes': 21823592, 'size_human_readable': '20.8MiB'}, '.roi in .zip': {'n': 2, 'size_in_bytes': 324, 'size_human_readable': '324.0B'}}",
+    "filetype_breakdown_html": "<ul><li>.avi: 1 (20.8MiB)</li><li>.csv: 9 (177.4KiB)</li><li>.mp4: 4 (684.0MiB)</li><li>.pdf: 7 (99.0KiB)</li><li>.png: 9 (34.3MiB)</li><li>.roi: 2 (298.0B)</li><li>.tif: 76 (227.8MiB)</li><li>.zip: 1 (374.0B)</li><li>Zip contents (not included it study totals above):<ul><li>.roi in .zip: 2 (324.0B)</li></ul></ul>",
+    "n_files_excluding_zip_contents": "109",
+    "n_files_including_zip_contents": "111",
+    "study_size": "967.2MiB",
+    "study_size_human_readable": "967.2MiB",
+    "study_size_in_bytes": "1014167021"
+  },
+  "example_image_uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD658/193729f8-c37a-4350-9c24-d03c3cdefa4e/193729f8-c37a-4350-9c24-d03c3cdefa4e-representative-512-512.png",
+  "example_annotation_uri": "",
+  "file_references": {
+    "831e3676-ad47-4b5a-a371-f6e646fa7392": {
+      "id": "831e3676-ad47-4b5a-a371-f6e646fa7392",
+      "name": "figure_2/processed/subfigure_d_swir-fluid_uncropped.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/processed/subfigure_d_swir-fluid_uncropped.tif",
+      "size_in_bytes": 1292599,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "2fb69621-d3e5-483a-a010-99533a226792": {
+      "id": "2fb69621-d3e5-483a-a010-99533a226792",
+      "name": "figure_2/processed/subfigure_d_swir-no-fluid_uncropped.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/processed/subfigure_d_swir-no-fluid_uncropped.tif",
+      "size_in_bytes": 1292599,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "326faaa6-ed8d-468e-9b97-4caa09fd2268": {
+      "id": "326faaa6-ed8d-468e-9b97-4caa09fd2268",
+      "name": "figure_2/processed/subfigure_d_white-light-fluid_uncropped.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/processed/subfigure_d_white-light-fluid_uncropped.tif",
+      "size_in_bytes": 19232218,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "84d61c26-1b7c-454c-bf4a-fc186e3c240c": {
+      "id": "84d61c26-1b7c-454c-bf4a-fc186e3c240c",
+      "name": "figure_2/processed/subfigure_d_white-light-no-fluid_uncropped.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/processed/subfigure_d_white-light-no-fluid_uncropped.tif",
+      "size_in_bytes": 19232218,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "d8f5e7dd-79f1-427a-8970-e2ce042704c1": {
+      "id": "d8f5e7dd-79f1-427a-8970-e2ce042704c1",
+      "name": "figure_2/processed/subfigure_a.pdf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/processed/subfigure_a.pdf",
+      "size_in_bytes": 14389,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "228eaabf-0eff-4b02-a4a5-0c0307420185": {
+      "id": "228eaabf-0eff-4b02-a4a5-0c0307420185",
+      "name": "figure_2/processed/subfigure_b.pdf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/processed/subfigure_b.pdf",
+      "size_in_bytes": 19037,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "5fdc5d15-1fe1-45d3-a8a0-18c3e0b1e77d": {
+      "id": "5fdc5d15-1fe1-45d3-a8a0-18c3e0b1e77d",
+      "name": "figure_2/processed/subfigure_c_swir.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/processed/subfigure_c_swir.tif",
+      "size_in_bytes": 1292595,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "1154912a-bcc4-4bcf-ab40-3bf67e3c19da": {
+      "id": "1154912a-bcc4-4bcf-ab40-3bf67e3c19da",
+      "name": "figure_2/processed/subfigure_c_white-light.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/processed/subfigure_c_white-light.tif",
+      "size_in_bytes": 25642930,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "74cea45e-bd18-46e8-8242-442c71c4f037": {
+      "id": "74cea45e-bd18-46e8-8242-442c71c4f037",
+      "name": "figure_2/raw/subfigure_a/acsf.Sample.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/raw/subfigure_a/acsf.Sample.csv",
+      "size_in_bytes": 12079,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "641ba44f-8182-4072-bb77-eaebaf51afcc": {
+      "id": "641ba44f-8182-4072-bb77-eaebaf51afcc",
+      "name": "figure_2/raw/subfigure_a/water.Sample.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/raw/subfigure_a/water.Sample.csv",
+      "size_in_bytes": 12084,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "683b7e13-a4c5-4b28-b4f1-136652b866e0": {
+      "id": "683b7e13-a4c5-4b28-b4f1-136652b866e0",
+      "name": "figure_2/raw/subfigure_b/CSF-sample.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/raw/subfigure_b/CSF-sample.csv",
+      "size_in_bytes": 57444,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "cd0dae58-0d8b-4d7f-80ae-673bb33017c9": {
+      "id": "cd0dae58-0d8b-4d7f-80ae-673bb33017c9",
+      "name": "figure_2/raw/subfigure_b/Water-sample.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/raw/subfigure_b/Water-sample.csv",
+      "size_in_bytes": 57528,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "34c5a768-3110-4a8b-8c44-7a2d48a811d7": {
+      "id": "34c5a768-3110-4a8b-8c44-7a2d48a811d7",
+      "name": "figure_2/raw/subfigure_c/eppis_swir_5ms.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/raw/subfigure_c/eppis_swir_5ms.tiff",
+      "size_in_bytes": 646338,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "35e3f80f-c19f-4e5a-9e38-8f2388d42304": {
+      "id": "35e3f80f-c19f-4e5a-9e38-8f2388d42304",
+      "name": "figure_2/raw/subfigure_c/eppis_white-light_5ms.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/raw/subfigure_c/eppis_white-light_5ms.png",
+      "size_in_bytes": 12149949,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "057d81b9-1d26-46c8-9970-70e7f689f3bd": {
+      "id": "057d81b9-1d26-46c8-9970-70e7f689f3bd",
+      "name": "figure_2/raw/subfigure_c/swir_dark_5ms.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/raw/subfigure_c/swir_dark_5ms.tiff",
+      "size_in_bytes": 646338,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "e896bd50-687e-4022-a5a2-94ccc66cae8a": {
+      "id": "e896bd50-687e-4022-a5a2-94ccc66cae8a",
+      "name": "figure_2/raw/subfigure_c/white-light_dark_5ms.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/raw/subfigure_c/white-light_dark_5ms.png",
+      "size_in_bytes": 9443128,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "e58abbec-654f-4cef-b317-2d538c51116b": {
+      "id": "e58abbec-654f-4cef-b317-2d538c51116b",
+      "name": "figure_2/raw/subfigure_d/swir_dark.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/raw/subfigure_d/swir_dark.tif",
+      "size_in_bytes": 56243423,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "71e12bc9-2b9d-43f2-81b5-1185ca1d124b": {
+      "id": "71e12bc9-2b9d-43f2-81b5-1185ca1d124b",
+      "name": "figure_2/raw/subfigure_d/swir_fluid.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/raw/subfigure_d/swir_fluid.tif",
+      "size_in_bytes": 648202,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "a74870dd-f199-4fa2-8b39-7fccc0c19763": {
+      "id": "a74870dd-f199-4fa2-8b39-7fccc0c19763",
+      "name": "figure_2/raw/subfigure_d/swir_no-fluid.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/raw/subfigure_d/swir_no-fluid.tif",
+      "size_in_bytes": 648198,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "81ec3c13-ab99-4ad1-ade6-7877df41ac0c": {
+      "id": "81ec3c13-ab99-4ad1-ade6-7877df41ac0c",
+      "name": "figure_2/raw/subfigure_d/white-light_dark.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/raw/subfigure_d/white-light_dark.tif",
+      "size_in_bytes": 19232218,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "dad8c938-b9cf-4ac2-a4c3-31a1c20e97dc": {
+      "id": "dad8c938-b9cf-4ac2-a4c3-31a1c20e97dc",
+      "name": "figure_2/raw/subfigure_d/white-light_fluid.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/raw/subfigure_d/white-light_fluid.tif",
+      "size_in_bytes": 19232320,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "dda2b97c-3666-4065-bee0-d9ba1a43214a": {
+      "id": "dda2b97c-3666-4065-bee0-d9ba1a43214a",
+      "name": "figure_2/raw/subfigure_d/white-light_no-fluid.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/raw/subfigure_d/white-light_no-fluid.tif",
+      "size_in_bytes": 19232318,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "55ac3373-43d4-4c77-874b-7d09ef4a607d": {
+      "id": "55ac3373-43d4-4c77-874b-7d09ef4a607d",
+      "name": "figure_3/raw/subfigure_a_after-suctioning.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_3/raw/subfigure_a_after-suctioning.tif",
+      "size_in_bytes": 655799,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "cc113a60-c312-4cb7-8f55-c2bba854b378": {
+      "id": "cc113a60-c312-4cb7-8f55-c2bba854b378",
+      "name": "figure_3/raw/subfigure_a_before-suctioning.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_3/raw/subfigure_a_before-suctioning.tif",
+      "size_in_bytes": 655799,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "7faf958c-2787-41ae-a510-b7822d54106e": {
+      "id": "7faf958c-2787-41ae-a510-b7822d54106e",
+      "name": "figure_3/raw/subfigure_b.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_3/raw/subfigure_b.tif",
+      "size_in_bytes": 655799,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "7fd66105-3839-4fb5-b972-45bd9454bf4e": {
+      "id": "7fd66105-3839-4fb5-b972-45bd9454bf4e",
+      "name": "figure_3/processed/subfigure_a_after-suctioning.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_3/processed/subfigure_a_after-suctioning.tif",
+      "size_in_bytes": 655740,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "368b530e-6d51-4264-8edc-c358f8fbeac4": {
+      "id": "368b530e-6d51-4264-8edc-c358f8fbeac4",
+      "name": "figure_3/processed/subfigure_a_before-suctioning.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_3/processed/subfigure_a_before-suctioning.tif",
+      "size_in_bytes": 655740,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "2f5a5dde-480f-4595-b249-558e414b8b8e": {
+      "id": "2f5a5dde-480f-4595-b249-558e414b8b8e",
+      "name": "figure_3/processed/subfigure_b.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_3/processed/subfigure_b.tif",
+      "size_in_bytes": 655740,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "4704f484-148a-4cea-b5ad-ef613911d7a9": {
+      "id": "4704f484-148a-4cea-b5ad-ef613911d7a9",
+      "name": "figure_4/raw/subfigure_a/subfigure_a_water-spectrum.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_4/raw/subfigure_a/subfigure_a_water-spectrum.csv",
+      "size_in_bytes": 12084,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "511c84ed-b6f5-481e-a0e9-1588c6d3651e": {
+      "id": "511c84ed-b6f5-481e-a0e9-1588c6d3651e",
+      "name": "figure_4/raw/subfigure_b/subfigure_b_endoscope-narrow-band_20ms.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_4/raw/subfigure_b/subfigure_b_endoscope-narrow-band_20ms.tif",
+      "size_in_bytes": 648188,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "85fd79d4-1477-470d-b833-e27d8479fc39": {
+      "id": "85fd79d4-1477-470d-b833-e27d8479fc39",
+      "name": "figure_4/raw/subfigure_b/subfigure_b_endoscope-wide-band_20ms.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_4/raw/subfigure_b/subfigure_b_endoscope-wide-band_20ms.tif",
+      "size_in_bytes": 648124,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "28346f6b-3580-4d9a-a2bc-5c99616446d1": {
+      "id": "28346f6b-3580-4d9a-a2bc-5c99616446d1",
+      "name": "figure_4/raw/subfigure_b/subfigure_b_macro-narrow-band_200ms.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_4/raw/subfigure_b/subfigure_b_macro-narrow-band_200ms.tiff",
+      "size_in_bytes": 646338,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "00bc80b3-3194-472e-92ec-319a4813bd37": {
+      "id": "00bc80b3-3194-472e-92ec-319a4813bd37",
+      "name": "figure_4/raw/subfigure_b/subfigure_b_macro-wide-band_10ms.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_4/raw/subfigure_b/subfigure_b_macro-wide-band_10ms.tiff",
+      "size_in_bytes": 646338,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "a469bdcf-f473-46eb-9cba-7bc3df01a7d6": {
+      "id": "a469bdcf-f473-46eb-9cba-7bc3df01a7d6",
+      "name": "figure_4/raw/subfigure_b/swir_dark_10ms.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_4/raw/subfigure_b/swir_dark_10ms.tiff",
+      "size_in_bytes": 646338,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "29880206-d334-4a85-a4ef-49d2e0490352": {
+      "id": "29880206-d334-4a85-a4ef-49d2e0490352",
+      "name": "figure_4/raw/subfigure_b/swir_dark_20ms.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_4/raw/subfigure_b/swir_dark_20ms.tif",
+      "size_in_bytes": 647938,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "4d229e45-ff66-494d-9e78-cdba6464d17f": {
+      "id": "4d229e45-ff66-494d-9e78-cdba6464d17f",
+      "name": "figure_4/raw/subfigure_b/swir_dark_200ms.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_4/raw/subfigure_b/swir_dark_200ms.tiff",
+      "size_in_bytes": 646338,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "f78f8726-ba0a-468a-bab4-cf06e83d0359": {
+      "id": "f78f8726-ba0a-468a-bab4-cf06e83d0359",
+      "name": "figure_4/processed/spectrum_water_narrow-illumination.pdf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_4/processed/spectrum_water_narrow-illumination.pdf",
+      "size_in_bytes": 12453,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "25a7b14d-0eae-4e19-bd91-94734861d680": {
+      "id": "25a7b14d-0eae-4e19-bd91-94734861d680",
+      "name": "figure_4/processed/spectrum_water_wide-illumination.pdf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_4/processed/spectrum_water_wide-illumination.pdf",
+      "size_in_bytes": 12452,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "3eae0a9a-4afd-46fb-9930-b335ea0d023e": {
+      "id": "3eae0a9a-4afd-46fb-9930-b335ea0d023e",
+      "name": "figure_4/processed/subfigure_b_endoscope-narrow-band_20ms.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_4/processed/subfigure_b_endoscope-narrow-band_20ms.tif",
+      "size_in_bytes": 1292597,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "ff5f9596-04a2-4a62-909d-9ef07112ea5b": {
+      "id": "ff5f9596-04a2-4a62-909d-9ef07112ea5b",
+      "name": "figure_4/processed/subfigure_b_endoscope-wide-band_20ms.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_4/processed/subfigure_b_endoscope-wide-band_20ms.tif",
+      "size_in_bytes": 1292597,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "a28f4359-eff6-4949-a826-f2a8b7f14c02": {
+      "id": "a28f4359-eff6-4949-a826-f2a8b7f14c02",
+      "name": "figure_4/processed/subfigure_b_macro-narrow-band_200ms.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_4/processed/subfigure_b_macro-narrow-band_200ms.tif",
+      "size_in_bytes": 1292601,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "b6fb59aa-f13a-4a85-953b-998689912bb5": {
+      "id": "b6fb59aa-f13a-4a85-953b-998689912bb5",
+      "name": "figure_4/processed/subfigure_b_macro-wide-band_10ms.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_4/processed/subfigure_b_macro-wide-band_10ms.tif",
+      "size_in_bytes": 1292601,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "45b0c322-259b-465d-af57-75c843aa045f": {
+      "id": "45b0c322-259b-465d-af57-75c843aa045f",
+      "name": "figure_5/raw/subfigure_a/dark_10ms.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_5/raw/subfigure_a/dark_10ms.tif",
+      "size_in_bytes": 648092,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "f46779c2-3e8d-452a-a304-b0c92b152713": {
+      "id": "f46779c2-3e8d-452a-a304-b0c92b152713",
+      "name": "figure_5/raw/subfigure_a/dark_150ms.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_5/raw/subfigure_a/dark_150ms.tif",
+      "size_in_bytes": 648094,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "72d2fea6-d8a4-4d09-8323-b6ce50fb6e75": {
+      "id": "72d2fea6-d8a4-4d09-8323-b6ce50fb6e75",
+      "name": "figure_5/raw/subfigure_a/narrow_band_no_water_10ms.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_5/raw/subfigure_a/narrow_band_no_water_10ms.tif",
+      "size_in_bytes": 648192,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "d5fb19d5-1453-4e98-8d39-3354ffd219a4": {
+      "id": "d5fb19d5-1453-4e98-8d39-3354ffd219a4",
+      "name": "figure_5/raw/subfigure_a/narrow_band_water_10ms.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_5/raw/subfigure_a/narrow_band_water_10ms.tif",
+      "size_in_bytes": 648194,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "c0883467-e7fb-46bf-b6f3-40829cde0edb": {
+      "id": "c0883467-e7fb-46bf-b6f3-40829cde0edb",
+      "name": "figure_5/raw/subfigure_a/ROI_narrowband.roi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_5/raw/subfigure_a/ROI_narrowband.roi",
+      "size_in_bytes": 146,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "66d79904-7479-4aec-91db-a0f2a8a1f600": {
+      "id": "66d79904-7479-4aec-91db-a0f2a8a1f600",
+      "name": "figure_5/raw/subfigure_a/ROI_wideband.roi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_5/raw/subfigure_a/ROI_wideband.roi",
+      "size_in_bytes": 152,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "5c2698bc-b94a-47a6-af78-17b67fe44df0": {
+      "id": "5c2698bc-b94a-47a6-af78-17b67fe44df0",
+      "name": "figure_5/raw/subfigure_a/wide_band_no_water.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_5/raw/subfigure_a/wide_band_no_water.tif",
+      "size_in_bytes": 648174,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "6daf4ddb-cbfa-4051-ad88-d218378c0387": {
+      "id": "6daf4ddb-cbfa-4051-ad88-d218378c0387",
+      "name": "figure_5/raw/subfigure_a/wide_band_water.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_5/raw/subfigure_a/wide_band_water.tif",
+      "size_in_bytes": 648176,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "0763287e-86e1-4551-8a64-2cece4b8e034": {
+      "id": "0763287e-86e1-4551-8a64-2cece4b8e034",
+      "name": "figure_5/raw/subfigure_b/Values_plot_narrowband.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_5/raw/subfigure_b/Values_plot_narrowband.csv",
+      "size_in_bytes": 4061,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "74193d3f-5280-4d22-a85e-3ad550618774": {
+      "id": "74193d3f-5280-4d22-a85e-3ad550618774",
+      "name": "figure_5/raw/subfigure_b/Values_plot_wideband.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_5/raw/subfigure_b/Values_plot_wideband.csv",
+      "size_in_bytes": 4057,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "87287328-6625-405b-94a3-f9cd59e316cc": {
+      "id": "87287328-6625-405b-94a3-f9cd59e316cc",
+      "name": "figure_5/processed/narrow_band_no_water.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_5/processed/narrow_band_no_water.tif",
+      "size_in_bytes": 1292599,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "6d1d31e1-dce9-403b-8cf3-33c86b583baf": {
+      "id": "6d1d31e1-dce9-403b-8cf3-33c86b583baf",
+      "name": "figure_5/processed/narrow_band_water.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_5/processed/narrow_band_water.tif",
+      "size_in_bytes": 1292599,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "62db7a55-5f04-4dc0-8749-39f3e24c42a2": {
+      "id": "62db7a55-5f04-4dc0-8749-39f3e24c42a2",
+      "name": "figure_5/processed/Plot_Narrowband.pdf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_5/processed/Plot_Narrowband.pdf",
+      "size_in_bytes": 12380,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "acba97d4-0c00-4d74-ba86-a834c00b867b": {
+      "id": "acba97d4-0c00-4d74-ba86-a834c00b867b",
+      "name": "figure_5/processed/Plot_Wideband.pdf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_5/processed/Plot_Wideband.pdf",
+      "size_in_bytes": 12326,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "c948f350-0fa2-4f44-8583-a766ebd0e2fa": {
+      "id": "c948f350-0fa2-4f44-8583-a766ebd0e2fa",
+      "name": "figure_5/processed/wide_band_no_water.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_5/processed/wide_band_no_water.tif",
+      "size_in_bytes": 1292609,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "508f66d5-caed-45b0-ab40-d701a7202ec3": {
+      "id": "508f66d5-caed-45b0-ab40-d701a7202ec3",
+      "name": "figure_5/processed/wide_band_water.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_5/processed/wide_band_water.tif",
+      "size_in_bytes": 1292609,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "022b090c-f06c-4362-a673-7e120241e599": {
+      "id": "022b090c-f06c-4362-a673-7e120241e599",
+      "name": "figure_6/raw/subfigure_a/pig nose mucosa.Sample.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_6/raw/subfigure_a/pig nose mucosa.Sample.csv",
+      "size_in_bytes": 10249,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "0732b91a-dfaa-457d-bb3c-ff4b16e7ff03": {
+      "id": "0732b91a-dfaa-457d-bb3c-ff4b16e7ff03",
+      "name": "figure_6/raw/subfigure_a/acsf.Sample.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_6/raw/subfigure_a/acsf.Sample.csv",
+      "size_in_bytes": 12079,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "2f7ec9c0-7c04-4812-8454-157a67a17962": {
+      "id": "2f7ec9c0-7c04-4812-8454-157a67a17962",
+      "name": "figure_6/raw/subfigure_b/subfigure_b_30ms.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_6/raw/subfigure_b/subfigure_b_30ms.tiff",
+      "size_in_bytes": 646338,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "074af481-6365-4ed3-89be-ea0c8d9a940f": {
+      "id": "074af481-6365-4ed3-89be-ea0c8d9a940f",
+      "name": "figure_6/raw/subfigure_b/dark_30ms.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_6/raw/subfigure_b/dark_30ms.tiff",
+      "size_in_bytes": 646338,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "861ff4ac-6820-46b1-a48e-2dede1264aa3": {
+      "id": "861ff4ac-6820-46b1-a48e-2dede1264aa3",
+      "name": "figure_6/raw/subfigure_b/ROIs_mucosa-vs-acsf.csv.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_6/raw/subfigure_b/ROIs_mucosa-vs-acsf.csv.zip",
+      "size_in_bytes": 374,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "d652f7b5-b63e-4e32-8837-1c5aaca4031b": {
+      "id": "d652f7b5-b63e-4e32-8837-1c5aaca4031b",
+      "name": "figure_6/processed/spectra_pignose_acsf.pdf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_6/processed/spectra_pignose_acsf.pdf",
+      "size_in_bytes": 18324,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "c174b88c-5778-4db2-887f-b1832f481df6": {
+      "id": "c174b88c-5778-4db2-887f-b1832f481df6",
+      "name": "figure_6/processed/subfigure_b.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_6/processed/subfigure_b.tif",
+      "size_in_bytes": 1292595,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "7d44dba3-fbd2-4837-a047-3c092f64fc77": {
+      "id": "7d44dba3-fbd2-4837-a047-3c092f64fc77",
+      "name": "figure_7/raw/swir_1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/raw/swir_1.tif",
+      "size_in_bytes": 648061,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "a8edd7f4-9318-4489-bc8a-fc41efeb4ba9": {
+      "id": "a8edd7f4-9318-4489-bc8a-fc41efeb4ba9",
+      "name": "figure_7/raw/swir_2.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/raw/swir_2.tif",
+      "size_in_bytes": 648061,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "cef606cc-503e-4ab9-9f55-5a12d3d3d419": {
+      "id": "cef606cc-503e-4ab9-9f55-5a12d3d3d419",
+      "name": "figure_7/raw/swir_3.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/raw/swir_3.tif",
+      "size_in_bytes": 648063,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "8044c939-5a76-431c-9b02-8bcc198f9338": {
+      "id": "8044c939-5a76-431c-9b02-8bcc198f9338",
+      "name": "figure_7/raw/swir_4.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/raw/swir_4.tif",
+      "size_in_bytes": 648063,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "9c0c6c44-1713-42bd-85d2-a9ffef6aafd1": {
+      "id": "9c0c6c44-1713-42bd-85d2-a9ffef6aafd1",
+      "name": "figure_7/raw/swir_5.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/raw/swir_5.tif",
+      "size_in_bytes": 648063,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "7f617beb-8258-4dcb-9ce7-f03c1c715915": {
+      "id": "7f617beb-8258-4dcb-9ce7-f03c1c715915",
+      "name": "figure_7/raw/swir_dark_50ms.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/raw/swir_dark_50ms.tif",
+      "size_in_bytes": 648092,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "f9ceeb44-1761-4762-9b36-ddc1daee7d84": {
+      "id": "f9ceeb44-1761-4762-9b36-ddc1daee7d84",
+      "name": "figure_7/raw/white-light.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/raw/white-light.mp4",
+      "size_in_bytes": 348976800,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "acd5eb6f-cbe6-4f5e-91ef-314cb52559a3": {
+      "id": "acd5eb6f-cbe6-4f5e-91ef-314cb52559a3",
+      "name": "figure_7/raw/white-light_dark_20ms.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/raw/white-light_dark_20ms.png",
+      "size_in_bytes": 4757105,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "48289a6c-965c-4b87-b3d2-632b2a419040": {
+      "id": "48289a6c-965c-4b87-b3d2-632b2a419040",
+      "name": "figure_7/processed/swir_2.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/processed/swir_2.tif",
+      "size_in_bytes": 1292599,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "5659ab98-bd06-4f8d-b6a9-c955b69e051e": {
+      "id": "5659ab98-bd06-4f8d-b6a9-c955b69e051e",
+      "name": "figure_7/processed/swir_3.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/processed/swir_3.tif",
+      "size_in_bytes": 1292598,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "85a3ff8e-cfd5-44d6-9223-da5b3cd0f909": {
+      "id": "85a3ff8e-cfd5-44d6-9223-da5b3cd0f909",
+      "name": "figure_7/processed/swir_4.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/processed/swir_4.tif",
+      "size_in_bytes": 1292598,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "3fcdbba3-0de2-4332-b3eb-9a55df97ebf3": {
+      "id": "3fcdbba3-0de2-4332-b3eb-9a55df97ebf3",
+      "name": "figure_7/processed/swir_5.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/processed/swir_5.tif",
+      "size_in_bytes": 1292598,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "712fd092-4c51-4eee-825f-4af348d3e495": {
+      "id": "712fd092-4c51-4eee-825f-4af348d3e495",
+      "name": "figure_7/processed/white-light_1.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/processed/white-light_1.png",
+      "size_in_bytes": 592831,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "764e6c37-c01e-44d4-89f2-75c027a0af4c": {
+      "id": "764e6c37-c01e-44d4-89f2-75c027a0af4c",
+      "name": "figure_7/processed/white-light_2.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/processed/white-light_2.png",
+      "size_in_bytes": 1056932,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "e961aa7b-1395-4a36-9ae2-d4ee82952593": {
+      "id": "e961aa7b-1395-4a36-9ae2-d4ee82952593",
+      "name": "figure_7/processed/white-light_3.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/processed/white-light_3.png",
+      "size_in_bytes": 1054165,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "26feb873-8469-4fd8-befc-f7b000641267": {
+      "id": "26feb873-8469-4fd8-befc-f7b000641267",
+      "name": "figure_7/processed/white-light_4.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/processed/white-light_4.png",
+      "size_in_bytes": 1049248,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "0ce4794f-e6c2-473c-ba9f-7263765229b7": {
+      "id": "0ce4794f-e6c2-473c-ba9f-7263765229b7",
+      "name": "figure_7/processed/white-light_5.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/processed/white-light_5.png",
+      "size_in_bytes": 1058528,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "4f94fcd4-f026-4224-83c1-0ca7bb0e2b75": {
+      "id": "4f94fcd4-f026-4224-83c1-0ca7bb0e2b75",
+      "name": "figure_7/processed/swir_1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/processed/swir_1.tif",
+      "size_in_bytes": 1292599,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "7a3bd319-0081-4076-aa19-e6f0dc71c84b": {
+      "id": "7a3bd319-0081-4076-aa19-e6f0dc71c84b",
+      "name": "supplement_1/raw/dark_50ms.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_1/raw/dark_50ms.tif",
+      "size_in_bytes": 648096,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "9221c43a-cca7-489b-807d-79a5f9a3a47d": {
+      "id": "9221c43a-cca7-489b-807d-79a5f9a3a47d",
+      "name": "supplement_1/raw/dark_200ms.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_1/raw/dark_200ms.tif",
+      "size_in_bytes": 648102,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "8685589a-b50d-47bf-a0cd-0e7389de0e6b": {
+      "id": "8685589a-b50d-47bf-a0cd-0e7389de0e6b",
+      "name": "supplement_1/raw/narrow-band_fluid_200ms.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_1/raw/narrow-band_fluid_200ms.tif",
+      "size_in_bytes": 648288,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "d0d6b696-9ddd-469d-bac9-3d3b51e3885f": {
+      "id": "d0d6b696-9ddd-469d-bac9-3d3b51e3885f",
+      "name": "supplement_1/raw/narrow-band_no-fluid_200ms.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_1/raw/narrow-band_no-fluid_200ms.tif",
+      "size_in_bytes": 648286,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "d6ce4168-d041-4cf9-9510-44f25dd5e8ae": {
+      "id": "d6ce4168-d041-4cf9-9510-44f25dd5e8ae",
+      "name": "supplement_1/raw/wide-band_fluid_50ms.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_1/raw/wide-band_fluid_50ms.tif",
+      "size_in_bytes": 648254,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "fe64de30-4430-4df6-9992-7ba774f7b8f2": {
+      "id": "fe64de30-4430-4df6-9992-7ba774f7b8f2",
+      "name": "supplement_1/raw/wide-band_no-fluid_50ms.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_1/raw/wide-band_no-fluid_50ms.tif",
+      "size_in_bytes": 648254,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "c169628c-1504-4d52-a305-e28b4559e150": {
+      "id": "c169628c-1504-4d52-a305-e28b4559e150",
+      "name": "supplement_1/processed/narrow-band_fluid_200ms.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_1/processed/narrow-band_fluid_200ms.tif",
+      "size_in_bytes": 1292599,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "b660c3a1-dae2-4fa5-b5a3-a6110186ae6f": {
+      "id": "b660c3a1-dae2-4fa5-b5a3-a6110186ae6f",
+      "name": "supplement_1/processed/narrow-band_no-fluid_200ms.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_1/processed/narrow-band_no-fluid_200ms.tif",
+      "size_in_bytes": 1292599,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "8afdd2d2-20fd-4303-a606-b8497fd6044c": {
+      "id": "8afdd2d2-20fd-4303-a606-b8497fd6044c",
+      "name": "supplement_1/processed/wide-band_fluid_50ms.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_1/processed/wide-band_fluid_50ms.tif",
+      "size_in_bytes": 1292599,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "f3511f1a-ff99-48ac-a169-d08786727097": {
+      "id": "f3511f1a-ff99-48ac-a169-d08786727097",
+      "name": "supplement_1/processed/wide-band_no-fluid_50ms.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_1/processed/wide-band_no-fluid_50ms.tif",
+      "size_in_bytes": 1292599,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "abbbf4ed-447c-4639-a36f-d9344a69809f": {
+      "id": "abbbf4ed-447c-4639-a36f-d9344a69809f",
+      "name": "supplement_2/raw/dark_5ms.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_2/raw/dark_5ms.tif",
+      "size_in_bytes": 648093,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "611cb2c4-a969-431f-92c1-30a20af2d3f8": {
+      "id": "611cb2c4-a969-431f-92c1-30a20af2d3f8",
+      "name": "supplement_2/raw/dark_10ms.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_2/raw/dark_10ms.tif",
+      "size_in_bytes": 648100,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "f8a934de-ef57-44d3-a83f-dfe9ebdbc224": {
+      "id": "f8a934de-ef57-44d3-a83f-dfe9ebdbc224",
+      "name": "supplement_2/raw/without-polarizer_fluid.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_2/raw/without-polarizer_fluid.tif",
+      "size_in_bytes": 648200,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "fb9bdfb1-f6c4-494c-97ab-73abb0dfac61": {
+      "id": "fb9bdfb1-f6c4-494c-97ab-73abb0dfac61",
+      "name": "supplement_2/raw/without-polarizer_no-fluid.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_2/raw/without-polarizer_no-fluid.tif",
+      "size_in_bytes": 648196,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "5b349f0e-8561-48d7-adc6-430e414c154f": {
+      "id": "5b349f0e-8561-48d7-adc6-430e414c154f",
+      "name": "supplement_2/raw/with-polarizer_fluid.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_2/raw/with-polarizer_fluid.tif",
+      "size_in_bytes": 648261,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "ca545535-acbe-4ab2-a122-739cfe43e04e": {
+      "id": "ca545535-acbe-4ab2-a122-739cfe43e04e",
+      "name": "supplement_2/raw/with-polarizer_no-fluid.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_2/raw/with-polarizer_no-fluid.tif",
+      "size_in_bytes": 648261,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "dc724cb2-06b9-4cd0-95f6-951e693d860b": {
+      "id": "dc724cb2-06b9-4cd0-95f6-951e693d860b",
+      "name": "supplement_2/processed/without-polarizer_fluid.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_2/processed/without-polarizer_fluid.tif",
+      "size_in_bytes": 1292600,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "de2fbee7-2630-4845-b09c-fe734e77d9ec": {
+      "id": "de2fbee7-2630-4845-b09c-fe734e77d9ec",
+      "name": "supplement_2/processed/without-polarizer_no-fluid.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_2/processed/without-polarizer_no-fluid.tif",
+      "size_in_bytes": 1292613,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "e56578d7-9f03-4949-bdf7-00944dbeb996": {
+      "id": "e56578d7-9f03-4949-bdf7-00944dbeb996",
+      "name": "supplement_2/processed/with-polarizer_fluid.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_2/processed/with-polarizer_fluid.tif",
+      "size_in_bytes": 1292598,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "20ddcb09-a769-4f1a-8dca-770248a7175e": {
+      "id": "20ddcb09-a769-4f1a-8dca-770248a7175e",
+      "name": "supplement_2/processed/with-polarizer_no-fluid.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_2/processed/with-polarizer_no-fluid.tif",
+      "size_in_bytes": 1292599,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "e701a265-f396-47bb-94e9-3b6b83d0eeec": {
+      "id": "e701a265-f396-47bb-94e9-3b6b83d0eeec",
+      "name": "video_1/raw/dark_50ms.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/video_1/raw/dark_50ms.tif",
+      "size_in_bytes": 648092,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "ffc68d6e-dbf8-45ef-a737-002dfb5d9abf": {
+      "id": "ffc68d6e-dbf8-45ef-a737-002dfb5d9abf",
+      "name": "video_1/raw/video_1_50ms.avi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/video_1/raw/video_1_50ms.avi",
+      "size_in_bytes": 21823592,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "f3b95999-9ec8-4c36-ad9b-fcfd32a6e46d": {
+      "id": "f3b95999-9ec8-4c36-ad9b-fcfd32a6e46d",
+      "name": "video_1/processed/supplementary_video_1.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/video_1/processed/supplementary_video_1.mp4",
+      "size_in_bytes": 11098598,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "9674f10a-e281-45f0-a2e3-c1aab514c0e5": {
+      "id": "9674f10a-e281-45f0-a2e3-c1aab514c0e5",
+      "name": "video_2/raw/dark_20ms.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/video_2/raw/dark_20ms.png",
+      "size_in_bytes": 4757105,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "952b96ec-16f3-4f6a-a925-9b519d9ff647": {
+      "id": "952b96ec-16f3-4f6a-a925-9b519d9ff647",
+      "name": "video_2/raw/porcine_nasal_cavity_white-light.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/video_2/raw/porcine_nasal_cavity_white-light.mp4",
+      "size_in_bytes": 348976800,
+      "type": null,
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "9b232617-ae19-4c6f-98b6-e0dd1c75a109": {
+      "id": "9b232617-ae19-4c6f-98b6-e0dd1c75a109",
+      "name": "video_2/processed/supplementary_video_2.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/video_2/processed/supplementary_video_2.mp4",
+      "size_in_bytes": 8176120,
+      "type": null,
+      "attributes": {
+        "Type": "processed"
+      }
+    },
+    "71d7169a-1f89-42aa-a8b4-127d3e37d55c": {
+      "id": "71d7169a-1f89-42aa-a8b4-127d3e37d55c",
+      "name": "0292-0390.roi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_6/raw/subfigure_b/ROIs_mucosa-vs-acsf.csv.zip",
+      "size_in_bytes": 162,
+      "type": "file_in_zip",
+      "attributes": {
+        "Type": "raw"
+      }
+    },
+    "f11b834c-f244-4ff7-96ff-51028385b7ee": {
+      "id": "f11b834c-f244-4ff7-96ff-51028385b7ee",
+      "name": "0245-0290.roi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_6/raw/subfigure_b/ROIs_mucosa-vs-acsf.csv.zip",
+      "size_in_bytes": 162,
+      "type": "file_in_zip",
+      "attributes": {
+        "Type": "raw"
+      }
+    }
+  },
+  "images": {
+    "01416573-f432-4b57-84d5-07bbd6a3ccd4": {
+      "id": "01416573-f432-4b57-84d5-07bbd6a3ccd4",
+      "accession_id": "S-BIAD658",
+      "name": "figure_6/raw/subfigure_b/subfigure_b_30ms.tiff",
+      "original_relpath": "figure_6/raw/subfigure_b/subfigure_b_30ms.tiff",
+      "dimensions": "(1, 1, 1, 508, 636)",
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "01416573-f432-4b57-84d5-07bbd6a3ccd4",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_6/raw/subfigure_b/subfigure_b_30ms.tiff",
+          "size": 646338,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "2f7ec9c0-7c04-4812-8454-157a67a17962"
+            ]
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "01416573-f432-4b57-84d5-07bbd6a3ccd4",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD658/01416573-f432-4b57-84d5-07bbd6a3ccd4/01416573-f432-4b57-84d5-07bbd6a3ccd4.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "01416573-f432-4b57-84d5-07bbd6a3ccd4",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD658/01416573-f432-4b57-84d5-07bbd6a3ccd4/01416573-f432-4b57-84d5-07bbd6a3ccd4-thumbnail-128-128.png",
+          "size": 0,
+          "type": "thumbnail",
+          "dimensions": "(128, 128)",
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "SizeC": "1",
+        "SizeT": "1",
+        "SizeX": "636",
+        "SizeY": "508",
+        "SizeZ": "1",
+        "big_endian": "True",
+        "channels": "[{'id': 'Channel:0:0', 'color': 'white', 'samples_per_pixel': 1}]",
+        "dimension_order": "XYZCT",
+        "download_size": "631.2KiB",
+        "interleaved": "False",
+        "metadata_only": "True",
+        "physical_size_x": "1.0",
+        "physical_size_x_unit": "µm",
+        "physical_size_y": "1.0",
+        "physical_size_y_unit": "µm",
+        "significant_bits": "16",
+        "size_c": "1",
+        "size_t": "1",
+        "size_x": "636",
+        "size_y": "508",
+        "size_z": "1",
+        "type": "uint16"
+      }
+    },
+    "0438147c-4c82-408c-8be5-481f1b745950": {
+      "id": "0438147c-4c82-408c-8be5-481f1b745950",
+      "accession_id": "S-BIAD658",
+      "name": "figure_2/raw/subfigure_d/white-light_fluid.tif",
+      "original_relpath": "figure_2/raw/subfigure_d/white-light_fluid.tif",
+      "dimensions": "(1, 3, 1, 2076, 3088)",
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "0438147c-4c82-408c-8be5-481f1b745950",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/raw/subfigure_d/white-light_fluid.tif",
+          "size": 19232320,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "dad8c938-b9cf-4ac2-a4c3-31a1c20e97dc"
+            ]
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "0438147c-4c82-408c-8be5-481f1b745950",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD658/0438147c-4c82-408c-8be5-481f1b745950/0438147c-4c82-408c-8be5-481f1b745950.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "0438147c-4c82-408c-8be5-481f1b745950",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD658/0438147c-4c82-408c-8be5-481f1b745950/0438147c-4c82-408c-8be5-481f1b745950-thumbnail-128-128.png",
+          "size": 0,
+          "type": "thumbnail",
+          "dimensions": "(128, 128)",
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "SizeC": "3",
+        "SizeT": "1",
+        "SizeX": "3088",
+        "SizeY": "2076",
+        "SizeZ": "1",
+        "big_endian": "True",
+        "channels": "[{'id': 'Channel:0:0', 'color': 'white', 'samples_per_pixel': 1}, {'id': 'Channel:0:1', 'color': 'white', 'samples_per_pixel': 1}, {'id': 'Channel:0:2', 'color': 'white', 'samples_per_pixel': 1}]",
+        "dimension_order": "XYZCT",
+        "download_size": "18.3MiB",
+        "interleaved": "False",
+        "metadata_only": "True",
+        "significant_bits": "8",
+        "size_c": "3",
+        "size_t": "1",
+        "size_x": "3088",
+        "size_y": "2076",
+        "size_z": "1",
+        "type": "uint8"
+      }
+    },
+    "0843a89f-2868-42d5-9123-09d04587d82d": {
+      "id": "0843a89f-2868-42d5-9123-09d04587d82d",
+      "accession_id": "S-BIAD658",
+      "name": "figure_7/processed/white-light_3.png",
+      "original_relpath": "figure_7/processed/white-light_3.png",
+      "dimensions": "(1, 4, 1, 659, 984)",
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "0843a89f-2868-42d5-9123-09d04587d82d",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/processed/white-light_3.png",
+          "size": 1054165,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "e961aa7b-1395-4a36-9ae2-d4ee82952593"
+            ]
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "0843a89f-2868-42d5-9123-09d04587d82d",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD658/0843a89f-2868-42d5-9123-09d04587d82d/0843a89f-2868-42d5-9123-09d04587d82d.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "0843a89f-2868-42d5-9123-09d04587d82d",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD658/0843a89f-2868-42d5-9123-09d04587d82d/0843a89f-2868-42d5-9123-09d04587d82d-thumbnail-128-128.png",
+          "size": 0,
+          "type": "thumbnail",
+          "dimensions": "(128, 128)",
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "SizeC": "4",
+        "SizeT": "1",
+        "SizeX": "984",
+        "SizeY": "659",
+        "SizeZ": "1",
+        "big_endian": "True",
+        "channels": "[{'id': 'Channel:0:0', 'color': 'white', 'samples_per_pixel': 1}, {'id': 'Channel:0:1', 'color': 'white', 'samples_per_pixel': 1}, {'id': 'Channel:0:2', 'color': 'white', 'samples_per_pixel': 1}, {'id': 'Channel:0:3', 'color': 'white', 'samples_per_pixel': 1}]",
+        "dimension_order": "XYZCT",
+        "download_size": "1.0MiB",
+        "interleaved": "True",
+        "metadata_only": "True",
+        "significant_bits": "8",
+        "size_c": "4",
+        "size_t": "1",
+        "size_x": "984",
+        "size_y": "659",
+        "size_z": "1",
+        "type": "uint8"
+      }
+    },
+    "13b2eb5b-1d0e-4543-b86d-beccc9c307d0": {
+      "id": "13b2eb5b-1d0e-4543-b86d-beccc9c307d0",
+      "accession_id": "S-BIAD658",
+      "name": "supplement_2/raw/with-polarizer_fluid.tif",
+      "original_relpath": "supplement_2/raw/with-polarizer_fluid.tif",
+      "dimensions": "(1, 1, 1, 508, 636)",
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "13b2eb5b-1d0e-4543-b86d-beccc9c307d0",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_2/raw/with-polarizer_fluid.tif",
+          "size": 648261,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "5b349f0e-8561-48d7-adc6-430e414c154f"
+            ]
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "13b2eb5b-1d0e-4543-b86d-beccc9c307d0",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD658/13b2eb5b-1d0e-4543-b86d-beccc9c307d0/13b2eb5b-1d0e-4543-b86d-beccc9c307d0.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "13b2eb5b-1d0e-4543-b86d-beccc9c307d0",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD658/13b2eb5b-1d0e-4543-b86d-beccc9c307d0/13b2eb5b-1d0e-4543-b86d-beccc9c307d0-thumbnail-128-128.png",
+          "size": 0,
+          "type": "thumbnail",
+          "dimensions": "(128, 128)",
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "SizeC": "1",
+        "SizeT": "1",
+        "SizeX": "636",
+        "SizeY": "508",
+        "SizeZ": "1",
+        "big_endian": "True",
+        "channels": "[{'id': 'Channel:0:0', 'color': 'white', 'samples_per_pixel': 1}]",
+        "dimension_order": "XYZCT",
+        "download_size": "633.1KiB",
+        "interleaved": "False",
+        "metadata_only": "True",
+        "physical_size_x": "10000.0",
+        "physical_size_x_unit": "µm",
+        "physical_size_y": "10000.0",
+        "physical_size_y_unit": "µm",
+        "significant_bits": "16",
+        "size_c": "1",
+        "size_t": "1",
+        "size_x": "636",
+        "size_y": "508",
+        "size_z": "1",
+        "type": "uint16"
+      }
+    },
+    "13cd0a7e-8a57-4133-ab34-94345751a3bd": {
+      "id": "13cd0a7e-8a57-4133-ab34-94345751a3bd",
+      "accession_id": "S-BIAD658",
+      "name": "figure_2/processed/subfigure_d_swir-fluid_uncropped.tif",
+      "original_relpath": "figure_2/processed/subfigure_d_swir-fluid_uncropped.tif",
+      "dimensions": "(1, 1, 1, 508, 636)",
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "13cd0a7e-8a57-4133-ab34-94345751a3bd",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/processed/subfigure_d_swir-fluid_uncropped.tif",
+          "size": 1292599,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "831e3676-ad47-4b5a-a371-f6e646fa7392"
+            ]
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "13cd0a7e-8a57-4133-ab34-94345751a3bd",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD658/13cd0a7e-8a57-4133-ab34-94345751a3bd/13cd0a7e-8a57-4133-ab34-94345751a3bd.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "13cd0a7e-8a57-4133-ab34-94345751a3bd",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD658/13cd0a7e-8a57-4133-ab34-94345751a3bd/13cd0a7e-8a57-4133-ab34-94345751a3bd-thumbnail-128-128.png",
+          "size": 0,
+          "type": "thumbnail",
+          "dimensions": "(128, 128)",
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "SizeC": "1",
+        "SizeT": "1",
+        "SizeX": "636",
+        "SizeY": "508",
+        "SizeZ": "1",
+        "big_endian": "True",
+        "channels": "[{'id': 'Channel:0:0', 'color': 'white', 'samples_per_pixel': 1}]",
+        "dimension_order": "XYZCT",
+        "download_size": "1.2MiB",
+        "interleaved": "False",
+        "metadata_only": "True",
+        "physical_size_x": "10000.0",
+        "physical_size_x_unit": "µm",
+        "physical_size_y": "10000.0",
+        "physical_size_y_unit": "µm",
+        "significant_bits": "32",
+        "size_c": "1",
+        "size_t": "1",
+        "size_x": "636",
+        "size_y": "508",
+        "size_z": "1",
+        "type": "float"
+      }
+    },
+    "193729f8-c37a-4350-9c24-d03c3cdefa4e": {
+      "id": "193729f8-c37a-4350-9c24-d03c3cdefa4e",
+      "accession_id": "S-BIAD658",
+      "name": "figure_2/processed/subfigure_c_swir.tif",
+      "original_relpath": "figure_2/processed/subfigure_c_swir.tif",
+      "dimensions": "(1, 1, 1, 508, 636)",
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "193729f8-c37a-4350-9c24-d03c3cdefa4e",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/processed/subfigure_c_swir.tif",
+          "size": 1292595,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "5fdc5d15-1fe1-45d3-a8a0-18c3e0b1e77d"
+            ]
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "193729f8-c37a-4350-9c24-d03c3cdefa4e",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD658/193729f8-c37a-4350-9c24-d03c3cdefa4e/193729f8-c37a-4350-9c24-d03c3cdefa4e.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "193729f8-c37a-4350-9c24-d03c3cdefa4e",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD658/193729f8-c37a-4350-9c24-d03c3cdefa4e/193729f8-c37a-4350-9c24-d03c3cdefa4e-representative-512-512.png",
+          "size": 0,
+          "type": "representative",
+          "dimensions": "(512, 512)",
+          "attributes": null,
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "193729f8-c37a-4350-9c24-d03c3cdefa4e",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD658/193729f8-c37a-4350-9c24-d03c3cdefa4e/193729f8-c37a-4350-9c24-d03c3cdefa4e-thumbnail-128-128.png",
+          "size": 0,
+          "type": "thumbnail",
+          "dimensions": "(128, 128)",
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "SizeC": "1",
+        "SizeT": "1",
+        "SizeX": "636",
+        "SizeY": "508",
+        "SizeZ": "1",
+        "big_endian": "True",
+        "channels": "[{'id': 'Channel:0:0', 'color': 'white', 'samples_per_pixel': 1}]",
+        "dimension_order": "XYZCT",
+        "download_size": "1.2MiB",
+        "interleaved": "False",
+        "metadata_only": "True",
+        "physical_size_x": "1.0",
+        "physical_size_x_unit": "µm",
+        "physical_size_y": "1.0",
+        "physical_size_y_unit": "µm",
+        "significant_bits": "32",
+        "size_c": "1",
+        "size_t": "1",
+        "size_x": "636",
+        "size_y": "508",
+        "size_z": "1",
+        "type": "float"
+      }
+    },
+    "1e4490ac-c84d-433b-94c0-76d863df167a": {
+      "id": "1e4490ac-c84d-433b-94c0-76d863df167a",
+      "accession_id": "S-BIAD658",
+      "name": "figure_4/raw/subfigure_b/subfigure_b_macro-narrow-band_200ms.tiff",
+      "original_relpath": "figure_4/raw/subfigure_b/subfigure_b_macro-narrow-band_200ms.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "1e4490ac-c84d-433b-94c0-76d863df167a",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_4/raw/subfigure_b/subfigure_b_macro-narrow-band_200ms.tiff",
+          "size": 646338,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "28346f6b-3580-4d9a-a2bc-5c99616446d1"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "631.2KiB"
+      }
+    },
+    "1eae0c4a-d7c7-4f0c-9c52-903c025c5894": {
+      "id": "1eae0c4a-d7c7-4f0c-9c52-903c025c5894",
+      "accession_id": "S-BIAD658",
+      "name": "supplement_1/raw/narrow-band_fluid_200ms.tif",
+      "original_relpath": "supplement_1/raw/narrow-band_fluid_200ms.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "1eae0c4a-d7c7-4f0c-9c52-903c025c5894",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_1/raw/narrow-band_fluid_200ms.tif",
+          "size": 648288,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "8685589a-b50d-47bf-a0cd-0e7389de0e6b"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "633.1KiB"
+      }
+    },
+    "1f072c7c-a0d5-451f-a9b9-c81c54273892": {
+      "id": "1f072c7c-a0d5-451f-a9b9-c81c54273892",
+      "accession_id": "S-BIAD658",
+      "name": "figure_5/processed/narrow_band_no_water.tif",
+      "original_relpath": "figure_5/processed/narrow_band_no_water.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "1f072c7c-a0d5-451f-a9b9-c81c54273892",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_5/processed/narrow_band_no_water.tif",
+          "size": 1292599,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "87287328-6625-405b-94a3-f9cd59e316cc"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "1.2MiB"
+      }
+    },
+    "203a1ccb-2a62-4b3a-b0b8-3738cd02f649": {
+      "id": "203a1ccb-2a62-4b3a-b0b8-3738cd02f649",
+      "accession_id": "S-BIAD658",
+      "name": "figure_7/raw/swir_dark_50ms.tif",
+      "original_relpath": "figure_7/raw/swir_dark_50ms.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "203a1ccb-2a62-4b3a-b0b8-3738cd02f649",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/raw/swir_dark_50ms.tif",
+          "size": 648092,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "7f617beb-8258-4dcb-9ce7-f03c1c715915"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "632.9KiB"
+      }
+    },
+    "26b7e0ea-7fdd-49e2-9a61-b43500653474": {
+      "id": "26b7e0ea-7fdd-49e2-9a61-b43500653474",
+      "accession_id": "S-BIAD658",
+      "name": "figure_7/processed/swir_5.tif",
+      "original_relpath": "figure_7/processed/swir_5.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "26b7e0ea-7fdd-49e2-9a61-b43500653474",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/processed/swir_5.tif",
+          "size": 1292598,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "3fcdbba3-0de2-4332-b3eb-9a55df97ebf3"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "1.2MiB"
+      }
+    },
+    "27cbc86f-f78d-4ac2-a7a5-7403dcf9af0a": {
+      "id": "27cbc86f-f78d-4ac2-a7a5-7403dcf9af0a",
+      "accession_id": "S-BIAD658",
+      "name": "figure_3/raw/subfigure_a_after-suctioning.tif",
+      "original_relpath": "figure_3/raw/subfigure_a_after-suctioning.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "27cbc86f-f78d-4ac2-a7a5-7403dcf9af0a",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_3/raw/subfigure_a_after-suctioning.tif",
+          "size": 655799,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "55ac3373-43d4-4c77-874b-7d09ef4a607d"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "640.4KiB"
+      }
+    },
+    "2a6ff78a-2be6-495b-a1cc-127561b8a502": {
+      "id": "2a6ff78a-2be6-495b-a1cc-127561b8a502",
+      "accession_id": "S-BIAD658",
+      "name": "figure_2/raw/subfigure_c/eppis_swir_5ms.tiff",
+      "original_relpath": "figure_2/raw/subfigure_c/eppis_swir_5ms.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "2a6ff78a-2be6-495b-a1cc-127561b8a502",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/raw/subfigure_c/eppis_swir_5ms.tiff",
+          "size": 646338,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "34c5a768-3110-4a8b-8c44-7a2d48a811d7"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "631.2KiB"
+      }
+    },
+    "2d2ffdc9-5c4c-45f8-b818-5bff99ef98a5": {
+      "id": "2d2ffdc9-5c4c-45f8-b818-5bff99ef98a5",
+      "accession_id": "S-BIAD658",
+      "name": "figure_2/processed/subfigure_d_white-light-fluid_uncropped.tif",
+      "original_relpath": "figure_2/processed/subfigure_d_white-light-fluid_uncropped.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "2d2ffdc9-5c4c-45f8-b818-5bff99ef98a5",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/processed/subfigure_d_white-light-fluid_uncropped.tif",
+          "size": 19232218,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "326faaa6-ed8d-468e-9b97-4caa09fd2268"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "18.3MiB"
+      }
+    },
+    "3335f079-4bb5-4987-8fde-45e70c60f127": {
+      "id": "3335f079-4bb5-4987-8fde-45e70c60f127",
+      "accession_id": "S-BIAD658",
+      "name": "video_2/raw/dark_20ms.png",
+      "original_relpath": "video_2/raw/dark_20ms.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "3335f079-4bb5-4987-8fde-45e70c60f127",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/video_2/raw/dark_20ms.png",
+          "size": 4757105,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "9674f10a-e281-45f0-a2e3-c1aab514c0e5"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "4.5MiB"
+      }
+    },
+    "341945df-9c94-4a29-a57b-86ba3ba7e5c0": {
+      "id": "341945df-9c94-4a29-a57b-86ba3ba7e5c0",
+      "accession_id": "S-BIAD658",
+      "name": "figure_4/processed/subfigure_b_endoscope-wide-band_20ms.tif",
+      "original_relpath": "figure_4/processed/subfigure_b_endoscope-wide-band_20ms.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "341945df-9c94-4a29-a57b-86ba3ba7e5c0",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_4/processed/subfigure_b_endoscope-wide-band_20ms.tif",
+          "size": 1292597,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "ff5f9596-04a2-4a62-909d-9ef07112ea5b"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "1.2MiB"
+      }
+    },
+    "3528491e-546c-4791-8547-e2e410167c69": {
+      "id": "3528491e-546c-4791-8547-e2e410167c69",
+      "accession_id": "S-BIAD658",
+      "name": "supplement_1/raw/narrow-band_no-fluid_200ms.tif",
+      "original_relpath": "supplement_1/raw/narrow-band_no-fluid_200ms.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "3528491e-546c-4791-8547-e2e410167c69",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_1/raw/narrow-band_no-fluid_200ms.tif",
+          "size": 648286,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "d0d6b696-9ddd-469d-bac9-3d3b51e3885f"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "633.1KiB"
+      }
+    },
+    "353f6d53-0a62-4cde-ad91-1a6695c3b407": {
+      "id": "353f6d53-0a62-4cde-ad91-1a6695c3b407",
+      "accession_id": "S-BIAD658",
+      "name": "figure_7/raw/swir_2.tif",
+      "original_relpath": "figure_7/raw/swir_2.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "353f6d53-0a62-4cde-ad91-1a6695c3b407",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/raw/swir_2.tif",
+          "size": 648061,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "a8edd7f4-9318-4489-bc8a-fc41efeb4ba9"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "632.9KiB"
+      }
+    },
+    "3b985157-2e88-4a58-a5dc-184bd6c77d82": {
+      "id": "3b985157-2e88-4a58-a5dc-184bd6c77d82",
+      "accession_id": "S-BIAD658",
+      "name": "supplement_1/raw/dark_200ms.tif",
+      "original_relpath": "supplement_1/raw/dark_200ms.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "3b985157-2e88-4a58-a5dc-184bd6c77d82",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_1/raw/dark_200ms.tif",
+          "size": 648102,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "9221c43a-cca7-489b-807d-79a5f9a3a47d"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "632.9KiB"
+      }
+    },
+    "3cc2f7c0-4855-41b1-b5fe-58d128dd82bc": {
+      "id": "3cc2f7c0-4855-41b1-b5fe-58d128dd82bc",
+      "accession_id": "S-BIAD658",
+      "name": "supplement_2/raw/dark_5ms.tif",
+      "original_relpath": "supplement_2/raw/dark_5ms.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "3cc2f7c0-4855-41b1-b5fe-58d128dd82bc",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_2/raw/dark_5ms.tif",
+          "size": 648093,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "abbbf4ed-447c-4639-a36f-d9344a69809f"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "632.9KiB"
+      }
+    },
+    "3d6ee173-79b1-41bc-99c4-9b3be30897d0": {
+      "id": "3d6ee173-79b1-41bc-99c4-9b3be30897d0",
+      "accession_id": "S-BIAD658",
+      "name": "figure_4/raw/subfigure_b/subfigure_b_endoscope-narrow-band_20ms.tif",
+      "original_relpath": "figure_4/raw/subfigure_b/subfigure_b_endoscope-narrow-band_20ms.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "3d6ee173-79b1-41bc-99c4-9b3be30897d0",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_4/raw/subfigure_b/subfigure_b_endoscope-narrow-band_20ms.tif",
+          "size": 648188,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "511c84ed-b6f5-481e-a0e9-1588c6d3651e"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "633.0KiB"
+      }
+    },
+    "411dbe23-ffa7-464e-aa02-9e0ed22548ea": {
+      "id": "411dbe23-ffa7-464e-aa02-9e0ed22548ea",
+      "accession_id": "S-BIAD658",
+      "name": "figure_4/raw/subfigure_b/subfigure_b_endoscope-wide-band_20ms.tif",
+      "original_relpath": "figure_4/raw/subfigure_b/subfigure_b_endoscope-wide-band_20ms.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "411dbe23-ffa7-464e-aa02-9e0ed22548ea",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_4/raw/subfigure_b/subfigure_b_endoscope-wide-band_20ms.tif",
+          "size": 648124,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "85fd79d4-1477-470d-b833-e27d8479fc39"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "632.9KiB"
+      }
+    },
+    "4d22cf51-d5fe-473d-9a40-3b59a03b0e35": {
+      "id": "4d22cf51-d5fe-473d-9a40-3b59a03b0e35",
+      "accession_id": "S-BIAD658",
+      "name": "figure_2/raw/subfigure_d/swir_dark.tif",
+      "original_relpath": "figure_2/raw/subfigure_d/swir_dark.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "4d22cf51-d5fe-473d-9a40-3b59a03b0e35",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/raw/subfigure_d/swir_dark.tif",
+          "size": 56243423,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "e58abbec-654f-4cef-b317-2d538c51116b"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "53.6MiB"
+      }
+    },
+    "538ee6ae-9647-4611-abcb-cd8647df83ed": {
+      "id": "538ee6ae-9647-4611-abcb-cd8647df83ed",
+      "accession_id": "S-BIAD658",
+      "name": "figure_7/raw/swir_3.tif",
+      "original_relpath": "figure_7/raw/swir_3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "538ee6ae-9647-4611-abcb-cd8647df83ed",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/raw/swir_3.tif",
+          "size": 648063,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "cef606cc-503e-4ab9-9f55-5a12d3d3d419"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "632.9KiB"
+      }
+    },
+    "58be726d-9b8e-4d85-82e5-0e2c5b10cfec": {
+      "id": "58be726d-9b8e-4d85-82e5-0e2c5b10cfec",
+      "accession_id": "S-BIAD658",
+      "name": "figure_4/processed/subfigure_b_macro-narrow-band_200ms.tif",
+      "original_relpath": "figure_4/processed/subfigure_b_macro-narrow-band_200ms.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "58be726d-9b8e-4d85-82e5-0e2c5b10cfec",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_4/processed/subfigure_b_macro-narrow-band_200ms.tif",
+          "size": 1292601,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "a28f4359-eff6-4949-a826-f2a8b7f14c02"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "1.2MiB"
+      }
+    },
+    "5a8c0821-8177-4b0c-a8c8-1e068824d951": {
+      "id": "5a8c0821-8177-4b0c-a8c8-1e068824d951",
+      "accession_id": "S-BIAD658",
+      "name": "supplement_2/raw/dark_10ms.tif",
+      "original_relpath": "supplement_2/raw/dark_10ms.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "5a8c0821-8177-4b0c-a8c8-1e068824d951",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_2/raw/dark_10ms.tif",
+          "size": 648100,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "611cb2c4-a969-431f-92c1-30a20af2d3f8"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "632.9KiB"
+      }
+    },
+    "5b0a6325-661b-4e0a-b1c9-f05387fefa5c": {
+      "id": "5b0a6325-661b-4e0a-b1c9-f05387fefa5c",
+      "accession_id": "S-BIAD658",
+      "name": "figure_7/raw/white-light_dark_20ms.png",
+      "original_relpath": "figure_7/raw/white-light_dark_20ms.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "5b0a6325-661b-4e0a-b1c9-f05387fefa5c",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/raw/white-light_dark_20ms.png",
+          "size": 4757105,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "acd5eb6f-cbe6-4f5e-91ef-314cb52559a3"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "4.5MiB"
+      }
+    },
+    "6289fc41-1a41-4292-8013-96c98fb091c9": {
+      "id": "6289fc41-1a41-4292-8013-96c98fb091c9",
+      "accession_id": "S-BIAD658",
+      "name": "figure_7/raw/swir_5.tif",
+      "original_relpath": "figure_7/raw/swir_5.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "6289fc41-1a41-4292-8013-96c98fb091c9",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/raw/swir_5.tif",
+          "size": 648063,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "9c0c6c44-1713-42bd-85d2-a9ffef6aafd1"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "632.9KiB"
+      }
+    },
+    "659e6a3a-82f1-4c61-8d3a-601fc0af3817": {
+      "id": "659e6a3a-82f1-4c61-8d3a-601fc0af3817",
+      "accession_id": "S-BIAD658",
+      "name": "figure_3/processed/subfigure_b.tif",
+      "original_relpath": "figure_3/processed/subfigure_b.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "659e6a3a-82f1-4c61-8d3a-601fc0af3817",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_3/processed/subfigure_b.tif",
+          "size": 655740,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "2f5a5dde-480f-4595-b249-558e414b8b8e"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "640.4KiB"
+      }
+    },
+    "6b8eb71d-97ae-425d-a6fb-e88e182ed93c": {
+      "id": "6b8eb71d-97ae-425d-a6fb-e88e182ed93c",
+      "accession_id": "S-BIAD658",
+      "name": "figure_2/raw/subfigure_c/eppis_white-light_5ms.png",
+      "original_relpath": "figure_2/raw/subfigure_c/eppis_white-light_5ms.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "6b8eb71d-97ae-425d-a6fb-e88e182ed93c",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/raw/subfigure_c/eppis_white-light_5ms.png",
+          "size": 12149949,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "35e3f80f-c19f-4e5a-9e38-8f2388d42304"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "11.6MiB"
+      }
+    },
+    "710025c7-cc8d-460b-b15e-396d03b52b1b": {
+      "id": "710025c7-cc8d-460b-b15e-396d03b52b1b",
+      "accession_id": "S-BIAD658",
+      "name": "figure_5/raw/subfigure_a/dark_10ms.tif",
+      "original_relpath": "figure_5/raw/subfigure_a/dark_10ms.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "710025c7-cc8d-460b-b15e-396d03b52b1b",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_5/raw/subfigure_a/dark_10ms.tif",
+          "size": 648092,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "45b0c322-259b-465d-af57-75c843aa045f"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "632.9KiB"
+      }
+    },
+    "71bffab6-57c0-43fb-8811-4d2dd5e7b204": {
+      "id": "71bffab6-57c0-43fb-8811-4d2dd5e7b204",
+      "accession_id": "S-BIAD658",
+      "name": "figure_5/raw/subfigure_a/narrow_band_no_water_10ms.tif",
+      "original_relpath": "figure_5/raw/subfigure_a/narrow_band_no_water_10ms.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "71bffab6-57c0-43fb-8811-4d2dd5e7b204",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_5/raw/subfigure_a/narrow_band_no_water_10ms.tif",
+          "size": 648192,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "72d2fea6-d8a4-4d09-8323-b6ce50fb6e75"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "633.0KiB"
+      }
+    },
+    "7a589d1a-8ab6-4d61-a7c5-0df95a2a9696": {
+      "id": "7a589d1a-8ab6-4d61-a7c5-0df95a2a9696",
+      "accession_id": "S-BIAD658",
+      "name": "figure_7/raw/swir_4.tif",
+      "original_relpath": "figure_7/raw/swir_4.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "7a589d1a-8ab6-4d61-a7c5-0df95a2a9696",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/raw/swir_4.tif",
+          "size": 648063,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "8044c939-5a76-431c-9b02-8bcc198f9338"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "632.9KiB"
+      }
+    },
+    "7b9aa421-1d21-4ab7-8c4c-9e4c7844c81b": {
+      "id": "7b9aa421-1d21-4ab7-8c4c-9e4c7844c81b",
+      "accession_id": "S-BIAD658",
+      "name": "figure_3/raw/subfigure_b.tif",
+      "original_relpath": "figure_3/raw/subfigure_b.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "7b9aa421-1d21-4ab7-8c4c-9e4c7844c81b",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_3/raw/subfigure_b.tif",
+          "size": 655799,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "7faf958c-2787-41ae-a510-b7822d54106e"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "640.4KiB"
+      }
+    },
+    "7d2246b3-3f67-4364-8bcd-50be2aeb6a93": {
+      "id": "7d2246b3-3f67-4364-8bcd-50be2aeb6a93",
+      "accession_id": "S-BIAD658",
+      "name": "supplement_1/processed/narrow-band_fluid_200ms.tif",
+      "original_relpath": "supplement_1/processed/narrow-band_fluid_200ms.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "7d2246b3-3f67-4364-8bcd-50be2aeb6a93",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_1/processed/narrow-band_fluid_200ms.tif",
+          "size": 1292599,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "c169628c-1504-4d52-a305-e28b4559e150"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "1.2MiB"
+      }
+    },
+    "80355971-2dbe-43e5-bd5e-b203d186ccf8": {
+      "id": "80355971-2dbe-43e5-bd5e-b203d186ccf8",
+      "accession_id": "S-BIAD658",
+      "name": "figure_5/raw/subfigure_a/narrow_band_water_10ms.tif",
+      "original_relpath": "figure_5/raw/subfigure_a/narrow_band_water_10ms.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "80355971-2dbe-43e5-bd5e-b203d186ccf8",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_5/raw/subfigure_a/narrow_band_water_10ms.tif",
+          "size": 648194,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "d5fb19d5-1453-4e98-8d39-3354ffd219a4"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "633.0KiB"
+      }
+    },
+    "81c59823-0d0c-4559-a457-ff8efcbb70d2": {
+      "id": "81c59823-0d0c-4559-a457-ff8efcbb70d2",
+      "accession_id": "S-BIAD658",
+      "name": "supplement_1/processed/narrow-band_no-fluid_200ms.tif",
+      "original_relpath": "supplement_1/processed/narrow-band_no-fluid_200ms.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "81c59823-0d0c-4559-a457-ff8efcbb70d2",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_1/processed/narrow-band_no-fluid_200ms.tif",
+          "size": 1292599,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "b660c3a1-dae2-4fa5-b5a3-a6110186ae6f"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "1.2MiB"
+      }
+    },
+    "85a9af7a-8b80-45a9-be67-3127f5acb086": {
+      "id": "85a9af7a-8b80-45a9-be67-3127f5acb086",
+      "accession_id": "S-BIAD658",
+      "name": "video_1/raw/video_1_50ms.avi",
+      "original_relpath": "video_1/raw/video_1_50ms.avi",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "85a9af7a-8b80-45a9-be67-3127f5acb086",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/video_1/raw/video_1_50ms.avi",
+          "size": 21823592,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "ffc68d6e-dbf8-45ef-a737-002dfb5d9abf"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "20.8MiB"
+      }
+    },
+    "85aa4336-3d58-43ab-b78e-05bdca1b3602": {
+      "id": "85aa4336-3d58-43ab-b78e-05bdca1b3602",
+      "accession_id": "S-BIAD658",
+      "name": "figure_5/processed/narrow_band_water.tif",
+      "original_relpath": "figure_5/processed/narrow_band_water.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "85aa4336-3d58-43ab-b78e-05bdca1b3602",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_5/processed/narrow_band_water.tif",
+          "size": 1292599,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "6d1d31e1-dce9-403b-8cf3-33c86b583baf"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "1.2MiB"
+      }
+    },
+    "86b15fc1-59e3-4646-99c8-e7c4f8b5d1ac": {
+      "id": "86b15fc1-59e3-4646-99c8-e7c4f8b5d1ac",
+      "accession_id": "S-BIAD658",
+      "name": "figure_2/raw/subfigure_d/white-light_no-fluid.tif",
+      "original_relpath": "figure_2/raw/subfigure_d/white-light_no-fluid.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "86b15fc1-59e3-4646-99c8-e7c4f8b5d1ac",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/raw/subfigure_d/white-light_no-fluid.tif",
+          "size": 19232318,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "dda2b97c-3666-4065-bee0-d9ba1a43214a"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "18.3MiB"
+      }
+    },
+    "8cdaf130-4215-4d43-b3f6-cb5175c93a09": {
+      "id": "8cdaf130-4215-4d43-b3f6-cb5175c93a09",
+      "accession_id": "S-BIAD658",
+      "name": "figure_2/raw/subfigure_d/white-light_dark.tif",
+      "original_relpath": "figure_2/raw/subfigure_d/white-light_dark.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "8cdaf130-4215-4d43-b3f6-cb5175c93a09",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/raw/subfigure_d/white-light_dark.tif",
+          "size": 19232218,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "81ec3c13-ab99-4ad1-ade6-7877df41ac0c"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "18.3MiB"
+      }
+    },
+    "8df2bab0-a887-48cd-b400-ef11193e2aa6": {
+      "id": "8df2bab0-a887-48cd-b400-ef11193e2aa6",
+      "accession_id": "S-BIAD658",
+      "name": "figure_7/processed/white-light_1.png",
+      "original_relpath": "figure_7/processed/white-light_1.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "8df2bab0-a887-48cd-b400-ef11193e2aa6",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/processed/white-light_1.png",
+          "size": 592831,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "712fd092-4c51-4eee-825f-4af348d3e495"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "578.9KiB"
+      }
+    },
+    "932b911b-ea49-40b3-a3ed-dc811f6b4e02": {
+      "id": "932b911b-ea49-40b3-a3ed-dc811f6b4e02",
+      "accession_id": "S-BIAD658",
+      "name": "supplement_1/raw/wide-band_no-fluid_50ms.tif",
+      "original_relpath": "supplement_1/raw/wide-band_no-fluid_50ms.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "932b911b-ea49-40b3-a3ed-dc811f6b4e02",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_1/raw/wide-band_no-fluid_50ms.tif",
+          "size": 648254,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "fe64de30-4430-4df6-9992-7ba774f7b8f2"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "633.1KiB"
+      }
+    },
+    "9566356a-7c1a-4790-8a6b-34737b29156e": {
+      "id": "9566356a-7c1a-4790-8a6b-34737b29156e",
+      "accession_id": "S-BIAD658",
+      "name": "supplement_2/raw/with-polarizer_no-fluid.tif",
+      "original_relpath": "supplement_2/raw/with-polarizer_no-fluid.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "9566356a-7c1a-4790-8a6b-34737b29156e",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_2/raw/with-polarizer_no-fluid.tif",
+          "size": 648261,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "ca545535-acbe-4ab2-a122-739cfe43e04e"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "633.1KiB"
+      }
+    },
+    "95a0f157-2e89-4d73-a07c-941ef01ce86c": {
+      "id": "95a0f157-2e89-4d73-a07c-941ef01ce86c",
+      "accession_id": "S-BIAD658",
+      "name": "figure_6/raw/subfigure_b/dark_30ms.tiff",
+      "original_relpath": "figure_6/raw/subfigure_b/dark_30ms.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "95a0f157-2e89-4d73-a07c-941ef01ce86c",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_6/raw/subfigure_b/dark_30ms.tiff",
+          "size": 646338,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "074af481-6365-4ed3-89be-ea0c8d9a940f"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "631.2KiB"
+      }
+    },
+    "a220cdbe-b01d-4b1c-814f-a321446e690c": {
+      "id": "a220cdbe-b01d-4b1c-814f-a321446e690c",
+      "accession_id": "S-BIAD658",
+      "name": "supplement_1/processed/wide-band_fluid_50ms.tif",
+      "original_relpath": "supplement_1/processed/wide-band_fluid_50ms.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "a220cdbe-b01d-4b1c-814f-a321446e690c",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_1/processed/wide-band_fluid_50ms.tif",
+          "size": 1292599,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "8afdd2d2-20fd-4303-a606-b8497fd6044c"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "1.2MiB"
+      }
+    },
+    "a33761f1-e51a-4d49-a370-59875df23149": {
+      "id": "a33761f1-e51a-4d49-a370-59875df23149",
+      "accession_id": "S-BIAD658",
+      "name": "figure_7/processed/swir_1.tif",
+      "original_relpath": "figure_7/processed/swir_1.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "a33761f1-e51a-4d49-a370-59875df23149",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/processed/swir_1.tif",
+          "size": 1292599,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "4f94fcd4-f026-4224-83c1-0ca7bb0e2b75"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "1.2MiB"
+      }
+    },
+    "a4f14eeb-5812-4f88-a3f3-99935aaa8a85": {
+      "id": "a4f14eeb-5812-4f88-a3f3-99935aaa8a85",
+      "accession_id": "S-BIAD658",
+      "name": "figure_2/processed/subfigure_c_white-light.tif",
+      "original_relpath": "figure_2/processed/subfigure_c_white-light.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "a4f14eeb-5812-4f88-a3f3-99935aaa8a85",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/processed/subfigure_c_white-light.tif",
+          "size": 25642930,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "1154912a-bcc4-4bcf-ab40-3bf67e3c19da"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "24.5MiB"
+      }
+    },
+    "a788f234-4138-4310-b0a0-b61b3842bedd": {
+      "id": "a788f234-4138-4310-b0a0-b61b3842bedd",
+      "accession_id": "S-BIAD658",
+      "name": "figure_7/processed/white-light_2.png",
+      "original_relpath": "figure_7/processed/white-light_2.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "a788f234-4138-4310-b0a0-b61b3842bedd",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/processed/white-light_2.png",
+          "size": 1056932,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "764e6c37-c01e-44d4-89f2-75c027a0af4c"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "1.0MiB"
+      }
+    },
+    "ac8aa1f0-ba5e-4117-b175-666bf07d32b2": {
+      "id": "ac8aa1f0-ba5e-4117-b175-666bf07d32b2",
+      "accession_id": "S-BIAD658",
+      "name": "figure_2/raw/subfigure_c/swir_dark_5ms.tiff",
+      "original_relpath": "figure_2/raw/subfigure_c/swir_dark_5ms.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "ac8aa1f0-ba5e-4117-b175-666bf07d32b2",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/raw/subfigure_c/swir_dark_5ms.tiff",
+          "size": 646338,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "057d81b9-1d26-46c8-9970-70e7f689f3bd"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "631.2KiB"
+      }
+    },
+    "acc93fda-0926-4926-93a0-1307b84bf7e3": {
+      "id": "acc93fda-0926-4926-93a0-1307b84bf7e3",
+      "accession_id": "S-BIAD658",
+      "name": "figure_4/raw/subfigure_b/swir_dark_200ms.tiff",
+      "original_relpath": "figure_4/raw/subfigure_b/swir_dark_200ms.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "acc93fda-0926-4926-93a0-1307b84bf7e3",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_4/raw/subfigure_b/swir_dark_200ms.tiff",
+          "size": 646338,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "4d229e45-ff66-494d-9e78-cdba6464d17f"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "631.2KiB"
+      }
+    },
+    "af8b67e2-066a-4f21-babf-f52fc0d1ede6": {
+      "id": "af8b67e2-066a-4f21-babf-f52fc0d1ede6",
+      "accession_id": "S-BIAD658",
+      "name": "figure_3/raw/subfigure_a_before-suctioning.tif",
+      "original_relpath": "figure_3/raw/subfigure_a_before-suctioning.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "af8b67e2-066a-4f21-babf-f52fc0d1ede6",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_3/raw/subfigure_a_before-suctioning.tif",
+          "size": 655799,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "cc113a60-c312-4cb7-8f55-c2bba854b378"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "640.4KiB"
+      }
+    },
+    "b2a877e0-981a-49f0-9bad-d3e7819d0e3f": {
+      "id": "b2a877e0-981a-49f0-9bad-d3e7819d0e3f",
+      "accession_id": "S-BIAD658",
+      "name": "figure_7/processed/white-light_4.png",
+      "original_relpath": "figure_7/processed/white-light_4.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "b2a877e0-981a-49f0-9bad-d3e7819d0e3f",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/processed/white-light_4.png",
+          "size": 1049248,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "26feb873-8469-4fd8-befc-f7b000641267"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "1.0MiB"
+      }
+    },
+    "b37e1611-a705-4f4e-987b-6e2fae94082f": {
+      "id": "b37e1611-a705-4f4e-987b-6e2fae94082f",
+      "accession_id": "S-BIAD658",
+      "name": "figure_4/raw/subfigure_b/subfigure_b_macro-wide-band_10ms.tiff",
+      "original_relpath": "figure_4/raw/subfigure_b/subfigure_b_macro-wide-band_10ms.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "b37e1611-a705-4f4e-987b-6e2fae94082f",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_4/raw/subfigure_b/subfigure_b_macro-wide-band_10ms.tiff",
+          "size": 646338,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "00bc80b3-3194-472e-92ec-319a4813bd37"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "631.2KiB"
+      }
+    },
+    "b48b6c08-d8a1-40d5-8657-f1f64e7af497": {
+      "id": "b48b6c08-d8a1-40d5-8657-f1f64e7af497",
+      "accession_id": "S-BIAD658",
+      "name": "figure_7/processed/swir_2.tif",
+      "original_relpath": "figure_7/processed/swir_2.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "b48b6c08-d8a1-40d5-8657-f1f64e7af497",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/processed/swir_2.tif",
+          "size": 1292599,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "48289a6c-965c-4b87-b3d2-632b2a419040"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "1.2MiB"
+      }
+    },
+    "b4a2c29c-9bd8-4978-99da-e715197bf2b0": {
+      "id": "b4a2c29c-9bd8-4978-99da-e715197bf2b0",
+      "accession_id": "S-BIAD658",
+      "name": "figure_4/raw/subfigure_b/swir_dark_20ms.tif",
+      "original_relpath": "figure_4/raw/subfigure_b/swir_dark_20ms.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "b4a2c29c-9bd8-4978-99da-e715197bf2b0",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_4/raw/subfigure_b/swir_dark_20ms.tif",
+          "size": 647938,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "29880206-d334-4a85-a4ef-49d2e0490352"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "632.8KiB"
+      }
+    },
+    "b5d220d2-61cb-436e-96b1-3e21052c5b82": {
+      "id": "b5d220d2-61cb-436e-96b1-3e21052c5b82",
+      "accession_id": "S-BIAD658",
+      "name": "figure_5/raw/subfigure_a/wide_band_no_water.tif",
+      "original_relpath": "figure_5/raw/subfigure_a/wide_band_no_water.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "b5d220d2-61cb-436e-96b1-3e21052c5b82",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_5/raw/subfigure_a/wide_band_no_water.tif",
+          "size": 648174,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "5c2698bc-b94a-47a6-af78-17b67fe44df0"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "633.0KiB"
+      }
+    },
+    "b6dc0d0f-3ed2-4482-80c5-513796a1c22e": {
+      "id": "b6dc0d0f-3ed2-4482-80c5-513796a1c22e",
+      "accession_id": "S-BIAD658",
+      "name": "figure_6/processed/subfigure_b.tif",
+      "original_relpath": "figure_6/processed/subfigure_b.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "b6dc0d0f-3ed2-4482-80c5-513796a1c22e",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_6/processed/subfigure_b.tif",
+          "size": 1292595,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "c174b88c-5778-4db2-887f-b1832f481df6"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "1.2MiB"
+      }
+    },
+    "b7ba4793-8769-4636-a90b-c30b8cc2bf5b": {
+      "id": "b7ba4793-8769-4636-a90b-c30b8cc2bf5b",
+      "accession_id": "S-BIAD658",
+      "name": "figure_7/raw/swir_1.tif",
+      "original_relpath": "figure_7/raw/swir_1.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "b7ba4793-8769-4636-a90b-c30b8cc2bf5b",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/raw/swir_1.tif",
+          "size": 648061,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "7d44dba3-fbd2-4837-a047-3c092f64fc77"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "632.9KiB"
+      }
+    },
+    "bc3a4ffe-29fb-403a-a310-22d97816237c": {
+      "id": "bc3a4ffe-29fb-403a-a310-22d97816237c",
+      "accession_id": "S-BIAD658",
+      "name": "figure_5/processed/wide_band_water.tif",
+      "original_relpath": "figure_5/processed/wide_band_water.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "bc3a4ffe-29fb-403a-a310-22d97816237c",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_5/processed/wide_band_water.tif",
+          "size": 1292609,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "508f66d5-caed-45b0-ab40-d701a7202ec3"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "1.2MiB"
+      }
+    },
+    "bc463fd7-022c-4622-a0f1-49be4f96c67b": {
+      "id": "bc463fd7-022c-4622-a0f1-49be4f96c67b",
+      "accession_id": "S-BIAD658",
+      "name": "supplement_2/raw/without-polarizer_fluid.tif",
+      "original_relpath": "supplement_2/raw/without-polarizer_fluid.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "bc463fd7-022c-4622-a0f1-49be4f96c67b",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_2/raw/without-polarizer_fluid.tif",
+          "size": 648200,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "f8a934de-ef57-44d3-a83f-dfe9ebdbc224"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "633.0KiB"
+      }
+    },
+    "bda841e5-efb2-4abe-9583-0bd8a5417cb9": {
+      "id": "bda841e5-efb2-4abe-9583-0bd8a5417cb9",
+      "accession_id": "S-BIAD658",
+      "name": "figure_7/processed/swir_4.tif",
+      "original_relpath": "figure_7/processed/swir_4.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "bda841e5-efb2-4abe-9583-0bd8a5417cb9",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/processed/swir_4.tif",
+          "size": 1292598,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "85a3ff8e-cfd5-44d6-9223-da5b3cd0f909"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "1.2MiB"
+      }
+    },
+    "c0143729-4312-4fbb-99dc-12c559a05b09": {
+      "id": "c0143729-4312-4fbb-99dc-12c559a05b09",
+      "accession_id": "S-BIAD658",
+      "name": "figure_3/processed/subfigure_a_after-suctioning.tif",
+      "original_relpath": "figure_3/processed/subfigure_a_after-suctioning.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "c0143729-4312-4fbb-99dc-12c559a05b09",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_3/processed/subfigure_a_after-suctioning.tif",
+          "size": 655740,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "7fd66105-3839-4fb5-b972-45bd9454bf4e"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "640.4KiB"
+      }
+    },
+    "c5893d7b-24e5-41b3-a38c-b0616acea85f": {
+      "id": "c5893d7b-24e5-41b3-a38c-b0616acea85f",
+      "accession_id": "S-BIAD658",
+      "name": "supplement_1/processed/wide-band_no-fluid_50ms.tif",
+      "original_relpath": "supplement_1/processed/wide-band_no-fluid_50ms.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "c5893d7b-24e5-41b3-a38c-b0616acea85f",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_1/processed/wide-band_no-fluid_50ms.tif",
+          "size": 1292599,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "f3511f1a-ff99-48ac-a169-d08786727097"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "1.2MiB"
+      }
+    },
+    "c7966c54-e054-4a7b-8847-2e9c45a4f5b6": {
+      "id": "c7966c54-e054-4a7b-8847-2e9c45a4f5b6",
+      "accession_id": "S-BIAD658",
+      "name": "figure_4/raw/subfigure_b/swir_dark_10ms.tiff",
+      "original_relpath": "figure_4/raw/subfigure_b/swir_dark_10ms.tiff",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "c7966c54-e054-4a7b-8847-2e9c45a4f5b6",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_4/raw/subfigure_b/swir_dark_10ms.tiff",
+          "size": 646338,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "a469bdcf-f473-46eb-9cba-7bc3df01a7d6"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "631.2KiB"
+      }
+    },
+    "c83032aa-b47d-4fe7-9d7d-4b19e0dd07b8": {
+      "id": "c83032aa-b47d-4fe7-9d7d-4b19e0dd07b8",
+      "accession_id": "S-BIAD658",
+      "name": "figure_7/processed/white-light_5.png",
+      "original_relpath": "figure_7/processed/white-light_5.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "c83032aa-b47d-4fe7-9d7d-4b19e0dd07b8",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/processed/white-light_5.png",
+          "size": 1058528,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "0ce4794f-e6c2-473c-ba9f-7263765229b7"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "1.0MiB"
+      }
+    },
+    "c88b3051-fd8a-4253-8eec-5137bba85e57": {
+      "id": "c88b3051-fd8a-4253-8eec-5137bba85e57",
+      "accession_id": "S-BIAD658",
+      "name": "figure_5/raw/subfigure_a/wide_band_water.tif",
+      "original_relpath": "figure_5/raw/subfigure_a/wide_band_water.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "c88b3051-fd8a-4253-8eec-5137bba85e57",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_5/raw/subfigure_a/wide_band_water.tif",
+          "size": 648176,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "6daf4ddb-cbfa-4051-ad88-d218378c0387"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "633.0KiB"
+      }
+    },
+    "cc350ad0-65f6-4477-8bfd-569382b16858": {
+      "id": "cc350ad0-65f6-4477-8bfd-569382b16858",
+      "accession_id": "S-BIAD658",
+      "name": "figure_2/processed/subfigure_d_white-light-no-fluid_uncropped.tif",
+      "original_relpath": "figure_2/processed/subfigure_d_white-light-no-fluid_uncropped.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "cc350ad0-65f6-4477-8bfd-569382b16858",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/processed/subfigure_d_white-light-no-fluid_uncropped.tif",
+          "size": 19232218,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "84d61c26-1b7c-454c-bf4a-fc186e3c240c"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "18.3MiB"
+      }
+    },
+    "d0914823-a6ff-43f9-9b3d-82799885674d": {
+      "id": "d0914823-a6ff-43f9-9b3d-82799885674d",
+      "accession_id": "S-BIAD658",
+      "name": "video_1/raw/dark_50ms.tif",
+      "original_relpath": "video_1/raw/dark_50ms.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "d0914823-a6ff-43f9-9b3d-82799885674d",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/video_1/raw/dark_50ms.tif",
+          "size": 648092,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "e701a265-f396-47bb-94e9-3b6b83d0eeec"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "632.9KiB"
+      }
+    },
+    "d1c03502-54a9-4475-861a-d68b0bb4a947": {
+      "id": "d1c03502-54a9-4475-861a-d68b0bb4a947",
+      "accession_id": "S-BIAD658",
+      "name": "figure_4/processed/subfigure_b_endoscope-narrow-band_20ms.tif",
+      "original_relpath": "figure_4/processed/subfigure_b_endoscope-narrow-band_20ms.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "d1c03502-54a9-4475-861a-d68b0bb4a947",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_4/processed/subfigure_b_endoscope-narrow-band_20ms.tif",
+          "size": 1292597,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "3eae0a9a-4afd-46fb-9930-b335ea0d023e"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "1.2MiB"
+      }
+    },
+    "d24e4c14-6f20-4556-85d7-feb31e5cc52b": {
+      "id": "d24e4c14-6f20-4556-85d7-feb31e5cc52b",
+      "accession_id": "S-BIAD658",
+      "name": "supplement_2/processed/without-polarizer_fluid.tif",
+      "original_relpath": "supplement_2/processed/without-polarizer_fluid.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "d24e4c14-6f20-4556-85d7-feb31e5cc52b",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_2/processed/without-polarizer_fluid.tif",
+          "size": 1292600,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "dc724cb2-06b9-4cd0-95f6-951e693d860b"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "1.2MiB"
+      }
+    },
+    "d6b8ad01-11e0-4526-862d-d8f4cbc1c576": {
+      "id": "d6b8ad01-11e0-4526-862d-d8f4cbc1c576",
+      "accession_id": "S-BIAD658",
+      "name": "figure_2/raw/subfigure_d/swir_fluid.tif",
+      "original_relpath": "figure_2/raw/subfigure_d/swir_fluid.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "d6b8ad01-11e0-4526-862d-d8f4cbc1c576",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/raw/subfigure_d/swir_fluid.tif",
+          "size": 648202,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "71e12bc9-2b9d-43f2-81b5-1185ca1d124b"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "633.0KiB"
+      }
+    },
+    "d9b0e114-32f2-41e6-a69a-c4571447d3f5": {
+      "id": "d9b0e114-32f2-41e6-a69a-c4571447d3f5",
+      "accession_id": "S-BIAD658",
+      "name": "figure_7/processed/swir_3.tif",
+      "original_relpath": "figure_7/processed/swir_3.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "d9b0e114-32f2-41e6-a69a-c4571447d3f5",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_7/processed/swir_3.tif",
+          "size": 1292598,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "5659ab98-bd06-4f8d-b6a9-c955b69e051e"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "1.2MiB"
+      }
+    },
+    "dd259ab2-aef4-4e93-b52b-cee5720e7bcd": {
+      "id": "dd259ab2-aef4-4e93-b52b-cee5720e7bcd",
+      "accession_id": "S-BIAD658",
+      "name": "supplement_2/raw/without-polarizer_no-fluid.tif",
+      "original_relpath": "supplement_2/raw/without-polarizer_no-fluid.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "dd259ab2-aef4-4e93-b52b-cee5720e7bcd",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_2/raw/without-polarizer_no-fluid.tif",
+          "size": 648196,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "fb9bdfb1-f6c4-494c-97ab-73abb0dfac61"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "633.0KiB"
+      }
+    },
+    "e0ab6ffd-ca28-4351-b7b1-5080031f7cb5": {
+      "id": "e0ab6ffd-ca28-4351-b7b1-5080031f7cb5",
+      "accession_id": "S-BIAD658",
+      "name": "figure_2/raw/subfigure_d/swir_no-fluid.tif",
+      "original_relpath": "figure_2/raw/subfigure_d/swir_no-fluid.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "e0ab6ffd-ca28-4351-b7b1-5080031f7cb5",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/raw/subfigure_d/swir_no-fluid.tif",
+          "size": 648198,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "a74870dd-f199-4fa2-8b39-7fccc0c19763"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "633.0KiB"
+      }
+    },
+    "e575ff9a-d734-4844-9d6c-50f16fe2cdb9": {
+      "id": "e575ff9a-d734-4844-9d6c-50f16fe2cdb9",
+      "accession_id": "S-BIAD658",
+      "name": "supplement_2/processed/with-polarizer_no-fluid.tif",
+      "original_relpath": "supplement_2/processed/with-polarizer_no-fluid.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "e575ff9a-d734-4844-9d6c-50f16fe2cdb9",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_2/processed/with-polarizer_no-fluid.tif",
+          "size": 1292599,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "20ddcb09-a769-4f1a-8dca-770248a7175e"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "1.2MiB"
+      }
+    },
+    "e6356bf6-bc48-4cbd-836b-a72590b564f5": {
+      "id": "e6356bf6-bc48-4cbd-836b-a72590b564f5",
+      "accession_id": "S-BIAD658",
+      "name": "figure_4/processed/subfigure_b_macro-wide-band_10ms.tif",
+      "original_relpath": "figure_4/processed/subfigure_b_macro-wide-band_10ms.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "e6356bf6-bc48-4cbd-836b-a72590b564f5",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_4/processed/subfigure_b_macro-wide-band_10ms.tif",
+          "size": 1292601,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "b6fb59aa-f13a-4a85-953b-998689912bb5"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "1.2MiB"
+      }
+    },
+    "e8b06538-dd43-4a45-bae3-ed898ab2145b": {
+      "id": "e8b06538-dd43-4a45-bae3-ed898ab2145b",
+      "accession_id": "S-BIAD658",
+      "name": "supplement_1/raw/dark_50ms.tif",
+      "original_relpath": "supplement_1/raw/dark_50ms.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "e8b06538-dd43-4a45-bae3-ed898ab2145b",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_1/raw/dark_50ms.tif",
+          "size": 648096,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "7a3bd319-0081-4076-aa19-e6f0dc71c84b"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "632.9KiB"
+      }
+    },
+    "ea558502-823b-4eb0-8d55-0aed6481dc76": {
+      "id": "ea558502-823b-4eb0-8d55-0aed6481dc76",
+      "accession_id": "S-BIAD658",
+      "name": "figure_2/processed/subfigure_d_swir-no-fluid_uncropped.tif",
+      "original_relpath": "figure_2/processed/subfigure_d_swir-no-fluid_uncropped.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "ea558502-823b-4eb0-8d55-0aed6481dc76",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/processed/subfigure_d_swir-no-fluid_uncropped.tif",
+          "size": 1292599,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "2fb69621-d3e5-483a-a010-99533a226792"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "1.2MiB"
+      }
+    },
+    "ecd8dd6a-4db2-4c32-9b43-df6be0c60956": {
+      "id": "ecd8dd6a-4db2-4c32-9b43-df6be0c60956",
+      "accession_id": "S-BIAD658",
+      "name": "figure_2/raw/subfigure_c/white-light_dark_5ms.png",
+      "original_relpath": "figure_2/raw/subfigure_c/white-light_dark_5ms.png",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "ecd8dd6a-4db2-4c32-9b43-df6be0c60956",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_2/raw/subfigure_c/white-light_dark_5ms.png",
+          "size": 9443128,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "e896bd50-687e-4022-a5a2-94ccc66cae8a"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "9.0MiB"
+      }
+    },
+    "ed3e005e-f878-4637-9852-729fe7c03154": {
+      "id": "ed3e005e-f878-4637-9852-729fe7c03154",
+      "accession_id": "S-BIAD658",
+      "name": "figure_3/processed/subfigure_a_before-suctioning.tif",
+      "original_relpath": "figure_3/processed/subfigure_a_before-suctioning.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "ed3e005e-f878-4637-9852-729fe7c03154",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_3/processed/subfigure_a_before-suctioning.tif",
+          "size": 655740,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "368b530e-6d51-4264-8edc-c358f8fbeac4"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "640.4KiB"
+      }
+    },
+    "eefef973-46b2-425d-b610-f3fb0a0fd62f": {
+      "id": "eefef973-46b2-425d-b610-f3fb0a0fd62f",
+      "accession_id": "S-BIAD658",
+      "name": "figure_5/processed/wide_band_no_water.tif",
+      "original_relpath": "figure_5/processed/wide_band_no_water.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "eefef973-46b2-425d-b610-f3fb0a0fd62f",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_5/processed/wide_band_no_water.tif",
+          "size": 1292609,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "c948f350-0fa2-4f44-8583-a766ebd0e2fa"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "1.2MiB"
+      }
+    },
+    "ef6f4f7d-ad78-4692-a7b5-82505b0de2f4": {
+      "id": "ef6f4f7d-ad78-4692-a7b5-82505b0de2f4",
+      "accession_id": "S-BIAD658",
+      "name": "supplement_2/processed/with-polarizer_fluid.tif",
+      "original_relpath": "supplement_2/processed/with-polarizer_fluid.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "ef6f4f7d-ad78-4692-a7b5-82505b0de2f4",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_2/processed/with-polarizer_fluid.tif",
+          "size": 1292598,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "e56578d7-9f03-4949-bdf7-00944dbeb996"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "1.2MiB"
+      }
+    },
+    "f10fd9ea-3cd3-4dbb-b0bb-606eea5eb768": {
+      "id": "f10fd9ea-3cd3-4dbb-b0bb-606eea5eb768",
+      "accession_id": "S-BIAD658",
+      "name": "supplement_2/processed/without-polarizer_no-fluid.tif",
+      "original_relpath": "supplement_2/processed/without-polarizer_no-fluid.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "f10fd9ea-3cd3-4dbb-b0bb-606eea5eb768",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_2/processed/without-polarizer_no-fluid.tif",
+          "size": 1292613,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "de2fbee7-2630-4845-b09c-fe734e77d9ec"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "processed",
+        "download_size": "1.2MiB"
+      }
+    },
+    "f95e228a-915c-4635-80e5-5435f28f9f6a": {
+      "id": "f95e228a-915c-4635-80e5-5435f28f9f6a",
+      "accession_id": "S-BIAD658",
+      "name": "figure_5/raw/subfigure_a/dark_150ms.tif",
+      "original_relpath": "figure_5/raw/subfigure_a/dark_150ms.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "f95e228a-915c-4635-80e5-5435f28f9f6a",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/figure_5/raw/subfigure_a/dark_150ms.tif",
+          "size": 648094,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "f46779c2-3e8d-452a-a304-b0c92b152713"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "632.9KiB"
+      }
+    },
+    "fc70fb7d-0ec9-4198-b48a-67e5f7900faa": {
+      "id": "fc70fb7d-0ec9-4198-b48a-67e5f7900faa",
+      "accession_id": "S-BIAD658",
+      "name": "supplement_1/raw/wide-band_fluid_50ms.tif",
+      "original_relpath": "supplement_1/raw/wide-band_fluid_50ms.tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD658",
+          "image_id": "fc70fb7d-0ec9-4198-b48a-67e5f7900faa",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/658/S-BIAD658/Files/supplement_1/raw/wide-band_fluid_50ms.tif",
+          "size": 648254,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "d6ce4168-d041-4cf9-9510-44f25dd5e8ae"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Type": "raw",
+        "download_size": "633.1KiB"
+      }
+    }
+  },
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

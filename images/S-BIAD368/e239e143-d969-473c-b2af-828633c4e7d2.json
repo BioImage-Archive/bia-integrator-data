@@ -1,0 +1,40 @@
+{
+  "id": "e239e143-d969-473c-b2af-828633c4e7d2",
+  "accession_id": "S-BIAD368",
+  "name": "Texture/Texture_Rep2/211007_exp512_Slide6_029.nd2",
+  "original_relpath": "Texture/Texture_Rep2/211007_exp512_Slide6_029.nd2",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD368",
+      "image_id": "e239e143-d969-473c-b2af-828633c4e7d2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/368/S-BIAD368/Files/Texture/Texture_Rep2/211007_exp512_Slide6_029.nd2",
+      "size": 2015232,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "f29998e8-5cbc-4f1f-954f-4afe0942a17a"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "File_Type": "nd2 image",
+    "Microscope": "Nikon A1 point-scanning confocal microscope ",
+    "Cell_Line": "HeLa-S3 + Top2A-Venus",
+    "Timepoint": "4hrs early G1",
+    "Treatment": "DMSO",
+    "Time_TreatmentAdded": "t2hrs",
+    "Experiment_Type": "DNA and Top2A Texture/Contrast Analysis",
+    "Experimental_Replicate": "2",
+    "Mitotic_Sync_Protocol": "12hr nocodazole",
+    "Channel1": "DAPI",
+    "Channel2": "EGFP",
+    "Channel3": "Texas Red",
+    "Channel4": "NA",
+    "Stains_Tags": "Top2A-Venus(EGFP channel), anti-LaminA(AF568, Texas Red channel), DAPI",
+    "Analysis_Step": "NA"
+  }
+}

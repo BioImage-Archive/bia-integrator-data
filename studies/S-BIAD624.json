@@ -1,0 +1,1825 @@
+{
+  "accession_id": "S-BIAD624",
+  "title": "rs1663689 interchromosomally regulates ADGRG6 and modulates the malignant progression of lung cancer",
+  "description": "Our studies demonstrated a nontraditional trans-effect of a genetic variant and suggest a novel personalized treatment strategy for lung cancer patients harboring the T/T genotype at rs1663689.",
+  "authors": [
+    {
+      "name": "Xinyue Lei"
+    }
+  ],
+  "organism": "Unknown",
+  "release_date": "2023-02-20",
+  "license": "CC0",
+  "links": {},
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "example_annotation_uri": "",
+  "file_references": {
+    "304ca524-b4b4-4615-8ec3-68dd680fd32d": {
+      "id": "304ca524-b4b4-4615-8ec3-68dd680fd32d",
+      "name": "Source data for microscopy images/Figure 1/1E/Micr.image-H460 TT cells-Merge.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1E/Micr.image-H460 TT cells-Merge.tif",
+      "size_in_bytes": 3114580,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "5c1ba3ec-0e7e-4fd9-a2d4-e24d2c3cf62f": {
+      "id": "5c1ba3ec-0e7e-4fd9-a2d4-e24d2c3cf62f",
+      "name": "Source data for microscopy images/Figure 1/1E/Micr.image-H460 CC cells-Merge.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1E/Micr.image-H460 CC cells-Merge.tif",
+      "size_in_bytes": 2699552,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "8e5f7b9b-06cb-473f-866e-de92c06e15a9": {
+      "id": "8e5f7b9b-06cb-473f-866e-de92c06e15a9",
+      "name": "Source data for microscopy images/Figure 1/1E/Micr.image-A549 TT cells-Merge.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1E/Micr.image-A549 TT cells-Merge.tif",
+      "size_in_bytes": 1492504,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "0c36be0b-dd7c-4673-977e-caff3df2df81": {
+      "id": "0c36be0b-dd7c-4673-977e-caff3df2df81",
+      "name": "Source data for microscopy images/Figure 1/1E/Micr.image-A549 TC cells-Merge.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1E/Micr.image-A549 TC cells-Merge.tif",
+      "size_in_bytes": 724108,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "32d54e08-b120-4a8b-b63d-b70a57274a12": {
+      "id": "32d54e08-b120-4a8b-b63d-b70a57274a12",
+      "name": "Source data for microscopy images/Figure 1/1E/Micr.image-A549 CC cells-Merge.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1E/Micr.image-A549 CC cells-Merge.tif",
+      "size_in_bytes": 838716,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "652c5fcb-4be7-435f-9b6f-adbdac00c768": {
+      "id": "652c5fcb-4be7-435f-9b6f-adbdac00c768",
+      "name": "Source data for microscopy images/Figure 1/1E/Micr.image-H460 TT cells-DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1E/Micr.image-H460 TT cells-DAPI.tif",
+      "size_in_bytes": 2034388,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "cd411215-cd0c-4c77-a496-4096cb02f1e7": {
+      "id": "cd411215-cd0c-4c77-a496-4096cb02f1e7",
+      "name": "Source data for microscopy images/Figure 1/1E/Micr.image-H460 CC cells-DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1E/Micr.image-H460 CC cells-DAPI.tif",
+      "size_in_bytes": 1701476,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "e092aa65-3f6c-4f69-ab4e-3ddc46c53f62": {
+      "id": "e092aa65-3f6c-4f69-ab4e-3ddc46c53f62",
+      "name": "Source data for microscopy images/Figure 1/1E/Micr.image-A549 TT cells-DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1E/Micr.image-A549 TT cells-DAPI.tif",
+      "size_in_bytes": 1979956,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "47f83131-d6dc-4fb6-bd0d-31fcc48e1760": {
+      "id": "47f83131-d6dc-4fb6-bd0d-31fcc48e1760",
+      "name": "Source data for microscopy images/Figure 1/1E/Micr.image-A549 TC cells-DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1E/Micr.image-A549 TC cells-DAPI.tif",
+      "size_in_bytes": 556796,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "fbcd5eab-9c55-49c4-8c45-6ffea8ca5e1c": {
+      "id": "fbcd5eab-9c55-49c4-8c45-6ffea8ca5e1c",
+      "name": "Source data for microscopy images/Figure 1/1E/Micr.image-A549 CC cells-DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1E/Micr.image-A549 CC cells-DAPI.tif",
+      "size_in_bytes": 1002490,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "91789e27-1494-4cbf-914d-6bd7af479748": {
+      "id": "91789e27-1494-4cbf-914d-6bd7af479748",
+      "name": "Source data for microscopy images/Figure 1/1E/Micr.image-H460 TT cells-Laminin5.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1E/Micr.image-H460 TT cells-Laminin5.tif",
+      "size_in_bytes": 1729690,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "09f10897-9807-4d00-b95e-35a2ac65312f": {
+      "id": "09f10897-9807-4d00-b95e-35a2ac65312f",
+      "name": "Source data for microscopy images/Figure 1/1E/Micr.image-H460 CC cells-Laminin5.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1E/Micr.image-H460 CC cells-Laminin5.tif",
+      "size_in_bytes": 1809334,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "20645613-5df8-43ba-ba48-e31ac8200e5f": {
+      "id": "20645613-5df8-43ba-ba48-e31ac8200e5f",
+      "name": "Source data for microscopy images/Figure 1/1E/Micr.image-A549 TT cells-Laminin5.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1E/Micr.image-A549 TT cells-Laminin5.tif",
+      "size_in_bytes": 1977028,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "668c6e9a-9cf2-46ea-9744-e1489421bfe0": {
+      "id": "668c6e9a-9cf2-46ea-9744-e1489421bfe0",
+      "name": "Source data for microscopy images/Figure 1/1E/Micr.image-A549 TC cells-Laminin5.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1E/Micr.image-A549 TC cells-Laminin5.tif",
+      "size_in_bytes": 555538,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "520083c4-1974-4e6c-895d-39457d1e14df": {
+      "id": "520083c4-1974-4e6c-895d-39457d1e14df",
+      "name": "Source data for microscopy images/Figure 1/1E/Micr.image-A549 CC cells-Laminin5.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1E/Micr.image-A549 CC cells-Laminin5.tif",
+      "size_in_bytes": 639080,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "d4b884f1-c4ae-468e-909f-6df18aae02c0": {
+      "id": "d4b884f1-c4ae-468e-909f-6df18aae02c0",
+      "name": "Source data for microscopy images/Figure 1/1E/Micr.image-H460 TT cells-3D Matrigel.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1E/Micr.image-H460 TT cells-3D Matrigel.tif",
+      "size_in_bytes": 4211806,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "39878f94-07ce-44e0-9679-f2ce8b8ee099": {
+      "id": "39878f94-07ce-44e0-9679-f2ce8b8ee099",
+      "name": "Source data for microscopy images/Figure 1/1E/Micr.image-H460 CC cells-3D Matrigel.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1E/Micr.image-H460 CC cells-3D Matrigel.tif",
+      "size_in_bytes": 4211806,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "0e2b8696-5191-4061-b7e1-c3570f7aaa91": {
+      "id": "0e2b8696-5191-4061-b7e1-c3570f7aaa91",
+      "name": "Source data for microscopy images/Figure 1/1E/Micr.image-A549 TT cells-3D Matrigel.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1E/Micr.image-A549 TT cells-3D Matrigel.tif",
+      "size_in_bytes": 4211456,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "41b3a1ba-9d11-46ac-88a7-4b44371aec96": {
+      "id": "41b3a1ba-9d11-46ac-88a7-4b44371aec96",
+      "name": "Source data for microscopy images/Figure 1/1E/Micr.image-A549 TC cells-3D Matrigel.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1E/Micr.image-A549 TC cells-3D Matrigel.tif",
+      "size_in_bytes": 4211456,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "bc6e48ee-272a-4d4f-8ca7-ab838d1551c5": {
+      "id": "bc6e48ee-272a-4d4f-8ca7-ab838d1551c5",
+      "name": "Source data for microscopy images/Figure 1/1E/Micr.image-A549 CC cells-3D Matrigel.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1E/Micr.image-A549 CC cells-3D Matrigel.tif",
+      "size_in_bytes": 4211456,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "3d7757be-7cc4-470a-91a2-a2d799993f4f": {
+      "id": "3d7757be-7cc4-470a-91a2-a2d799993f4f",
+      "name": "Source data for microscopy images/Figure 1/1H/Image for A549 TC-invasion.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1H/Image for A549 TC-invasion.tif",
+      "size_in_bytes": 4211282,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "ababc9f8-43ec-497e-b85c-120b3eb6dee7": {
+      "id": "ababc9f8-43ec-497e-b85c-120b3eb6dee7",
+      "name": "Source data for microscopy images/Figure 1/1H/Image for A549 TT-invasion.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1H/Image for A549 TT-invasion.tif",
+      "size_in_bytes": 4211282,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "78baa0ac-253a-463c-aa59-735e267e98c7": {
+      "id": "78baa0ac-253a-463c-aa59-735e267e98c7",
+      "name": "Source data for microscopy images/Figure 1/1H/Image for H460 CC-invasion.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1H/Image for H460 CC-invasion.tif",
+      "size_in_bytes": 4211806,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "29263277-0ad1-4364-98d0-3a577460bc16": {
+      "id": "29263277-0ad1-4364-98d0-3a577460bc16",
+      "name": "Source data for microscopy images/Figure 1/1H/Image for H460 TT-invasion.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1H/Image for H460 TT-invasion.tif",
+      "size_in_bytes": 4211806,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "e42c056e-93b3-49c5-a1ce-3626c1d546a4": {
+      "id": "e42c056e-93b3-49c5-a1ce-3626c1d546a4",
+      "name": "Source data for microscopy images/Figure 1/1I/Image for A549 CC-migration.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1I/Image for A549 CC-migration.tif",
+      "size_in_bytes": 4211428,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "a56e23d5-c803-41d6-b6ca-73daf33ca259": {
+      "id": "a56e23d5-c803-41d6-b6ca-73daf33ca259",
+      "name": "Source data for microscopy images/Figure 1/1I/Image for A549 TC-migration.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1I/Image for A549 TC-migration.tif",
+      "size_in_bytes": 4211428,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "bb67e39d-a57f-4fbc-9e14-2013289589c8": {
+      "id": "bb67e39d-a57f-4fbc-9e14-2013289589c8",
+      "name": "Source data for microscopy images/Figure 1/1I/Image for H460 TT-migration.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1I/Image for H460 TT-migration.tif",
+      "size_in_bytes": 4211428,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "17125d10-e0d6-41cf-bc53-8e0d767d334d": {
+      "id": "17125d10-e0d6-41cf-bc53-8e0d767d334d",
+      "name": "Source data for microscopy images/Figure 1/1I/Image for H460 CC-migration.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 1/1I/Image for H460 CC-migration.tif",
+      "size_in_bytes": 4211428,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "lung cancer cell"
+      }
+    },
+    "50461f8a-ba10-4161-b4e2-270805f805ba": {
+      "id": "50461f8a-ba10-4161-b4e2-270805f805ba",
+      "name": "Source data for microscopy images/Figure 2/2D/Image for A549 CC-Ki67 positive cancer cells.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2D/Image for A549 CC-Ki67 positive cancer cells.tif",
+      "size_in_bytes": 37635276,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "subcutaneous tumor section"
+      }
+    },
+    "48a0855e-4a50-4973-aed8-cc06540aeeea": {
+      "id": "48a0855e-4a50-4973-aed8-cc06540aeeea",
+      "name": "Source data for microscopy images/Figure 2/2D/Image for A549 TT-Ki67 positive cancer cells.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2D/Image for A549 TT-Ki67 positive cancer cells.tif",
+      "size_in_bytes": 37635276,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "subcutaneous tumor section"
+      }
+    },
+    "4eadaff6-0667-46de-8944-9d500b66fa5c": {
+      "id": "4eadaff6-0667-46de-8944-9d500b66fa5c",
+      "name": "Source data for microscopy images/Figure 2/2D/Image for H460 CC-Ki67 positive cancer cells.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2D/Image for H460 CC-Ki67 positive cancer cells.tif",
+      "size_in_bytes": 37635272,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "subcutaneous tumor section"
+      }
+    },
+    "9b9d829a-f288-442c-a03b-4ceec648222e": {
+      "id": "9b9d829a-f288-442c-a03b-4ceec648222e",
+      "name": "Source data for microscopy images/Figure 2/2D/Image for H460 TT-Ki67 positive cancer cells.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2D/Image for H460 TT-Ki67 positive cancer cells.tif",
+      "size_in_bytes": 37635272,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "subcutaneous tumor section"
+      }
+    },
+    "ee8af68b-bf8a-47e5-bfb7-87fb95ba7495": {
+      "id": "ee8af68b-bf8a-47e5-bfb7-87fb95ba7495",
+      "name": "Source data for microscopy images/Figure 2/2E/Image for A549 CC-HE.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2E/Image for A549 CC-HE.tif",
+      "size_in_bytes": 37635276,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "subcutaneous tumor section"
+      }
+    },
+    "3e9aa3ef-c92c-4b5a-bec5-dbc199173453": {
+      "id": "3e9aa3ef-c92c-4b5a-bec5-dbc199173453",
+      "name": "Source data for microscopy images/Figure 2/2E/Image for A549 TT-HE.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2E/Image for A549 TT-HE.tif",
+      "size_in_bytes": 25765354,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "subcutaneous tumor section"
+      }
+    },
+    "7afd8b4c-0e50-454c-81f9-a482fe221cf9": {
+      "id": "7afd8b4c-0e50-454c-81f9-a482fe221cf9",
+      "name": "Source data for microscopy images/Figure 2/2E/Image for H460 CC-HE.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2E/Image for H460 CC-HE.tif",
+      "size_in_bytes": 4211652,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "subcutaneous tumor section"
+      }
+    },
+    "439d3c03-67e7-4a22-9a9c-26196679c6a8": {
+      "id": "439d3c03-67e7-4a22-9a9c-26196679c6a8",
+      "name": "Source data for microscopy images/Figure 2/2E/Image for H460 TT-HE.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2E/Image for H460 TT-HE.tif",
+      "size_in_bytes": 4211652,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "subcutaneous tumor section"
+      }
+    },
+    "b4c3c792-9f47-42c1-87f2-147dd1fb3b75": {
+      "id": "b4c3c792-9f47-42c1-87f2-147dd1fb3b75",
+      "name": "Source data for microscopy images/Figure 2/2E/Image for A549 CC-HLAⅠ.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2E/Image for A549 CC-HLAⅠ.tif",
+      "size_in_bytes": 37635276,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "subcutaneous tumor section"
+      }
+    },
+    "3f69d06d-4f7a-48fe-ba91-40fa5bb8f822": {
+      "id": "3f69d06d-4f7a-48fe-ba91-40fa5bb8f822",
+      "name": "Source data for microscopy images/Figure 2/2E/Image for A549 TT-HLAⅠ.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2E/Image for A549 TT-HLAⅠ.tif",
+      "size_in_bytes": 37635276,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "subcutaneous tumor section"
+      }
+    },
+    "d6fc3cdd-cae3-4bad-bb4e-4956871531da": {
+      "id": "d6fc3cdd-cae3-4bad-bb4e-4956871531da",
+      "name": "Source data for microscopy images/Figure 2/2E/Image for H460 CC-HLAⅠ.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2E/Image for H460 CC-HLAⅠ.tif",
+      "size_in_bytes": 4211656,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "subcutaneous tumor section"
+      }
+    },
+    "845fc3cb-fb37-4648-a3c5-5db66564a866": {
+      "id": "845fc3cb-fb37-4648-a3c5-5db66564a866",
+      "name": "Source data for microscopy images/Figure 2/2E/Image for H460 TT-HLAⅠ.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2E/Image for H460 TT-HLAⅠ.tif",
+      "size_in_bytes": 4211656,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "subcutaneous tumor section"
+      }
+    },
+    "190523e4-95a8-41f5-84ca-1508eaa11e87": {
+      "id": "190523e4-95a8-41f5-84ca-1508eaa11e87",
+      "name": "Source data for microscopy images/Figure 2/2G/Micr.image-A549 CC tumor cells-DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2G/Micr.image-A549 CC tumor cells-DAPI.tif",
+      "size_in_bytes": 6644120,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "e02e7ff2-b7d6-465e-b5e6-d21bdbf92c24": {
+      "id": "e02e7ff2-b7d6-465e-b5e6-d21bdbf92c24",
+      "name": "Source data for microscopy images/Figure 2/2G/Micr.image-A549 TT tumor cells-DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2G/Micr.image-A549 TT tumor cells-DAPI.tif",
+      "size_in_bytes": 5918874,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "1b6f2fb2-ef9a-4c77-b501-70538c5566f2": {
+      "id": "1b6f2fb2-ef9a-4c77-b501-70538c5566f2",
+      "name": "Source data for microscopy images/Figure 2/2G/Micr.image-H460 CC tumor cells-DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2G/Micr.image-H460 CC tumor cells-DAPI.tif",
+      "size_in_bytes": 5306324,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "dced5378-96f1-4aad-a78a-fd5d6351c7b7": {
+      "id": "dced5378-96f1-4aad-a78a-fd5d6351c7b7",
+      "name": "Source data for microscopy images/Figure 2/2G/Micr.image-H460 TT tumor cells-DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2G/Micr.image-H460 TT tumor cells-DAPI.tif",
+      "size_in_bytes": 6539014,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "df2227b9-9204-4cd0-81a8-b7013ed2b875": {
+      "id": "df2227b9-9204-4cd0-81a8-b7013ed2b875",
+      "name": "Source data for microscopy images/Figure 2/2G/Micr.image-A549 CC tumor cells-HLAⅠ.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2G/Micr.image-A549 CC tumor cells-HLAⅠ.tif",
+      "size_in_bytes": 4021814,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "9dfd4b67-fd33-4146-be85-c1cc273bb6b0": {
+      "id": "9dfd4b67-fd33-4146-be85-c1cc273bb6b0",
+      "name": "Source data for microscopy images/Figure 2/2G/Micr.image-A549 TT tumor cells-HLAⅠ.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2G/Micr.image-A549 TT tumor cells-HLAⅠ.tif",
+      "size_in_bytes": 4038678,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "dc7bb93a-3e10-4cf3-9728-9b6fe24b6fb3": {
+      "id": "dc7bb93a-3e10-4cf3-9728-9b6fe24b6fb3",
+      "name": "Source data for microscopy images/Figure 2/2G/Micr.image-H460 CC tumor cells-HLAⅠ.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2G/Micr.image-H460 CC tumor cells-HLAⅠ.tif",
+      "size_in_bytes": 1044684,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "1ea1924c-adfb-44f8-a267-fcef958ec713": {
+      "id": "1ea1924c-adfb-44f8-a267-fcef958ec713",
+      "name": "Source data for microscopy images/Figure 2/2G/Micr.image-H460 TT tumor cells-HLAⅠ.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2G/Micr.image-H460 TT tumor cells-HLAⅠ.tif",
+      "size_in_bytes": 1767630,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "cbbd5a2e-6e1f-41dc-8f3e-e07124f18727": {
+      "id": "cbbd5a2e-6e1f-41dc-8f3e-e07124f18727",
+      "name": "Source data for microscopy images/Figure 2/2G/Micr.image-H460 CC tumor cells-Merge.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2G/Micr.image-H460 CC tumor cells-Merge.tif",
+      "size_in_bytes": 3735716,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "5b071664-6225-4fee-a94e-91097516d23d": {
+      "id": "5b071664-6225-4fee-a94e-91097516d23d",
+      "name": "Source data for microscopy images/Figure 2/2G/Micr.image-H460 TT tumor cells-Merge.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2G/Micr.image-H460 TT tumor cells-Merge.tif",
+      "size_in_bytes": 9064230,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "0bc169b7-167e-4673-b39f-6578bece637f": {
+      "id": "0bc169b7-167e-4673-b39f-6578bece637f",
+      "name": "Source data for microscopy images/Figure 2/2G/Micr.image-A549 CC tumor cells-Merge.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2G/Micr.image-A549 CC tumor cells-Merge.tif",
+      "size_in_bytes": 8910452,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "8e190ed4-daa3-4905-8b4d-08c222b6146c": {
+      "id": "8e190ed4-daa3-4905-8b4d-08c222b6146c",
+      "name": "Source data for microscopy images/Figure 2/2G/Micr.image-A549 TT tumor cells-Merge.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2G/Micr.image-A549 TT tumor cells-Merge.tif",
+      "size_in_bytes": 12626490,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "02d887ca-6864-46fe-8c28-685beefc6e59": {
+      "id": "02d887ca-6864-46fe-8c28-685beefc6e59",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day2-A549CC-DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day2-A549CC-DAPI.tif",
+      "size_in_bytes": 5713978,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "841f86ab-c4f7-4b7a-890e-7248b1906be1": {
+      "id": "841f86ab-c4f7-4b7a-890e-7248b1906be1",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day2-A549TT-DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day2-A549TT-DAPI.tif",
+      "size_in_bytes": 6010252,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "1ee9e86c-ff80-47c8-9988-98c5565f49c4": {
+      "id": "1ee9e86c-ff80-47c8-9988-98c5565f49c4",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day14-A549CC-DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day14-A549CC-DAPI.tif",
+      "size_in_bytes": 6597414,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "68cf971b-c840-449f-bcf1-83be6f20dbe1": {
+      "id": "68cf971b-c840-449f-bcf1-83be6f20dbe1",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day14-A549TT-DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day14-A549TT-DAPI.tif",
+      "size_in_bytes": 7266998,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "c9d9361b-ca5a-4b7c-828c-780f7360c365": {
+      "id": "c9d9361b-ca5a-4b7c-828c-780f7360c365",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day28-A549CC-DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day28-A549CC-DAPI.tif",
+      "size_in_bytes": 4797718,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "9d23b06e-c6d3-4efe-a736-da5ca3e88d2b": {
+      "id": "9d23b06e-c6d3-4efe-a736-da5ca3e88d2b",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day28-A549TT-DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day28-A549TT-DAPI.tif",
+      "size_in_bytes": 6058764,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "2d9dae81-ba3d-4478-a29c-cb9562648d14": {
+      "id": "2d9dae81-ba3d-4478-a29c-cb9562648d14",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day42-A549CC-DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day42-A549CC-DAPI.tif",
+      "size_in_bytes": 7049798,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "0e0ae79e-e3c6-4e5e-b751-a66857b19214": {
+      "id": "0e0ae79e-e3c6-4e5e-b751-a66857b19214",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day42-A549TT-DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day42-A549TT-DAPI.tif",
+      "size_in_bytes": 7052194,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "112030d5-fbe3-4481-a009-ac78ad261c43": {
+      "id": "112030d5-fbe3-4481-a009-ac78ad261c43",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day2-A549CC-HLA Ⅰ.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day2-A549CC-HLA Ⅰ.tif",
+      "size_in_bytes": 2402922,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "172bccf1-112e-4b0d-a989-1b3bc7f679bc": {
+      "id": "172bccf1-112e-4b0d-a989-1b3bc7f679bc",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day2-A549TT-HLA Ⅰ.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day2-A549TT-HLA Ⅰ.tif",
+      "size_in_bytes": 1695864,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "29a0a7fc-5f4c-4b44-82ee-40cbf25459a5": {
+      "id": "29a0a7fc-5f4c-4b44-82ee-40cbf25459a5",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day14-A549CC-HLA Ⅰ.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day14-A549CC-HLA Ⅰ.tif",
+      "size_in_bytes": 3902128,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "31614d52-1d63-4f1e-8a32-7019ce76e347": {
+      "id": "31614d52-1d63-4f1e-8a32-7019ce76e347",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day14-A549TT-HLA Ⅰ.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day14-A549TT-HLA Ⅰ.tif",
+      "size_in_bytes": 3611192,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "ff00edf7-0352-4283-88ea-46b302cb5189": {
+      "id": "ff00edf7-0352-4283-88ea-46b302cb5189",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day28-A549CC-HLA Ⅰ.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day28-A549CC-HLA Ⅰ.tif",
+      "size_in_bytes": 2513512,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "cd3668f6-4daf-4894-9477-374742ebbbf4": {
+      "id": "cd3668f6-4daf-4894-9477-374742ebbbf4",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day28-A549TT-HLA Ⅰ.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day28-A549TT-HLA Ⅰ.tif",
+      "size_in_bytes": 4178340,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "2e8c6be3-4a72-4d81-b0cb-a216f95b9005": {
+      "id": "2e8c6be3-4a72-4d81-b0cb-a216f95b9005",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day42-A549CC-HLAⅠ.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day42-A549CC-HLAⅠ.tif",
+      "size_in_bytes": 4082420,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "5bad1ec4-859c-487a-86f6-3e5e96f8b198": {
+      "id": "5bad1ec4-859c-487a-86f6-3e5e96f8b198",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day42-A549TT-HLAⅠ.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day42-A549TT-HLAⅠ.tif",
+      "size_in_bytes": 8147252,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "ac581a59-88ca-4fd2-8cad-195f138de554": {
+      "id": "ac581a59-88ca-4fd2-8cad-195f138de554",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day2-A549CC-MERGE.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day2-A549CC-MERGE.tif",
+      "size_in_bytes": 7911598,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "60a628f2-35b2-4564-8299-58f670437b04": {
+      "id": "60a628f2-35b2-4564-8299-58f670437b04",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day2-A549TT-MERGE.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day2-A549TT-MERGE.tif",
+      "size_in_bytes": 8162160,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "a8cd331b-7b11-4ede-a85f-a4d3558d31e4": {
+      "id": "a8cd331b-7b11-4ede-a85f-a4d3558d31e4",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day14-A549CC-MERGE.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day14-A549CC-MERGE.tif",
+      "size_in_bytes": 9690102,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "b490ec42-77ec-433e-8ea2-097163073ef6": {
+      "id": "b490ec42-77ec-433e-8ea2-097163073ef6",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day14-A549TT-MERGE.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day14-A549TT-MERGE.tif",
+      "size_in_bytes": 14002870,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "5711c764-bf12-491e-92a8-55de0c8e0422": {
+      "id": "5711c764-bf12-491e-92a8-55de0c8e0422",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day28-A549CC-MERGE.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day28-A549CC-MERGE.tif",
+      "size_in_bytes": 8462652,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "96f73074-8dc6-4af0-87fd-5a17da444f92": {
+      "id": "96f73074-8dc6-4af0-87fd-5a17da444f92",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day28-A549TT-MERGE.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day28-A549TT-MERGE.tif",
+      "size_in_bytes": 12088164,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "c416b725-5198-458c-bbdb-7617bcf6fc85": {
+      "id": "c416b725-5198-458c-bbdb-7617bcf6fc85",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day42-A549CC-MERGE.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day42-A549CC-MERGE.tif",
+      "size_in_bytes": 13956704,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "24bce0cc-6adc-412a-aac3-57150b93d250": {
+      "id": "24bce0cc-6adc-412a-aac3-57150b93d250",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day42-A549TT-MERGE.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day42-A549TT-MERGE.tif",
+      "size_in_bytes": 17982340,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "9a602237-e3ae-4fd7-90e3-a6bfa1222838": {
+      "id": "9a602237-e3ae-4fd7-90e3-a6bfa1222838",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day14-A549CC-EDU.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day14-A549CC-EDU.tif",
+      "size_in_bytes": 3964790,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "9660a650-ac85-4970-a97f-a03eb8415bf2": {
+      "id": "9660a650-ac85-4970-a97f-a03eb8415bf2",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day14-A549TT-EDU.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day14-A549TT-EDU.tif",
+      "size_in_bytes": 4111964,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "c7260359-ce4c-4b27-9afa-bc2b0819c6d3": {
+      "id": "c7260359-ce4c-4b27-9afa-bc2b0819c6d3",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day28-A549CC-EDU.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day28-A549CC-EDU.tif",
+      "size_in_bytes": 2110484,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "be6d7031-8ec0-42de-bf96-f6a3b143b6be": {
+      "id": "be6d7031-8ec0-42de-bf96-f6a3b143b6be",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day28-A549TT-EDU.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day28-A549TT-EDU.tif",
+      "size_in_bytes": 3692478,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "fc0a9a78-95a7-4d8e-973e-73422724666a": {
+      "id": "fc0a9a78-95a7-4d8e-973e-73422724666a",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day42-A549CC-EDU.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day42-A549CC-EDU.tif",
+      "size_in_bytes": 4181826,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "839ef9f6-8c8e-48bb-9d8e-08b8e724c736": {
+      "id": "839ef9f6-8c8e-48bb-9d8e-08b8e724c736",
+      "name": "Source data for microscopy images/Figure 2/2H/Micr.image day42-A549TT-EDU.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 2/2H/Micr.image day42-A549TT-EDU.tif",
+      "size_in_bytes": 4789476,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Mouse",
+        "Specimen type": "lung tissue section"
+      }
+    },
+    "93fa143d-6374-480f-9816-5dfdca42df93": {
+      "id": "93fa143d-6374-480f-9816-5dfdca42df93",
+      "name": "Source data for microscopy images/Figure 3/3F/Micr.image-A549 CC cells-ADGRG6.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 3/3F/Micr.image-A549 CC cells-ADGRG6.tif",
+      "size_in_bytes": 346946,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "987d139d-55e4-421e-be9c-f3c285b01152": {
+      "id": "987d139d-55e4-421e-be9c-f3c285b01152",
+      "name": "Source data for microscopy images/Figure 3/3F/Micr.image-A549 TC cells-ADGRG6.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 3/3F/Micr.image-A549 TC cells-ADGRG6.tif",
+      "size_in_bytes": 344288,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "f513a2f1-722f-4ee2-af7e-8fca6aaf7834": {
+      "id": "f513a2f1-722f-4ee2-af7e-8fca6aaf7834",
+      "name": "Source data for microscopy images/Figure 3/3F/Micr.image-A549 TT cells-ADGRG6.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 3/3F/Micr.image-A549 TT cells-ADGRG6.tif",
+      "size_in_bytes": 362384,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "3b733dd9-eb28-45b4-bf2a-33108ac1af11": {
+      "id": "3b733dd9-eb28-45b4-bf2a-33108ac1af11",
+      "name": "Source data for microscopy images/Figure 3/3F/Micr.image-H460 CC cells-ADGRG6.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 3/3F/Micr.image-H460 CC cells-ADGRG6.tif",
+      "size_in_bytes": 348672,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "9d45087c-4e40-44d4-b6c9-d98873a6dad2": {
+      "id": "9d45087c-4e40-44d4-b6c9-d98873a6dad2",
+      "name": "Source data for microscopy images/Figure 3/3F/Micr.image-H460 TT cells-ADGRG6.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 3/3F/Micr.image-H460 TT cells-ADGRG6.tif",
+      "size_in_bytes": 3879240,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "d288cd26-563d-4610-96b5-8b26f45d2736": {
+      "id": "d288cd26-563d-4610-96b5-8b26f45d2736",
+      "name": "Source data for microscopy images/Figure 3/3F/Micr.image-A549 CC cells-Merge.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 3/3F/Micr.image-A549 CC cells-Merge.tif",
+      "size_in_bytes": 2902342,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "fbbf6e34-3355-4320-9141-7cc023e51935": {
+      "id": "fbbf6e34-3355-4320-9141-7cc023e51935",
+      "name": "Source data for microscopy images/Figure 3/3F/Micr.image-A549 TC cells-Merge.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 3/3F/Micr.image-A549 TC cells-Merge.tif",
+      "size_in_bytes": 1416480,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "3fe1d2fb-fe2a-41dd-b31f-1aca3d1143ef": {
+      "id": "3fe1d2fb-fe2a-41dd-b31f-1aca3d1143ef",
+      "name": "Source data for microscopy images/Figure 3/3F/Micr.image-A549 TT cells-Merge.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 3/3F/Micr.image-A549 TT cells-Merge.tif",
+      "size_in_bytes": 3817036,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "417f8334-a915-43a5-aefb-a8d5187496ae": {
+      "id": "417f8334-a915-43a5-aefb-a8d5187496ae",
+      "name": "Source data for microscopy images/Figure 3/3F/Micr.image-H460 CC cells-Merge.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 3/3F/Micr.image-H460 CC cells-Merge.tif",
+      "size_in_bytes": 905222,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "5e8310ac-0ebe-4bec-83ce-4ff0a3e01cb2": {
+      "id": "5e8310ac-0ebe-4bec-83ce-4ff0a3e01cb2",
+      "name": "Source data for microscopy images/Figure 3/3F/Micr.image-H460 TT cells-Merge.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 3/3F/Micr.image-H460 TT cells-Merge.tif",
+      "size_in_bytes": 2531198,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "d222704c-0ca9-4168-85ba-e7e8dcd5aa07": {
+      "id": "d222704c-0ca9-4168-85ba-e7e8dcd5aa07",
+      "name": "Source data for microscopy images/Figure 3/3F/Micr.image-A549 CC cells-DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 3/3F/Micr.image-A549 CC cells-DAPI.tif",
+      "size_in_bytes": 2887228,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "3c9d22ac-9f67-4000-b172-6d542ec116ce": {
+      "id": "3c9d22ac-9f67-4000-b172-6d542ec116ce",
+      "name": "Source data for microscopy images/Figure 3/3F/Micr.image-A549 TC cells-DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 3/3F/Micr.image-A549 TC cells-DAPI.tif",
+      "size_in_bytes": 1363648,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "7ecc737c-9047-44c1-b667-eba2d557daf8": {
+      "id": "7ecc737c-9047-44c1-b667-eba2d557daf8",
+      "name": "Source data for microscopy images/Figure 3/3F/Micr.image-A549 TT cells-DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 3/3F/Micr.image-A549 TT cells-DAPI.tif",
+      "size_in_bytes": 6474006,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "182717ba-3daf-4ea4-a2f9-ffe12ab3c46d": {
+      "id": "182717ba-3daf-4ea4-a2f9-ffe12ab3c46d",
+      "name": "Source data for microscopy images/Figure 3/3F/Micr.image-H460 CC cells-DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 3/3F/Micr.image-H460 CC cells-DAPI.tif",
+      "size_in_bytes": 5927488,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "265fb78a-b52d-4fe8-aa6b-4fed62343638": {
+      "id": "265fb78a-b52d-4fe8-aa6b-4fed62343638",
+      "name": "Source data for microscopy images/Figure 3/3F/Micr.image-H460 TT cells-DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 3/3F/Micr.image-H460 TT cells-DAPI.tif",
+      "size_in_bytes": 2296780,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "f35ab47b-7f00-425c-9bb6-418a5f03a85f": {
+      "id": "f35ab47b-7f00-425c-9bb6-418a5f03a85f",
+      "name": "Source data for microscopy images/Figure 3/3F/Micr.image-A549 CC cells-SNP.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 3/3F/Micr.image-A549 CC cells-SNP.tif",
+      "size_in_bytes": 351528,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "ab58265f-0f89-49d9-a67f-66c0ea603b35": {
+      "id": "ab58265f-0f89-49d9-a67f-66c0ea603b35",
+      "name": "Source data for microscopy images/Figure 3/3F/Micr.image-A549 TC cells-SNP.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 3/3F/Micr.image-A549 TC cells-SNP.tif",
+      "size_in_bytes": 345608,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "9cfb6285-d95c-4a43-a7b8-2e1eda88b7f6": {
+      "id": "9cfb6285-d95c-4a43-a7b8-2e1eda88b7f6",
+      "name": "Source data for microscopy images/Figure 3/3F/Micr.image-A549 TT cells-SNP.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 3/3F/Micr.image-A549 TT cells-SNP.tif",
+      "size_in_bytes": 344724,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "7e1cd310-ee23-4eac-b49f-812c41663019": {
+      "id": "7e1cd310-ee23-4eac-b49f-812c41663019",
+      "name": "Source data for microscopy images/Figure 3/3F/Micr.image-H460 CC cells-SNP.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 3/3F/Micr.image-H460 CC cells-SNP.tif",
+      "size_in_bytes": 343846,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "40abb9f5-5368-44ac-aa8f-ba27cf19ce1f": {
+      "id": "40abb9f5-5368-44ac-aa8f-ba27cf19ce1f",
+      "name": "Source data for microscopy images/Figure 3/3F/Micr.image-H460 TT cells-SNP.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 3/3F/Micr.image-H460 TT cells-SNP.tif",
+      "size_in_bytes": 344194,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "2b4856e8-8959-4bbd-ae38-7cd940c5dfad": {
+      "id": "2b4856e8-8959-4bbd-ae38-7cd940c5dfad",
+      "name": "Source data for microscopy images/Figure 3/3F/Micr.image-negative control-DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 3/3F/Micr.image-negative control-DAPI.tif",
+      "size_in_bytes": 1959498,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "a1af6aaa-d87a-469a-800b-9865ae0fc197": {
+      "id": "a1af6aaa-d87a-469a-800b-9865ae0fc197",
+      "name": "Source data for microscopy images/Figure 3/3F/Micr.image-negative control-Merge.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 3/3F/Micr.image-negative control-Merge.tif",
+      "size_in_bytes": 4780040,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "7751577d-c58e-43b5-b8dc-0dfe37f95be1": {
+      "id": "7751577d-c58e-43b5-b8dc-0dfe37f95be1",
+      "name": "Source data for microscopy images/Figure 3/3F/Micr.image-negative control-SNP.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 3/3F/Micr.image-negative control-SNP.tif",
+      "size_in_bytes": 350138,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "3b4c8c16-d492-443b-b9a9-f17df53a79de": {
+      "id": "3b4c8c16-d492-443b-b9a9-f17df53a79de",
+      "name": "Source data for microscopy images/Figure 3/3F/Micr.image-negative control-DNA fragment.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 3/3F/Micr.image-negative control-DNA fragment.tif",
+      "size_in_bytes": 344190,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Fluorescence microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "c23e856e-5b57-4e40-84e4-fe9aaa11c877": {
+      "id": "c23e856e-5b57-4e40-84e4-fe9aaa11c877",
+      "name": "Source data for microscopy images/Figure 4/4C/Micr.image for A549CC-ADGRG6.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 4/4C/Micr.image for A549CC-ADGRG6.tif",
+      "size_in_bytes": 4211418,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "fac5a549-7c03-4e63-be9a-dc6529efc19c": {
+      "id": "fac5a549-7c03-4e63-be9a-dc6529efc19c",
+      "name": "Source data for microscopy images/Figure 4/4C/Micr.image for H460CC-ADGRG6.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 4/4C/Micr.image for H460CC-ADGRG6.tif",
+      "size_in_bytes": 4211590,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "dfdcbf06-13f7-4357-b618-59cb7d9c5e4e": {
+      "id": "dfdcbf06-13f7-4357-b618-59cb7d9c5e4e",
+      "name": "Source data for microscopy images/Figure 4/4C/Micr.image for A549CC-empty.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 4/4C/Micr.image for A549CC-empty.tif",
+      "size_in_bytes": 4211418,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "cc4b12cf-0017-4df0-b6f4-83049bbc2a70": {
+      "id": "cc4b12cf-0017-4df0-b6f4-83049bbc2a70",
+      "name": "Source data for microscopy images/Figure 4/4C/Micr.image for H460CC-empty.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 4/4C/Micr.image for H460CC-empty.tif",
+      "size_in_bytes": 4211590,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "6f8842f3-7a5c-497b-b846-9d4f2298787d": {
+      "id": "6f8842f3-7a5c-497b-b846-9d4f2298787d",
+      "name": "Source data for microscopy images/Figure 4/4C/Micr.image for A549TT-control.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 4/4C/Micr.image for A549TT-control.tif",
+      "size_in_bytes": 4211418,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "17e93c4c-9a08-464f-9653-25314e688737": {
+      "id": "17e93c4c-9a08-464f-9653-25314e688737",
+      "name": "Source data for microscopy images/Figure 4/4C/Micr.image for H460TT-control.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 4/4C/Micr.image for H460TT-control.tif",
+      "size_in_bytes": 4211590,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "a016f1d5-d398-46f8-a065-5a19978c3304": {
+      "id": "a016f1d5-d398-46f8-a065-5a19978c3304",
+      "name": "Source data for microscopy images/Figure 4/4C/Micr.image for A549TT-shADGRG6-1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 4/4C/Micr.image for A549TT-shADGRG6-1.tif",
+      "size_in_bytes": 4211418,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "8e46aef6-2ea4-49fe-a173-f6ea0c83aa47": {
+      "id": "8e46aef6-2ea4-49fe-a173-f6ea0c83aa47",
+      "name": "Source data for microscopy images/Figure 4/4C/Micr.image for H460TT-shADGRG6-1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 4/4C/Micr.image for H460TT-shADGRG6-1.tif",
+      "size_in_bytes": 4211590,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "77f55399-b2e7-4476-bc18-688076bc3556": {
+      "id": "77f55399-b2e7-4476-bc18-688076bc3556",
+      "name": "Source data for microscopy images/Figure 4/4C/Micr.image for A549TT-shADGRG6-2.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 4/4C/Micr.image for A549TT-shADGRG6-2.tif",
+      "size_in_bytes": 4211418,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "48c234ca-5887-4eab-8203-fbf41810acf9": {
+      "id": "48c234ca-5887-4eab-8203-fbf41810acf9",
+      "name": "Source data for microscopy images/Figure 4/4C/Micr.image for H460TT-shADGRG6-2.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 4/4C/Micr.image for H460TT-shADGRG6-2.tif",
+      "size_in_bytes": 4211590,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "49637c4d-0c15-434a-9834-db6d99235d5f": {
+      "id": "49637c4d-0c15-434a-9834-db6d99235d5f",
+      "name": "Source data for microscopy images/Figure 5/5C/Micr.image for A549CC-DMSO.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 5/5C/Micr.image for A549CC-DMSO.tif",
+      "size_in_bytes": 4211626,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "5c2d8d08-e699-40a8-8f53-ecf5f69760db": {
+      "id": "5c2d8d08-e699-40a8-8f53-ecf5f69760db",
+      "name": "Source data for microscopy images/Figure 5/5C/Micr.image for A549TT-DMSO.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 5/5C/Micr.image for A549TT-DMSO.tif",
+      "size_in_bytes": 4211626,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "0ee1b81a-a4ed-4bf3-b6bf-b511d81815f6": {
+      "id": "0ee1b81a-a4ed-4bf3-b6bf-b511d81815f6",
+      "name": "Source data for microscopy images/Figure 5/5C/Micr.image for H460CC-DMSO.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 5/5C/Micr.image for H460CC-DMSO.tif",
+      "size_in_bytes": 4211626,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "c848e45f-6910-4bc9-a435-424a1c755ac0": {
+      "id": "c848e45f-6910-4bc9-a435-424a1c755ac0",
+      "name": "Source data for microscopy images/Figure 5/5C/Micr.image for H460TT-DMSO.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 5/5C/Micr.image for H460TT-DMSO.tif",
+      "size_in_bytes": 4211626,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "52db3574-15d9-4413-8f5a-87556708e99a": {
+      "id": "52db3574-15d9-4413-8f5a-87556708e99a",
+      "name": "Source data for microscopy images/Figure 5/5C/Micr.image for A549CC-H89.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 5/5C/Micr.image for A549CC-H89.tif",
+      "size_in_bytes": 4211626,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "5be26946-9286-4fab-a96d-4e2a5bd7f032": {
+      "id": "5be26946-9286-4fab-a96d-4e2a5bd7f032",
+      "name": "Source data for microscopy images/Figure 5/5C/Micr.image for A549TT-H89.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 5/5C/Micr.image for A549TT-H89.tif",
+      "size_in_bytes": 4211626,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "5574ae1e-a011-44a6-ad9e-0e31e1289819": {
+      "id": "5574ae1e-a011-44a6-ad9e-0e31e1289819",
+      "name": "Source data for microscopy images/Figure 5/5C/Micr.image for H460CC-H89.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 5/5C/Micr.image for H460CC-H89.tif",
+      "size_in_bytes": 4211626,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "17328e67-8af5-4879-8ed3-ff335c449450": {
+      "id": "17328e67-8af5-4879-8ed3-ff335c449450",
+      "name": "Source data for microscopy images/Figure 5/5C/Micr.image for H460TT-H89.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 5/5C/Micr.image for H460TT-H89.tif",
+      "size_in_bytes": 4211626,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "cell slipper"
+      }
+    },
+    "9b1f1d8e-7250-4052-8cd0-229348a94b7b": {
+      "id": "9b1f1d8e-7250-4052-8cd0-229348a94b7b",
+      "name": "Source data for microscopy images/Figure 5/5D/Micr.image for tumor2-control.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 5/5D/Micr.image for tumor2-control.tif",
+      "size_in_bytes": 15116892,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "organoid culture"
+      }
+    },
+    "e3da2d29-ff16-45c8-917b-2675c67cac7d": {
+      "id": "e3da2d29-ff16-45c8-917b-2675c67cac7d",
+      "name": "Source data for microscopy images/Figure 5/5D/Micr.image for tumor2-H89.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 5/5D/Micr.image for tumor2-H89.tif",
+      "size_in_bytes": 15116892,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "organoid culture"
+      }
+    },
+    "931eb182-a164-410e-8c41-a92d2e09d195": {
+      "id": "931eb182-a164-410e-8c41-a92d2e09d195",
+      "name": "Source data for microscopy images/Figure 5/5D/Micr.image for tumor6-control.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 5/5D/Micr.image for tumor6-control.tif",
+      "size_in_bytes": 15116892,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "organoid culture"
+      }
+    },
+    "f8983e43-8004-4154-98f4-28451a50167d": {
+      "id": "f8983e43-8004-4154-98f4-28451a50167d",
+      "name": "Source data for microscopy images/Figure 5/5D/Micr.image for tumor6-H89.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 5/5D/Micr.image for tumor6-H89.tif",
+      "size_in_bytes": 15116892,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "organoid culture"
+      }
+    },
+    "4e64e45b-f435-4258-aaf5-7afac4921213": {
+      "id": "4e64e45b-f435-4258-aaf5-7afac4921213",
+      "name": "Source data for microscopy images/Figure 5/5D/Micr.image for tumor9-control.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 5/5D/Micr.image for tumor9-control.tif",
+      "size_in_bytes": 15116892,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "organoid culture"
+      }
+    },
+    "9ecacef7-1be5-451b-a1cf-4004f72a2102": {
+      "id": "9ecacef7-1be5-451b-a1cf-4004f72a2102",
+      "name": "Source data for microscopy images/Figure 5/5D/Micr.image for tumor9-H89.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 5/5D/Micr.image for tumor9-H89.tif",
+      "size_in_bytes": 15116892,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "organoid culture"
+      }
+    },
+    "e3a8e68d-3283-4295-9723-b11385522423": {
+      "id": "e3a8e68d-3283-4295-9723-b11385522423",
+      "name": "Source data for microscopy images/Figure 5/5D/Micr.image for tumor14-control.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 5/5D/Micr.image for tumor14-control.tif",
+      "size_in_bytes": 15116892,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "organoid culture"
+      }
+    },
+    "d003b860-f1d0-4274-b466-d9383661c3d3": {
+      "id": "d003b860-f1d0-4274-b466-d9383661c3d3",
+      "name": "Source data for microscopy images/Figure 5/5D/Micr.image for tumor14-H89.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure 5/5D/Micr.image for tumor14-H89.tif",
+      "size_in_bytes": 15116892,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "organoid culture"
+      }
+    },
+    "3e942a6a-f9db-4b43-84ed-05add68c12a9": {
+      "id": "3e942a6a-f9db-4b43-84ed-05add68c12a9",
+      "name": "Source data for microscopy images/Figure  EV5/Micr.image for tumor3-control.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure  EV5/Micr.image for tumor3-control.tif",
+      "size_in_bytes": 15116892,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "organoid culture"
+      }
+    },
+    "a6296a5e-c3f1-4114-97e2-936124dc9011": {
+      "id": "a6296a5e-c3f1-4114-97e2-936124dc9011",
+      "name": "Source data for microscopy images/Figure  EV5/Micr.image for tumor3-H89.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure  EV5/Micr.image for tumor3-H89.tif",
+      "size_in_bytes": 15116892,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "organoid culture"
+      }
+    },
+    "bd6fa383-3c57-4d91-934f-4d78cc315828": {
+      "id": "bd6fa383-3c57-4d91-934f-4d78cc315828",
+      "name": "Source data for microscopy images/Figure  EV5/Micr.image for tumor4-control.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure  EV5/Micr.image for tumor4-control.tif",
+      "size_in_bytes": 15116892,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "organoid culture"
+      }
+    },
+    "075060f2-5168-4164-98d3-1002f721d857": {
+      "id": "075060f2-5168-4164-98d3-1002f721d857",
+      "name": "Source data for microscopy images/Figure  EV5/Micr.image for tumor4-H89.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure  EV5/Micr.image for tumor4-H89.tif",
+      "size_in_bytes": 15116892,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "organoid culture"
+      }
+    },
+    "b97bd3ae-e06a-46ac-b4e1-2d86767a9f2a": {
+      "id": "b97bd3ae-e06a-46ac-b4e1-2d86767a9f2a",
+      "name": "Source data for microscopy images/Figure  EV5/Micr.image for tumor7-control.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure  EV5/Micr.image for tumor7-control.tif",
+      "size_in_bytes": 15116892,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "organoid culture"
+      }
+    },
+    "88e18101-8c9a-4aeb-ab53-18bc1837a5d3": {
+      "id": "88e18101-8c9a-4aeb-ab53-18bc1837a5d3",
+      "name": "Source data for microscopy images/Figure  EV5/Micr.image for tumor7-H89.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure  EV5/Micr.image for tumor7-H89.tif",
+      "size_in_bytes": 15116892,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "organoid culture"
+      }
+    },
+    "b814de15-868b-4c50-92a7-2febffc443df": {
+      "id": "b814de15-868b-4c50-92a7-2febffc443df",
+      "name": "Source data for microscopy images/Figure  EV5/Micr.image for tumor8-control.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure  EV5/Micr.image for tumor8-control.tif",
+      "size_in_bytes": 15116892,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "organoid culture"
+      }
+    },
+    "3f1e7d4f-8e16-4d1a-bf4d-1eb736b0688e": {
+      "id": "3f1e7d4f-8e16-4d1a-bf4d-1eb736b0688e",
+      "name": "Source data for microscopy images/Figure  EV5/Micr.image for tumor8-H89.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure  EV5/Micr.image for tumor8-H89.tif",
+      "size_in_bytes": 15116892,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "organoid culture"
+      }
+    },
+    "324ff560-9539-4aa8-88b7-5cb358a1c839": {
+      "id": "324ff560-9539-4aa8-88b7-5cb358a1c839",
+      "name": "Source data for microscopy images/Figure  EV5/Micr.image for tumor10-control.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure  EV5/Micr.image for tumor10-control.tif",
+      "size_in_bytes": 15116892,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "organoid culture"
+      }
+    },
+    "d2667480-78f4-48f3-9a69-29f587f9faa2": {
+      "id": "d2667480-78f4-48f3-9a69-29f587f9faa2",
+      "name": "Source data for microscopy images/Figure  EV5/Micr.image for tumor10-H89.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure  EV5/Micr.image for tumor10-H89.tif",
+      "size_in_bytes": 15116892,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "organoid culture"
+      }
+    },
+    "a49ccb33-0792-44e5-80b2-47b148f33df6": {
+      "id": "a49ccb33-0792-44e5-80b2-47b148f33df6",
+      "name": "Source data for microscopy images/Figure  EV5/Micr.image for tumor11-control.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure  EV5/Micr.image for tumor11-control.tif",
+      "size_in_bytes": 15116892,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "organoid culture"
+      }
+    },
+    "67e8456a-3b82-451d-af00-43a8bac57438": {
+      "id": "67e8456a-3b82-451d-af00-43a8bac57438",
+      "name": "Source data for microscopy images/Figure  EV5/Micr.image for tumor11-H89.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure  EV5/Micr.image for tumor11-H89.tif",
+      "size_in_bytes": 15116892,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "organoid culture"
+      }
+    },
+    "47943286-0252-45b3-9e80-481722fadb15": {
+      "id": "47943286-0252-45b3-9e80-481722fadb15",
+      "name": "Source data for microscopy images/Figure  EV5/Micr.image for tumor12-control.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure  EV5/Micr.image for tumor12-control.tif",
+      "size_in_bytes": 15116892,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "organoid culture"
+      }
+    },
+    "b0bf6949-adfe-45c4-9e5e-d0b5694605a5": {
+      "id": "b0bf6949-adfe-45c4-9e5e-d0b5694605a5",
+      "name": "Source data for microscopy images/Figure  EV5/Micr.image for tumor12-H89.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure  EV5/Micr.image for tumor12-H89.tif",
+      "size_in_bytes": 15116892,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "organoid culture"
+      }
+    },
+    "191e8232-353d-46a1-aaec-9ddfca3af5b6": {
+      "id": "191e8232-353d-46a1-aaec-9ddfca3af5b6",
+      "name": "Source data for microscopy images/Figure  EV5/Micr.image for tumor13-control.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure  EV5/Micr.image for tumor13-control.tif",
+      "size_in_bytes": 15116892,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "organoid culture"
+      }
+    },
+    "e021e56d-455a-4c74-87c4-0076d62fd13d": {
+      "id": "e021e56d-455a-4c74-87c4-0076d62fd13d",
+      "name": "Source data for microscopy images/Figure  EV5/Micr.image for tumor13-H89.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure  EV5/Micr.image for tumor13-H89.tif",
+      "size_in_bytes": 15116892,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "organoid culture"
+      }
+    },
+    "4fb30c03-a2e1-4408-9d7b-c0ad27e64315": {
+      "id": "4fb30c03-a2e1-4408-9d7b-c0ad27e64315",
+      "name": "Source data for microscopy images/Figure  EV5/Micr.image for tumor15-control.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure  EV5/Micr.image for tumor15-control.tif",
+      "size_in_bytes": 15116892,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "organoid culture"
+      }
+    },
+    "878bf2dc-7452-4b49-af96-96eda76ac57c": {
+      "id": "878bf2dc-7452-4b49-af96-96eda76ac57c",
+      "name": "Source data for microscopy images/Figure  EV5/Micr.image for tumor15-H89.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/624/S-BIAD624/Files/Source data for microscopy images/Figure  EV5/Micr.image for tumor15-H89.tif",
+      "size_in_bytes": 15116892,
+      "type": null,
+      "attributes": {
+        "Microscope type": "Optical microscope",
+        "Specimen species": "Human",
+        "Specimen type": "organoid culture"
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

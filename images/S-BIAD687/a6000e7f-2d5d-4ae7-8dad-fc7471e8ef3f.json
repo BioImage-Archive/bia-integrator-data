@@ -1,0 +1,34 @@
+{
+  "id": "a6000e7f-2d5d-4ae7-8dad-fc7471e8ef3f",
+  "accession_id": "S-BIAD687",
+  "name": "T84 perm anti-Spike anti-Bst2 b.tif",
+  "original_relpath": "T84 perm anti-Spike anti-Bst2 b.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD687",
+      "image_id": "a6000e7f-2d5d-4ae7-8dad-fc7471e8ef3f",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/687/S-BIAD687/Files/Figure 2G and Quant EV1J.zip",
+      "size": 12611799,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "3cb49936-8acb-42f9-bfd8-ac45805717a6"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Figure": "2G",
+    "Quantification shown in Figure": "EVF1J",
+    "Cells": "T84",
+    "Green": "Spike",
+    "Red": "Tetherin",
+    "White": null,
+    "imaging method": "confocal",
+    "Analysis": "Mean fl intensity (tetherin)/ cell",
+    "Comparitor": "Spike: - vs +"
+  }
+}

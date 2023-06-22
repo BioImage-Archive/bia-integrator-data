@@ -1,0 +1,27 @@
+{
+  "id": "fba08eb4-e99b-47fe-a62e-3fa668502184",
+  "accession_id": "S-BSST1009",
+  "name": "CROPPED all data/P7 3dpi M2 (5).tif",
+  "original_relpath": "CROPPED all data/P7 3dpi M2 (5).tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BSST1009",
+      "image_id": "fba08eb4-e99b-47fe-a62e-3fa668502184",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/009/S-BSST1009/Files/VGLUT1CreAi9 neonatal incision.zip",
+      "size": 36851616,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "d3fed1eb-44b1-4878-b2ca-eb686eba38a7"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Description": "Raw images used for Fig. 2h",
+    "Type": "CZI files (confocal images)"
+  }
+}

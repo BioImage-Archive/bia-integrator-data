@@ -1,0 +1,34 @@
+{
+  "id": "446adbfc-7a3e-48f8-8601-6f01cc40e2cb",
+  "accession_id": "S-BIAD687",
+  "name": "WT HeLa  ACE2 perm anti-Spike anti-Bst2 J.tif",
+  "original_relpath": "WT HeLa  ACE2 perm anti-Spike anti-Bst2 J.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD687",
+      "image_id": "446adbfc-7a3e-48f8-8601-6f01cc40e2cb",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/687/S-BIAD687/Files/Figure 1D and Quant EVF1E.zip",
+      "size": 12611799,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "dbd63508-fc65-42b3-a1ba-9730e58fe9aa"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Figure": "1D",
+    "Quantification shown in Figure": "EVF1E",
+    "Cells": "\"\"HeLa+ACE2\"\"",
+    "Green": "Spike",
+    "Red": "Tetherin",
+    "White": null,
+    "imaging method": "confocal",
+    "Analysis": "Mean fl intensity (tetherin)/ cell",
+    "Comparitor": "Spike: - vs +"
+  }
+}

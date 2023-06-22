@@ -1,0 +1,33 @@
+{
+  "id": "b17302dd-6fa2-49d6-85f4-4436ed9f51a3",
+  "accession_id": "S-BIAD608",
+  "name": "05_Neuron_HighATP_lowLaser_PFA_Confocal_images/10_Minflux_w2112_tracking__GFP.tif",
+  "original_relpath": "05_Neuron_HighATP_lowLaser_PFA_Confocal_images/10_Minflux_w2112_tracking__GFP.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD608",
+      "image_id": "b17302dd-6fa2-49d6-85f4-4436ed9f51a3",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/608/S-BIAD608/Files/Astra_upload_files/01_Neuron_HighATP_lowLaser_PFA_Confocal_images.zip",
+      "size": 567637,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "9333b4ec-6115-4e86-8d74-be632ae6dc2b"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Description": "2D tracking in motor-PAINT sample ",
+    "Biosample": "Neuron",
+    "Specimen": "Motor-PAINT PFA fixation high ATP",
+    "Image acquisition": "2D tracking low laser",
+    "Figure": "1",
+    "Data type": "Confocal images",
+    "Kinesin type": "DmKHC(1-421)-SNAP-tag",
+    "Note ": "Neuron motor-PAINT"
+  }
+}

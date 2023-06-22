@@ -1,0 +1,6 @@
+{
+  "accession_id": "S-BIAD626",
+  "image_id": "003037fd-65b7-4e3e-b61f-2faaf5f9d50b",
+  "key": "channels",
+  "value": "[{'id': 'Channel:0:0', 'acquisition_mode': 'LaserScanningConfocalMicroscopy', 'color': '#1000ff', 'detector_settings': {'id': 'Detector:GaAsP-Pmt1'}, 'emission_wavelength': 432.0, 'emission_wavelength_unit': 'nm', 'excitation_wavelength': 254.0, 'excitation_wavelength_unit': 'nm', 'fluor': 'Calcofluor white 2MR', 'illumination_type': 'Epifluorescence', 'name': 'CW2MR-T1', 'pinhole_size': 50.397860967342, 'pinhole_size_unit': 'µm', 'samples_per_pixel': 1}, {'id': 'Channel:0:1', 'acquisition_mode': 'LaserScanningConfocalMicroscopy', 'color': 'magenta', 'detector_settings': {'id': 'Detector:GaAsP-Pmt2'}, 'emission_wavelength': 610.0, 'emission_wavelength_unit': 'nm', 'excitation_wavelength': 587.0, 'excitation_wavelength_unit': 'nm', 'fluor': 'mCherry', 'illumination_type': 'Epifluorescence', 'name': 'mCher-T2', 'pinhole_size': 50.397860967342, 'pinhole_size_unit': 'µm', 'samples_per_pixel': 1}]"
+}

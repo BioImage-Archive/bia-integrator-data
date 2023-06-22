@@ -1,0 +1,6 @@
+{
+  "accession_id": "S-BIAD627",
+  "image_id": "82250957-0be8-4913-8eab-381ae9b88159",
+  "key": "channels",
+  "value": "[{'id': 'Channel:0:0', 'acquisition_mode': 'TIRF', 'color': 'magenta', 'detector_settings': {'id': 'Detector:0:0', 'binning': '1x1'}, 'emission_wavelength': 642.0000000000001, 'emission_wavelength_unit': 'nm', 'excitation_wavelength': 642.0000000000001, 'excitation_wavelength_unit': 'nm', 'illumination_type': 'Epifluorescence', 'name': 'TV1-T1', 'samples_per_pixel': 1}, {'id': 'Channel:0:1', 'acquisition_mode': 'TIRF', 'color': 'red', 'detector_settings': {'id': 'Detector:1:0', 'binning': '1x1'}, 'emission_wavelength': 561.0, 'emission_wavelength_unit': 'nm', 'excitation_wavelength': 561.0, 'excitation_wavelength_unit': 'nm', 'illumination_type': 'Epifluorescence', 'name': 'TV1-T2', 'samples_per_pixel': 1}, {'id': 'Channel:0:2', 'acquisition_mode': 'TIRF', 'color': 'lime', 'detector_settings': {'id': 'Detector:2:0', 'binning': '1x1'}, 'emission_wavelength': 488.00000000000006, 'emission_wavelength_unit': 'nm', 'excitation_wavelength': 488.00000000000006, 'excitation_wavelength_unit': 'nm', 'illumination_type': 'Epifluorescence', 'name': 'TV1-T3', 'samples_per_pixel': 1}]"
+}

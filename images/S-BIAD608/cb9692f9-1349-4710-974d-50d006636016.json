@@ -1,0 +1,33 @@
+{
+  "id": "cb9692f9-1349-4710-974d-50d006636016",
+  "accession_id": "S-BIAD608",
+  "name": "03_Minflux_w2112_tracking_3D__GFP_large.tif",
+  "original_relpath": "03_Minflux_w2112_tracking_3D__GFP_large.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD608",
+      "image_id": "cb9692f9-1349-4710-974d-50d006636016",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/608/S-BIAD608/Files/Astra_upload_files/11_3D_live_Confocal.zip",
+      "size": 571259,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "a8afe1a5-583c-432d-85d4-0c3cb3750050"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Description": "3D tracking in living cells",
+    "Biosample": "U2OS cell",
+    "Specimen": "Live cell HaloTag-K560",
+    "Image acquisition": "3D tracking high laser",
+    "Figure": "3",
+    "Data type": "Confocal images",
+    "Kinesin type": "HaloTag-K560",
+    "Note": "3D live cell"
+  }
+}

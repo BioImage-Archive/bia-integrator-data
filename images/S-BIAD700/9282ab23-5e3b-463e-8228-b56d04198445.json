@@ -1,0 +1,28 @@
+{
+  "id": "9282ab23-5e3b-463e-8228-b56d04198445",
+  "accession_id": "S-BIAD700",
+  "name": "dSTORM data/nuc1/nuc1_15.tif",
+  "original_relpath": "dSTORM data/nuc1/nuc1_15.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD700",
+      "image_id": "9282ab23-5e3b-463e-8228-b56d04198445",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/nuc1/nuc1_15.tif",
+      "size": 2630184144,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "0ab83fc9-93a1-4436-a8a9-e359d7bd845f"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Genetic background": "nucleolin 1 mutant",
+    "Fluorophore": "Alexa Fluor 647",
+    "Type of Imaging": "dSTORM"
+  }
+}

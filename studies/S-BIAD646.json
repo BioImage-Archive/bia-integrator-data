@@ -1,0 +1,1174 @@
+{
+  "accession_id": "S-BIAD646",
+  "title": "Source Data Images for \"DOT1L activity affects neural stem cell division mode and differentiation by regulating ASNS expression\"",
+  "description": "The images uploaded correspond to the Source Data images for the \"DOT1L activity affects neural stem cell division mode and differentiation by regulating ASNS expression\" paper by Appiah et al",
+  "authors": [
+    {
+      "name": "Dr Bismark Appiah"
+    },
+    {
+      "name": "Camila Fullio"
+    },
+    {
+      "name": "Dr Nereo Kalebic"
+    },
+    {
+      "name": "Chiara Ossola"
+    },
+    {
+      "name": "Ilaria Bertani"
+    },
+    {
+      "name": "Elena Restelli"
+    },
+    {
+      "name": "Arquimedes Cheffer"
+    },
+    {
+      "name": "Martina Polenghi"
+    },
+    {
+      "name": "Dr Elena Taverna"
+    },
+    {
+      "name": "Prof Dr Tanja Vogel "
+    }
+  ],
+  "organism": "Unknown",
+  "release_date": "2023-03-08",
+  "license": "CC0",
+  "links": {},
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "example_annotation_uri": "",
+  "file_references": {
+    "8ed2b613-c2a8-4e25-898b-64a3c63b3989": {
+      "id": "8ed2b613-c2a8-4e25-898b-64a3c63b3989",
+      "name": "1A-MIP_EPZ_table.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/1A-MIP_EPZ_table.tif",
+      "size_in_bytes": 28674452,
+      "type": null,
+      "attributes": {
+        "Panel": "1A",
+        "Description of the image": "Overview of IF staining for centrosomes (TUBG1) and cilia (ARL13B) in EPZ-treated sample"
+      }
+    },
+    "f2d020a4-6e2c-484b-8c7b-9aeecc32880c": {
+      "id": "f2d020a4-6e2c-484b-8c7b-9aeecc32880c",
+      "name": "1A-Tavola_MIP_DMSO.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/1A-Tavola_MIP_DMSO.tif",
+      "size_in_bytes": 59637160,
+      "type": null,
+      "attributes": {
+        "Panel": "1A",
+        "Description of the image": "Overview of IF staining for centrosomes (TUBG1) and cilia (ARL13B) in control sample"
+      }
+    },
+    "52fddedb-7237-489c-a696-dec3ee26fc61": {
+      "id": "52fddedb-7237-489c-a696-dec3ee26fc61",
+      "name": "1D_DMSO.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/1D_DMSO.tiff",
+      "size_in_bytes": 669589418,
+      "type": null,
+      "attributes": {
+        "Panel": "1D",
+        "Description of the image": "IF staining of the VZ for TUBG1 (centrosomes) and ARL13B (cilia) in control sample"
+      }
+    },
+    "9c0faf24-872a-4f07-9fab-a3f8890ecf57": {
+      "id": "9c0faf24-872a-4f07-9fab-a3f8890ecf57",
+      "name": "1D_EPZ.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/1D_EPZ.tiff",
+      "size_in_bytes": 669589418,
+      "type": null,
+      "attributes": {
+        "Panel": "1D",
+        "Description of the image": "IF staining of the VZ for TUBG1 (centrosomes) and ARL13B (cilia) in EPZ-treated sample"
+      }
+    },
+    "b4e3435f-343a-4f8b-9ccd-ca5ed9d9d80b": {
+      "id": "b4e3435f-343a-4f8b-9ccd-ca5ed9d9d80b",
+      "name": "1D_EPZ_VZ.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/1D_EPZ_VZ.tif",
+      "size_in_bytes": 5954376,
+      "type": null,
+      "attributes": {
+        "Panel": "1D",
+        "Description of the image": "IF staining of the VZ for TUBG1 (centrosomes) and ARL13B (cilia) in EPZ-treated sample"
+      }
+    },
+    "c0fb201c-edfb-43a5-badb-5391904eb5ba": {
+      "id": "c0fb201c-edfb-43a5-badb-5391904eb5ba",
+      "name": "1D-DMSO1-1_tavola_VZ.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/1D-DMSO1-1_tavola_VZ.tif",
+      "size_in_bytes": 10341408,
+      "type": null,
+      "attributes": {
+        "Panel": "1D",
+        "Description of the image": "IF staining of the VZ for TUBG1 (centrosomes) and ARL13B (cilia) in control sample"
+      }
+    },
+    "00f19fc1-36b4-4891-9a97-4fa6dcf6eccd": {
+      "id": "00f19fc1-36b4-4891-9a97-4fa6dcf6eccd",
+      "name": "2A_panel_EdU_Sox2_EOMES.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/2A_panel_EdU_Sox2_EOMES.tif",
+      "size_in_bytes": 13358252,
+      "type": null,
+      "attributes": {
+        "Panel": "2A",
+        "Description of the image": "IF of control (upper) and EPZ-treated (lower)  samples showing SOX2 and EOMES expression, as well as EdU labelling"
+      }
+    },
+    "c9b059c4-8487-4384-8bcf-bb7c71b67906": {
+      "id": "c9b059c4-8487-4384-8bcf-bb7c71b67906",
+      "name": "2A_panel_EdU_Sox2_EOMES.psd",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/2A_panel_EdU_Sox2_EOMES.psd",
+      "size_in_bytes": 6784117,
+      "type": null,
+      "attributes": {
+        "Panel": "2A",
+        "Description of the image": "IF of control (upper) and EPZ-treated (lower)  samples showing SOX2 and EOMES expression, as well as EdU labelling"
+      }
+    },
+    "b7ee8db5-38e2-4826-ab79-1e2fbdd39f9e": {
+      "id": "b7ee8db5-38e2-4826-ab79-1e2fbdd39f9e",
+      "name": "2C_24h_DMSO_2019_12_03__10_09_22.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/2C_24h_DMSO_2019_12_03__10_09_22.czi",
+      "size_in_bytes": 402876768,
+      "type": null,
+      "attributes": {
+        "Panel": "2C",
+        "Description of the image": "IF staining showing overview of TIS-GFP-positive cells in VZ of control section"
+      }
+    },
+    "1393e32c-f4bd-4403-b106-d71d495b1ee7": {
+      "id": "1393e32c-f4bd-4403-b106-d71d495b1ee7",
+      "name": "2C_24h_DMSO_2019_12_03__13_37_09.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/2C_24h_DMSO_2019_12_03__13_37_09.czi",
+      "size_in_bytes": 223666400,
+      "type": null,
+      "attributes": {
+        "Panel": "2C",
+        "Description of the image": "IF staining showing overview of TIS-GFP-positive cells in VZ of control section"
+      }
+    },
+    "333fa05f-cbe3-4ee2-a682-8b2750d52723": {
+      "id": "333fa05f-cbe3-4ee2-a682-8b2750d52723",
+      "name": "2C_24h_DMSO_2019_12_03__14_07_04-001.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/2C_24h_DMSO_2019_12_03__14_07_04-001.czi",
+      "size_in_bytes": 4279005664,
+      "type": null,
+      "attributes": {
+        "Panel": "2C",
+        "Description of the image": "IF staining showing overview of TIS-GFP-positive cells in VZ of control section"
+      }
+    },
+    "4c52065d-b46b-4365-8c73-69ae477c566f": {
+      "id": "4c52065d-b46b-4365-8c73-69ae477c566f",
+      "name": "2C_24h_EPZ_2019_12_02__21_20_35.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/2C_24h_EPZ_2019_12_02__21_20_35.czi",
+      "size_in_bytes": 793402496,
+      "type": null,
+      "attributes": {
+        "Panel": "2C",
+        "Description of the image": "IF staining showing overview of TIS-GFP-positive cells in VZ of EPZ-treated section"
+      }
+    },
+    "f8a5d270-239b-40b0-897c-c9ca34eef444": {
+      "id": "f8a5d270-239b-40b0-897c-c9ca34eef444",
+      "name": "2C_24h_EPZ_2019_12_03__17_21_10-004.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/2C_24h_EPZ_2019_12_03__17_21_10-004.czi",
+      "size_in_bytes": 6115862048,
+      "type": null,
+      "attributes": {
+        "Panel": "2C",
+        "Description of the image": "IF staining showing overview of TIS-GFP-positive cells in VZ of EPZ-treated section"
+      }
+    },
+    "74772bf8-56be-412e-9bb4-c54ec1f56c0c": {
+      "id": "74772bf8-56be-412e-9bb4-c54ec1f56c0c",
+      "name": "2C_24h_EPZ_2019_12_03__20_29_58-003.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/2C_24h_EPZ_2019_12_03__20_29_58-003.czi",
+      "size_in_bytes": 3209633248,
+      "type": null,
+      "attributes": {
+        "Panel": "2C",
+        "Description of the image": "IF staining showing overview of TIS-GFP-positive cells in VZ of EPZ-treated section"
+      }
+    },
+    "6355bc73-6f6c-4d70-829a-416e9676ac31": {
+      "id": "6355bc73-6f6c-4d70-829a-416e9676ac31",
+      "name": "2E.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/2E.tiff",
+      "size_in_bytes": 301821466,
+      "type": null,
+      "attributes": {
+        "Panel": "2E",
+        "Description of the image": "IF staining showing overview of CTIP2-positive cells in control and EPZ-treated cells"
+      }
+    },
+    "b4c98d9a-17b3-4357-bed8-10d39c428785": {
+      "id": "b4c98d9a-17b3-4357-bed8-10d39c428785",
+      "name": "2G-High_res.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/2G-High_res.tif",
+      "size_in_bytes": 11219504,
+      "type": null,
+      "attributes": {
+        "Panel": "2G",
+        "Description of the image": "IF staining showing SOX2- (green), EOMES- (white), and CTIP2-positive (magenta) cells in control (upper) and EPZ-treated (lower) sections"
+      }
+    },
+    "7a11ccec-ef27-4c8c-ad11-feca21f3df6e": {
+      "id": "7a11ccec-ef27-4c8c-ad11-feca21f3df6e",
+      "name": "2I_CON-4.1-CTIP2-TUJ1-40X.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/2I_CON-4.1-CTIP2-TUJ1-40X.tif",
+      "size_in_bytes": 7742861,
+      "type": null,
+      "attributes": {
+        "Panel": "2I",
+        "Description of the image": "Merged IF staining for CTIP2, TUJI and GFP of an in utero electroporated cortical tissue with a control shRNA and a plasmid expressing GFP"
+      }
+    },
+    "f14816af-cb73-46c3-85f1-ae49511a8fac": {
+      "id": "f14816af-cb73-46c3-85f1-ae49511a8fac",
+      "name": "2I_CON-dapi.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/2I_CON-dapi.tif",
+      "size_in_bytes": 2902298,
+      "type": null,
+      "attributes": {
+        "Panel": "2I",
+        "Description of the image": "DAPI staining of an in utero electroporated cortical tissue with a control shRNA and a plasmid expressing GFP"
+      }
+    },
+    "66949b20-67b0-4caa-86bf-a3e4d9b223b8": {
+      "id": "66949b20-67b0-4caa-86bf-a3e4d9b223b8",
+      "name": "2_ICON-gfp.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/2_ICON-gfp.tif",
+      "size_in_bytes": 2902298,
+      "type": null,
+      "attributes": {
+        "Panel": "2I",
+        "Description of the image": "GFP IF staining of an in utero electroporated cortical tissue with a control shRNA and a plasmid expressing GFP"
+      }
+    },
+    "664a643f-d60f-4cfe-ab6e-1da9315b94a2": {
+      "id": "664a643f-d60f-4cfe-ab6e-1da9315b94a2",
+      "name": "2I_CON-gfp_ctip2.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/2I_CON-gfp_ctip2.tif",
+      "size_in_bytes": 2902298,
+      "type": null,
+      "attributes": {
+        "Panel": "2I",
+        "Description of the image": "Merged IF staining for CTIP2 and GFP of an in utero electroporated cortical tissue with a control shRNA and a plasmid expressing GFP"
+      }
+    },
+    "301cadfa-7b1b-4c09-b760-73edb6d2e8b7": {
+      "id": "301cadfa-7b1b-4c09-b760-73edb6d2e8b7",
+      "name": "2I_CON-gfp_tuj1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/2I_CON-gfp_tuj1.tif",
+      "size_in_bytes": 2902298,
+      "type": null,
+      "attributes": {
+        "Panel": "2I",
+        "Description of the image": "Merged IF staining for TUJI and GFP of an in utero electroporated cortical tissue with a control shRNA and a plasmid expressing GFP"
+      }
+    },
+    "8384ba11-04b3-4ad1-bd07-3081f9b4a9b3": {
+      "id": "8384ba11-04b3-4ad1-bd07-3081f9b4a9b3",
+      "name": "2I_DOT1L-4.3-tuj1-CTIP2-40Xr-1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/2I_DOT1L-4.3-tuj1-CTIP2-40Xr-1.tif",
+      "size_in_bytes": 7742861,
+      "type": null,
+      "attributes": {
+        "Panel": "2I",
+        "Description of the image": "Merged IF staining for CTIP2, TUJI and GFP of an in utero electroporated cortical tissue with a shRNA against DOT1L and a plasmid expressing GFP"
+      }
+    },
+    "f784c3d4-aac4-42d9-91e0-f762df6e5262": {
+      "id": "f784c3d4-aac4-42d9-91e0-f762df6e5262",
+      "name": "2I_DOT1L-4.3-tuj1-CTIP2-40Xr-1.tif (RGB).jpg",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/2I_DOT1L-4.3-tuj1-CTIP2-40Xr-1.tif (RGB).jpg",
+      "size_in_bytes": 314985,
+      "type": null,
+      "attributes": {
+        "Panel": "2I",
+        "Description of the image": "Merged IF staining for CTIP2, TUJI and GFP of an in utero electroporated cortical tissue with a shRNA against DOT1L and a plasmid expressing GFP"
+      }
+    },
+    "34fd493c-13d0-47d1-9d5e-1f9aae9df056": {
+      "id": "34fd493c-13d0-47d1-9d5e-1f9aae9df056",
+      "name": "2I_DOT1L-4.3-tuj1-CTIP2-40Xr-1.tif (RGB).tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/2I_DOT1L-4.3-tuj1-CTIP2-40Xr-1.tif (RGB).tif",
+      "size_in_bytes": 2902654,
+      "type": null,
+      "attributes": {
+        "Panel": "2I",
+        "Description of the image": "Merged IF staining for CTIP2, TUJI and GFP of an in utero electroporated cortical tissue with a shRNA against DOT1L and a plasmid expressing GFP"
+      }
+    },
+    "cd345123-32b4-4537-8ea7-70d496cf336a": {
+      "id": "cd345123-32b4-4537-8ea7-70d496cf336a",
+      "name": "2I_DOT1L-dapi.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/2I_DOT1L-dapi.tif",
+      "size_in_bytes": 2902298,
+      "type": null,
+      "attributes": {
+        "Panel": "2I",
+        "Description of the image": "DAPI staining of an in utero electroporated cortical tissue with a shRNA against DOT1L and a plasmid expressing GFP"
+      }
+    },
+    "2fcf89df-d22a-482f-ba01-b6f8877306a5": {
+      "id": "2fcf89df-d22a-482f-ba01-b6f8877306a5",
+      "name": "2I_DOT1L-gfp.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/2I_DOT1L-gfp.tif",
+      "size_in_bytes": 2902298,
+      "type": null,
+      "attributes": {
+        "Panel": "2I",
+        "Description of the image": "GFP IP staining of an in utero electroporated cortical tissue with a shRNA against DOT1L and a plasmid expressing GFP"
+      }
+    },
+    "1dffb7f1-fbce-473d-be02-fd5a045a7841": {
+      "id": "1dffb7f1-fbce-473d-be02-fd5a045a7841",
+      "name": "2I_DOT1L-gfp_ctip2.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/2I_DOT1L-gfp_ctip2.tif",
+      "size_in_bytes": 2902298,
+      "type": null,
+      "attributes": {
+        "Panel": "2I",
+        "Description of the image": "Merged IF staining for CTIP2 and GFP of an in utero electroporated cortical tissue  with a shRNA against DOT1L and a plasmid expressing GFP"
+      }
+    },
+    "64e5cb40-1e16-461a-8942-d99f37ac449c": {
+      "id": "64e5cb40-1e16-461a-8942-d99f37ac449c",
+      "name": "2I_DOT1L-tuj1_gfp.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/2I_DOT1L-tuj1_gfp.tif",
+      "size_in_bytes": 2902298,
+      "type": null,
+      "attributes": {
+        "Panel": "2I",
+        "Description of the image": "Merged IF staining for TUJI and GFP of an in utero electroporated cortical tissue  with a shRNA against DOT1L and a plasmid expressing GFP"
+      }
+    },
+    "e953c618-e7cd-4d7c-91cf-f9cca0003d42": {
+      "id": "e953c618-e7cd-4d7c-91cf-f9cca0003d42",
+      "name": "2I_merge_CON-4.1-CTIP2-TUJ1-40X.tif (RGB).jpg",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/2I_merge_CON-4.1-CTIP2-TUJ1-40X.tif (RGB).jpg",
+      "size_in_bytes": 272153,
+      "type": null,
+      "attributes": {
+        "Panel": "2I",
+        "Description of the image": "Merged IF staining for CTIP2, TUJI and GFP of an in utero electroporated cortical tissue with a control shRNA and a plasmid expressing GFP"
+      }
+    },
+    "6158cc39-68c7-48d4-ae99-31f3d1edb7d0": {
+      "id": "6158cc39-68c7-48d4-ae99-31f3d1edb7d0",
+      "name": "2I_merge_CON-4.1-CTIP2-TUJ1-40X.tif (RGB).tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/2I_merge_CON-4.1-CTIP2-TUJ1-40X.tif (RGB).tif",
+      "size_in_bytes": 2902654,
+      "type": null,
+      "attributes": {
+        "Panel": "2I",
+        "Description of the image": "Merged IF staining for CTIP2, TUJI and GFP of an in utero electroporated cortical tissue with a control shRNA and a plasmid expressing GFP"
+      }
+    },
+    "86de9a68-0102-486e-a267-6aa66e4ad47f": {
+      "id": "86de9a68-0102-486e-a267-6aa66e4ad47f",
+      "name": "3_DMSO_24h_TuJI_Tbr2_stitch_I.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/3_DMSO_24h_TuJI_Tbr2_stitch_I.czi",
+      "size_in_bytes": 1566205824,
+      "type": null,
+      "attributes": {
+        "Panel": "3A and B",
+        "Description of the image": "Image of microinjected cells in the VZ showing Dx-A555 labelled (magenta) cells after 24 h in slice culture and expression of EOMES (green), TUBB3 (white), DAPI (cyan) in control sections "
+      }
+    },
+    "c14c27ea-346f-4c7f-aad6-a23e40ffca21": {
+      "id": "c14c27ea-346f-4c7f-aad6-a23e40ffca21",
+      "name": "3_EPZ_24h_TuJI_Tbr2_Stitch_II-002.czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/3_EPZ_24h_TuJI_Tbr2_Stitch_II-002.czi",
+      "size_in_bytes": 2752217664,
+      "type": null,
+      "attributes": {
+        "Panel": "3A and B",
+        "Description of the image": "Image of microinjected cells in the VZ showing Dx-A555 labelled (magenta) cells after 24 h in slice culture and expression of EOMES (green), TUBB3 (white), DAPI (cyan) in EPZ-treated sections "
+      }
+    },
+    "bd3c0518-57fd-4d63-b08c-81814ac9831d": {
+      "id": "bd3c0518-57fd-4d63-b08c-81814ac9831d",
+      "name": "4A_Con.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/4A_Con.tiff",
+      "size_in_bytes": 157359954,
+      "type": null,
+      "attributes": {
+        "Panel": "4A",
+        "Description of the image": "Microinjected cells (magenta) in the VZ of control slice 24 h after microinjection showing GFP expression by IF"
+      }
+    },
+    "13853155-d698-4c20-a98d-9e6e7a46712b": {
+      "id": "13853155-d698-4c20-a98d-9e6e7a46712b",
+      "name": "4A_EPZ.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/4A_EPZ.tiff",
+      "size_in_bytes": 157359954,
+      "type": null,
+      "attributes": {
+        "Panel": "4A",
+        "Description of the image": "Microinjected cells (magenta) in the VZ of EPZ-treated slice 24 h after microinjection showing GFP expression by IF"
+      }
+    },
+    "a54550d5-f053-426b-829f-525852f02431": {
+      "id": "a54550d5-f053-426b-829f-525852f02431",
+      "name": "4F-mitotoc phases_Phall_DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/4F-mitotoc phases_Phall_DAPI.tif",
+      "size_in_bytes": 5193892,
+      "type": null,
+      "attributes": {
+        "Panel": "4F",
+        "Description of the image": "Phalloidin staining of control and EPZ-treated sections showing cells during mitosis"
+      }
+    },
+    "a45540a2-b9b8-4970-9132-736c55feaab3": {
+      "id": "a45540a2-b9b8-4970-9132-736c55feaab3",
+      "name": "6C-ASNS_CON_EPZ_IF.jpg",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/6C-ASNS_CON_EPZ_IF.jpg",
+      "size_in_bytes": 19350564,
+      "type": null,
+      "attributes": {
+        "Panel": "6C",
+        "Description of the image": "Immunostaining showing ASNS-positive cells in the VZ, SVZ and CP in control and EPZ-treated sections"
+      }
+    },
+    "33f2091e-dc0b-421b-a7e6-0bf1aa463465": {
+      "id": "33f2091e-dc0b-421b-a7e6-0bf1aa463465",
+      "name": "7A_Con.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7A_Con.tiff",
+      "size_in_bytes": 232531238,
+      "type": null,
+      "attributes": {
+        "Panel": "7A",
+        "Description of the image": "Overview of mCherry-positive cells in IF staining for TUBB3 in control sections"
+      }
+    },
+    "3d8199ef-cf80-4b76-a3fb-84be0cf63cee": {
+      "id": "3d8199ef-cf80-4b76-a3fb-84be0cf63cee",
+      "name": "7A_EPZ.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7A_EPZ.tiff",
+      "size_in_bytes": 232531238,
+      "type": null,
+      "attributes": {
+        "Panel": "7A",
+        "Description of the image": "Overview of mCherry-positive cells in IF staining for TUBB3 in EPZ-treated sections"
+      }
+    },
+    "41b7df76-628e-4850-af90-53f4f1d64ae0": {
+      "id": "41b7df76-628e-4850-af90-53f4f1d64ae0",
+      "name": "7A_EPZ+L-Alb.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7A_EPZ+L-Alb.tiff",
+      "size_in_bytes": 232531238,
+      "type": null,
+      "attributes": {
+        "Panel": "7A",
+        "Description of the image": "Overview of mCherry-positive cells in IF staining for TUBB3 in sections inhibited both with EPZ and L-Albizzine"
+      }
+    },
+    "2d36bc92-424b-4b12-a5b3-71d52deb9437": {
+      "id": "2d36bc92-424b-4b12-a5b3-71d52deb9437",
+      "name": "7C_ASNS-OE.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7C_ASNS-OE.tiff",
+      "size_in_bytes": 193749818,
+      "type": null,
+      "attributes": {
+        "Panel": "7C",
+        "Description of the image": "IF staining of ex utero electroporated cells expressing GFP (green) or TUBB3 (magenta)  together with DAPI staining in ASNS overexpression condition 24 h after slice culture"
+      }
+    },
+    "710379db-9139-4537-8218-97cc34df7bc8": {
+      "id": "710379db-9139-4537-8218-97cc34df7bc8",
+      "name": "7C_Con.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7C_Con.tiff",
+      "size_in_bytes": 217018670,
+      "type": null,
+      "attributes": {
+        "Panel": "7C",
+        "Description of the image": "IF staining of ex utero electroporated cells expressing GFP (green) or TUBB3 (magenta)  together with DAPI staining in control condition 24 h after slice culture"
+      }
+    },
+    "e567cc99-e357-4a17-9839-f44cc48ad7ce": {
+      "id": "e567cc99-e357-4a17-9839-f44cc48ad7ce",
+      "name": "7E_A-1.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_A-1.PNG",
+      "size_in_bytes": 2247606,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in either control or ASNS overexpression in control condition"
+      }
+    },
+    "52ff04f4-6983-4874-9610-0cb394ba2a1c": {
+      "id": "52ff04f4-6983-4874-9610-0cb394ba2a1c",
+      "name": "7E_A-2.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_A-2.PNG",
+      "size_in_bytes": 2293223,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in control condition"
+      }
+    },
+    "ea83dfc8-1400-4529-ba4a-702018102b36": {
+      "id": "ea83dfc8-1400-4529-ba4a-702018102b36",
+      "name": "7E_A-4.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_A-4.PNG",
+      "size_in_bytes": 2102878,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in control condition"
+      }
+    },
+    "a31a5a85-c52a-4165-b7be-95aa450c7983": {
+      "id": "a31a5a85-c52a-4165-b7be-95aa450c7983",
+      "name": "7E_C_1.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_C_1.PNG",
+      "size_in_bytes": 1885103,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in control condition"
+      }
+    },
+    "a9b7aef0-fb5f-4bb6-8d86-2bfc0f62042e": {
+      "id": "a9b7aef0-fb5f-4bb6-8d86-2bfc0f62042e",
+      "name": "7E_C_2.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_C_2.PNG",
+      "size_in_bytes": 2311035,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in control condition"
+      }
+    },
+    "6b175542-0754-42e2-bb86-658a8fe383a3": {
+      "id": "6b175542-0754-42e2-bb86-658a8fe383a3",
+      "name": "7E_D_1.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_D_1.PNG",
+      "size_in_bytes": 1610501,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in ASNS overexpression condition"
+      }
+    },
+    "d936d8f6-b192-48f2-995b-ac5230da1cb4": {
+      "id": "d936d8f6-b192-48f2-995b-ac5230da1cb4",
+      "name": "7E_D_2.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_D_2.PNG",
+      "size_in_bytes": 1821845,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in ASNS overexpression condition"
+      }
+    },
+    "ba5d652a-af84-41a5-871d-819bab87dd63": {
+      "id": "ba5d652a-af84-41a5-871d-819bab87dd63",
+      "name": "7E_E_1.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_E_1.PNG",
+      "size_in_bytes": 3362169,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in control condition"
+      }
+    },
+    "6893ef0e-a9b1-4775-97f3-8d8268fd5be4": {
+      "id": "6893ef0e-a9b1-4775-97f3-8d8268fd5be4",
+      "name": "7E_G_1.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_G_1.PNG",
+      "size_in_bytes": 1171191,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in control condition"
+      }
+    },
+    "ca4fa1f1-7d78-4b9f-9d8c-c0c4f871692c": {
+      "id": "ca4fa1f1-7d78-4b9f-9d8c-c0c4f871692c",
+      "name": "7E_G_2.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_G_2.PNG",
+      "size_in_bytes": 1977099,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in control condition"
+      }
+    },
+    "eacefecf-c5fa-418a-9f80-cf6770b59b31": {
+      "id": "eacefecf-c5fa-418a-9f80-cf6770b59b31",
+      "name": "7E_H_1.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_H_1.PNG",
+      "size_in_bytes": 553847,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in ASNS overexpression condition"
+      }
+    },
+    "4dce901f-4950-46b6-b7a8-38da86b3447a": {
+      "id": "4dce901f-4950-46b6-b7a8-38da86b3447a",
+      "name": "7E_H_2.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_H_2.PNG",
+      "size_in_bytes": 891184,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in ASNS overexpression condition"
+      }
+    },
+    "49173eaf-3106-436f-90ac-fb244c3dafc0": {
+      "id": "49173eaf-3106-436f-90ac-fb244c3dafc0",
+      "name": "7E_I_1.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_I_1.PNG",
+      "size_in_bytes": 2374367,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in control condition"
+      }
+    },
+    "918dbf73-18d8-4c7f-b4cb-394cb86fad31": {
+      "id": "918dbf73-18d8-4c7f-b4cb-394cb86fad31",
+      "name": "7E_I_2.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_I_2.PNG",
+      "size_in_bytes": 1962262,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in control condition"
+      }
+    },
+    "d55390ca-fc31-4b18-8fce-6aeb679a5323": {
+      "id": "d55390ca-fc31-4b18-8fce-6aeb679a5323",
+      "name": "7E_K_1.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_K_1.PNG",
+      "size_in_bytes": 867801,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in control condition"
+      }
+    },
+    "c6cbb309-0c5c-48bf-b0f9-95910007f329": {
+      "id": "c6cbb309-0c5c-48bf-b0f9-95910007f329",
+      "name": "7E_K_2.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_K_2.PNG",
+      "size_in_bytes": 1410914,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in control condition"
+      }
+    },
+    "6748b722-e922-4d78-8be7-a63306b83ced": {
+      "id": "6748b722-e922-4d78-8be7-a63306b83ced",
+      "name": "7E_L_1.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_L_1.PNG",
+      "size_in_bytes": 1904723,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in ASNS overexpression condition"
+      }
+    },
+    "cd8f0384-0f3b-453f-a55c-6ff64481b5d8": {
+      "id": "cd8f0384-0f3b-453f-a55c-6ff64481b5d8",
+      "name": "7E_L_2.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_L_2.PNG",
+      "size_in_bytes": 3063145,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in ASNS overexpression condition"
+      }
+    },
+    "23b6b2bc-c54a-4486-b88d-73f801a8a2af": {
+      "id": "23b6b2bc-c54a-4486-b88d-73f801a8a2af",
+      "name": "7E_L_3.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_L_3.PNG",
+      "size_in_bytes": 1054006,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in ASNS overexpression condition"
+      }
+    },
+    "3e01d156-dd52-4bc9-aa96-1f6520338718": {
+      "id": "3e01d156-dd52-4bc9-aa96-1f6520338718",
+      "name": "7E_M.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_M.PNG",
+      "size_in_bytes": 1714519,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in control condition"
+      }
+    },
+    "bc070798-ddfd-4733-a7ad-2545c4d29be4": {
+      "id": "bc070798-ddfd-4733-a7ad-2545c4d29be4",
+      "name": "7E_O.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_O.PNG",
+      "size_in_bytes": 2206932,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in ASNS overexpression condition"
+      }
+    },
+    "95fdb2d4-574b-4bcb-8aff-2eafe65160a8": {
+      "id": "95fdb2d4-574b-4bcb-8aff-2eafe65160a8",
+      "name": "7E_P.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_P.PNG",
+      "size_in_bytes": 1251523,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in ASNS overexpression condition"
+      }
+    },
+    "2a1796f2-048e-4b6e-9d1e-6fa9f50c259a": {
+      "id": "2a1796f2-048e-4b6e-9d1e-6fa9f50c259a",
+      "name": "7E_Q.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_Q.PNG",
+      "size_in_bytes": 1159585,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in ASNS overexpression condition"
+      }
+    },
+    "e9b81981-e7cb-4671-861b-b9c5f1a7a91f": {
+      "id": "e9b81981-e7cb-4671-861b-b9c5f1a7a91f",
+      "name": "7E_R.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_R.PNG",
+      "size_in_bytes": 1184174,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in control condition"
+      }
+    },
+    "1a32be5d-a2d2-4b67-a442-aedaec6be55d": {
+      "id": "1a32be5d-a2d2-4b67-a442-aedaec6be55d",
+      "name": "7E_S.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_S.PNG",
+      "size_in_bytes": 2144060,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in ASNS overexpression condition"
+      }
+    },
+    "b8822228-af42-4a14-99e1-5dc0248a51a7": {
+      "id": "b8822228-af42-4a14-99e1-5dc0248a51a7",
+      "name": "7E_T.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_T.PNG",
+      "size_in_bytes": 1929433,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in control condition"
+      }
+    },
+    "4d60d2f1-7737-4d9e-9c97-861ef942deb8": {
+      "id": "4d60d2f1-7737-4d9e-9c97-861ef942deb8",
+      "name": "7E_U.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_U.PNG",
+      "size_in_bytes": 1917331,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in ASNS overexpression condition"
+      }
+    },
+    "6acceb84-9695-4ee0-adbb-cb1980566ef6": {
+      "id": "6acceb84-9695-4ee0-adbb-cb1980566ef6",
+      "name": "7E_W.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_W.PNG",
+      "size_in_bytes": 3127868,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in control condition"
+      }
+    },
+    "258780dc-b03f-4926-a78c-b093f809ebb3": {
+      "id": "258780dc-b03f-4926-a78c-b093f809ebb3",
+      "name": "7E_Z.PNG",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/7E_Z.PNG",
+      "size_in_bytes": 1992329,
+      "type": null,
+      "attributes": {
+        "Panel": "7E",
+        "Description of the image": "IF staining image used for counting TBR1-expressing cells in ASNS overexpression condition"
+      }
+    },
+    "a3f4a07b-50fd-4276-a8ec-5efb4ee3f659": {
+      "id": "a3f4a07b-50fd-4276-a8ec-5efb4ee3f659",
+      "name": "EV1B_CT-MET-40X.section2(RGB).tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/EV1B_CT-MET-40X.section2(RGB).tif",
+      "size_in_bytes": 46509864,
+      "type": null,
+      "attributes": {
+        "Panel": "EV1B",
+        "Description of the image": "H3K79me2 staining of tissue sections upon control treatment "
+      }
+    },
+    "318f4f02-0617-4023-b217-89bfecfb021a": {
+      "id": "318f4f02-0617-4023-b217-89bfecfb021a",
+      "name": "EV1B_EPZ-MET-40X-section2(RGB).tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/EV1B_EPZ-MET-40X-section2(RGB).tif",
+      "size_in_bytes": 46452904,
+      "type": null,
+      "attributes": {
+        "Panel": "EV1B",
+        "Description of the image": "H3K79me2 staining of tissue sections upon EPZ treatment "
+      }
+    },
+    "bec93101-1265-4dcf-a1a8-aa00ec24adca": {
+      "id": "bec93101-1265-4dcf-a1a8-aa00ec24adca",
+      "name": "EV1B_H3K79_Con EPZ panel.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/EV1B_H3K79_Con EPZ panel.tif",
+      "size_in_bytes": 11136168,
+      "type": null,
+      "attributes": {
+        "Panel": "EV1B",
+        "Description of the image": "Panel showing H3K79 staining of control and EPZ-treated sections"
+      }
+    },
+    "314ed564-ca58-41af-8056-e6f9ba7103f4": {
+      "id": "314ed564-ca58-41af-8056-e6f9ba7103f4",
+      "name": "EV1C_IUP_Cherry_DMSO.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/EV1C_IUP_Cherry_DMSO.tif",
+      "size_in_bytes": 368815,
+      "type": null,
+      "attributes": {
+        "Panel": "EV1C",
+        "Description of the image": "Electroporated tissue sections showing mCherry-positve cells (grey) in VZ of control condition after 24 h culture"
+      }
+    },
+    "87911449-327a-4056-bdf7-05676804bab1": {
+      "id": "87911449-327a-4056-bdf7-05676804bab1",
+      "name": "EV1C_IUP_Cherry_EPZ.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/EV1C_IUP_Cherry_EPZ.tif",
+      "size_in_bytes": 286852,
+      "type": null,
+      "attributes": {
+        "Panel": "EV1C",
+        "Description of the image": "Electroporated tissue sections showing mCherry-positve cells (grey) in VZ of EPZ treatment after 24 h culture"
+      }
+    },
+    "4eb2b3c6-e0b3-4c49-a0ed-dd55bb55801e": {
+      "id": "4eb2b3c6-e0b3-4c49-a0ed-dd55bb55801e",
+      "name": "EV1C_IUP_Cherry_tavola_Fugure 1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/EV1C_IUP_Cherry_tavola_Fugure 1.tif",
+      "size_in_bytes": 1317124,
+      "type": null,
+      "attributes": {
+        "Panel": "EV1C",
+        "Description of the image": "Panel showing mCherry-positive cells (grey) in VZ of control and EPZ-treated sections after 24 h culture"
+      }
+    },
+    "b88b088e-81b9-46f2-82f8-e5e3d1663cab": {
+      "id": "b88b088e-81b9-46f2-82f8-e5e3d1663cab",
+      "name": "EV1E_ER26-CON2-section2-pH3-20Xtiles.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/EV1E_ER26-CON2-section2-pH3-20Xtiles.tif",
+      "size_in_bytes": 53323267,
+      "type": null,
+      "attributes": {
+        "Panel": "EV1E",
+        "Description of the image": "pHH3 staining of control tissue section"
+      }
+    },
+    "a00ec598-6ceb-4be6-994a-45cfdfec828e": {
+      "id": "a00ec598-6ceb-4be6-994a-45cfdfec828e",
+      "name": "EV1E_ER26-EPZ1-section2-pH3-20Xtiles.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/EV1E_ER26-EPZ1-section2-pH3-20Xtiles.tif",
+      "size_in_bytes": 53307895,
+      "type": null,
+      "attributes": {
+        "Panel": "EV1E",
+        "Description of the image": "pHH3 staining ofEPZ-treated tissue section"
+      }
+    },
+    "8f5a30fe-2763-497c-a1e6-24cf5dc47ef8": {
+      "id": "8f5a30fe-2763-497c-a1e6-24cf5dc47ef8",
+      "name": "EV2E_CP_EPZ_DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/EV2E_CP_EPZ_DAPI.tif",
+      "size_in_bytes": 1764620,
+      "type": null,
+      "attributes": {
+        "Panel": "EV2E",
+        "Description of the image": "Image of the cortical plate for DAPI staining of EPZ-treated E14.5 mouse cortical tissue section"
+      }
+    },
+    "26b132f4-7ea7-4b0e-a6a9-543afce6816d": {
+      "id": "26b132f4-7ea7-4b0e-a6a9-543afce6816d",
+      "name": "EV2E_CP_EPZ_merged.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/EV2E_CP_EPZ_merged.tif",
+      "size_in_bytes": 2669362,
+      "type": null,
+      "attributes": {
+        "Panel": "EV2E",
+        "Description of the image": "Merged image of the cortical plate for DAPI staining, smFISH expression survey for Nr2f1 and Ofd1, of EPZ-treated E14.5 mouse cortical tissue section"
+      }
+    },
+    "ecae2737-acfd-49de-aeec-e64fb35572aa": {
+      "id": "ecae2737-acfd-49de-aeec-e64fb35572aa",
+      "name": "EV2E_CP_EPZ_Nr2f1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/EV2E_CP_EPZ_Nr2f1.tif",
+      "size_in_bytes": 815374,
+      "type": null,
+      "attributes": {
+        "Panel": "EV2E",
+        "Description of the image": "Image of the cortical plate for smFISH expression survey of Nr2f1 expression in EPZ-treated E14.5 mouse cortical tissue section"
+      }
+    },
+    "7e47b398-8cb9-4c47-a49e-8a7537275ce8": {
+      "id": "7e47b398-8cb9-4c47-a49e-8a7537275ce8",
+      "name": "EV2E_CP_EPZ_Ofd1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/EV2E_CP_EPZ_Ofd1.tif",
+      "size_in_bytes": 751552,
+      "type": null,
+      "attributes": {
+        "Panel": "EV2E",
+        "Description of the image": "Image of the cortical plate for smFISH expression survey of Ofd1 expression in EPZ-treated E14.5 mouse cortical tissue section"
+      }
+    },
+    "69df7df8-7866-46b6-a1ba-0d9f538f7cb8": {
+      "id": "69df7df8-7866-46b6-a1ba-0d9f538f7cb8",
+      "name": "EV2E_CP-ctrl_merged.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/EV2E_CP-ctrl_merged.tif",
+      "size_in_bytes": 2010269,
+      "type": null,
+      "attributes": {
+        "Panel": "EV2E",
+        "Description of the image": "Merged image of the cortical plate for DAPI staining, smFISH expression survey for Nr2f1 and Ofd1, of control E14.5 mouse cortical tissue section"
+      }
+    },
+    "12416cf9-88c4-476b-8cae-dfb48f95f39d": {
+      "id": "12416cf9-88c4-476b-8cae-dfb48f95f39d",
+      "name": "EV2E_CP-ctrl_DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/EV2E_CP-ctrl_DAPI.tif",
+      "size_in_bytes": 1559527,
+      "type": null,
+      "attributes": {
+        "Panel": "EV2E",
+        "Description of the image": "Image of the cortical plate for DAPI staining ofcontrol E14.5 mouse cortical tissue section"
+      }
+    },
+    "587c1eab-39d3-444e-be86-d872f1895c9f": {
+      "id": "587c1eab-39d3-444e-be86-d872f1895c9f",
+      "name": "EV2E_CP-ctrl_Nr2f1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/EV2E_CP-ctrl_Nr2f1.tif",
+      "size_in_bytes": 626668,
+      "type": null,
+      "attributes": {
+        "Panel": "EV2E",
+        "Description of the image": "Image of the cortical plate for smFISH expression survey of Nr2f1 expression in control E14.5 mouse cortical tissue section"
+      }
+    },
+    "434908b2-96cd-41b1-a250-23a0816164be": {
+      "id": "434908b2-96cd-41b1-a250-23a0816164be",
+      "name": "EV2E_CP-ctrl_Ofd1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/EV2E_CP-ctrl_Ofd1.tif",
+      "size_in_bytes": 327577,
+      "type": null,
+      "attributes": {
+        "Panel": "EV2E",
+        "Description of the image": "Image of the cortical plate for smFISH expression survey of Ofd1 expression in control E14.5 mouse cortical tissue section"
+      }
+    },
+    "92331411-4d72-43c2-9fe6-37955c49bc70": {
+      "id": "92331411-4d72-43c2-9fe6-37955c49bc70",
+      "name": "EV2E_VZ_Con_DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/EV2E_VZ_Con_DAPI.tif",
+      "size_in_bytes": 1107617,
+      "type": null,
+      "attributes": {
+        "Panel": "EV2E",
+        "Description of the image": "Image of the ventricular zone for DAPI staining ofcontrol E14.5 mouse cortical tissue section"
+      }
+    },
+    "105b30e8-9759-41b5-b3e1-74ef5e3f452b": {
+      "id": "105b30e8-9759-41b5-b3e1-74ef5e3f452b",
+      "name": "EV2E_VZ_Con_Merged.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/EV2E_VZ_Con_Merged.tif",
+      "size_in_bytes": 1295900,
+      "type": null,
+      "attributes": {
+        "Panel": "EV2E",
+        "Description of the image": "Merged image of the ventricular zone for DAPI staining, smFISH expression survey for Nr2f1 and Ofd1, of control E14.5 mouse cortical tissue section"
+      }
+    },
+    "a1c16923-2d68-4fdf-8f83-e68ff045a92e": {
+      "id": "a1c16923-2d68-4fdf-8f83-e68ff045a92e",
+      "name": "EV2E_VZ_Con_Nr2f1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/EV2E_VZ_Con_Nr2f1.tif",
+      "size_in_bytes": 300412,
+      "type": null,
+      "attributes": {
+        "Panel": "EV2E",
+        "Description of the image": "Image of the ventricular zone for smFISH expression survey of Nr2f1 expression in control E14.5 mouse cortical tissue section"
+      }
+    },
+    "fb710a36-9f05-4dfa-a96b-164f233e27a2": {
+      "id": "fb710a36-9f05-4dfa-a96b-164f233e27a2",
+      "name": "EV2E_VZ_Con_Ofd1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/EV2E_VZ_Con_Ofd1.tif",
+      "size_in_bytes": 324860,
+      "type": null,
+      "attributes": {
+        "Panel": "EV2E",
+        "Description of the image": "Image of the ventricular zone for smFISH expression survey of Ofd1 expression in control E14.5 mouse cortical tissue section"
+      }
+    },
+    "0bf81c9f-9f84-4a89-b88c-2308f7c55c78": {
+      "id": "0bf81c9f-9f84-4a89-b88c-2308f7c55c78",
+      "name": "EV2E_VZ_EPZ_DAPI.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/EV2E_VZ_EPZ_DAPI.tif",
+      "size_in_bytes": 1649977,
+      "type": null,
+      "attributes": {
+        "Panel": "EV2E",
+        "Description of the image": "Image of the ventricular zone for DAPI staining of EPZ-treated E14.5 mouse cortical tissue section"
+      }
+    },
+    "15e024cb-156a-44c4-ae3b-a4bfd1a9fae1": {
+      "id": "15e024cb-156a-44c4-ae3b-a4bfd1a9fae1",
+      "name": "EV2E_VZ_EPZ_Merged.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/EV2E_VZ_EPZ_Merged.tif",
+      "size_in_bytes": 1950981,
+      "type": null,
+      "attributes": {
+        "Panel": "EV2E",
+        "Description of the image": "Merged image of the ventricular zone for DAPI staining, smFISH expression survey for Nr2f1 and Ofd1, of EPZ-treated E14.5 mouse cortical tissue section"
+      }
+    },
+    "ddc1b0d9-95b2-41e8-99ff-8a07f00f27e7": {
+      "id": "ddc1b0d9-95b2-41e8-99ff-8a07f00f27e7",
+      "name": "EV2E_VZ_EPZ_Nr2f1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/EV2E_VZ_EPZ_Nr2f1.tif",
+      "size_in_bytes": 282746,
+      "type": null,
+      "attributes": {
+        "Panel": "EV2E",
+        "Description of the image": "Image of the entricular zone for smFISH expression survey of Nr2f1 expression in EPZ-treated E14.5 mouse cortical tissue section"
+      }
+    },
+    "9c8894f3-390a-4175-b626-078aff1520e4": {
+      "id": "9c8894f3-390a-4175-b626-078aff1520e4",
+      "name": "EV2E_VZ_EPZ_Ofd1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/EV2E_VZ_EPZ_Ofd1.tif",
+      "size_in_bytes": 481860,
+      "type": null,
+      "attributes": {
+        "Panel": "EV2E",
+        "Description of the image": "Image of the ventricular zone for smFISH expression survey of Ofd1 expression in EPZ-treated E14.5 mouse cortical tissue section"
+      }
+    },
+    "58503c16-5b10-45ba-aa14-10e61d2ab454": {
+      "id": "58503c16-5b10-45ba-aa14-10e61d2ab454",
+      "name": "Appendix_Figure_S4A.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/Appendix_Figure_S4A.tiff",
+      "size_in_bytes": 998157206,
+      "type": null,
+      "attributes": {
+        "Panel": "S4A",
+        "Description of the image": "Overview of microinjected tissue section in WT condition without treatment showing Dx-A555 labelled cells after 3 h slice culture"
+      }
+    },
+    "57ff5c24-e643-41b8-82c4-5baa5da35948": {
+      "id": "57ff5c24-e643-41b8-82c4-5baa5da35948",
+      "name": "Appendix_S4A_A555_3h_I.lsm",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/Appendix_S4A_A555_3h_I.lsm",
+      "size_in_bytes": 1915182969,
+      "type": null,
+      "attributes": {
+        "Panel": "S4A",
+        "Description of the image": "Overview of microinjected tissue section in WT condition without treatment showing Dx-A555 labelled cells after 3 h slice culture"
+      }
+    },
+    "7d9a54ed-5e7c-46d6-beaf-1cd905f0bf87": {
+      "id": "7d9a54ed-5e7c-46d6-beaf-1cd905f0bf87",
+      "name": "Appendix_S4B_A555_26h_Tbr2_TuJI.lsm",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/Appendix_S4B_A555_26h_Tbr2_TuJI.lsm",
+      "size_in_bytes": 6322548508,
+      "type": null,
+      "attributes": {
+        "Panel": "S4B",
+        "Description of the image": "Microinjected cells and progeny expressing EOMES (green) and/or TUBB3 (white) after 24 h slice culture in WT condition without treatment"
+      }
+    },
+    "9dfad6e9-986a-4167-b9e3-878ba6c26071": {
+      "id": "9dfad6e9-986a-4167-b9e3-878ba6c26071",
+      "name": "Appendix_S4B_A555_26h_Tbr2_TuJI_I.lsm",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/Appendix_S4B_A555_26h_Tbr2_TuJI_I.lsm",
+      "size_in_bytes": 72346200,
+      "type": null,
+      "attributes": {
+        "Panel": "S4B",
+        "Description of the image": "Microinjected cells and progeny expressing EOMES (green) and/or TUBB3 (white) after 24 h slice culture in WT condition without treatment"
+      }
+    },
+    "a0ebbe38-cdb3-47d0-8e17-6051c39e67d0": {
+      "id": "a0ebbe38-cdb3-47d0-8e17-6051c39e67d0",
+      "name": "Appendix_S4B_A555_26h_Tbr2_TuJI_II.lsm",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/Appendix_S4B_A555_26h_Tbr2_TuJI_II.lsm",
+      "size_in_bytes": 1053813130,
+      "type": null,
+      "attributes": {
+        "Panel": "S4B",
+        "Description of the image": "Microinjected cells and progeny expressing EOMES (green) and/or TUBB3 (white) after 24 h slice culture in WT condition without treatment"
+      }
+    },
+    "cd2abb5d-c5a8-4fe1-ade3-96ef86d9c362": {
+      "id": "cd2abb5d-c5a8-4fe1-ade3-96ef86d9c362",
+      "name": "Appendix_S4B_cellA.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/Appendix_S4B_cellA.tiff",
+      "size_in_bytes": 81882862,
+      "type": null,
+      "attributes": {
+        "Panel": "S4B",
+        "Description of the image": "\"Panel showing a close-up of the Dx-A555 label and EOMES and TUBB3 staining of \"Cell A\" present in the left panel\""
+      }
+    },
+    "df6ad511-10e5-458d-97ad-05d1ce20fc5f": {
+      "id": "df6ad511-10e5-458d-97ad-05d1ce20fc5f",
+      "name": "Appendix_S4B_cellsB.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/Appendix_S4B_cellsB.tiff",
+      "size_in_bytes": 2150664486,
+      "type": null,
+      "attributes": {
+        "Panel": "S4B",
+        "Description of the image": "\"Panel showing a close-up of the Dx-A555 label and EOMES and TUBB3 staining of \"Cells B\" present in the left panel\""
+      }
+    },
+    "56024e78-9eaa-4060-844e-a899b4956583": {
+      "id": "56024e78-9eaa-4060-844e-a899b4956583",
+      "name": "Appendix_S4B_panel_left.tiff",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/646/S-BIAD646/Files/Appendix_S4B_panel_left.tiff",
+      "size_in_bytes": 1662334694,
+      "type": null,
+      "attributes": {
+        "Panel": "S4B",
+        "Description of the image": "Panel showing microinjected cells and progeny labelled by Dx-A555"
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

@@ -1,0 +1,591 @@
+{
+  "accession_id": "S-BIAD700",
+  "title": "In-section Click-iT detection and super-resolution CLEM: Shedding light on nucleolar ultrastructure and S-phase progression in plants",
+  "description": "Raw dataset - SMLM (dSTORM) imaging of plant nuclei in Lowicryl sections - wild-type, fasciata1, nucleolin 1 mutants",
+  "authors": [
+    {
+      "name": "Michal Franek"
+    },
+    {
+      "name": "Lenka Koptasikova"
+    },
+    {
+      "name": "Jiri Miksatko"
+    },
+    {
+      "name": "Jakub Pospisil"
+    },
+    {
+      "name": "David Liebl"
+    },
+    {
+      "name": "Milan Esner"
+    },
+    {
+      "name": "Eliska Macickova"
+    },
+    {
+      "name": "Martina Dvorackova"
+    },
+    {
+      "name": "Jiri Fajkus"
+    }
+  ],
+  "organism": "Unknown",
+  "release_date": "2023-05-15",
+  "license": "CC BY 4.0",
+  "links": {
+    "Bioarxiv preprint version of the article": "https://www.biorxiv.org/content/10.1101/2023.05.10.540144v1"
+  },
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "example_annotation_uri": "",
+  "file_references": {
+    "548b8cb5-7ec9-475a-af3c-939f67d44327": {
+      "id": "548b8cb5-7ec9-475a-af3c-939f67d44327",
+      "name": "dSTORM data/wt/wt_1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/wt/wt_1.tif",
+      "size_in_bytes": 1971149571,
+      "type": null,
+      "attributes": {
+        "Genetic background": "wild type",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "d121a62c-54df-4a13-be0c-300c1bf8e97d": {
+      "id": "d121a62c-54df-4a13-be0c-300c1bf8e97d",
+      "name": "dSTORM data/wt/wt_2.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/wt/wt_2.tif",
+      "size_in_bytes": 2628189607,
+      "type": null,
+      "attributes": {
+        "Genetic background": "wild type",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "8b5c0150-aa38-48ee-9184-c70f8005ac3d": {
+      "id": "8b5c0150-aa38-48ee-9184-c70f8005ac3d",
+      "name": "dSTORM data/wt/wt_3.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/wt/wt_3.tif",
+      "size_in_bytes": 2628189243,
+      "type": null,
+      "attributes": {
+        "Genetic background": "wild type",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "29567545-b972-4d5f-850d-4708a1a74f54": {
+      "id": "29567545-b972-4d5f-850d-4708a1a74f54",
+      "name": "dSTORM data/wt/wt_4.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/wt/wt_4.tif",
+      "size_in_bytes": 2628229785,
+      "type": null,
+      "attributes": {
+        "Genetic background": "wild type",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "44519f7b-0126-4708-a929-c3a6cf6b3c62": {
+      "id": "44519f7b-0126-4708-a929-c3a6cf6b3c62",
+      "name": "dSTORM data/wt/wt_5.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/wt/wt_5.tif",
+      "size_in_bytes": 2628229693,
+      "type": null,
+      "attributes": {
+        "Genetic background": "wild type",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "f9e7398f-fea6-4398-b09b-d0c8a443fc81": {
+      "id": "f9e7398f-fea6-4398-b09b-d0c8a443fc81",
+      "name": "dSTORM data/wt/wt_6.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/wt/wt_6.tif",
+      "size_in_bytes": 1316804207,
+      "type": null,
+      "attributes": {
+        "Genetic background": "wild type",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "22c05584-5aee-4c0b-adcf-7ac8ae451db7": {
+      "id": "22c05584-5aee-4c0b-adcf-7ac8ae451db7",
+      "name": "dSTORM data/wt/wt_7.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/wt/wt_7.tif",
+      "size_in_bytes": 2630143428,
+      "type": null,
+      "attributes": {
+        "Genetic background": "wild type",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "de25ae93-6005-436d-9da1-b13e1014c354": {
+      "id": "de25ae93-6005-436d-9da1-b13e1014c354",
+      "name": "dSTORM data/wt/wt_8.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/wt/wt_8.tif",
+      "size_in_bytes": 1316804224,
+      "type": null,
+      "attributes": {
+        "Genetic background": "wild type",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "5fcab1e0-01c0-4219-9d55-fd6d708fd4f9": {
+      "id": "5fcab1e0-01c0-4219-9d55-fd6d708fd4f9",
+      "name": "dSTORM data/wt/wt_9.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/wt/wt_9.tif",
+      "size_in_bytes": 1316804201,
+      "type": null,
+      "attributes": {
+        "Genetic background": "wild type",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "f2ef7747-86c2-46ae-b057-46bba9b9383a": {
+      "id": "f2ef7747-86c2-46ae-b057-46bba9b9383a",
+      "name": "dSTORM data/wt/wt_10.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/wt/wt_10.tif",
+      "size_in_bytes": 1316804160,
+      "type": null,
+      "attributes": {
+        "Genetic background": "wild type",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "13ce6b0b-6568-4e78-a997-3b00779e754e": {
+      "id": "13ce6b0b-6568-4e78-a997-3b00779e754e",
+      "name": "dSTORM data/wt/wt_11.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/wt/wt_11.tif",
+      "size_in_bytes": 1316804187,
+      "type": null,
+      "attributes": {
+        "Genetic background": "wild type",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "139eb9ef-8041-476a-b59f-6379d4b2968f": {
+      "id": "139eb9ef-8041-476a-b59f-6379d4b2968f",
+      "name": "dSTORM data/wt/wt_12.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/wt/wt_12.tif",
+      "size_in_bytes": 1316824231,
+      "type": null,
+      "attributes": {
+        "Genetic background": "wild type",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "52e582cd-57b1-4cec-8343-6c160e726f1d": {
+      "id": "52e582cd-57b1-4cec-8343-6c160e726f1d",
+      "name": "dSTORM data/wt/wt_13.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/wt/wt_13.tif",
+      "size_in_bytes": 2630184324,
+      "type": null,
+      "attributes": {
+        "Genetic background": "wild type",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "88399f80-7e24-495a-98cc-0f11f407dcb1": {
+      "id": "88399f80-7e24-495a-98cc-0f11f407dcb1",
+      "name": "dSTORM data/wt/wt_14.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/wt/wt_14.tif",
+      "size_in_bytes": 3943444142,
+      "type": null,
+      "attributes": {
+        "Genetic background": "wild type",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "434d9d81-0b68-4ac2-8105-76535462f5c0": {
+      "id": "434d9d81-0b68-4ac2-8105-76535462f5c0",
+      "name": "dSTORM data/wt/wt_15.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/wt/wt_15.tif",
+      "size_in_bytes": 2630184073,
+      "type": null,
+      "attributes": {
+        "Genetic background": "wild type",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "ce6ba66b-511b-41db-9695-0b8a7fafdedb": {
+      "id": "ce6ba66b-511b-41db-9695-0b8a7fafdedb",
+      "name": "dSTORM data/fas1/fas1_1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/fas1/fas1_1.tif",
+      "size_in_bytes": 2628029654,
+      "type": null,
+      "attributes": {
+        "Genetic background": "fasciata 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "664974ec-140d-4f03-9eb1-63d8f8f56aa6": {
+      "id": "664974ec-140d-4f03-9eb1-63d8f8f56aa6",
+      "name": "dSTORM data/fas1/fas1_2.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/fas1/fas1_2.tif",
+      "size_in_bytes": 2628029257,
+      "type": null,
+      "attributes": {
+        "Genetic background": "fasciata 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "36c59a97-fcec-4a08-8e65-0ab1bfee9aa2": {
+      "id": "36c59a97-fcec-4a08-8e65-0ab1bfee9aa2",
+      "name": "dSTORM data/fas1/fas1_3.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/fas1/fas1_3.tif",
+      "size_in_bytes": 1173656309,
+      "type": null,
+      "attributes": {
+        "Genetic background": "fasciata 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "167e5761-0c17-474e-a2ec-ab2e901aa1ac": {
+      "id": "167e5761-0c17-474e-a2ec-ab2e901aa1ac",
+      "name": "dSTORM data/fas1/fas1_4.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/fas1/fas1_4.tif",
+      "size_in_bytes": 1692756174,
+      "type": null,
+      "attributes": {
+        "Genetic background": "fasciata 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "a7c0971c-82f7-4ea8-a80d-efbdc8eb476f": {
+      "id": "a7c0971c-82f7-4ea8-a80d-efbdc8eb476f",
+      "name": "dSTORM data/fas1/fas1_5.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/fas1/fas1_5.tif",
+      "size_in_bytes": 1902230993,
+      "type": null,
+      "attributes": {
+        "Genetic background": "fasciata 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "e24919c9-df8f-4d26-b7a6-cf5e1bace03b": {
+      "id": "e24919c9-df8f-4d26-b7a6-cf5e1bace03b",
+      "name": "dSTORM data/fas1/fas1_6.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/fas1/fas1_6.tif",
+      "size_in_bytes": 2032496172,
+      "type": null,
+      "attributes": {
+        "Genetic background": "fasciata 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "8c7a5407-78da-4123-b7e6-6e0f5130eb89": {
+      "id": "8c7a5407-78da-4123-b7e6-6e0f5130eb89",
+      "name": "dSTORM data/fas1/fas1_7.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/fas1/fas1_7.tif",
+      "size_in_bytes": 2348442671,
+      "type": null,
+      "attributes": {
+        "Genetic background": "fasciata 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "1a7f97ce-2513-4375-9542-8f7b026594aa": {
+      "id": "1a7f97ce-2513-4375-9542-8f7b026594aa",
+      "name": "dSTORM data/fas1/fas1_8.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/fas1/fas1_8.tif",
+      "size_in_bytes": 2508478749,
+      "type": null,
+      "attributes": {
+        "Genetic background": "fasciata 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "6326fb7e-a6fb-46b3-b729-2dfb26248a9f": {
+      "id": "6326fb7e-a6fb-46b3-b729-2dfb26248a9f",
+      "name": "dSTORM data/fas1/fas1_9.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/fas1/fas1_9.tif",
+      "size_in_bytes": 2628029556,
+      "type": null,
+      "attributes": {
+        "Genetic background": "fasciata 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "47a62ba2-5c3a-458f-8fa7-5b697d1834c4": {
+      "id": "47a62ba2-5c3a-458f-8fa7-5b697d1834c4",
+      "name": "dSTORM data/fas1/fas1_10.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/fas1/fas1_10.tif",
+      "size_in_bytes": 2628029655,
+      "type": null,
+      "attributes": {
+        "Genetic background": "fasciata 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "b9d31100-3e3b-448b-8109-4954fedce0d5": {
+      "id": "b9d31100-3e3b-448b-8109-4954fedce0d5",
+      "name": "dSTORM data/fas1/fas1_11.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/fas1/fas1_11.tif",
+      "size_in_bytes": 2628029661,
+      "type": null,
+      "attributes": {
+        "Genetic background": "fasciata 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "78113591-4d05-4000-97ca-d3860f5cadd1": {
+      "id": "78113591-4d05-4000-97ca-d3860f5cadd1",
+      "name": "dSTORM data/fas1/fas1_12.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/fas1/fas1_12.tif",
+      "size_in_bytes": 2628029713,
+      "type": null,
+      "attributes": {
+        "Genetic background": "fasciata 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "0a9e6be2-f35e-42e5-8a31-451a3033bb99": {
+      "id": "0a9e6be2-f35e-42e5-8a31-451a3033bb99",
+      "name": "dSTORM data/fas1/fas1_13.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/fas1/fas1_13.tif",
+      "size_in_bytes": 2628189627,
+      "type": null,
+      "attributes": {
+        "Genetic background": "fasciata 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "29687f14-77d7-49c0-9b71-443c9a5338d1": {
+      "id": "29687f14-77d7-49c0-9b71-443c9a5338d1",
+      "name": "dSTORM data/fas1/fas1_14.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/fas1/fas1_14.tif",
+      "size_in_bytes": 2628189794,
+      "type": null,
+      "attributes": {
+        "Genetic background": "fasciata 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "e4463787-2d04-4ccb-9f60-174be201ba9a": {
+      "id": "e4463787-2d04-4ccb-9f60-174be201ba9a",
+      "name": "dSTORM data/fas1/fas1_15.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/fas1/fas1_15.tif",
+      "size_in_bytes": 2629944176,
+      "type": null,
+      "attributes": {
+        "Genetic background": "fasciata 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "be25cf8b-e72d-42bd-b547-a6f83615fa44": {
+      "id": "be25cf8b-e72d-42bd-b547-a6f83615fa44",
+      "name": "dSTORM data/nuc1/nuc1_1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/nuc1/nuc1_1.tif",
+      "size_in_bytes": 2628029158,
+      "type": null,
+      "attributes": {
+        "Genetic background": "nucleolin 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "6c552cba-f655-4c35-ae1b-48e1d1a47fdb": {
+      "id": "6c552cba-f655-4c35-ae1b-48e1d1a47fdb",
+      "name": "dSTORM data/nuc1/nuc1_2.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/nuc1/nuc1_2.tif",
+      "size_in_bytes": 2628029270,
+      "type": null,
+      "attributes": {
+        "Genetic background": "nucleolin 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "75f27e95-ee4b-4959-b516-e97f261f5995": {
+      "id": "75f27e95-ee4b-4959-b516-e97f261f5995",
+      "name": "dSTORM data/nuc1/nuc1_3.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/nuc1/nuc1_3.tif",
+      "size_in_bytes": 2628029317,
+      "type": null,
+      "attributes": {
+        "Genetic background": "nucleolin 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "ad41103f-ec7e-4688-94c3-9e4913d98d36": {
+      "id": "ad41103f-ec7e-4688-94c3-9e4913d98d36",
+      "name": "dSTORM data/nuc1/nuc1_4.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/nuc1/nuc1_4.tif",
+      "size_in_bytes": 2628029104,
+      "type": null,
+      "attributes": {
+        "Genetic background": "nucleolin 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "aaa3241c-c4c9-459d-a304-9f43eb5fb432": {
+      "id": "aaa3241c-c4c9-459d-a304-9f43eb5fb432",
+      "name": "dSTORM data/nuc1/nuc1_5.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/nuc1/nuc1_5.tif",
+      "size_in_bytes": 2628029210,
+      "type": null,
+      "attributes": {
+        "Genetic background": "nucleolin 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "85944e1e-504c-49dd-a4a3-fc1f5c98524a": {
+      "id": "85944e1e-504c-49dd-a4a3-fc1f5c98524a",
+      "name": "dSTORM data/nuc1/nuc1_6.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/nuc1/nuc1_6.tif",
+      "size_in_bytes": 2628029612,
+      "type": null,
+      "attributes": {
+        "Genetic background": "nucleolin 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "10d24923-bc38-454d-a80b-4bb04f2c3d91": {
+      "id": "10d24923-bc38-454d-a80b-4bb04f2c3d91",
+      "name": "dSTORM data/nuc1/nuc1_7.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/nuc1/nuc1_7.tif",
+      "size_in_bytes": 2628029171,
+      "type": null,
+      "attributes": {
+        "Genetic background": "nucleolin 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "29b5d60c-797a-4e4f-baf3-8a066d4e2120": {
+      "id": "29b5d60c-797a-4e4f-baf3-8a066d4e2120",
+      "name": "dSTORM data/nuc1/nuc1_8.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/nuc1/nuc1_8.tif",
+      "size_in_bytes": 2628029210,
+      "type": null,
+      "attributes": {
+        "Genetic background": "nucleolin 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "668517f5-a0dc-49d2-8089-e053e88bdf7f": {
+      "id": "668517f5-a0dc-49d2-8089-e053e88bdf7f",
+      "name": "dSTORM data/nuc1/nuc1_9.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/nuc1/nuc1_9.tif",
+      "size_in_bytes": 2117294033,
+      "type": null,
+      "attributes": {
+        "Genetic background": "nucleolin 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "2e22f243-3293-4a9a-9b5e-0d97c8ab30e9": {
+      "id": "2e22f243-3293-4a9a-9b5e-0d97c8ab30e9",
+      "name": "dSTORM data/nuc1/nuc1_10.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/nuc1/nuc1_10.tif",
+      "size_in_bytes": 2629984145,
+      "type": null,
+      "attributes": {
+        "Genetic background": "nucleolin 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "fd26fbb4-de4e-4384-8ec3-f2bdccaeb1cb": {
+      "id": "fd26fbb4-de4e-4384-8ec3-f2bdccaeb1cb",
+      "name": "dSTORM data/nuc1/nuc1_11.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/nuc1/nuc1_11.tif",
+      "size_in_bytes": 2247854635,
+      "type": null,
+      "attributes": {
+        "Genetic background": "nucleolin 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "b70ec4a5-7e93-4a9a-bb20-263a08f3d668": {
+      "id": "b70ec4a5-7e93-4a9a-bb20-263a08f3d668",
+      "name": "dSTORM data/nuc1/nuc1_12.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/nuc1/nuc1_12.tif",
+      "size_in_bytes": 1331662945,
+      "type": null,
+      "attributes": {
+        "Genetic background": "nucleolin 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "81fa202e-7a6d-4336-931e-d702eef70412": {
+      "id": "81fa202e-7a6d-4336-931e-d702eef70412",
+      "name": "dSTORM data/nuc1/nuc1_13.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/nuc1/nuc1_13.tif",
+      "size_in_bytes": 2629984181,
+      "type": null,
+      "attributes": {
+        "Genetic background": "nucleolin 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "b55ad38e-24a7-493e-bf38-ae01a85bdd76": {
+      "id": "b55ad38e-24a7-493e-bf38-ae01a85bdd76",
+      "name": "dSTORM data/nuc1/nuc1_14.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/nuc1/nuc1_14.tif",
+      "size_in_bytes": 2629984243,
+      "type": null,
+      "attributes": {
+        "Genetic background": "nucleolin 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    },
+    "0ab83fc9-93a1-4436-a8a9-e359d7bd845f": {
+      "id": "0ab83fc9-93a1-4436-a8a9-e359d7bd845f",
+      "name": "dSTORM data/nuc1/nuc1_15.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/nuc1/nuc1_15.tif",
+      "size_in_bytes": 2630184144,
+      "type": null,
+      "attributes": {
+        "Genetic background": "nucleolin 1 mutant",
+        "Fluorophore": "Alexa Fluor 647",
+        "Type of Imaging": "dSTORM"
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

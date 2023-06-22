@@ -1,0 +1,6 @@
+{
+  "accession_id": "S-BIAD368",
+  "image_id": "0127b192-6877-4ea1-a8f9-6c851be9391e",
+  "key": "channels",
+  "value": "[{'id': 'Channel:0:0', 'color': 'blue', 'detector_settings': {'id': 'Detector:0:0', 'gain': 0.0}, 'emission_wavelength': 450.0, 'emission_wavelength_unit': 'nm', 'name': 'DAPI', 'samples_per_pixel': 1}, {'id': 'Channel:0:1', 'color': 'lime', 'detector_settings': {'id': 'Detector:0:0', 'gain': 0.0}, 'emission_wavelength': 525.0, 'emission_wavelength_unit': 'nm', 'name': 'EGFP', 'samples_per_pixel': 1}, {'id': 'Channel:0:2', 'color': 'red', 'detector_settings': {'id': 'Detector:0:0', 'gain': 0.0}, 'emission_wavelength': 595.0, 'emission_wavelength_unit': 'nm', 'name': 'Texas Red', 'samples_per_pixel': 1}]"
+}

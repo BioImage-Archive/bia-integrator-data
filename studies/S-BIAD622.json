@@ -1,0 +1,2454 @@
+{
+  "accession_id": "S-BIAD622",
+  "title": "A network of small RNAs regulates sporulation initiation in C. difficile",
+  "description": "The obligate anaerobic, enteric pathogen Clostridioides difficile persists in the intestinal tract by forming antibiotic resistant endospores that contribute to relapsing and recurrent infections. Despite the importance of sporulation for C. difficile pathogenesis, environmental cues, and molecular mechanisms regulating sporulation initiation remain ill defined. Here, using RIL-seq to capture the Hfq-dependent RNA-RNA interactome, we discovered a network of small RNAs that bind to mRNAs encoding sporulation-related genes. We show that two of these small RNAs, SpoX and SpoY, regulate translation of the master regulator of sporulation, Spo0A, in an opposing manner, which ultimately leads to altered sporulation rates. Infection of antibiotic-treated mice with SpoX and SpoY deletion mutants revealed a global effect on gut colonization and intestinal sporulation. Our work uncovers an elaborate RNA-RNA interactome controlling the physiology and virulence of C. difficile and identifies a complex post-transcriptional layer in the regulation of spore formation in this important human pathogen.",
+  "authors": [
+    {
+      "name": "Manuela Fuchs "
+    },
+    {
+      "name": "Vanessa Lamm-Schmidt "
+    },
+    {
+      "name": "Tina Lenče "
+    },
+    {
+      "name": "Johannes Sulzer "
+    },
+    {
+      "name": "Arne Bublitz "
+    },
+    {
+      "name": "Janet Wackenreuter"
+    },
+    {
+      "name": "Milan Gerovac "
+    },
+    {
+      "name": "Till Strowig "
+    },
+    {
+      "name": "Franziska Faber"
+    }
+  ],
+  "organism": "Unknown",
+  "release_date": "2023-03-01",
+  "license": "CC BY 4.0",
+  "links": {},
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "example_annotation_uri": "",
+  "file_references": {
+    "a89c335e-8ae4-4888-b4b8-ba882715a6dc": {
+      "id": "a89c335e-8ae4-4888-b4b8-ba882715a6dc",
+      "name": "Figure 7/7A/README_7A.txt",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/README_7A.txt",
+      "size_in_bytes": 329,
+      "type": null,
+      "attributes": {
+        "Strain": null,
+        "Time Point": null,
+        "Replicate": null,
+        "Type": "README"
+      }
+    },
+    "fec1720d-cbdf-4b67-b36c-7e031022ba1e": {
+      "id": "fec1720d-cbdf-4b67-b36c-7e031022ba1e",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/d20_1/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/d20_1/A.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "058d938c-a0b5-4928-8c92-26b57df66aa4": {
+      "id": "058d938c-a0b5-4928-8c92-26b57df66aa4",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/d20_1/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/d20_1/B.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "f1197154-6e3f-4830-8ac2-d4379de30612": {
+      "id": "f1197154-6e3f-4830-8ac2-d4379de30612",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/d20_1/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/d20_1/C.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "c98ed4ac-99b7-4ef5-8380-5978b44d7f5f": {
+      "id": "c98ed4ac-99b7-4ef5-8380-5978b44d7f5f",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/d20_2/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/d20_2/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "586f5304-252a-4229-b868-c982a7eae478": {
+      "id": "586f5304-252a-4229-b868-c982a7eae478",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/d20_2/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/d20_2/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "079a81d2-db02-4797-8605-672006b007d0": {
+      "id": "079a81d2-db02-4797-8605-672006b007d0",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/d20_2/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/d20_2/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "fa900b8d-2752-4cec-a9e2-b4dc10cac7a9": {
+      "id": "fa900b8d-2752-4cec-a9e2-b4dc10cac7a9",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/d20_3/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/d20_3/A.tif",
+      "size_in_bytes": 36024298,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "b86b5d05-be81-4bb4-a485-2e1643cf56d8": {
+      "id": "b86b5d05-be81-4bb4-a485-2e1643cf56d8",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/d20_3/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/d20_3/B.tif",
+      "size_in_bytes": 36024298,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "18b668dd-d240-4ce9-a537-b1502bcd63e0": {
+      "id": "18b668dd-d240-4ce9-a537-b1502bcd63e0",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/d20_3/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/d20_3/C.tif",
+      "size_in_bytes": 36024298,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "958e978f-b075-4de3-8b31-2f183c3cc0f3": {
+      "id": "958e978f-b075-4de3-8b31-2f183c3cc0f3",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/d20_4/7A.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/d20_4/7A.png",
+      "size_in_bytes": 8441084,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "4",
+        "Type": "manuscript figure"
+      }
+    },
+    "045e153f-9fb6-4763-ab27-06a9a5c27162": {
+      "id": "045e153f-9fb6-4763-ab27-06a9a5c27162",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/d20_4/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/d20_4/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "23aa8207-9d61-4e0e-a540-2d6b6247b343": {
+      "id": "23aa8207-9d61-4e0e-a540-2d6b6247b343",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/d20_4/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/d20_4/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "586576e6-245d-40f0-be65-deb91b8513dc": {
+      "id": "586576e6-245d-40f0-be65-deb91b8513dc",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/d38_1/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/d38_1/A.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "bc74dce7-f516-43c4-a2a0-18fd1d9df29c": {
+      "id": "bc74dce7-f516-43c4-a2a0-18fd1d9df29c",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/d38_1/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/d38_1/B.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "8669230c-f4c8-4b07-93a1-6de0d4d80020": {
+      "id": "8669230c-f4c8-4b07-93a1-6de0d4d80020",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/d38_1/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/d38_1/C.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "2f291ace-9eb1-4f1f-8137-3dfafdc3c10e": {
+      "id": "2f291ace-9eb1-4f1f-8137-3dfafdc3c10e",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/d38_2/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/d38_2/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "11fea112-f1f5-4547-86ce-ff16be2c230d": {
+      "id": "11fea112-f1f5-4547-86ce-ff16be2c230d",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/d38_2/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/d38_2/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "23482e7d-e965-4c2c-8c89-b5b6da7703f9": {
+      "id": "23482e7d-e965-4c2c-8c89-b5b6da7703f9",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/d38_2/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/d38_2/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "51c6ade9-7cdf-4eae-8da4-d20310165c98": {
+      "id": "51c6ade9-7cdf-4eae-8da4-d20310165c98",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/d38_3/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/d38_3/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "d28b9b93-4629-4e2f-8c63-5818736a4372": {
+      "id": "d28b9b93-4629-4e2f-8c63-5818736a4372",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/d38_3/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/d38_3/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "585f2b44-2ae3-4a75-8b2a-d7ae5f9f059b": {
+      "id": "585f2b44-2ae3-4a75-8b2a-d7ae5f9f059b",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/d38_3/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/d38_3/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "d0a00131-c69d-41d9-b349-772d47255d78": {
+      "id": "d0a00131-c69d-41d9-b349-772d47255d78",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/d38_4/7A.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/d38_4/7A.png",
+      "size_in_bytes": 8122382,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "4",
+        "Type": "manuscript figure"
+      }
+    },
+    "aece48d1-18fd-409d-a49e-46b08f15e767": {
+      "id": "aece48d1-18fd-409d-a49e-46b08f15e767",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/d38_4/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/d38_4/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "a73153d7-4d5d-4c88-883d-63da13128fbc": {
+      "id": "a73153d7-4d5d-4c88-883d-63da13128fbc",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/d38_4/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/d38_4/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "29a8855b-0b20-4266-80b3-f1126ac2046d": {
+      "id": "29a8855b-0b20-4266-80b3-f1126ac2046d",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/OE20_1/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/OE20_1/A.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "12 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "65825aca-02be-4c40-96bc-dc4fedf98bcf": {
+      "id": "65825aca-02be-4c40-96bc-dc4fedf98bcf",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/OE20_1/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/OE20_1/B.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "12 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "7fe95b33-af1b-42a3-a79d-5a4fb47c472d": {
+      "id": "7fe95b33-af1b-42a3-a79d-5a4fb47c472d",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/OE20_1/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/OE20_1/C.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "12 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "f4c4e6dc-b4bc-4392-b699-0b817be18ff6": {
+      "id": "f4c4e6dc-b4bc-4392-b699-0b817be18ff6",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/OE20_2/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/OE20_2/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "12 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "d7fda402-a109-4bf2-ace9-899e3d602f65": {
+      "id": "d7fda402-a109-4bf2-ace9-899e3d602f65",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/OE20_2/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/OE20_2/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "12 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "6fc6b445-e43e-4ac6-859c-11a781e199ef": {
+      "id": "6fc6b445-e43e-4ac6-859c-11a781e199ef",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/OE20_2/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/OE20_2/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "12 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "1ca7f3b9-0958-4d36-9c4c-998564add1a0": {
+      "id": "1ca7f3b9-0958-4d36-9c4c-998564add1a0",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/OE20_3/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/OE20_3/A.tif",
+      "size_in_bytes": 36024298,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "12 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "0baaaa3b-9e44-49d9-99fb-540d2d9c1e5a": {
+      "id": "0baaaa3b-9e44-49d9-99fb-540d2d9c1e5a",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/OE20_3/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/OE20_3/B.tif",
+      "size_in_bytes": 36024298,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "12 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "36819bc3-3c4c-4b4e-ae6f-15e211dd40e2": {
+      "id": "36819bc3-3c4c-4b4e-ae6f-15e211dd40e2",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/OE20_3/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/OE20_3/C.tif",
+      "size_in_bytes": 36024298,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "12 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "a0f1f7a7-d086-4163-9225-fc797608966e": {
+      "id": "a0f1f7a7-d086-4163-9225-fc797608966e",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/OE20_4/7A.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/OE20_4/7A.png",
+      "size_in_bytes": 8340310,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "12 h",
+        "Replicate": "4",
+        "Type": "manuscript figure"
+      }
+    },
+    "1c25962f-a6f2-4b32-a222-6f395b15b99a": {
+      "id": "1c25962f-a6f2-4b32-a222-6f395b15b99a",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/OE20_4/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/OE20_4/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "12 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "05b1cc78-e7be-476c-a386-d3dbb00efa8d": {
+      "id": "05b1cc78-e7be-476c-a386-d3dbb00efa8d",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/OE20_4/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/OE20_4/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "12 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "9855487d-9367-495c-8073-6ec65c344615": {
+      "id": "9855487d-9367-495c-8073-6ec65c344615",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/OE38_1/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/OE38_1/A.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "12 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "35864a3f-907e-4154-889a-92c063904111": {
+      "id": "35864a3f-907e-4154-889a-92c063904111",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/OE38_1/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/OE38_1/B.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "12 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "203cca45-b994-4766-b7fa-2d47037802fb": {
+      "id": "203cca45-b994-4766-b7fa-2d47037802fb",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/OE38_1/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/OE38_1/C.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "12 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "19f7080c-0307-4069-9624-8800cdf96b6e": {
+      "id": "19f7080c-0307-4069-9624-8800cdf96b6e",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/OE38_2/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/OE38_2/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "12 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "7f4bc51f-b54c-43dc-a9b5-e0fc2fed22a8": {
+      "id": "7f4bc51f-b54c-43dc-a9b5-e0fc2fed22a8",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/OE38_2/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/OE38_2/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "12 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "4b6479c3-0cb9-4604-b554-22ef08f59573": {
+      "id": "4b6479c3-0cb9-4604-b554-22ef08f59573",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/OE38_2/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/OE38_2/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "12 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "ceed343d-3055-4ab7-b726-dc55382673a5": {
+      "id": "ceed343d-3055-4ab7-b726-dc55382673a5",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/OE38_2/D.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/OE38_2/D.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "12 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "d00a5663-a782-49fd-b081-ac7dc50ca045": {
+      "id": "d00a5663-a782-49fd-b081-ac7dc50ca045",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/OE38_3/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/OE38_3/A.tif",
+      "size_in_bytes": 36024298,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "12 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "2d4f6b16-1865-4c77-9610-32656a59debf": {
+      "id": "2d4f6b16-1865-4c77-9610-32656a59debf",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/OE38_3/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/OE38_3/B.tif",
+      "size_in_bytes": 36024298,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "12 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "928131d5-4641-46dd-9e86-14c8b4e463d7": {
+      "id": "928131d5-4641-46dd-9e86-14c8b4e463d7",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/OE38_3/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/OE38_3/C.tif",
+      "size_in_bytes": 36024298,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "12 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "634402ec-d4a1-478e-bd65-5e2f354e9a36": {
+      "id": "634402ec-d4a1-478e-bd65-5e2f354e9a36",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/OE38_4/7A.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/OE38_4/7A.png",
+      "size_in_bytes": 8727043,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "12 h",
+        "Replicate": "4",
+        "Type": "manuscript figure"
+      }
+    },
+    "f618b630-187f-4d07-a6e9-c93dde2452b7": {
+      "id": "f618b630-187f-4d07-a6e9-c93dde2452b7",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/OE38_4/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/OE38_4/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "12 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "ff51c132-6599-4dd4-9359-0f41f1c68041": {
+      "id": "ff51c132-6599-4dd4-9359-0f41f1c68041",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/OE38_4/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/OE38_4/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "12 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "1eaef0f1-ef03-418e-b33f-9c6cd025b049": {
+      "id": "1eaef0f1-ef03-418e-b33f-9c6cd025b049",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/WT_1/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/WT_1/A.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "6f255521-3848-4241-ba7a-d4661eb68894": {
+      "id": "6f255521-3848-4241-ba7a-d4661eb68894",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/WT_1/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/WT_1/B.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "d8306e8a-7593-4fd4-872b-5626f857d872": {
+      "id": "d8306e8a-7593-4fd4-872b-5626f857d872",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/WT_1/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/WT_1/C.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "cbf5b0c7-56ed-43f7-91ab-9efb72ad348b": {
+      "id": "cbf5b0c7-56ed-43f7-91ab-9efb72ad348b",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/WT_2/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/WT_2/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "fb7cf0b8-835a-4548-b743-1cc49cacf2e1": {
+      "id": "fb7cf0b8-835a-4548-b743-1cc49cacf2e1",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/WT_2/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/WT_2/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "a071d293-06b8-4d0c-82ae-20102fa452fc": {
+      "id": "a071d293-06b8-4d0c-82ae-20102fa452fc",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/WT_2/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/WT_2/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "8531d0e4-2cdb-4ddf-93e6-a63f67009eeb": {
+      "id": "8531d0e4-2cdb-4ddf-93e6-a63f67009eeb",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/WT_3/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/WT_3/A.tif",
+      "size_in_bytes": 36024298,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "b201f36a-c0e9-4571-bd49-93386b9c5537": {
+      "id": "b201f36a-c0e9-4571-bd49-93386b9c5537",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/WT_3/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/WT_3/B.tif",
+      "size_in_bytes": 36024298,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "f4029543-f179-4d49-aa17-f41f26588518": {
+      "id": "f4029543-f179-4d49-aa17-f41f26588518",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/WT_3/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/WT_3/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "2b813905-e5a4-4c7d-8df3-e520e2d084aa": {
+      "id": "2b813905-e5a4-4c7d-8df3-e520e2d084aa",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/WT_4/7A.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/WT_4/7A.png",
+      "size_in_bytes": 8684730,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "4",
+        "Type": "manuscript figure"
+      }
+    },
+    "b9e052d6-75ce-49da-975e-19bcf80b3aec": {
+      "id": "b9e052d6-75ce-49da-975e-19bcf80b3aec",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/WT_4/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/WT_4/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "66a1c2c2-74de-4c07-b8b0-b418c594c7c1": {
+      "id": "66a1c2c2-74de-4c07-b8b0-b418c594c7c1",
+      "name": "Figure 7/7A/7A-12h_replicates1-4/WT_4/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-12h_replicates1-4/WT_4/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "12 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "ffe9a57d-93ee-4664-862f-9dda7f718c04": {
+      "id": "ffe9a57d-93ee-4664-862f-9dda7f718c04",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/d20_1/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/d20_1/A.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "5d94321a-0c3b-4e12-a39d-07e55dcdaca4": {
+      "id": "5d94321a-0c3b-4e12-a39d-07e55dcdaca4",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/d20_1/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/d20_1/B.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "5fbde0f6-c7c1-4246-b61c-1bb0bdb0106b": {
+      "id": "5fbde0f6-c7c1-4246-b61c-1bb0bdb0106b",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/d20_1/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/d20_1/C.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "f3afd61e-d5be-423a-9ce0-4e2a90821a5a": {
+      "id": "f3afd61e-d5be-423a-9ce0-4e2a90821a5a",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/d20_2/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/d20_2/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "7d9bc88e-cb41-41ca-b816-e0ac2d6730ef": {
+      "id": "7d9bc88e-cb41-41ca-b816-e0ac2d6730ef",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/d20_2/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/d20_2/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "7c5f26c1-61da-44de-b0b7-ddb28ffde046": {
+      "id": "7c5f26c1-61da-44de-b0b7-ddb28ffde046",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/d20_2/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/d20_2/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "7d046fa6-3e71-4e5b-b0ae-4669a031bc9e": {
+      "id": "7d046fa6-3e71-4e5b-b0ae-4669a031bc9e",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/d20_3/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/d20_3/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "32928aaa-c911-4d25-86cd-9320e3c22afd": {
+      "id": "32928aaa-c911-4d25-86cd-9320e3c22afd",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/d20_3/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/d20_3/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "bfb8cc44-8635-4399-a8a4-ead6baba0cbe": {
+      "id": "bfb8cc44-8635-4399-a8a4-ead6baba0cbe",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/d20_3/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/d20_3/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "5a2f4f5f-80a9-4fb5-97bb-fc9b74d456c7": {
+      "id": "5a2f4f5f-80a9-4fb5-97bb-fc9b74d456c7",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/d20_4/7A.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/d20_4/7A.png",
+      "size_in_bytes": 8047665,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "4",
+        "Type": "manuscript figure"
+      }
+    },
+    "4585178b-0d66-4b38-90f3-f3e5ac236566": {
+      "id": "4585178b-0d66-4b38-90f3-f3e5ac236566",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/d20_4/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/d20_4/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "6d488641-1cca-4b6b-8c75-73d44ce4fdb7": {
+      "id": "6d488641-1cca-4b6b-8c75-73d44ce4fdb7",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/d20_4/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/d20_4/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "f624c25c-5ca2-45c4-ad10-bb7094e049f7": {
+      "id": "f624c25c-5ca2-45c4-ad10-bb7094e049f7",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/d38_1/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/d38_1/A.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "ae95d21d-789f-42ae-bbf4-0a93f261f937": {
+      "id": "ae95d21d-789f-42ae-bbf4-0a93f261f937",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/d38_1/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/d38_1/B.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "baeda615-aebd-480a-9c7e-93cb04d9d91c": {
+      "id": "baeda615-aebd-480a-9c7e-93cb04d9d91c",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/d38_1/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/d38_1/C.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "283d8899-be83-47d9-8cb9-fcf7708c2d12": {
+      "id": "283d8899-be83-47d9-8cb9-fcf7708c2d12",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/d38_2/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/d38_2/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "11a03865-03e3-46f2-b6cf-d9c309acd8dd": {
+      "id": "11a03865-03e3-46f2-b6cf-d9c309acd8dd",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/d38_2/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/d38_2/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "2f1a8920-7154-4492-9182-013c9ea7ef35": {
+      "id": "2f1a8920-7154-4492-9182-013c9ea7ef35",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/d38_2/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/d38_2/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "a6ede800-36d6-4156-8ad9-9ae8e9b6a19e": {
+      "id": "a6ede800-36d6-4156-8ad9-9ae8e9b6a19e",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/d38_3/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/d38_3/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "cb2dc950-5301-48e8-abbd-3c89b73a214c": {
+      "id": "cb2dc950-5301-48e8-abbd-3c89b73a214c",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/d38_3/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/d38_3/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "5297f579-8190-4a06-bf6d-f6b13366811f": {
+      "id": "5297f579-8190-4a06-bf6d-f6b13366811f",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/d38_3/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/d38_3/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "d87caf82-6e4d-49cb-b766-843256ab7c59": {
+      "id": "d87caf82-6e4d-49cb-b766-843256ab7c59",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/d38_4/7A.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/d38_4/7A.png",
+      "size_in_bytes": 8289653,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "4",
+        "Type": "manuscript figure"
+      }
+    },
+    "56133e91-f412-4378-a5af-224dced95394": {
+      "id": "56133e91-f412-4378-a5af-224dced95394",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/d38_4/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/d38_4/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "6a240e47-bb13-4aea-8cc2-c517da9979b4": {
+      "id": "6a240e47-bb13-4aea-8cc2-c517da9979b4",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/d38_4/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/d38_4/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "ec2300df-353a-46a2-9fbf-8b95f8d63a00": {
+      "id": "ec2300df-353a-46a2-9fbf-8b95f8d63a00",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/d38_4/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/d38_4/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "8e1b4227-4cca-4af4-8fa9-422e77648bf5": {
+      "id": "8e1b4227-4cca-4af4-8fa9-422e77648bf5",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/d38_4/D.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/d38_4/D.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "e591e7da-c1dc-4fec-a89b-9985fbf62837": {
+      "id": "e591e7da-c1dc-4fec-a89b-9985fbf62837",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/OE20_1/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/OE20_1/A.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "24 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "6d2a9160-a7b4-4e0f-8f55-f0e5aa51c6ae": {
+      "id": "6d2a9160-a7b4-4e0f-8f55-f0e5aa51c6ae",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/OE20_1/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/OE20_1/B.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "24 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "d924239a-f27e-45d7-b4f9-07b63c178e66": {
+      "id": "d924239a-f27e-45d7-b4f9-07b63c178e66",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/OE20_1/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/OE20_1/C.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "24 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "6e5ff6b0-ebab-4137-8a8f-38bc56ec05e9": {
+      "id": "6e5ff6b0-ebab-4137-8a8f-38bc56ec05e9",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/OE20_2/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/OE20_2/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "24 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "f9fc0560-b659-4e57-a08a-79ab743251ff": {
+      "id": "f9fc0560-b659-4e57-a08a-79ab743251ff",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/OE20_2/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/OE20_2/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "24 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "7ebfc7b4-0608-4d86-83ab-1d11cd41101f": {
+      "id": "7ebfc7b4-0608-4d86-83ab-1d11cd41101f",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/OE20_2/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/OE20_2/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "24 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "f96c8346-0560-49fc-8d59-88ba1b7cb28e": {
+      "id": "f96c8346-0560-49fc-8d59-88ba1b7cb28e",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/OE20_3/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/OE20_3/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "24 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "f3148164-c998-49c2-871a-13e9b1f49e53": {
+      "id": "f3148164-c998-49c2-871a-13e9b1f49e53",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/OE20_3/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/OE20_3/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "24 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "194fba12-2706-4b87-9347-7181aa8eb17d": {
+      "id": "194fba12-2706-4b87-9347-7181aa8eb17d",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/OE20_3/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/OE20_3/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "24 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "4ad86295-75ac-4e74-90dc-a5423d8e2a2e": {
+      "id": "4ad86295-75ac-4e74-90dc-a5423d8e2a2e",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/OE20_4/7A.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/OE20_4/7A.png",
+      "size_in_bytes": 7984917,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "24 h",
+        "Replicate": "4",
+        "Type": "manuscript figure"
+      }
+    },
+    "5cf33908-c493-477e-8b55-572085038f21": {
+      "id": "5cf33908-c493-477e-8b55-572085038f21",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/OE20_4/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/OE20_4/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "24 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "6d8f7928-785a-4bb0-939d-2682b57da1b1": {
+      "id": "6d8f7928-785a-4bb0-939d-2682b57da1b1",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/OE20_4/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/OE20_4/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "24 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "aee3c0ed-682c-4ba3-b941-9fc04f52e090": {
+      "id": "aee3c0ed-682c-4ba3-b941-9fc04f52e090",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/OE38_1/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/OE38_1/A.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "24 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "7fed3466-aac4-412e-a2ab-ffa15f570415": {
+      "id": "7fed3466-aac4-412e-a2ab-ffa15f570415",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/OE38_1/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/OE38_1/B.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "24 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "2a0cfe5b-5c56-49a2-9c26-9718456d4d97": {
+      "id": "2a0cfe5b-5c56-49a2-9c26-9718456d4d97",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/OE38_1/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/OE38_1/C.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "24 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "a7850ebf-31ef-4dea-8b49-b8be83d9fa2f": {
+      "id": "a7850ebf-31ef-4dea-8b49-b8be83d9fa2f",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/OE38_2/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/OE38_2/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "24 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "0065c79e-c883-4190-a391-e737432f281e": {
+      "id": "0065c79e-c883-4190-a391-e737432f281e",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/OE38_2/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/OE38_2/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "24 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "662507fe-db53-4dd3-a03c-e3c03e108f20": {
+      "id": "662507fe-db53-4dd3-a03c-e3c03e108f20",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/OE38_2/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/OE38_2/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "24 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "f557700a-c83a-4360-a830-e2568b022a84": {
+      "id": "f557700a-c83a-4360-a830-e2568b022a84",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/OE38_3/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/OE38_3/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "24 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "049bdce8-a78f-4a3e-a92a-62eaef51a38a": {
+      "id": "049bdce8-a78f-4a3e-a92a-62eaef51a38a",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/OE38_3/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/OE38_3/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "24 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "43f74a2f-b377-4f34-ae10-af819dec727d": {
+      "id": "43f74a2f-b377-4f34-ae10-af819dec727d",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/OE38_3/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/OE38_3/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "24 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "197dbdcd-f11f-4b29-8579-77a198a6c7ca": {
+      "id": "197dbdcd-f11f-4b29-8579-77a198a6c7ca",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/OE38_4/7A.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/OE38_4/7A.png",
+      "size_in_bytes": 8503872,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "24 h",
+        "Replicate": "4",
+        "Type": "manuscript figure"
+      }
+    },
+    "19783530-cf75-4025-a8cf-3cc0ae883655": {
+      "id": "19783530-cf75-4025-a8cf-3cc0ae883655",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/OE38_4/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/OE38_4/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "24 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "2a757b17-c6f9-48f5-9042-09566ba27927": {
+      "id": "2a757b17-c6f9-48f5-9042-09566ba27927",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/OE38_4/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/OE38_4/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "24 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "e0d913de-d3fd-49ff-8466-09356218fb3a": {
+      "id": "e0d913de-d3fd-49ff-8466-09356218fb3a",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/WT_1/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/WT_1/A.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "8a9782f2-9a84-4cd4-8fe4-0df70d3e395f": {
+      "id": "8a9782f2-9a84-4cd4-8fe4-0df70d3e395f",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/WT_1/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/WT_1/B.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "fccd7723-c028-4fa1-9e61-08db4da93a0a": {
+      "id": "fccd7723-c028-4fa1-9e61-08db4da93a0a",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/WT_1/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/WT_1/C.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "7a079fc5-cc7a-4759-bf04-cd6cc11f657a": {
+      "id": "7a079fc5-cc7a-4759-bf04-cd6cc11f657a",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/WT_2/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/WT_2/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "ba9143f2-d68c-4f36-aa24-28d16fd8e970": {
+      "id": "ba9143f2-d68c-4f36-aa24-28d16fd8e970",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/WT_2/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/WT_2/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "6ebf6bac-f95d-4c85-beaa-bfd6414dccb9": {
+      "id": "6ebf6bac-f95d-4c85-beaa-bfd6414dccb9",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/WT_2/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/WT_2/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "c2176769-b3da-4754-a327-dddce73a79e0": {
+      "id": "c2176769-b3da-4754-a327-dddce73a79e0",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/WT_2/D.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/WT_2/D.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "ee9ddf05-d642-40b4-abee-3f8f37810261": {
+      "id": "ee9ddf05-d642-40b4-abee-3f8f37810261",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/WT_3/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/WT_3/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "5263ea82-5383-4332-bd98-48cfbb6ec81c": {
+      "id": "5263ea82-5383-4332-bd98-48cfbb6ec81c",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/WT_3/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/WT_3/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "13821218-6191-48f6-81f6-eadc93e6ed6d": {
+      "id": "13821218-6191-48f6-81f6-eadc93e6ed6d",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/WT_3/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/WT_3/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "60ad03ac-ae6d-4ea7-b823-a55ec123360c": {
+      "id": "60ad03ac-ae6d-4ea7-b823-a55ec123360c",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/WT_4/7A.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/WT_4/7A.png",
+      "size_in_bytes": 8216951,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "4",
+        "Type": "manuscript figure"
+      }
+    },
+    "e7443331-8faf-48ed-8942-17cfdbaf340b": {
+      "id": "e7443331-8faf-48ed-8942-17cfdbaf340b",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/WT_4/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/WT_4/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "0259d686-0645-4613-869e-6aba0e2ce4b4": {
+      "id": "0259d686-0645-4613-869e-6aba0e2ce4b4",
+      "name": "Figure 7/7A/7A-24h_replicates1-4/WT_4/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-24h_replicates1-4/WT_4/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "24 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "141b03cc-a17a-4205-94f9-5068105b00a1": {
+      "id": "141b03cc-a17a-4205-94f9-5068105b00a1",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/d20_1/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/d20_1/A.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "714c5bf8-efe8-41bf-bcac-34e5ad6b4962": {
+      "id": "714c5bf8-efe8-41bf-bcac-34e5ad6b4962",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/d20_1/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/d20_1/B.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "16583163-c870-45c1-b7ae-68afbea4348d": {
+      "id": "16583163-c870-45c1-b7ae-68afbea4348d",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/d20_1/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/d20_1/C.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "44966df8-66e4-4adb-8ce4-69ef1b4a3e94": {
+      "id": "44966df8-66e4-4adb-8ce4-69ef1b4a3e94",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/d20_2/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/d20_2/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "41cc42c2-5e61-494e-afee-ebbf59f7a63f": {
+      "id": "41cc42c2-5e61-494e-afee-ebbf59f7a63f",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/d20_2/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/d20_2/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "9ad1e64d-ad5b-4662-b176-7eeb0e515c4e": {
+      "id": "9ad1e64d-ad5b-4662-b176-7eeb0e515c4e",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/d20_2/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/d20_2/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "75bc0499-fc7e-4d3c-9084-5d1da1759fe9": {
+      "id": "75bc0499-fc7e-4d3c-9084-5d1da1759fe9",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/d20_3/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/d20_3/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "d02b4565-323b-4478-a833-b91c19700207": {
+      "id": "d02b4565-323b-4478-a833-b91c19700207",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/d20_3/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/d20_3/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "6ad9006d-17df-4cdd-aa62-abba929c7225": {
+      "id": "6ad9006d-17df-4cdd-aa62-abba929c7225",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/d20_3/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/d20_3/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "bbe052f1-bdf4-401d-b275-91ede54f7d7a": {
+      "id": "bbe052f1-bdf4-401d-b275-91ede54f7d7a",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/d20_4/7A.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/d20_4/7A.png",
+      "size_in_bytes": 8306654,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "4",
+        "Type": "manuscript figure"
+      }
+    },
+    "a08769d6-bdd1-4c3c-a12c-be58a385eaa2": {
+      "id": "a08769d6-bdd1-4c3c-a12c-be58a385eaa2",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/d20_4/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/d20_4/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "333ae5f9-04fa-4952-b527-02cfc768dc71": {
+      "id": "333ae5f9-04fa-4952-b527-02cfc768dc71",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/d20_4/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/d20_4/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "edf37851-f2d5-4877-9717-fdc8914ce9a8": {
+      "id": "edf37851-f2d5-4877-9717-fdc8914ce9a8",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/d38_1/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/d38_1/A.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "a4b96599-32b4-4867-9c56-0b9fa60d42cf": {
+      "id": "a4b96599-32b4-4867-9c56-0b9fa60d42cf",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/d38_1/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/d38_1/B.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "496f2dc5-e51f-42d8-ba7f-4f5cd70b8e02": {
+      "id": "496f2dc5-e51f-42d8-ba7f-4f5cd70b8e02",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/d38_1/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/d38_1/C.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "05ab6233-7406-43ef-abac-1d507133b79e": {
+      "id": "05ab6233-7406-43ef-abac-1d507133b79e",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/d38_2/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/d38_2/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "6ef00d6a-337a-4cd8-82ea-7178da961d3f": {
+      "id": "6ef00d6a-337a-4cd8-82ea-7178da961d3f",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/d38_2/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/d38_2/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "7beda364-5a36-4c3b-80e6-f2d92e64a1b6": {
+      "id": "7beda364-5a36-4c3b-80e6-f2d92e64a1b6",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/d38_2/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/d38_2/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "f00a5974-223d-42af-bf08-aefaaca6dab7": {
+      "id": "f00a5974-223d-42af-bf08-aefaaca6dab7",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/d38_3/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/d38_3/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "15de8ada-b379-463e-a94a-41fb6f7b2bcf": {
+      "id": "15de8ada-b379-463e-a94a-41fb6f7b2bcf",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/d38_3/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/d38_3/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "9c445506-ce3e-4346-9354-8612579bae0e": {
+      "id": "9c445506-ce3e-4346-9354-8612579bae0e",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/d38_3/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/d38_3/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "35aab0b1-8dc1-4f6c-93c3-475b02d5360e": {
+      "id": "35aab0b1-8dc1-4f6c-93c3-475b02d5360e",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/d38_4/7A.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/d38_4/7A.png",
+      "size_in_bytes": 9423609,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "4",
+        "Type": "manuscript figure"
+      }
+    },
+    "e5ba8f8c-2e90-4dd9-ac66-601d7df91939": {
+      "id": "e5ba8f8c-2e90-4dd9-ac66-601d7df91939",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/d38_4/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/d38_4/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "57c087c4-072e-4fe0-b50d-4d29e4d231ec": {
+      "id": "57c087c4-072e-4fe0-b50d-4d29e4d231ec",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/d38_4/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/d38_4/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "86a42583-9d74-4df8-8f55-b3ca66047112": {
+      "id": "86a42583-9d74-4df8-8f55-b3ca66047112",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/OE20_1/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/OE20_1/A.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "48 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "0f5b564a-2687-43ef-ae0d-c0751ef9887f": {
+      "id": "0f5b564a-2687-43ef-ae0d-c0751ef9887f",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/OE20_1/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/OE20_1/B.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "48 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "28f11e31-f957-49b8-9190-89409e27d5c9": {
+      "id": "28f11e31-f957-49b8-9190-89409e27d5c9",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/OE20_1/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/OE20_1/C.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "48 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "96d74712-5d4a-4eee-ad17-ca47c44507dc": {
+      "id": "96d74712-5d4a-4eee-ad17-ca47c44507dc",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/OE20_2/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/OE20_2/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "48 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "c1f1d749-c229-4c0f-ad70-4b61563b8bad": {
+      "id": "c1f1d749-c229-4c0f-ad70-4b61563b8bad",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/OE20_2/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/OE20_2/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "48 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "b0a2fb4f-ae58-4211-8cd5-2a0adec4672c": {
+      "id": "b0a2fb4f-ae58-4211-8cd5-2a0adec4672c",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/OE20_2/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/OE20_2/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "48 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "c8c8f013-e5f3-4d9c-a25a-83484c6937a1": {
+      "id": "c8c8f013-e5f3-4d9c-a25a-83484c6937a1",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/OE20_3/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/OE20_3/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "48 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "e7ebab10-fb57-4d6f-9703-c7eadaedffc0": {
+      "id": "e7ebab10-fb57-4d6f-9703-c7eadaedffc0",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/OE20_3/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/OE20_3/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "48 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "2b62d61c-37dc-466f-beba-93e15942edb7": {
+      "id": "2b62d61c-37dc-466f-beba-93e15942edb7",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/OE20_3/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/OE20_3/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "48 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "8702f093-3102-4fc3-89a1-601eb3aaa7a2": {
+      "id": "8702f093-3102-4fc3-89a1-601eb3aaa7a2",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/OE20_4/7A.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/OE20_4/7A.png",
+      "size_in_bytes": 9236078,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "48 h",
+        "Replicate": "4",
+        "Type": "manuscript figure"
+      }
+    },
+    "8e25ccc1-33db-45a2-b01c-d7311c026e89": {
+      "id": "8e25ccc1-33db-45a2-b01c-d7311c026e89",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/OE20_4/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/OE20_4/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "48 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "e3492fc6-36c3-423a-b7f4-f69d50666c61": {
+      "id": "e3492fc6-36c3-423a-b7f4-f69d50666c61",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/OE20_4/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/OE20_4/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoY-p[SpoY]",
+        "Time Point": "48 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "6dc124d6-cdbb-4d30-a0cd-6c3d0c09015e": {
+      "id": "6dc124d6-cdbb-4d30-a0cd-6c3d0c09015e",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/OE38_1/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/OE38_1/A.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "48 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "65259844-51cd-4ec5-b505-21b815f81ea1": {
+      "id": "65259844-51cd-4ec5-b505-21b815f81ea1",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/OE38_1/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/OE38_1/B.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "48 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "2371f8fb-2ac5-4c2a-bc02-2bede2066f82": {
+      "id": "2371f8fb-2ac5-4c2a-bc02-2bede2066f82",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/OE38_1/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/OE38_1/C.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "48 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "d3be40db-5b59-4e0d-8350-e0301efca801": {
+      "id": "d3be40db-5b59-4e0d-8350-e0301efca801",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/OE38_2/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/OE38_2/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "48 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "b12c7f71-e2cc-4c9e-8fda-99ce568deabe": {
+      "id": "b12c7f71-e2cc-4c9e-8fda-99ce568deabe",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/OE38_2/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/OE38_2/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "48 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "511d68a9-0e21-4118-be8c-04382cdd9697": {
+      "id": "511d68a9-0e21-4118-be8c-04382cdd9697",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/OE38_2/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/OE38_2/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "48 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "93e9d27e-0d17-4edd-8828-6b86937f420e": {
+      "id": "93e9d27e-0d17-4edd-8828-6b86937f420e",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/OE38_3/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/OE38_3/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "48 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "4ce5bab4-a66e-485f-b277-1421dc176eb7": {
+      "id": "4ce5bab4-a66e-485f-b277-1421dc176eb7",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/OE38_3/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/OE38_3/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "48 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "2f517a17-31e5-4dd2-ac85-323feb8919a0": {
+      "id": "2f517a17-31e5-4dd2-ac85-323feb8919a0",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/OE38_3/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/OE38_3/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "48 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "ed6bdd85-97f6-4cdb-b271-f11b28cca8de": {
+      "id": "ed6bdd85-97f6-4cdb-b271-f11b28cca8de",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/OE38_4/7A.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/OE38_4/7A.png",
+      "size_in_bytes": 9103919,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "48 h",
+        "Replicate": "4",
+        "Type": "manuscript figure"
+      }
+    },
+    "38d32c3e-1d78-4631-a2c6-5b463d6506c9": {
+      "id": "38d32c3e-1d78-4631-a2c6-5b463d6506c9",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/OE38_4/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/OE38_4/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "48 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "760c009c-53b2-439e-9eb4-ef6567a6a22b": {
+      "id": "760c009c-53b2-439e-9eb4-ef6567a6a22b",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/OE38_4/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/OE38_4/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "ΔSpoX-p[SpoX]",
+        "Time Point": "48 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "e277ba05-5bee-427c-af50-34aef4b2569c": {
+      "id": "e277ba05-5bee-427c-af50-34aef4b2569c",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/WT_1/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/WT_1/A.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "d6801106-ade6-4b2c-ba15-7d246cbfaa2b": {
+      "id": "d6801106-ade6-4b2c-ba15-7d246cbfaa2b",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/WT_1/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/WT_1/B.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "c55c1643-e3f7-439e-a5d5-387c0a8d97d0": {
+      "id": "c55c1643-e3f7-439e-a5d5-387c0a8d97d0",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/WT_1/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/WT_1/C.tif",
+      "size_in_bytes": 8299012,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "1",
+        "Type": "raw data"
+      }
+    },
+    "8d644541-cebc-4330-a87d-e5e7c79d66c6": {
+      "id": "8d644541-cebc-4330-a87d-e5e7c79d66c6",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/WT_2/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/WT_2/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "e78a561a-7002-4d07-8e44-91ecca58d3a5": {
+      "id": "e78a561a-7002-4d07-8e44-91ecca58d3a5",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/WT_2/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/WT_2/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "b2e0f30f-209c-46b4-805a-0bac7dfb1b30": {
+      "id": "b2e0f30f-209c-46b4-805a-0bac7dfb1b30",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/WT_2/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/WT_2/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "2",
+        "Type": "raw data"
+      }
+    },
+    "c3d1ef1a-887c-4987-a6ab-c5ab7cb63ec9": {
+      "id": "c3d1ef1a-887c-4987-a6ab-c5ab7cb63ec9",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/WT_3/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/WT_3/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "8dd17e9f-bb8c-4a1d-ad57-c04cd648209e": {
+      "id": "8dd17e9f-bb8c-4a1d-ad57-c04cd648209e",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/WT_3/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/WT_3/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "e9e87b81-45fc-4a4b-a3a3-3e22c1f2bb22": {
+      "id": "e9e87b81-45fc-4a4b-a3a3-3e22c1f2bb22",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/WT_3/C.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/WT_3/C.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "3",
+        "Type": "raw data"
+      }
+    },
+    "9ca7f8e5-0519-4be5-a149-2dbbf347c690": {
+      "id": "9ca7f8e5-0519-4be5-a149-2dbbf347c690",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/WT_4/7A.png",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/WT_4/7A.png",
+      "size_in_bytes": 8481736,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "4",
+        "Type": "manuscript figure"
+      }
+    },
+    "b37f8dab-e785-4610-8803-507c290f5564": {
+      "id": "b37f8dab-e785-4610-8803-507c290f5564",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/WT_4/A.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/WT_4/A.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    },
+    "b174cebd-1d1e-4c3a-957c-0974b86de6c7": {
+      "id": "b174cebd-1d1e-4c3a-957c-0974b86de6c7",
+      "name": "Figure 7/7A/7A-48h_replicates1-4/WT_4/B.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/622/S-BIAD622/Files/Figure 7/7A/7A-48h_replicates1-4/WT_4/B.tif",
+      "size_in_bytes": 12006292,
+      "type": null,
+      "attributes": {
+        "Strain": "WT-p[ctl]",
+        "Time Point": "48 h",
+        "Replicate": "4",
+        "Type": "raw data"
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

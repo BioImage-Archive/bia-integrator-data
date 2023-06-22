@@ -1,0 +1,28 @@
+{
+  "id": "6d8262da-057d-43d3-8c80-0a1b605cd164",
+  "accession_id": "S-BIAD700",
+  "name": "dSTORM data/fas1/fas1_5.tif",
+  "original_relpath": "dSTORM data/fas1/fas1_5.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD700",
+      "image_id": "6d8262da-057d-43d3-8c80-0a1b605cd164",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/fas1/fas1_5.tif",
+      "size": 1902230993,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "a7c0971c-82f7-4ea8-a80d-efbdc8eb476f"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Genetic background": "fasciata 1 mutant",
+    "Fluorophore": "Alexa Fluor 647",
+    "Type of Imaging": "dSTORM"
+  }
+}
