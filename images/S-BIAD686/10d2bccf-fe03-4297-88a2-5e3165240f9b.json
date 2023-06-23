@@ -1,0 +1,27 @@
+{
+  "id": "10d2bccf-fe03-4297-88a2-5e3165240f9b",
+  "accession_id": "S-BIAD686",
+  "name": "nii_train/nii_hard/20161121_En1_E5b_reg-filt.nii",
+  "original_relpath": "nii_train/nii_hard/20161121_En1_E5b_reg-filt.nii",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD686",
+      "image_id": "10d2bccf-fe03-4297-88a2-5e3165240f9b",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/686/S-BIAD686/Files/nii_train/nii_hard/20161121_En1_E5b_reg-filt.nii",
+      "size": 53305552,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "dc8f7276-2c0e-4b5b-beb4-72d6c4181d15"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "date": "20161121",
+    "Train-/Testset split": "train"
+  }
+}
