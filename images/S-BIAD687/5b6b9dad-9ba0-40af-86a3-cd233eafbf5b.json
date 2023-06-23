@@ -1,0 +1,34 @@
+{
+  "id": "5b6b9dad-9ba0-40af-86a3-cd233eafbf5b",
+  "accession_id": "S-BIAD687",
+  "name": "A549ACE2 IFN Spike Bst2 c.tif",
+  "original_relpath": "A549ACE2 IFN Spike Bst2 c.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD687",
+      "image_id": "5b6b9dad-9ba0-40af-86a3-cd233eafbf5b",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/687/S-BIAD687/Files/Figure 2C and Quant EV1H.zip",
+      "size": 12611799,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "c8965bfe-fa93-4d16-bb4f-00034eda2040"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Figure": "2C",
+    "Quantification shown in Figure": "EV1H",
+    "Cells": "\"\"A549+ACE2\"\"",
+    "Green": "Spike",
+    "Red": "Tetherin",
+    "White": null,
+    "imaging method": "confocal",
+    "Analysis": "Mean fl intensity (tetherin)/ cell",
+    "Comparitor": "Spike: - vs +"
+  }
+}

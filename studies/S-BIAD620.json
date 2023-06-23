@@ -1,0 +1,117 @@
+{
+  "accession_id": "S-BIAD620",
+  "title": "Extracellular proteases are an essential public good supporting B. subtilis growth through exogenous protein degradation",
+  "description": "Bacteria encounter polymeric nutrient sources that need to be processed to support growth. Bacillus subtilis is a bacterium known for its adaptability and resilience within the rhizosphere and broader soil environment. Here we explore the role that a suite of extracellular proteases plays in supporting growth of B. subtilis when an extracellular heterologous protein (BSA) provides an abundant, but polymeric, food source. We confirm the essential role of extracellular proteases in this context and note the influence of the polymeric nutrient concentration on the yield of growth, but not on the relative level of extracellular proteases. We demonstrate the collective action of the extracellular proteases in supporting B. subtilis growth and evidence their use as a shared public good. Furthermore, we show that B. subtilis is subjected to a public good dilemma, but only in the context of using a polymeric food source. Using mathematical simulations, we uncover that this dilemma is driven by the relative cost of producing the public good. Collectively, our findings reveal how B. subtilis can survive in environments that vary significantly in terms of immediate nutrient accessibility. This information should inform steps to improve its efficacy as a biofertilizer in agricultural settings.",
+  "authors": [
+    {
+      "name": "Thibault Rosazza"
+    },
+    {
+      "name": "Dr Lukas Eigentler"
+    },
+    {
+      "name": "Dr Chris Earl"
+    },
+    {
+      "name": "Professor Fordyce Davidson"
+    },
+    {
+      "name": "Professor Nicola Stanley-Wall"
+    }
+  ],
+  "organism": "Unknown",
+  "release_date": "2023-02-08",
+  "license": "CC0",
+  "links": {},
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "example_annotation_uri": "",
+  "file_references": {
+    "33ce8a2d-3def-46f4-8c4b-fbd3aff443d1": {
+      "id": "33ce8a2d-3def-46f4-8c4b-fbd3aff443d1",
+      "name": "20211126_MSbg_Transwell.lif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/620/S-BIAD620/Files/20211126_MSbg_Transwell.lif",
+      "size_in_bytes": 332267919,
+      "type": null,
+      "attributes": {}
+    },
+    "7030f593-5d48-4e14-a6c7-9f4064c04004": {
+      "id": "7030f593-5d48-4e14-a6c7-9f4064c04004",
+      "name": "20211202_MSgg_Transwell.lif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/620/S-BIAD620/Files/20211202_MSgg_Transwell.lif",
+      "size_in_bytes": 265814957,
+      "type": null,
+      "attributes": {}
+    },
+    "84871036-5f33-4d4a-bb9b-b27023068dc6": {
+      "id": "84871036-5f33-4d4a-bb9b-b27023068dc6",
+      "name": "20220214_Pellicle_MSbg.lif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/620/S-BIAD620/Files/20220214_Pellicle_MSbg.lif",
+      "size_in_bytes": 531629465,
+      "type": null,
+      "attributes": {}
+    },
+    "4a37f866-3d5f-4900-8506-7947994f542b": {
+      "id": "4a37f866-3d5f-4900-8506-7947994f542b",
+      "name": "20220222_Pellicle_MSbg.lif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/620/S-BIAD620/Files/20220222_Pellicle_MSbg.lif",
+      "size_in_bytes": 398722853,
+      "type": null,
+      "attributes": {}
+    },
+    "a6cacfb6-c933-4c72-8308-c8bf465f5a43": {
+      "id": "a6cacfb6-c933-4c72-8308-c8bf465f5a43",
+      "name": "20220307_Pellicle_MSbg.lif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/620/S-BIAD620/Files/20220307_Pellicle_MSbg.lif",
+      "size_in_bytes": 398722275,
+      "type": null,
+      "attributes": {}
+    },
+    "3a8a860e-73ac-45a9-927f-0cfff96cc7cf": {
+      "id": "3a8a860e-73ac-45a9-927f-0cfff96cc7cf",
+      "name": "20220321_Pellicle_MSbg.lif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/620/S-BIAD620/Files/20220321_Pellicle_MSbg.lif",
+      "size_in_bytes": 797443175,
+      "type": null,
+      "attributes": {}
+    },
+    "55b3c0bc-a1d1-4c49-86e2-1d8cb67e4cc3": {
+      "id": "55b3c0bc-a1d1-4c49-86e2-1d8cb67e4cc3",
+      "name": "20220804_Pellicle_MSgg.lif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/620/S-BIAD620/Files/20220804_Pellicle_MSgg.lif",
+      "size_in_bytes": 398722495,
+      "type": null,
+      "attributes": {}
+    },
+    "7dd1d64e-779c-44c2-945f-f891580e2835": {
+      "id": "7dd1d64e-779c-44c2-945f-f891580e2835",
+      "name": "20220812_Pellicle_MSgg.lif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/620/S-BIAD620/Files/20220812_Pellicle_MSgg.lif",
+      "size_in_bytes": 398721689,
+      "type": null,
+      "attributes": {}
+    },
+    "27aa08e5-2708-4b68-adf1-06444f9ceb47": {
+      "id": "27aa08e5-2708-4b68-adf1-06444f9ceb47",
+      "name": "20221103_Pellicle_MSgg.lif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/620/S-BIAD620/Files/20221103_Pellicle_MSgg.lif",
+      "size_in_bytes": 199361819,
+      "type": null,
+      "attributes": {}
+    },
+    "e2fda097-5937-45c0-99f8-968e4f0ff225": {
+      "id": "e2fda097-5937-45c0-99f8-968e4f0ff225",
+      "name": "20221107_Pellicle_MSbg.lif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/620/S-BIAD620/Files/20221107_Pellicle_MSbg.lif",
+      "size_in_bytes": 199361775,
+      "type": null,
+      "attributes": {}
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

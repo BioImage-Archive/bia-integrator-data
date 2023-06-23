@@ -1,0 +1,107 @@
+{
+  "accession_id": "S-BSST1021",
+  "title": "Inhibition of lysyl oxidases synergizes with 5-azacytidine to restore erythropoiesis in myelodysplastic and myeloid malignancies",
+  "description": " These are the source files involved in Gomori (reticulin fibers) and human mitochondria (human engraftment) staining pictures.\nAll files can be easily open and zoomed out/in using the free software named as \"Viewpoint light\". This software can be downloaded from \"https://precipoint.com/en/products/viewpoint-viewer-software\".",
+  "authors": [
+    {
+      "name": "Daniel Nowak"
+    }
+  ],
+  "organism": "Homo sapiens (human)",
+  "release_date": "2023-02-09",
+  "license": "CC0",
+  "links": {
+    "Unknown": "LOX"
+  },
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "example_annotation_uri": "",
+  "file_references": {
+    "94fcad60-e798-4551-a658-efbded7acb24": {
+      "id": "94fcad60-e798-4551-a658-efbded7acb24",
+      "name": "Gomori staining-Untreated.vmic",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/021/S-BSST1021/Files/Gomori staining-Untreated.vmic",
+      "size_in_bytes": 252506204,
+      "type": null,
+      "attributes": {
+        "Description": "Gomori staining-untreated arm"
+      }
+    },
+    "cff17a1d-823a-408d-b7e3-4915d04ef0fe": {
+      "id": "cff17a1d-823a-408d-b7e3-4915d04ef0fe",
+      "name": "Human mitochondria staining-Untreated.vmic",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/021/S-BSST1021/Files/Human mitochondria staining-Untreated.vmic",
+      "size_in_bytes": 277056083,
+      "type": null,
+      "attributes": {
+        "Description": "Human mitochondria staining-untreated arm"
+      }
+    },
+    "19dc1fbe-ad71-4fcd-839e-c57237585135": {
+      "id": "19dc1fbe-ad71-4fcd-839e-c57237585135",
+      "name": "Gomori staining-5-AZA.vmic",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/021/S-BSST1021/Files/Gomori staining-5-AZA.vmic",
+      "size_in_bytes": 251519672,
+      "type": null,
+      "attributes": {
+        "Description": "Gomori staining-5-AZA arm"
+      }
+    },
+    "6dcf0b87-3aba-42fa-9610-9ed0f6789943": {
+      "id": "6dcf0b87-3aba-42fa-9610-9ed0f6789943",
+      "name": "Human mitochondria staining-5-AZA.vmic",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/021/S-BSST1021/Files/Human mitochondria staining-5-AZA.vmic",
+      "size_in_bytes": 154696745,
+      "type": null,
+      "attributes": {
+        "Description": "Human mitochondria staining-5-AZA arm"
+      }
+    },
+    "a8500b28-16ec-4c7d-ab24-1abd222b7463": {
+      "id": "a8500b28-16ec-4c7d-ab24-1abd222b7463",
+      "name": "Gomori staining PXS-5505.vmic",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/021/S-BSST1021/Files/Gomori staining PXS-5505.vmic",
+      "size_in_bytes": 210211376,
+      "type": null,
+      "attributes": {
+        "Description": "Gomori staining-PXS-5505 arm"
+      }
+    },
+    "3f21be3b-c48e-4e03-aa56-6144a57d0793": {
+      "id": "3f21be3b-c48e-4e03-aa56-6144a57d0793",
+      "name": "Human mitochondria staining PXS-5505.vmic",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/021/S-BSST1021/Files/Human mitochondria staining PXS-5505.vmic",
+      "size_in_bytes": 202850090,
+      "type": null,
+      "attributes": {
+        "Description": "Human mitochondria staining-PXS-5505 arm"
+      }
+    },
+    "e7a129f8-5db8-4d3a-a0c8-a82da6423c89": {
+      "id": "e7a129f8-5db8-4d3a-a0c8-a82da6423c89",
+      "name": "Gomori staining-PXS-5505+5-AZA.vmic",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/021/S-BSST1021/Files/Gomori staining-PXS-5505+5-AZA.vmic",
+      "size_in_bytes": 201688850,
+      "type": null,
+      "attributes": {
+        "Description": "Gomori staining-PXS-5505+5-AZA arm"
+      }
+    },
+    "8a7d4c01-76cc-4242-a0e3-f8c05cef1555": {
+      "id": "8a7d4c01-76cc-4242-a0e3-f8c05cef1555",
+      "name": "Human mitochondria staining-PXS-5505+5-AZA.vmic",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/021/S-BSST1021/Files/Human mitochondria staining-PXS-5505+5-AZA.vmic",
+      "size_in_bytes": 170616473,
+      "type": null,
+      "attributes": {
+        "Description": "Human mitochondria staining-PXS-5505+5-AZA arm"
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

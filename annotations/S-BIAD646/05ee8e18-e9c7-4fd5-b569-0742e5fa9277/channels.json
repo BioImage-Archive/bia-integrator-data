@@ -1,0 +1,6 @@
+{
+  "accession_id": "S-BIAD646",
+  "image_id": "05ee8e18-e9c7-4fd5-b569-0742e5fa9277",
+  "key": "channels",
+  "value": "[{'id': 'Channel:0:0', 'acquisition_mode': 'LaserScanningConfocalMicroscopy', 'color': 'magenta', 'detector_settings': {'id': 'Detector:0:0', 'binning': '1x1'}, 'emission_wavelength': 620.234734, 'emission_wavelength_unit': 'nm', 'excitation_wavelength': 561.0, 'excitation_wavelength_unit': 'nm', 'fluor': 'DiI', 'illumination_type': 'Epifluorescence', 'name': 'ChS2-T1', 'samples_per_pixel': 1}, {'id': 'Channel:0:1', 'acquisition_mode': 'LaserScanningConfocalMicroscopy', 'color': 'lime', 'detector_settings': {'id': 'Detector:1:0', 'binning': '1x1'}, 'emission_wavelength': 513.6380140000001, 'emission_wavelength_unit': 'nm', 'excitation_wavelength': 488.00000000000006, 'excitation_wavelength_unit': 'nm', 'fluor': 'Alexa Fluor 488', 'illumination_type': 'Epifluorescence', 'name': 'ChS1-T2', 'samples_per_pixel': 1}, {'id': 'Channel:0:2', 'acquisition_mode': 'LaserScanningConfocalMicroscopy', 'color': 'cyan', 'detector_settings': {'id': 'Detector:2:0', 'binning': '1x1'}, 'emission_wavelength': 448.75000000000006, 'emission_wavelength_unit': 'nm', 'excitation_wavelength': 405.00000000000006, 'excitation_wavelength_unit': 'nm', 'fluor': 'DAPI', 'illumination_type': 'Epifluorescence', 'name': 'Ch1-T3', 'samples_per_pixel': 1}]"
+}

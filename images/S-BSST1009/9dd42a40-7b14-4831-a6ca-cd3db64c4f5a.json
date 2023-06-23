@@ -1,0 +1,27 @@
+{
+  "id": "9dd42a40-7b14-4831-a6ca-cd3db64c4f5a",
+  "accession_id": "S-BSST1009",
+  "name": "VGAT_f_nIN_4_112.lsm",
+  "original_relpath": "VGAT_f_nIN_4_112.lsm",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BSST1009",
+      "image_id": "9dd42a40-7b14-4831-a6ca-cd3db64c4f5a",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/009/S-BSST1009/Files/All together adult VGAT.zip",
+      "size": 1161872566,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "a58c29ad-9d8e-4c92-bae6-605fb4e0577f"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Description": "VGAT raw images used for Fig. 4-6",
+    "Type": "CZI files (confocal images)"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "accession_id": "S-BIAD368",
+  "image_id": "013a8b01-5782-47fb-b2fa-7c528ec11bbb",
+  "key": "channels",
+  "value": "[{'id': 'Channel:0:0', 'color': 'white', 'detector_settings': {'id': 'Detector:0:0'}, 'name': 'DIC High', 'samples_per_pixel': 1}, {'id': 'Channel:0:1', 'color': '#46ff00', 'detector_settings': {'id': 'Detector:0:0'}, 'emission_wavelength': 522.5, 'emission_wavelength_unit': 'nm', 'name': 'GFP', 'samples_per_pixel': 1}, {'id': 'Channel:0:2', 'color': '#ff2500', 'detector_settings': {'id': 'Detector:0:0'}, 'emission_wavelength': 610.5, 'emission_wavelength_unit': 'nm', 'name': 'Cy3', 'samples_per_pixel': 1}, {'id': 'Channel:0:3', 'color': '#03f', 'detector_settings': {'id': 'Detector:0:0'}, 'emission_wavelength': 450.0, 'emission_wavelength_unit': 'nm', 'name': 'DAPI', 'samples_per_pixel': 1}]"
+}

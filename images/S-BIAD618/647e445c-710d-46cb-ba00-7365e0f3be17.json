@@ -1,0 +1,35 @@
+{
+  "id": "647e445c-710d-46cb-ba00-7365e0f3be17",
+  "accession_id": "S-BIAD618",
+  "name": "Figure2_fig-suppl2_datasources/Figure2_FigSuppl2_Epididymis.ims",
+  "original_relpath": "Figure2_fig-suppl2_datasources/Figure2_FigSuppl2_Epididymis.ims",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD618",
+      "image_id": "647e445c-710d-46cb-ba00-7365e0f3be17",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2_figSuppl2_datasources.zip",
+      "size": 4704775703,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "6638a873-40bd-45c0-8225-b56bd47580ee"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Figures": "Figure2-figSuppl2_epididymis.ims",
+    "Format": "ims",
+    "Chanels": "2",
+    "Markers": "VEGFR3:YFP; LYVE1",
+    "imaging technic": "Ultra microscope 1",
+    "Microscope": "LaVision Biotec",
+    "Magnification": "2X",
+    "Analysis": "Surface rendering",
+    "ROI": "0",
+    "Protocol": "Whole-mount + 3DISCO"
+  }
+}

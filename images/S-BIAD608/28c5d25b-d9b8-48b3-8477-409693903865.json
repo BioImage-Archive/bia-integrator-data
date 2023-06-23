@@ -1,0 +1,33 @@
+{
+  "id": "28c5d25b-d9b8-48b3-8477-409693903865",
+  "accession_id": "S-BIAD608",
+  "name": "08_K560N_neuron_Confocal_images/06_Minflux_w2112_tracking__conf.tif",
+  "original_relpath": "08_K560N_neuron_Confocal_images/06_Minflux_w2112_tracking__conf.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD608",
+      "image_id": "28c5d25b-d9b8-48b3-8477-409693903865",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/608/S-BIAD608/Files/Astra_upload_files/08_K560N_neuron_Confocal_images.zip",
+      "size": 571413,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "4a14737f-9fd8-41f0-b032-91f030e4ad95"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Description": "2D tracking in living cells",
+    "Biosample": "Neuron",
+    "Specimen": "Live cell HaloTag-K560",
+    "Image acquisition": "2D tracking high laser",
+    "Figure": "2",
+    "Data type": "Confocal images",
+    "Kinesin type": "HaloTag-K560",
+    "Note ": "Live Neuron HaloTag-K560 live"
+  }
+}

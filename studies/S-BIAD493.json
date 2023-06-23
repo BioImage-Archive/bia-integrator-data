@@ -10,16 +10,16 @@
       "name": "Behcet Toreyin"
     }
   ],
-  "organism": "Unknown",
+  "organism": "Mus musculus",
   "release_date": "2022-07-28",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "links": {
     "CC BY 4.0": "https://creativecommons.org/licenses/by/4.0/",
     "Unknown": "https://idr.openmicroscopy.org/webclient/?show=project-1451"
   },
-  "imaging_type": "Unknown",
+  "imaging_type": "confocal microscopy",
   "attributes": {},
-  "example_image_uri": "",
+  "example_image_uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD493/ca4f016c-e803-4721-880a-3a0d34a73ff3/ca4f016c-e803-4721-880a-3a0d34a73ff3-representative-512-512.png",
   "example_annotation_uri": "",
   "file_references": {
     "c190c840-d9e1-416f-9329-eb6b7684a2a7": {
@@ -39,7 +39,9 @@
       "size_in_bytes": 811134034,
       "type": null,
       "attributes": {
-        "md5": "333E38DA1B78F7F7FE20DDD2BE2F7CA4"
+        "md5": "333E38DA1B78F7F7FE20DDD2BE2F7CA4",
+        "source image": "Sample2",
+        "alias": "AN1"
       }
     },
     "044ab00e-b02e-4a51-91e2-b0e0c78e4e87": {
@@ -79,7 +81,9 @@
       "size_in_bytes": 883773979,
       "type": null,
       "attributes": {
-        "md5": "2DB64C74E7634E189B68BE9672FD2C52"
+        "md5": "2DB64C74E7634E189B68BE9672FD2C52",
+        "source image": "Sample1",
+        "alias": "AN2"
       }
     },
     "20fd3265-4f04-468c-915a-514ab9594f58": {
@@ -119,7 +123,9 @@
       "size_in_bytes": 789755479,
       "type": null,
       "attributes": {
-        "md5": "9AEC7A2344D8AEFB2537123A56578584"
+        "md5": "9AEC7A2344D8AEFB2537123A56578584",
+        "source image": "Sample3",
+        "alias": "AN3"
       }
     },
     "d1d28a0a-576c-4ea0-b649-f832783cc943": {
@@ -159,7 +165,9 @@
       "size_in_bytes": 652863994,
       "type": null,
       "attributes": {
-        "md5": "CFC4F7887F04CD8600011160B44FFCA8"
+        "md5": "CFC4F7887F04CD8600011160B44FFCA8",
+        "source image": "Sample4",
+        "alias": "AN4"
       }
     },
     "3fcb719c-e4fe-4d57-9ca5-bbcb2767d6e3": {
@@ -199,7 +207,9 @@
       "size_in_bytes": 652863994,
       "type": null,
       "attributes": {
-        "md5": "F3141CE52227AFD43874C2FD6087B563"
+        "md5": "F3141CE52227AFD43874C2FD6087B563",
+        "source image": "Sample5",
+        "alias": "AN5"
       }
     },
     "09fff7b9-bb93-4e38-b19a-0ceab2346a37": {
@@ -253,7 +263,830 @@
       }
     }
   },
-  "images": {},
+  "images": {
+    "1f84458a-9965-41c3-9bfc-660f8f7ae984": {
+      "id": "1f84458a-9965-41c3-9bfc-660f8f7ae984",
+      "accession_id": "S-BIAD493",
+      "name": "Sample2",
+      "original_relpath": "Sample2",
+      "dimensions": "(1, 3, 41, 2253, 8781)",
+      "representations": [
+        {
+          "accession_id": "S-BIAD493",
+          "image_id": "1f84458a-9965-41c3-9bfc-660f8f7ae984",
+          "uri": [
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images2/Sample2_Axon.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images2/Sample2_Ground_Truth.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images2/Sample2_Nucleus.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images2/Sample2_Oligodendrocyte.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images1/Sample1_Axon.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images1/Sample1_Ground_Truth.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images1/Sample1_Nucleus.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images1/Sample1_Oligodendrocyte.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images3/Sample3_Axon.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images3/Sample3_Ground_Truth.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images3/Sample3_Nucleus.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images3/Sample3_Oligodendrocyte.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images4/Sample4_Axon.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images4/Sample4_Ground_Truth.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images4/Sample4_Nucleus.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images4/Sample4_Oligodendrocyte.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images5/Sample5_Axon.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images5/Sample5_Ground_Truth.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images5/Sample5_Nucleus.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images5/Sample5_Oligodendrocyte.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/idr0000-Capar-Myelin_Ground_Truths-experimentA-assays.txt",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/idr0000-Capar-Myelin_Ground_Truths-experimentA-processed.txt",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/idr0000-Capar-Myelin_Ground_Truths-study_nonHCS.txt"
+          ],
+          "size": 15161613678,
+          "type": "structured_fileref",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "c190c840-d9e1-416f-9329-eb6b7684a2a7",
+              "8151257e-15d8-4c82-a2ae-41ab132a2948",
+              "044ab00e-b02e-4a51-91e2-b0e0c78e4e87",
+              "c4dda5fc-fb5d-42aa-97f6-f1ee4594e55f",
+              "18c49d20-1c73-4492-9317-c9d0da00fe48",
+              "e27d9778-5b25-4467-aa14-c23c3baafff9",
+              "20fd3265-4f04-468c-915a-514ab9594f58",
+              "949ef9ad-ed9c-4fa5-b4a9-9af376e30df7",
+              "ccaddebb-b4dc-49e9-8962-d0df494c8558",
+              "e6bdca90-adb4-429b-9a73-939fd2a6c15c",
+              "d1d28a0a-576c-4ea0-b649-f832783cc943",
+              "efa5bedd-65d2-4555-af48-2dbb33b9c5b5",
+              "34c3a81e-ee23-46b9-8c99-bf5d4bec1fcf",
+              "fdee0e56-5b0a-4d3a-bedb-5aa4b1bcf4d9",
+              "3fcb719c-e4fe-4d57-9ca5-bbcb2767d6e3",
+              "d2b6a314-7fe9-4abb-939f-4489a44f5c34",
+              "64d09e2d-d5e2-44e1-9b4c-91f621458de0",
+              "4f01cb57-b642-466d-b4dd-46c9517cd84e",
+              "09fff7b9-bb93-4e38-b19a-0ceab2346a37",
+              "e6768828-4c00-4238-ad57-71c37dbfffd6",
+              "0b141979-830c-4586-87dc-db96b35a30b8",
+              "7290e5b7-0f15-4c9c-a39e-2759f4932970",
+              "bb01afd2-e09c-43a0-9423-d7faa5023c28"
+            ],
+            "structure": {
+              "C_0000": "c190c840-d9e1-416f-9329-eb6b7684a2a7",
+              "C_0002": "044ab00e-b02e-4a51-91e2-b0e0c78e4e87",
+              "C_0001": "c4dda5fc-fb5d-42aa-97f6-f1ee4594e55f"
+            },
+            "pattern": "C_<0000-0002>.tif"
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD493",
+          "image_id": "1f84458a-9965-41c3-9bfc-660f8f7ae984",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD493/1f84458a-9965-41c3-9bfc-660f8f7ae984/1f84458a-9965-41c3-9bfc-660f8f7ae984.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": {
+            "channel_renders": [
+              {
+                "colormap_start": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "colormap_end": [
+                  1.0,
+                  0.0,
+                  0.0
+                ],
+                "scale_factor": 1.0
+              },
+              {
+                "colormap_start": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "colormap_end": [
+                  0.0,
+                  1.0,
+                  0.0
+                ],
+                "scale_factor": 1.0
+              },
+              {
+                "colormap_start": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "colormap_end": [
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "scale_factor": 1.0
+              }
+            ],
+            "default_z": null,
+            "default_t": null
+          }
+        },
+        {
+          "accession_id": "S-BIAD493",
+          "image_id": "1f84458a-9965-41c3-9bfc-660f8f7ae984",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD493/1f84458a-9965-41c3-9bfc-660f8f7ae984/1f84458a-9965-41c3-9bfc-660f8f7ae984-thumbnail-128-128.png",
+          "size": 0,
+          "type": "thumbnail",
+          "dimensions": "(128, 128)",
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "SizeC": "3",
+        "SizeT": "1",
+        "SizeX": "8781",
+        "SizeY": "2253",
+        "SizeZ": "41",
+        "big_endian": "True",
+        "channels": "[{'id': 'Channel:0:0', 'color': 'white', 'name': '0', 'samples_per_pixel': 1}, {'id': 'Channel:0:1', 'color': 'white', 'name': '1', 'samples_per_pixel': 1}, {'id': 'Channel:0:2', 'color': 'white', 'name': '2', 'samples_per_pixel': 1}]",
+        "dimension_order": "XYZCT",
+        "interleaved": "False",
+        "metadata_only": "True",
+        "physical_size_x": "0.8302661916437029",
+        "physical_size_x_unit": "µm",
+        "physical_size_y": "0.8302661916437029",
+        "physical_size_y_unit": "µm",
+        "significant_bits": "8",
+        "size_c": "3",
+        "size_t": "1",
+        "size_x": "8781",
+        "size_y": "2253",
+        "size_z": "41",
+        "type": "uint8"
+      }
+    },
+    "30b5568b-016d-4cf8-8454-96f6ff2a676a": {
+      "id": "30b5568b-016d-4cf8-8454-96f6ff2a676a",
+      "accession_id": "S-BIAD493",
+      "name": "Sample3",
+      "original_relpath": "Sample3",
+      "dimensions": "(1, 3, 42, 2253, 8346)",
+      "representations": [
+        {
+          "accession_id": "S-BIAD493",
+          "image_id": "30b5568b-016d-4cf8-8454-96f6ff2a676a",
+          "uri": [
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images2/Sample2_Axon.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images2/Sample2_Ground_Truth.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images2/Sample2_Nucleus.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images2/Sample2_Oligodendrocyte.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images1/Sample1_Axon.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images1/Sample1_Ground_Truth.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images1/Sample1_Nucleus.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images1/Sample1_Oligodendrocyte.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images3/Sample3_Axon.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images3/Sample3_Ground_Truth.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images3/Sample3_Nucleus.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images3/Sample3_Oligodendrocyte.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images4/Sample4_Axon.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images4/Sample4_Ground_Truth.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images4/Sample4_Nucleus.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images4/Sample4_Oligodendrocyte.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images5/Sample5_Axon.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images5/Sample5_Ground_Truth.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images5/Sample5_Nucleus.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images5/Sample5_Oligodendrocyte.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/idr0000-Capar-Myelin_Ground_Truths-experimentA-assays.txt",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/idr0000-Capar-Myelin_Ground_Truths-experimentA-processed.txt",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/idr0000-Capar-Myelin_Ground_Truths-study_nonHCS.txt"
+          ],
+          "size": 15161613678,
+          "type": "structured_fileref",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "c190c840-d9e1-416f-9329-eb6b7684a2a7",
+              "8151257e-15d8-4c82-a2ae-41ab132a2948",
+              "044ab00e-b02e-4a51-91e2-b0e0c78e4e87",
+              "c4dda5fc-fb5d-42aa-97f6-f1ee4594e55f",
+              "18c49d20-1c73-4492-9317-c9d0da00fe48",
+              "e27d9778-5b25-4467-aa14-c23c3baafff9",
+              "20fd3265-4f04-468c-915a-514ab9594f58",
+              "949ef9ad-ed9c-4fa5-b4a9-9af376e30df7",
+              "ccaddebb-b4dc-49e9-8962-d0df494c8558",
+              "e6bdca90-adb4-429b-9a73-939fd2a6c15c",
+              "d1d28a0a-576c-4ea0-b649-f832783cc943",
+              "efa5bedd-65d2-4555-af48-2dbb33b9c5b5",
+              "34c3a81e-ee23-46b9-8c99-bf5d4bec1fcf",
+              "fdee0e56-5b0a-4d3a-bedb-5aa4b1bcf4d9",
+              "3fcb719c-e4fe-4d57-9ca5-bbcb2767d6e3",
+              "d2b6a314-7fe9-4abb-939f-4489a44f5c34",
+              "64d09e2d-d5e2-44e1-9b4c-91f621458de0",
+              "4f01cb57-b642-466d-b4dd-46c9517cd84e",
+              "09fff7b9-bb93-4e38-b19a-0ceab2346a37",
+              "e6768828-4c00-4238-ad57-71c37dbfffd6",
+              "0b141979-830c-4586-87dc-db96b35a30b8",
+              "7290e5b7-0f15-4c9c-a39e-2759f4932970",
+              "bb01afd2-e09c-43a0-9423-d7faa5023c28"
+            ],
+            "structure": {
+              "C_0000": "ccaddebb-b4dc-49e9-8962-d0df494c8558",
+              "C_0002": "d1d28a0a-576c-4ea0-b649-f832783cc943",
+              "C_0001": "efa5bedd-65d2-4555-af48-2dbb33b9c5b5"
+            },
+            "pattern": "C_<0000-0002>.tif"
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD493",
+          "image_id": "30b5568b-016d-4cf8-8454-96f6ff2a676a",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD493/30b5568b-016d-4cf8-8454-96f6ff2a676a/30b5568b-016d-4cf8-8454-96f6ff2a676a.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": {
+            "channel_renders": [
+              {
+                "colormap_start": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "colormap_end": [
+                  1.0,
+                  0.0,
+                  0.0
+                ],
+                "scale_factor": 1.0
+              },
+              {
+                "colormap_start": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "colormap_end": [
+                  0.0,
+                  1.0,
+                  0.0
+                ],
+                "scale_factor": 1.0
+              },
+              {
+                "colormap_start": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "colormap_end": [
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "scale_factor": 1.0
+              }
+            ],
+            "default_z": null,
+            "default_t": null
+          }
+        },
+        {
+          "accession_id": "S-BIAD493",
+          "image_id": "30b5568b-016d-4cf8-8454-96f6ff2a676a",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD493/30b5568b-016d-4cf8-8454-96f6ff2a676a/30b5568b-016d-4cf8-8454-96f6ff2a676a-thumbnail-128-128.png",
+          "size": 0,
+          "type": "thumbnail",
+          "dimensions": "(128, 128)",
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "SizeC": "3",
+        "SizeT": "1",
+        "SizeX": "8346",
+        "SizeY": "2253",
+        "SizeZ": "42",
+        "big_endian": "True",
+        "channels": "[{'id': 'Channel:0:0', 'color': 'white', 'name': '0', 'samples_per_pixel': 1}, {'id': 'Channel:0:1', 'color': 'white', 'name': '1', 'samples_per_pixel': 1}, {'id': 'Channel:0:2', 'color': 'white', 'name': '2', 'samples_per_pixel': 1}]",
+        "dimension_order": "XYZCT",
+        "interleaved": "False",
+        "metadata_only": "True",
+        "physical_size_x": "0.8302661916437029",
+        "physical_size_x_unit": "µm",
+        "physical_size_y": "0.8302661916437029",
+        "physical_size_y_unit": "µm",
+        "significant_bits": "8",
+        "size_c": "3",
+        "size_t": "1",
+        "size_x": "8346",
+        "size_y": "2253",
+        "size_z": "42",
+        "type": "uint8"
+      }
+    },
+    "8bf6d9a0-a38f-43f8-bd03-5532a43f352c": {
+      "id": "8bf6d9a0-a38f-43f8-bd03-5532a43f352c",
+      "accession_id": "S-BIAD493",
+      "name": "Sample1",
+      "original_relpath": "Sample1",
+      "dimensions": "(1, 3, 47, 2253, 8346)",
+      "representations": [
+        {
+          "accession_id": "S-BIAD493",
+          "image_id": "8bf6d9a0-a38f-43f8-bd03-5532a43f352c",
+          "uri": [
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images2/Sample2_Axon.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images2/Sample2_Ground_Truth.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images2/Sample2_Nucleus.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images2/Sample2_Oligodendrocyte.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images1/Sample1_Axon.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images1/Sample1_Ground_Truth.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images1/Sample1_Nucleus.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images1/Sample1_Oligodendrocyte.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images3/Sample3_Axon.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images3/Sample3_Ground_Truth.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images3/Sample3_Nucleus.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images3/Sample3_Oligodendrocyte.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images4/Sample4_Axon.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images4/Sample4_Ground_Truth.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images4/Sample4_Nucleus.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images4/Sample4_Oligodendrocyte.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images5/Sample5_Axon.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images5/Sample5_Ground_Truth.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images5/Sample5_Nucleus.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images5/Sample5_Oligodendrocyte.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/idr0000-Capar-Myelin_Ground_Truths-experimentA-assays.txt",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/idr0000-Capar-Myelin_Ground_Truths-experimentA-processed.txt",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/idr0000-Capar-Myelin_Ground_Truths-study_nonHCS.txt"
+          ],
+          "size": 15161613678,
+          "type": "structured_fileref",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "c190c840-d9e1-416f-9329-eb6b7684a2a7",
+              "8151257e-15d8-4c82-a2ae-41ab132a2948",
+              "044ab00e-b02e-4a51-91e2-b0e0c78e4e87",
+              "c4dda5fc-fb5d-42aa-97f6-f1ee4594e55f",
+              "18c49d20-1c73-4492-9317-c9d0da00fe48",
+              "e27d9778-5b25-4467-aa14-c23c3baafff9",
+              "20fd3265-4f04-468c-915a-514ab9594f58",
+              "949ef9ad-ed9c-4fa5-b4a9-9af376e30df7",
+              "ccaddebb-b4dc-49e9-8962-d0df494c8558",
+              "e6bdca90-adb4-429b-9a73-939fd2a6c15c",
+              "d1d28a0a-576c-4ea0-b649-f832783cc943",
+              "efa5bedd-65d2-4555-af48-2dbb33b9c5b5",
+              "34c3a81e-ee23-46b9-8c99-bf5d4bec1fcf",
+              "fdee0e56-5b0a-4d3a-bedb-5aa4b1bcf4d9",
+              "3fcb719c-e4fe-4d57-9ca5-bbcb2767d6e3",
+              "d2b6a314-7fe9-4abb-939f-4489a44f5c34",
+              "64d09e2d-d5e2-44e1-9b4c-91f621458de0",
+              "4f01cb57-b642-466d-b4dd-46c9517cd84e",
+              "09fff7b9-bb93-4e38-b19a-0ceab2346a37",
+              "e6768828-4c00-4238-ad57-71c37dbfffd6",
+              "0b141979-830c-4586-87dc-db96b35a30b8",
+              "7290e5b7-0f15-4c9c-a39e-2759f4932970",
+              "bb01afd2-e09c-43a0-9423-d7faa5023c28"
+            ],
+            "structure": {
+              "C_0000": "18c49d20-1c73-4492-9317-c9d0da00fe48",
+              "C_0002": "20fd3265-4f04-468c-915a-514ab9594f58",
+              "C_0001": "949ef9ad-ed9c-4fa5-b4a9-9af376e30df7"
+            },
+            "pattern": "C_<0000-0002>.tif"
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD493",
+          "image_id": "8bf6d9a0-a38f-43f8-bd03-5532a43f352c",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD493/8bf6d9a0-a38f-43f8-bd03-5532a43f352c/8bf6d9a0-a38f-43f8-bd03-5532a43f352c.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": {
+            "channel_renders": [
+              {
+                "colormap_start": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "colormap_end": [
+                  1.0,
+                  0.0,
+                  0.0
+                ],
+                "scale_factor": 1.0
+              },
+              {
+                "colormap_start": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "colormap_end": [
+                  0.0,
+                  1.0,
+                  0.0
+                ],
+                "scale_factor": 1.0
+              },
+              {
+                "colormap_start": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "colormap_end": [
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "scale_factor": 1.0
+              }
+            ],
+            "default_z": null,
+            "default_t": null
+          }
+        },
+        {
+          "accession_id": "S-BIAD493",
+          "image_id": "8bf6d9a0-a38f-43f8-bd03-5532a43f352c",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD493/8bf6d9a0-a38f-43f8-bd03-5532a43f352c/8bf6d9a0-a38f-43f8-bd03-5532a43f352c-thumbnail-128-128.png",
+          "size": 0,
+          "type": "thumbnail",
+          "dimensions": "(128, 128)",
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "SizeC": "3",
+        "SizeT": "1",
+        "SizeX": "8346",
+        "SizeY": "2253",
+        "SizeZ": "47",
+        "big_endian": "True",
+        "channels": "[{'id': 'Channel:0:0', 'color': 'white', 'name': '0', 'samples_per_pixel': 1}, {'id': 'Channel:0:1', 'color': 'white', 'name': '1', 'samples_per_pixel': 1}, {'id': 'Channel:0:2', 'color': 'white', 'name': '2', 'samples_per_pixel': 1}]",
+        "dimension_order": "XYZCT",
+        "interleaved": "False",
+        "metadata_only": "True",
+        "physical_size_x": "0.8302661916437029",
+        "physical_size_x_unit": "µm",
+        "physical_size_y": "0.8302661916437029",
+        "physical_size_y_unit": "µm",
+        "physical_size_z": "1.2",
+        "physical_size_z_unit": "µm",
+        "significant_bits": "8",
+        "size_c": "3",
+        "size_t": "1",
+        "size_x": "8346",
+        "size_y": "2253",
+        "size_z": "47",
+        "type": "uint8"
+      }
+    },
+    "bdd5278e-b597-4fe2-984c-f08d8dd3e20e": {
+      "id": "bdd5278e-b597-4fe2-984c-f08d8dd3e20e",
+      "accession_id": "S-BIAD493",
+      "name": "Sample5",
+      "original_relpath": "Sample5",
+      "dimensions": "(1, 3, 33, 2253, 8781)",
+      "representations": [
+        {
+          "accession_id": "S-BIAD493",
+          "image_id": "bdd5278e-b597-4fe2-984c-f08d8dd3e20e",
+          "uri": [
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images2/Sample2_Axon.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images2/Sample2_Ground_Truth.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images2/Sample2_Nucleus.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images2/Sample2_Oligodendrocyte.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images1/Sample1_Axon.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images1/Sample1_Ground_Truth.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images1/Sample1_Nucleus.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images1/Sample1_Oligodendrocyte.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images3/Sample3_Axon.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images3/Sample3_Ground_Truth.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images3/Sample3_Nucleus.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images3/Sample3_Oligodendrocyte.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images4/Sample4_Axon.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images4/Sample4_Ground_Truth.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images4/Sample4_Nucleus.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images4/Sample4_Oligodendrocyte.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images5/Sample5_Axon.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images5/Sample5_Ground_Truth.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images5/Sample5_Nucleus.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images5/Sample5_Oligodendrocyte.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/idr0000-Capar-Myelin_Ground_Truths-experimentA-assays.txt",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/idr0000-Capar-Myelin_Ground_Truths-experimentA-processed.txt",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/idr0000-Capar-Myelin_Ground_Truths-study_nonHCS.txt"
+          ],
+          "size": 15161613678,
+          "type": "structured_fileref",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "c190c840-d9e1-416f-9329-eb6b7684a2a7",
+              "8151257e-15d8-4c82-a2ae-41ab132a2948",
+              "044ab00e-b02e-4a51-91e2-b0e0c78e4e87",
+              "c4dda5fc-fb5d-42aa-97f6-f1ee4594e55f",
+              "18c49d20-1c73-4492-9317-c9d0da00fe48",
+              "e27d9778-5b25-4467-aa14-c23c3baafff9",
+              "20fd3265-4f04-468c-915a-514ab9594f58",
+              "949ef9ad-ed9c-4fa5-b4a9-9af376e30df7",
+              "ccaddebb-b4dc-49e9-8962-d0df494c8558",
+              "e6bdca90-adb4-429b-9a73-939fd2a6c15c",
+              "d1d28a0a-576c-4ea0-b649-f832783cc943",
+              "efa5bedd-65d2-4555-af48-2dbb33b9c5b5",
+              "34c3a81e-ee23-46b9-8c99-bf5d4bec1fcf",
+              "fdee0e56-5b0a-4d3a-bedb-5aa4b1bcf4d9",
+              "3fcb719c-e4fe-4d57-9ca5-bbcb2767d6e3",
+              "d2b6a314-7fe9-4abb-939f-4489a44f5c34",
+              "64d09e2d-d5e2-44e1-9b4c-91f621458de0",
+              "4f01cb57-b642-466d-b4dd-46c9517cd84e",
+              "09fff7b9-bb93-4e38-b19a-0ceab2346a37",
+              "e6768828-4c00-4238-ad57-71c37dbfffd6",
+              "0b141979-830c-4586-87dc-db96b35a30b8",
+              "7290e5b7-0f15-4c9c-a39e-2759f4932970",
+              "bb01afd2-e09c-43a0-9423-d7faa5023c28"
+            ],
+            "structure": {
+              "C_0000": "64d09e2d-d5e2-44e1-9b4c-91f621458de0",
+              "C_0002": "09fff7b9-bb93-4e38-b19a-0ceab2346a37",
+              "C_0001": "e6768828-4c00-4238-ad57-71c37dbfffd6"
+            },
+            "pattern": "C_<0000-0002>.tif"
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD493",
+          "image_id": "bdd5278e-b597-4fe2-984c-f08d8dd3e20e",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD493/bdd5278e-b597-4fe2-984c-f08d8dd3e20e/bdd5278e-b597-4fe2-984c-f08d8dd3e20e.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": {
+            "channel_renders": [
+              {
+                "colormap_start": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "colormap_end": [
+                  1.0,
+                  0.0,
+                  0.0
+                ],
+                "scale_factor": 1.0
+              },
+              {
+                "colormap_start": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "colormap_end": [
+                  0.0,
+                  1.0,
+                  0.0
+                ],
+                "scale_factor": 1.0
+              },
+              {
+                "colormap_start": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "colormap_end": [
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "scale_factor": 1.0
+              }
+            ],
+            "default_z": null,
+            "default_t": null
+          }
+        },
+        {
+          "accession_id": "S-BIAD493",
+          "image_id": "bdd5278e-b597-4fe2-984c-f08d8dd3e20e",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD493/bdd5278e-b597-4fe2-984c-f08d8dd3e20e/bdd5278e-b597-4fe2-984c-f08d8dd3e20e-thumbnail-128-128.png",
+          "size": 0,
+          "type": "thumbnail",
+          "dimensions": "(128, 128)",
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "SizeC": "3",
+        "SizeT": "1",
+        "SizeX": "8781",
+        "SizeY": "2253",
+        "SizeZ": "33",
+        "big_endian": "True",
+        "channels": "[{'id': 'Channel:0:0', 'color': 'white', 'name': '0', 'samples_per_pixel': 1}, {'id': 'Channel:0:1', 'color': 'white', 'name': '1', 'samples_per_pixel': 1}, {'id': 'Channel:0:2', 'color': 'white', 'name': '2', 'samples_per_pixel': 1}]",
+        "dimension_order": "XYZCT",
+        "interleaved": "False",
+        "metadata_only": "True",
+        "physical_size_x": "0.8302661916437029",
+        "physical_size_x_unit": "µm",
+        "physical_size_y": "0.8302661916437029",
+        "physical_size_y_unit": "µm",
+        "significant_bits": "8",
+        "size_c": "3",
+        "size_t": "1",
+        "size_x": "8781",
+        "size_y": "2253",
+        "size_z": "33",
+        "type": "uint8"
+      }
+    },
+    "ca4f016c-e803-4721-880a-3a0d34a73ff3": {
+      "id": "ca4f016c-e803-4721-880a-3a0d34a73ff3",
+      "accession_id": "S-BIAD493",
+      "name": "Sample4",
+      "original_relpath": "Sample4",
+      "dimensions": "(1, 3, 33, 2253, 8781)",
+      "representations": [
+        {
+          "accession_id": "S-BIAD493",
+          "image_id": "ca4f016c-e803-4721-880a-3a0d34a73ff3",
+          "uri": [
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images2/Sample2_Axon.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images2/Sample2_Ground_Truth.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images2/Sample2_Nucleus.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images2/Sample2_Oligodendrocyte.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images1/Sample1_Axon.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images1/Sample1_Ground_Truth.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images1/Sample1_Nucleus.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images1/Sample1_Oligodendrocyte.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images3/Sample3_Axon.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images3/Sample3_Ground_Truth.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images3/Sample3_Nucleus.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images3/Sample3_Oligodendrocyte.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images4/Sample4_Axon.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images4/Sample4_Ground_Truth.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images4/Sample4_Nucleus.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images4/Sample4_Oligodendrocyte.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images5/Sample5_Axon.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images5/Sample5_Ground_Truth.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images5/Sample5_Nucleus.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/Sample_Myelin_Images5/Sample5_Oligodendrocyte.tif",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/idr0000-Capar-Myelin_Ground_Truths-experimentA-assays.txt",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/experimentA/idr0000-Capar-Myelin_Ground_Truths-experimentA-processed.txt",
+            "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/493/S-BIAD493/Files/20201022-ftp/idr0000-Capar-Myelin_Ground_Truths-study_nonHCS.txt"
+          ],
+          "size": 15161613678,
+          "type": "structured_fileref",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "c190c840-d9e1-416f-9329-eb6b7684a2a7",
+              "8151257e-15d8-4c82-a2ae-41ab132a2948",
+              "044ab00e-b02e-4a51-91e2-b0e0c78e4e87",
+              "c4dda5fc-fb5d-42aa-97f6-f1ee4594e55f",
+              "18c49d20-1c73-4492-9317-c9d0da00fe48",
+              "e27d9778-5b25-4467-aa14-c23c3baafff9",
+              "20fd3265-4f04-468c-915a-514ab9594f58",
+              "949ef9ad-ed9c-4fa5-b4a9-9af376e30df7",
+              "ccaddebb-b4dc-49e9-8962-d0df494c8558",
+              "e6bdca90-adb4-429b-9a73-939fd2a6c15c",
+              "d1d28a0a-576c-4ea0-b649-f832783cc943",
+              "efa5bedd-65d2-4555-af48-2dbb33b9c5b5",
+              "34c3a81e-ee23-46b9-8c99-bf5d4bec1fcf",
+              "fdee0e56-5b0a-4d3a-bedb-5aa4b1bcf4d9",
+              "3fcb719c-e4fe-4d57-9ca5-bbcb2767d6e3",
+              "d2b6a314-7fe9-4abb-939f-4489a44f5c34",
+              "64d09e2d-d5e2-44e1-9b4c-91f621458de0",
+              "4f01cb57-b642-466d-b4dd-46c9517cd84e",
+              "09fff7b9-bb93-4e38-b19a-0ceab2346a37",
+              "e6768828-4c00-4238-ad57-71c37dbfffd6",
+              "0b141979-830c-4586-87dc-db96b35a30b8",
+              "7290e5b7-0f15-4c9c-a39e-2759f4932970",
+              "bb01afd2-e09c-43a0-9423-d7faa5023c28"
+            ],
+            "structure": {
+              "C_0000": "34c3a81e-ee23-46b9-8c99-bf5d4bec1fcf",
+              "C_0002": "3fcb719c-e4fe-4d57-9ca5-bbcb2767d6e3",
+              "C_0001": "d2b6a314-7fe9-4abb-939f-4489a44f5c34"
+            },
+            "pattern": "C_<0000-0002>.tif"
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD493",
+          "image_id": "ca4f016c-e803-4721-880a-3a0d34a73ff3",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD493/ca4f016c-e803-4721-880a-3a0d34a73ff3/ca4f016c-e803-4721-880a-3a0d34a73ff3.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": {
+            "channel_renders": [
+              {
+                "colormap_start": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "colormap_end": [
+                  1.0,
+                  0.0,
+                  0.0
+                ],
+                "scale_factor": 1.0
+              },
+              {
+                "colormap_start": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "colormap_end": [
+                  0.0,
+                  1.0,
+                  0.0
+                ],
+                "scale_factor": 1.0
+              },
+              {
+                "colormap_start": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "colormap_end": [
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "scale_factor": 1.0
+              }
+            ],
+            "default_z": null,
+            "default_t": null
+          }
+        },
+        {
+          "accession_id": "S-BIAD493",
+          "image_id": "ca4f016c-e803-4721-880a-3a0d34a73ff3",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD493/ca4f016c-e803-4721-880a-3a0d34a73ff3/ca4f016c-e803-4721-880a-3a0d34a73ff3-representative-512-512.png",
+          "size": 0,
+          "type": "representative",
+          "dimensions": "(512, 512)",
+          "attributes": null,
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD493",
+          "image_id": "ca4f016c-e803-4721-880a-3a0d34a73ff3",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD493/ca4f016c-e803-4721-880a-3a0d34a73ff3/ca4f016c-e803-4721-880a-3a0d34a73ff3-thumbnail-128-128.png",
+          "size": 0,
+          "type": "thumbnail",
+          "dimensions": "(128, 128)",
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "SizeC": "3",
+        "SizeT": "1",
+        "SizeX": "8781",
+        "SizeY": "2253",
+        "SizeZ": "33",
+        "big_endian": "True",
+        "channels": "[{'id': 'Channel:0:0', 'color': 'white', 'name': '0', 'samples_per_pixel': 1}, {'id': 'Channel:0:1', 'color': 'white', 'name': '1', 'samples_per_pixel': 1}, {'id': 'Channel:0:2', 'color': 'white', 'name': '2', 'samples_per_pixel': 1}]",
+        "dimension_order": "XYZCT",
+        "interleaved": "False",
+        "metadata_only": "True",
+        "physical_size_x": "0.8302661916437029",
+        "physical_size_x_unit": "µm",
+        "physical_size_y": "0.8302661916437029",
+        "physical_size_y_unit": "µm",
+        "significant_bits": "8",
+        "size_c": "3",
+        "size_t": "1",
+        "size_x": "8781",
+        "size_y": "2253",
+        "size_z": "33",
+        "type": "uint8"
+      }
+    }
+  },
   "archive_files": {},
   "other_files": {},
   "image_aliases": {},

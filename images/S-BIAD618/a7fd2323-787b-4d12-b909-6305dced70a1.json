@@ -1,0 +1,35 @@
+{
+  "id": "a7fd2323-787b-4d12-b909-6305dced70a1",
+  "accession_id": "S-BIAD618",
+  "name": "8bits/Figure2-figSuppl3A_Cauda_4Lymphatics.ims",
+  "original_relpath": "8bits/Figure2-figSuppl3A_Cauda_4Lymphatics.ims",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD618",
+      "image_id": "a7fd2323-787b-4d12-b909-6305dced70a1",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2-figSuppl3_datasources.zip",
+      "size": 989044882,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "27673f35-9ae4-4ae4-b414-0fa8c240910d"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Figures": "Figure2-Suppl3B_IS_12X Z0000.ims",
+    "Format": "ims",
+    "Chanels": "2",
+    "Markers": "VEGFR3:YFP; PLVAP",
+    "imaging technic": "Ultra microscope 1",
+    "Microscope": "LaVision Biotec",
+    "Magnification": "4x",
+    "Analysis": "Surface rendering",
+    "ROI": "1",
+    "Protocol": "Whole-mount + 3DISCO"
+  }
+}

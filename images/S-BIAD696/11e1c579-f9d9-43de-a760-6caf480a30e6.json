@@ -1,0 +1,27 @@
+{
+  "id": "11e1c579-f9d9-43de-a760-6caf480a30e6",
+  "accession_id": "S-BIAD696",
+  "name": "mouseFISH/YG102/s5/composites/SOX10_2.tif",
+  "original_relpath": "mouseFISH/YG102/s5/composites/SOX10_2.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD696",
+      "image_id": "11e1c579-f9d9-43de-a760-6caf480a30e6",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/696/S-BIAD696/Files/RNAFISHAll.zip",
+      "size": 4188196,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "210f5a35-2415-4007-8dbc-d2f94ed6a701"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "SecondaryFileStructure": "CellCultureIOriginalClone; clampFISHTumor; cloneFISHCellCulture; mouseFISH; SingletonImages",
+    "DataDescription": "fluorescent single-molecule FISH for cell culture original isolated clone; fluorescent single-molecule amplified FISH for tumor tissues (untreated and resistant); fluorescent single-molecule FISH for cell culture isolated clones; fluorescent single-molecule FISH for resistant tumor tissues in PDX mice; fluorescent single-molecule FISH for cell culture original isolated clone focused on singletons"
+  }
+}

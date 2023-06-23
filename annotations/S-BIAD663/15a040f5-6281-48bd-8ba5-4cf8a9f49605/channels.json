@@ -1,0 +1,6 @@
+{
+  "accession_id": "S-BIAD663",
+  "image_id": "15a040f5-6281-48bd-8ba5-4cf8a9f49605",
+  "key": "channels",
+  "value": "[{'id': 'Channel:0:0', 'color': 'lime', 'detector_settings': {'id': 'Detector:0:0', 'gain': 0.0}, 'emission_wavelength': 525.0, 'emission_wavelength_unit': 'nm', 'name': 'Alexa 488 antibody', 'samples_per_pixel': 1}, {'id': 'Channel:0:1', 'color': 'red', 'detector_settings': {'id': 'Detector:0:0', 'gain': 0.0}, 'emission_wavelength': 595.0, 'emission_wavelength_unit': 'nm', 'name': 'Alx546', 'samples_per_pixel': 1}, {'id': 'Channel:0:2', 'color': 'cyan', 'detector_settings': {'id': 'Detector:0:0', 'gain': 0.0}, 'emission_wavelength': 700.0, 'emission_wavelength_unit': 'nm', 'name': 'Alx647', 'samples_per_pixel': 1}]"
+}

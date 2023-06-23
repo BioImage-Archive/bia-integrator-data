@@ -1,0 +1,34 @@
+{
+  "id": "62869bf5-9b3f-4896-bd67-5404ded3e533",
+  "accession_id": "S-BIAD687",
+  "name": "TetOne ss-HA-Spike ss-HA-Spike WITH Dox anti-HA anti-bst2 nuclei b.tif",
+  "original_relpath": "TetOne ss-HA-Spike ss-HA-Spike WITH Dox anti-HA anti-bst2 nuclei b.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD687",
+      "image_id": "62869bf5-9b3f-4896-bd67-5404ded3e533",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/687/S-BIAD687/Files/Figure 4D and Quant EVF2B.zip",
+      "size": 12611799,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "b7765db2-8672-4465-8d4d-5279e80e873e"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Figure": "4D",
+    "Quantification shown in Figure": "EVF2B",
+    "Cells": "HeLa TetOne ss-HA-Spike",
+    "Green": "HA",
+    "Red": "Tetherin",
+    "White": null,
+    "imaging method": "confocal",
+    "Analysis": "Mean fl intensity (tetherin)/ cell",
+    "Comparitor": "HA: - vs +"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "be50dce0-5759-4515-bb2d-2df0d235d625",
+  "accession_id": "S-BIAD615",
+  "name": "RV_END_01AU_P10-UTR_Nucleus_JAG1_JAG2_HEY1_EPCAM (IHC)_Meas1b_A2_F1T0_max.ome.tif",
+  "original_relpath": "RV_END_01AU_P10-UTR_Nucleus_JAG1_JAG2_HEY1_EPCAM (IHC)_Meas1b_A2_F1T0_max.ome.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD615",
+      "image_id": "be50dce0-5759-4515-bb2d-2df0d235d625",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/615/S-BIAD615/Files/RV_END_01AU_P10-UTR_Nucleus_JAG1_JAG2_HEY1_EPCAM (IHC)_Meas1b_A2_F1T0_max.ome.tif",
+      "size": 16243170970,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "7b13f96e-92e2-48b3-8e55-f2a193c3f79c"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Species": "Human ",
+    "Age": "Adult",
+    "Tissue": "Endometrium",
+    "PatientID": "P10",
+    "Menstrual_cycle_phase": "Secretory phase",
+    "Sample_1": "P10-UTR-0-FFPE-1-S15",
+    "SlideID": "RV_END_01AU",
+    "Technology": "RNAscope 3-plex + IHC",
+    "Image_cycle": "1",
+    "Channel1": "DAPI",
+    "Target1": "Nucleus",
+    "Channel2": "Opal 520",
+    "Target2": "JAG1",
+    "Channel3": "Opal 570",
+    "Target3": "JAG2",
+    "Channel4": "Opal 650",
+    "Target4": "HEY1",
+    "Channel5": "Atto 425",
+    "Target5": "EPCAM (IHC)"
+  }
+}

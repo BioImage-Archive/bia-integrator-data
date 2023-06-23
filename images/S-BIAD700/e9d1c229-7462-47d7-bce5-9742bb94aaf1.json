@@ -1,0 +1,28 @@
+{
+  "id": "e9d1c229-7462-47d7-bce5-9742bb94aaf1",
+  "accession_id": "S-BIAD700",
+  "name": "dSTORM data/wt/wt_1.tif",
+  "original_relpath": "dSTORM data/wt/wt_1.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD700",
+      "image_id": "e9d1c229-7462-47d7-bce5-9742bb94aaf1",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/700/S-BIAD700/Files/dSTORM data/wt/wt_1.tif",
+      "size": 1971149571,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "548b8cb5-7ec9-475a-af3c-939f67d44327"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Genetic background": "wild type",
+    "Fluorophore": "Alexa Fluor 647",
+    "Type of Imaging": "dSTORM"
+  }
+}

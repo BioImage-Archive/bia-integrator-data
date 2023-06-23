@@ -1,0 +1,49 @@
+{
+  "accession_id": "S-BIAD668",
+  "title": "Evidence for RNA or protein transport from somatic tissues to the male reproductive tract in mouse",
+  "description": "Lightsheet imaging of the epididymis from Ai14D reporter animals",
+  "authors": [
+    {
+      "name": "Oliver Rando"
+    }
+  ],
+  "organism": "Unknown",
+  "release_date": "2023-04-05",
+  "license": "CC0",
+  "links": {},
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "example_annotation_uri": "",
+  "file_references": {
+    "75624156-33a4-4efa-8a9b-e7af3054a07e": {
+      "id": "75624156-33a4-4efa-8a9b-e7af3054a07e",
+      "name": "Rinaldi_2023_neg.sis",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/668/S-BIAD668/Files/Rinaldi_2023_neg.sis",
+      "size_in_bytes": 12388064812,
+      "type": null,
+      "attributes": {
+        "Genotype": "Ai14D",
+        "Tissue": "Epididymis",
+        "Imaging": "Tissue clearing + lightsheet microscopy"
+      }
+    },
+    "d6dfaa7b-bdeb-4b79-912e-cc2eca67380b": {
+      "id": "d6dfaa7b-bdeb-4b79-912e-cc2eca67380b",
+      "name": "Rinaldi_2023_Defb41Cre.sis",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/668/S-BIAD668/Files/Rinaldi_2023_Defb41Cre.sis",
+      "size_in_bytes": 16367224384,
+      "type": null,
+      "attributes": {
+        "Genotype": "Ai14D:Defb41-Cre",
+        "Tissue": "Epididymis",
+        "Imaging": "Tissue clearing + lightsheet microscopy"
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

@@ -1,0 +1,1117 @@
+{
+  "accession_id": "S-BIAD619",
+  "title": "Autophagy component recruitment to TNIP1 upon chemical-induced dimerization",
+  "description": "Mitophagy is a form of selective autophagy that disposes of superfluous and potentially damage-inducing organelles in a tightly controlled manner. While the machinery involved in mitophagy induction is well known, the regulation of the components is less clear. Here, we demonstrate that TNIP1 knock out accelerates mitophagy rates, and that ectopic TNIP1 negatively regulates the rate of mitophagy. These functions of TNIP1 depend on an evolutionarily conserved LIR motif as well as an AHD3 domain, which are required for binding to the LC3/GABARAP family of proteins and the autophagy receptor TAX1BP1, respectively. We further show that phosphorylation appears to regulate its association with the ULK1 complex member FIP200, allowing TNIP1 to compete with autophagy receptors, providing a molecular rationale for its inhibitory function during mitophagy. Taken together, our findings identify a novel negative regulator of mitophagy that acts at the early steps of autophagosome biogenesis. ",
+  "authors": [
+    {
+      "name": "Francois Le Guerroue"
+    }
+  ],
+  "organism": "Unknown",
+  "release_date": "2023-02-01",
+  "license": "CC0",
+  "links": {},
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "example_annotation_uri": "",
+  "file_references": {
+    "42fdb74a-d36a-4c91-836f-eddf27e0dbed": {
+      "id": "42fdb74a-d36a-4c91-836f-eddf27e0dbed",
+      "name": "LC3_GABARAP_recruitment/WellB03_ChannelCSU 488,CSU 561_Seq0000.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellB03_ChannelCSU 488,CSU 561_Seq0000.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "No",
+        "Staining": "LC3B"
+      }
+    },
+    "efa960d9-ad54-4efe-8268-2a72710610f9": {
+      "id": "efa960d9-ad54-4efe-8268-2a72710610f9",
+      "name": "LC3_GABARAP_recruitment/WellB04_ChannelCSU 488,CSU 561_Seq0001.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellB04_ChannelCSU 488,CSU 561_Seq0001.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "No",
+        "Staining": "LC3B"
+      }
+    },
+    "ada7998a-db58-4d9c-bb89-6f3f2f002840": {
+      "id": "ada7998a-db58-4d9c-bb89-6f3f2f002840",
+      "name": "LC3_GABARAP_recruitment/WellB05_ChannelCSU 488,CSU 561_Seq0002.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellB05_ChannelCSU 488,CSU 561_Seq0002.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "No",
+        "Staining": "LC3B"
+      }
+    },
+    "6a6834a1-f9cb-4614-85ac-f395ce3cc7c6": {
+      "id": "6a6834a1-f9cb-4614-85ac-f395ce3cc7c6",
+      "name": "LC3_GABARAP_recruitment/WellB06_ChannelCSU 488,CSU 561_Seq0003.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellB06_ChannelCSU 488,CSU 561_Seq0003.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "Rapalog",
+        "Staining": "LC3B"
+      }
+    },
+    "67742440-9d44-4a09-8f4a-b58646391bb2": {
+      "id": "67742440-9d44-4a09-8f4a-b58646391bb2",
+      "name": "LC3_GABARAP_recruitment/WellB07_ChannelCSU 488,CSU 561_Seq0004.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellB07_ChannelCSU 488,CSU 561_Seq0004.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "Rapalog",
+        "Staining": "LC3B"
+      }
+    },
+    "cd8a2d70-0308-4471-9d89-2ebceb9895e5": {
+      "id": "cd8a2d70-0308-4471-9d89-2ebceb9895e5",
+      "name": "LC3_GABARAP_recruitment/WellB08_ChannelCSU 488,CSU 561_Seq0005.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellB08_ChannelCSU 488,CSU 561_Seq0005.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "Rapalog",
+        "Staining": "LC3B"
+      }
+    },
+    "d27b0e52-7132-44a0-8966-b256866840c0": {
+      "id": "d27b0e52-7132-44a0-8966-b256866840c0",
+      "name": "LC3_GABARAP_recruitment/WellB09_ChannelCSU 488,CSU 561_Seq0006.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellB09_ChannelCSU 488,CSU 561_Seq0006.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "No",
+        "Staining": "GABARAP"
+      }
+    },
+    "0c4f33b4-e963-408a-86f5-ef2d7724bfc3": {
+      "id": "0c4f33b4-e963-408a-86f5-ef2d7724bfc3",
+      "name": "LC3_GABARAP_recruitment/WellB10_ChannelCSU 488,CSU 561_Seq0007.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellB10_ChannelCSU 488,CSU 561_Seq0007.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "No",
+        "Staining": "GABARAP"
+      }
+    },
+    "7d5b36b1-76b5-42f6-8bd1-28504082ef9a": {
+      "id": "7d5b36b1-76b5-42f6-8bd1-28504082ef9a",
+      "name": "LC3_GABARAP_recruitment/WellC03_ChannelCSU 488,CSU 561_Seq0015.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellC03_ChannelCSU 488,CSU 561_Seq0015.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "No",
+        "Staining": "GABARAP"
+      }
+    },
+    "82fb7238-7c09-45f7-99a7-0c28ff3254b1": {
+      "id": "82fb7238-7c09-45f7-99a7-0c28ff3254b1",
+      "name": "LC3_GABARAP_recruitment/WellC04_ChannelCSU 488,CSU 561_Seq0014.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellC04_ChannelCSU 488,CSU 561_Seq0014.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "Rapalog",
+        "Staining": "GABARAP"
+      }
+    },
+    "e1a433ad-06cd-4abd-86a3-beb2e0a935eb": {
+      "id": "e1a433ad-06cd-4abd-86a3-beb2e0a935eb",
+      "name": "LC3_GABARAP_recruitment/WellC05_ChannelCSU 488,CSU 561_Seq0013.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellC05_ChannelCSU 488,CSU 561_Seq0013.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "Rapalog",
+        "Staining": "GABARAP"
+      }
+    },
+    "5a1e9362-8951-4352-ac49-675d78273da9": {
+      "id": "5a1e9362-8951-4352-ac49-675d78273da9",
+      "name": "LC3_GABARAP_recruitment/WellC06_ChannelCSU 488,CSU 561_Seq0012.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellC06_ChannelCSU 488,CSU 561_Seq0012.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "Rapalog",
+        "Staining": "GABARAP"
+      }
+    },
+    "17ea6011-e31b-4dc1-8f1c-d997f3d9c23c": {
+      "id": "17ea6011-e31b-4dc1-8f1c-d997f3d9c23c",
+      "name": "LC3_GABARAP_recruitment/WellC07_ChannelCSU 488,CSU 561_Seq0011.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellC07_ChannelCSU 488,CSU 561_Seq0011.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR1m",
+        "Treatment": "No",
+        "Staining": "LC3B"
+      }
+    },
+    "23885b37-341c-42d0-b10e-33da8c10baf1": {
+      "id": "23885b37-341c-42d0-b10e-33da8c10baf1",
+      "name": "LC3_GABARAP_recruitment/WellC08_ChannelCSU 488,CSU 561_Seq0010.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellC08_ChannelCSU 488,CSU 561_Seq0010.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR1m",
+        "Treatment": "No",
+        "Staining": "LC3B"
+      }
+    },
+    "08d57a8e-6b9a-4cf7-a0bf-d058f3367d89": {
+      "id": "08d57a8e-6b9a-4cf7-a0bf-d058f3367d89",
+      "name": "LC3_GABARAP_recruitment/WellC09_ChannelCSU 488,CSU 561_Seq0009.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellC09_ChannelCSU 488,CSU 561_Seq0009.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR1m",
+        "Treatment": "No",
+        "Staining": "LC3B"
+      }
+    },
+    "ac67ee57-c1f9-473f-92f3-b3bd3412fac4": {
+      "id": "ac67ee57-c1f9-473f-92f3-b3bd3412fac4",
+      "name": "LC3_GABARAP_recruitment/WellC10_ChannelCSU 488,CSU 561_Seq0008.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellC10_ChannelCSU 488,CSU 561_Seq0008.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR1m",
+        "Treatment": "Rapalog",
+        "Staining": "LC3B"
+      }
+    },
+    "17c05c4b-4b44-41be-9363-3ed75e85823b": {
+      "id": "17c05c4b-4b44-41be-9363-3ed75e85823b",
+      "name": "LC3_GABARAP_recruitment/WellD03_ChannelCSU 488,CSU 561_Seq0016.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellD03_ChannelCSU 488,CSU 561_Seq0016.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR1m",
+        "Treatment": "Rapalog",
+        "Staining": "LC3B"
+      }
+    },
+    "170e9ee0-c951-4589-b9ad-d726056e6a81": {
+      "id": "170e9ee0-c951-4589-b9ad-d726056e6a81",
+      "name": "LC3_GABARAP_recruitment/WellD04_ChannelCSU 488,CSU 561_Seq0017.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellD04_ChannelCSU 488,CSU 561_Seq0017.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR1m",
+        "Treatment": "Rapalog",
+        "Staining": "LC3B"
+      }
+    },
+    "5a8a1953-7f27-48bf-9a01-cc9c2f02cfa5": {
+      "id": "5a8a1953-7f27-48bf-9a01-cc9c2f02cfa5",
+      "name": "LC3_GABARAP_recruitment/WellD05_ChannelCSU 488,CSU 561_Seq0018.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellD05_ChannelCSU 488,CSU 561_Seq0018.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR1m",
+        "Treatment": "No",
+        "Staining": "GABARAP"
+      }
+    },
+    "499502af-1361-402f-abe6-da887319af54": {
+      "id": "499502af-1361-402f-abe6-da887319af54",
+      "name": "LC3_GABARAP_recruitment/WellD06_ChannelCSU 488,CSU 561_Seq0019.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellD06_ChannelCSU 488,CSU 561_Seq0019.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR1m",
+        "Treatment": "No",
+        "Staining": "GABARAP"
+      }
+    },
+    "6321bd02-9fe1-44d9-b4d6-17c50c125f68": {
+      "id": "6321bd02-9fe1-44d9-b4d6-17c50c125f68",
+      "name": "LC3_GABARAP_recruitment/WellD07_ChannelCSU 488,CSU 561_Seq0020.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellD07_ChannelCSU 488,CSU 561_Seq0020.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR1m",
+        "Treatment": "No",
+        "Staining": "GABARAP"
+      }
+    },
+    "df179f36-7891-4a65-84d5-3cdd56050d95": {
+      "id": "df179f36-7891-4a65-84d5-3cdd56050d95",
+      "name": "LC3_GABARAP_recruitment/WellD08_ChannelCSU 488,CSU 561_Seq0021.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellD08_ChannelCSU 488,CSU 561_Seq0021.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR1m",
+        "Treatment": "Rapalog",
+        "Staining": "GABARAP"
+      }
+    },
+    "bb7e661b-f1fa-4616-b913-77d457dd1c9e": {
+      "id": "bb7e661b-f1fa-4616-b913-77d457dd1c9e",
+      "name": "LC3_GABARAP_recruitment/WellD09_ChannelCSU 488,CSU 561_Seq0022.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellD09_ChannelCSU 488,CSU 561_Seq0022.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR1m",
+        "Treatment": "Rapalog",
+        "Staining": "GABARAP"
+      }
+    },
+    "a74a8512-e901-4dcb-b747-2dc582a97f1a": {
+      "id": "a74a8512-e901-4dcb-b747-2dc582a97f1a",
+      "name": "LC3_GABARAP_recruitment/WellD10_ChannelCSU 488,CSU 561_Seq0023.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellD10_ChannelCSU 488,CSU 561_Seq0023.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR1m",
+        "Treatment": "Rapalog",
+        "Staining": "GABARAP"
+      }
+    },
+    "18f92bcd-2cdc-40bb-95a6-1ec7f9a3141c": {
+      "id": "18f92bcd-2cdc-40bb-95a6-1ec7f9a3141c",
+      "name": "LC3_GABARAP_recruitment/WellE03_ChannelCSU 488,CSU 561_Seq0031.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellE03_ChannelCSU 488,CSU 561_Seq0031.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "No",
+        "Staining": "LC3B"
+      }
+    },
+    "814ae751-5b83-475e-8071-f7b3b422235a": {
+      "id": "814ae751-5b83-475e-8071-f7b3b422235a",
+      "name": "LC3_GABARAP_recruitment/WellE04_ChannelCSU 488,CSU 561_Seq0030.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellE04_ChannelCSU 488,CSU 561_Seq0030.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "No",
+        "Staining": "LC3B"
+      }
+    },
+    "f691766b-509e-4988-a986-30d8362a9d0f": {
+      "id": "f691766b-509e-4988-a986-30d8362a9d0f",
+      "name": "LC3_GABARAP_recruitment/WellE05_ChannelCSU 488,CSU 561_Seq0029.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellE05_ChannelCSU 488,CSU 561_Seq0029.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "No",
+        "Staining": "LC3B"
+      }
+    },
+    "60b88699-342c-44e6-ba19-6a5dc859648c": {
+      "id": "60b88699-342c-44e6-ba19-6a5dc859648c",
+      "name": "LC3_GABARAP_recruitment/WellE06_ChannelCSU 488,CSU 561_Seq0028.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellE06_ChannelCSU 488,CSU 561_Seq0028.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "Rapalog",
+        "Staining": "LC3B"
+      }
+    },
+    "000e6ee9-4532-4535-8cd6-d4af20913846": {
+      "id": "000e6ee9-4532-4535-8cd6-d4af20913846",
+      "name": "LC3_GABARAP_recruitment/WellE07_ChannelCSU 488,CSU 561_Seq0027.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellE07_ChannelCSU 488,CSU 561_Seq0027.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "Rapalog",
+        "Staining": "LC3B"
+      }
+    },
+    "dab40e2f-d143-49c4-a872-0a01b4b8b626": {
+      "id": "dab40e2f-d143-49c4-a872-0a01b4b8b626",
+      "name": "LC3_GABARAP_recruitment/WellE08_ChannelCSU 488,CSU 561_Seq0026.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellE08_ChannelCSU 488,CSU 561_Seq0026.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "Rapalog",
+        "Staining": "LC3B"
+      }
+    },
+    "bdbbf764-78d1-469e-8c84-3f08ad4a9597": {
+      "id": "bdbbf764-78d1-469e-8c84-3f08ad4a9597",
+      "name": "LC3_GABARAP_recruitment/WellE09_ChannelCSU 488,CSU 561_Seq0025.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellE09_ChannelCSU 488,CSU 561_Seq0025.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "No",
+        "Staining": "GABARAP"
+      }
+    },
+    "a75bdf4e-3b64-43d1-8820-7c7fcea0d70e": {
+      "id": "a75bdf4e-3b64-43d1-8820-7c7fcea0d70e",
+      "name": "LC3_GABARAP_recruitment/WellE10_ChannelCSU 488,CSU 561_Seq0024.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellE10_ChannelCSU 488,CSU 561_Seq0024.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "No",
+        "Staining": "GABARAP"
+      }
+    },
+    "f397c1aa-6e32-4daa-ba38-a230ba4ed0e0": {
+      "id": "f397c1aa-6e32-4daa-ba38-a230ba4ed0e0",
+      "name": "LC3_GABARAP_recruitment/WellF03_ChannelCSU 488,CSU 561_Seq0032.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellF03_ChannelCSU 488,CSU 561_Seq0032.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "No",
+        "Staining": "GABARAP"
+      }
+    },
+    "9bb23e67-c433-496b-8c0f-597c12faa9d0": {
+      "id": "9bb23e67-c433-496b-8c0f-597c12faa9d0",
+      "name": "LC3_GABARAP_recruitment/WellF04_ChannelCSU 488,CSU 561_Seq0033.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellF04_ChannelCSU 488,CSU 561_Seq0033.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "Rapalog",
+        "Staining": "GABARAP"
+      }
+    },
+    "e523734e-afd2-4c1a-be98-25c797c2cfb4": {
+      "id": "e523734e-afd2-4c1a-be98-25c797c2cfb4",
+      "name": "LC3_GABARAP_recruitment/WellF05_ChannelCSU 488,CSU 561_Seq0034.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellF05_ChannelCSU 488,CSU 561_Seq0034.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "Rapalog",
+        "Staining": "GABARAP"
+      }
+    },
+    "aa2c3804-33b8-444e-82e5-8e07e9fb2ec9": {
+      "id": "aa2c3804-33b8-444e-82e5-8e07e9fb2ec9",
+      "name": "LC3_GABARAP_recruitment/WellF06_ChannelCSU 488,CSU 561_Seq0035.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellF06_ChannelCSU 488,CSU 561_Seq0035.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "Rapalog",
+        "Staining": "GABARAP"
+      }
+    },
+    "04536f40-14da-4db0-bb24-0cbaffc79b5e": {
+      "id": "04536f40-14da-4db0-bb24-0cbaffc79b5e",
+      "name": "LC3_GABARAP_recruitment/WellF07_ChannelCSU 488,CSU 561_Seq0036.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellF07_ChannelCSU 488,CSU 561_Seq0036.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR1+LIR2m",
+        "Treatment": "No",
+        "Staining": "LC3B"
+      }
+    },
+    "066578e5-9d12-4451-a59e-1fc921f0cc93": {
+      "id": "066578e5-9d12-4451-a59e-1fc921f0cc93",
+      "name": "LC3_GABARAP_recruitment/WellF08_ChannelCSU 488,CSU 561_Seq0037.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellF08_ChannelCSU 488,CSU 561_Seq0037.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR1+LIR2m",
+        "Treatment": "No",
+        "Staining": "LC3B"
+      }
+    },
+    "9e83a282-1c92-4c90-8bd8-9ce5db9215d6": {
+      "id": "9e83a282-1c92-4c90-8bd8-9ce5db9215d6",
+      "name": "LC3_GABARAP_recruitment/WellF09_ChannelCSU 488,CSU 561_Seq0038.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellF09_ChannelCSU 488,CSU 561_Seq0038.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR1+LIR2m",
+        "Treatment": "No",
+        "Staining": "LC3B"
+      }
+    },
+    "f27359e2-8fad-4b26-87dc-f12d6e82cacf": {
+      "id": "f27359e2-8fad-4b26-87dc-f12d6e82cacf",
+      "name": "LC3_GABARAP_recruitment/WellF10_ChannelCSU 488,CSU 561_Seq0039.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellF10_ChannelCSU 488,CSU 561_Seq0039.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR1+LIR2m",
+        "Treatment": "Rapalog",
+        "Staining": "LC3B"
+      }
+    },
+    "cd3161ce-2393-4ea5-8a54-38c9383f553d": {
+      "id": "cd3161ce-2393-4ea5-8a54-38c9383f553d",
+      "name": "LC3_GABARAP_recruitment/WellG03_ChannelCSU 488,CSU 561_Seq0047.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellG03_ChannelCSU 488,CSU 561_Seq0047.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR1+LIR2m",
+        "Treatment": "Rapalog",
+        "Staining": "LC3B"
+      }
+    },
+    "08424561-597d-46fd-9eb7-7870385c59d8": {
+      "id": "08424561-597d-46fd-9eb7-7870385c59d8",
+      "name": "LC3_GABARAP_recruitment/WellG04_ChannelCSU 488,CSU 561_Seq0046.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellG04_ChannelCSU 488,CSU 561_Seq0046.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR1+LIR2m",
+        "Treatment": "Rapalog",
+        "Staining": "LC3B"
+      }
+    },
+    "66e4f5a0-9fc1-4c0e-beb2-f54189a2c69e": {
+      "id": "66e4f5a0-9fc1-4c0e-beb2-f54189a2c69e",
+      "name": "LC3_GABARAP_recruitment/WellG05_ChannelCSU 488,CSU 561_Seq0045.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellG05_ChannelCSU 488,CSU 561_Seq0045.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR1+LIR2m",
+        "Treatment": "No",
+        "Staining": "GABARAP"
+      }
+    },
+    "72478cb4-1617-4e15-99d0-e6bf68b49a76": {
+      "id": "72478cb4-1617-4e15-99d0-e6bf68b49a76",
+      "name": "LC3_GABARAP_recruitment/WellG06_ChannelCSU 488,CSU 561_Seq0044.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellG06_ChannelCSU 488,CSU 561_Seq0044.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR1+LIR2m",
+        "Treatment": "No",
+        "Staining": "GABARAP"
+      }
+    },
+    "47430c28-fb2f-49d2-9035-8caf0c72908e": {
+      "id": "47430c28-fb2f-49d2-9035-8caf0c72908e",
+      "name": "LC3_GABARAP_recruitment/WellG07_ChannelCSU 488,CSU 561_Seq0043.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellG07_ChannelCSU 488,CSU 561_Seq0043.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR1+LIR2m",
+        "Treatment": "No",
+        "Staining": "GABARAP"
+      }
+    },
+    "80fb230a-cb55-4ac1-805d-26cc7e000b99": {
+      "id": "80fb230a-cb55-4ac1-805d-26cc7e000b99",
+      "name": "LC3_GABARAP_recruitment/WellG08_ChannelCSU 488,CSU 561_Seq0042.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellG08_ChannelCSU 488,CSU 561_Seq0042.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR1+LIR2m",
+        "Treatment": "Rapalog",
+        "Staining": "GABARAP"
+      }
+    },
+    "4c29bb75-103e-404d-9e20-4e99bd492980": {
+      "id": "4c29bb75-103e-404d-9e20-4e99bd492980",
+      "name": "LC3_GABARAP_recruitment/WellG09_ChannelCSU 488,CSU 561_Seq0041.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellG09_ChannelCSU 488,CSU 561_Seq0041.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR1+LIR2m",
+        "Treatment": "Rapalog",
+        "Staining": "GABARAP"
+      }
+    },
+    "52763f6e-aeba-4c2e-bb2f-352ef0f02733": {
+      "id": "52763f6e-aeba-4c2e-bb2f-352ef0f02733",
+      "name": "LC3_GABARAP_recruitment/WellG10_ChannelCSU 488,CSU 561_Seq0040.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/LC3_GABARAP_recruitment/WellG10_ChannelCSU 488,CSU 561_Seq0040.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR1+LIR2m",
+        "Treatment": "Rapalog",
+        "Staining": "GABARAP"
+      }
+    },
+    "b922a2ac-c211-4746-bd82-860eb766640d": {
+      "id": "b922a2ac-c211-4746-bd82-860eb766640d",
+      "name": "FIP200 Recruitment/WellB02_ChannelCSU 488,CSU 561_Seq0000.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellB02_ChannelCSU 488,CSU 561_Seq0000.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "no",
+        "Staining": "WT"
+      }
+    },
+    "dc4e4e90-a027-443f-85b9-32aef4090a27": {
+      "id": "dc4e4e90-a027-443f-85b9-32aef4090a27",
+      "name": "FIP200 Recruitment/WellB03_ChannelCSU 488,CSU 561_Seq0001.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellB03_ChannelCSU 488,CSU 561_Seq0001.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "no",
+        "Staining": "WT"
+      }
+    },
+    "1e2733f8-9979-4c74-9627-8aa4c99441cc": {
+      "id": "1e2733f8-9979-4c74-9627-8aa4c99441cc",
+      "name": "FIP200 Recruitment/WellB04_ChannelCSU 488,CSU 561_Seq0002.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellB04_ChannelCSU 488,CSU 561_Seq0002.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "no",
+        "Staining": "WT"
+      }
+    },
+    "63a91385-d969-48f8-a968-e3e79b38000c": {
+      "id": "63a91385-d969-48f8-a968-e3e79b38000c",
+      "name": "FIP200 Recruitment/WellB05_ChannelCSU 488,CSU 561_Seq0003.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellB05_ChannelCSU 488,CSU 561_Seq0003.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "Rapalog",
+        "Staining": "WT"
+      }
+    },
+    "5ec6e702-9c18-4b1a-875f-dd9d03c5a921": {
+      "id": "5ec6e702-9c18-4b1a-875f-dd9d03c5a921",
+      "name": "FIP200 Recruitment/WellB06_ChannelCSU 488,CSU 561_Seq0004.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellB06_ChannelCSU 488,CSU 561_Seq0004.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "Rapalog",
+        "Staining": "WT"
+      }
+    },
+    "93565825-b342-455f-b7a3-965e7de5b776": {
+      "id": "93565825-b342-455f-b7a3-965e7de5b776",
+      "name": "FIP200 Recruitment/WellB07_ChannelCSU 488,CSU 561_Seq0005.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellB07_ChannelCSU 488,CSU 561_Seq0005.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "Rapalog",
+        "Staining": "WT"
+      }
+    },
+    "69b6e31c-723c-4dbe-95dc-42f3f4360c99": {
+      "id": "69b6e31c-723c-4dbe-95dc-42f3f4360c99",
+      "name": "FIP200 Recruitment/WellC02_ChannelCSU 488,CSU 561_Seq0019.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellC02_ChannelCSU 488,CSU 561_Seq0019.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "no",
+        "Staining": "WT"
+      }
+    },
+    "2f07faa3-e26b-4836-8fff-586d329755fc": {
+      "id": "2f07faa3-e26b-4836-8fff-586d329755fc",
+      "name": "FIP200 Recruitment/WellC03_ChannelCSU 488,CSU 561_Seq0018.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellC03_ChannelCSU 488,CSU 561_Seq0018.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "no",
+        "Staining": "WT"
+      }
+    },
+    "c95bc84c-d871-42d0-91b8-ea7a5343fa7d": {
+      "id": "c95bc84c-d871-42d0-91b8-ea7a5343fa7d",
+      "name": "FIP200 Recruitment/WellC04_ChannelCSU 488,CSU 561_Seq0017.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellC04_ChannelCSU 488,CSU 561_Seq0017.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "no",
+        "Staining": "WT"
+      }
+    },
+    "2af8030f-878d-4f51-9bfe-ad5de0c49791": {
+      "id": "2af8030f-878d-4f51-9bfe-ad5de0c49791",
+      "name": "FIP200 Recruitment/WellC05_ChannelCSU 488,CSU 561_Seq0016.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellC05_ChannelCSU 488,CSU 561_Seq0016.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "Rapalog",
+        "Staining": "WT"
+      }
+    },
+    "bcfaebd1-7519-4951-a7eb-265f6c4fd782": {
+      "id": "bcfaebd1-7519-4951-a7eb-265f6c4fd782",
+      "name": "FIP200 Recruitment/WellC06_ChannelCSU 488,CSU 561_Seq0015.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellC06_ChannelCSU 488,CSU 561_Seq0015.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "Rapalog",
+        "Staining": "WT"
+      }
+    },
+    "6c3322ea-d76c-4fe5-a2cb-3a7442814805": {
+      "id": "6c3322ea-d76c-4fe5-a2cb-3a7442814805",
+      "name": "FIP200 Recruitment/WellC07_ChannelCSU 488,CSU 561_Seq0014.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellC07_ChannelCSU 488,CSU 561_Seq0014.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "Rapalog",
+        "Staining": "WT"
+      }
+    },
+    "3fcb5341-1db2-4b38-a0b2-b4592b6898df": {
+      "id": "3fcb5341-1db2-4b38-a0b2-b4592b6898df",
+      "name": "FIP200 Recruitment/WellD02_ChannelCSU 488,CSU 561_Seq0020.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellD02_ChannelCSU 488,CSU 561_Seq0020.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "no",
+        "Staining": "TAX1BP1KO"
+      }
+    },
+    "b4c7eadc-2448-4ad3-9ea4-f16dead7e7f7": {
+      "id": "b4c7eadc-2448-4ad3-9ea4-f16dead7e7f7",
+      "name": "FIP200 Recruitment/WellD03_ChannelCSU 488,CSU 561_Seq0021.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellD03_ChannelCSU 488,CSU 561_Seq0021.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "no",
+        "Staining": "TAX1BP1KO"
+      }
+    },
+    "51dfbf95-63b7-4bd9-85c6-ab04eed591e3": {
+      "id": "51dfbf95-63b7-4bd9-85c6-ab04eed591e3",
+      "name": "FIP200 Recruitment/WellD04_ChannelCSU 488,CSU 561_Seq0022.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellD04_ChannelCSU 488,CSU 561_Seq0022.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "no",
+        "Staining": "TAX1BP1KO"
+      }
+    },
+    "f7ab7619-696b-44b7-9c52-55dbc542969b": {
+      "id": "f7ab7619-696b-44b7-9c52-55dbc542969b",
+      "name": "FIP200 Recruitment/WellD05_ChannelCSU 488,CSU 561_Seq0023.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellD05_ChannelCSU 488,CSU 561_Seq0023.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "Rapalog",
+        "Staining": "TAX1BP1KO"
+      }
+    },
+    "6788cfbb-8fa7-452f-a768-04ee2c947ffb": {
+      "id": "6788cfbb-8fa7-452f-a768-04ee2c947ffb",
+      "name": "FIP200 Recruitment/WellD06_ChannelCSU 488,CSU 561_Seq0024.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellD06_ChannelCSU 488,CSU 561_Seq0024.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "Rapalog",
+        "Staining": "TAX1BP1KO"
+      }
+    },
+    "bac2d322-1250-4e17-be3f-b2e11461320c": {
+      "id": "bac2d322-1250-4e17-be3f-b2e11461320c",
+      "name": "FIP200 Recruitment/WellD07_ChannelCSU 488,CSU 561_Seq0025.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellD07_ChannelCSU 488,CSU 561_Seq0025.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "Rapalog",
+        "Staining": "TAX1BP1KO"
+      }
+    },
+    "5a2f35fc-f9af-446f-a981-8a0b5e315f5a": {
+      "id": "5a2f35fc-f9af-446f-a981-8a0b5e315f5a",
+      "name": "FIP200 Recruitment/WellE02_ChannelCSU 488,CSU 561_Seq0039.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellE02_ChannelCSU 488,CSU 561_Seq0039.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "no",
+        "Staining": "TAX1BP1KO"
+      }
+    },
+    "5c164742-dbfc-45bd-a2e8-75afab9495e0": {
+      "id": "5c164742-dbfc-45bd-a2e8-75afab9495e0",
+      "name": "FIP200 Recruitment/WellE03_ChannelCSU 488,CSU 561_Seq0038.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellE03_ChannelCSU 488,CSU 561_Seq0038.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "no",
+        "Staining": "TAX1BP1KO"
+      }
+    },
+    "c82c04b0-1c63-4512-ad71-1772b281bf70": {
+      "id": "c82c04b0-1c63-4512-ad71-1772b281bf70",
+      "name": "FIP200 Recruitment/WellE04_ChannelCSU 488,CSU 561_Seq0037.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellE04_ChannelCSU 488,CSU 561_Seq0037.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "no",
+        "Staining": "TAX1BP1KO"
+      }
+    },
+    "5f011f32-5c82-4581-8b03-3318f2deca53": {
+      "id": "5f011f32-5c82-4581-8b03-3318f2deca53",
+      "name": "FIP200 Recruitment/WellE05_ChannelCSU 488,CSU 561_Seq0036.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellE05_ChannelCSU 488,CSU 561_Seq0036.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "Rapalog",
+        "Staining": "TAX1BP1KO"
+      }
+    },
+    "7b0c80d7-5eaf-4e42-86fb-44c8fd7dd009": {
+      "id": "7b0c80d7-5eaf-4e42-86fb-44c8fd7dd009",
+      "name": "FIP200 Recruitment/WellE06_ChannelCSU 488,CSU 561_Seq0035.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellE06_ChannelCSU 488,CSU 561_Seq0035.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "Rapalog",
+        "Staining": "TAX1BP1KO"
+      }
+    },
+    "69e960a7-9e64-4719-be9f-36c720676f08": {
+      "id": "69e960a7-9e64-4719-be9f-36c720676f08",
+      "name": "FIP200 Recruitment/WellE07_ChannelCSU 488,CSU 561_Seq0034.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellE07_ChannelCSU 488,CSU 561_Seq0034.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "Rapalog",
+        "Staining": "TAX1BP1KO"
+      }
+    },
+    "bf86b145-cbb8-4a99-a727-5c4c1fbf9ea6": {
+      "id": "bf86b145-cbb8-4a99-a727-5c4c1fbf9ea6",
+      "name": "FIP200 Recruitment/WellF02_ChannelCSU 488,CSU 561_Seq0040.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellF02_ChannelCSU 488,CSU 561_Seq0040.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "no",
+        "Staining": "ATG8 6KO"
+      }
+    },
+    "8e3996d9-9f65-4708-be1c-8214de49896d": {
+      "id": "8e3996d9-9f65-4708-be1c-8214de49896d",
+      "name": "FIP200 Recruitment/WellF03_ChannelCSU 488,CSU 561_Seq0041.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellF03_ChannelCSU 488,CSU 561_Seq0041.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "no",
+        "Staining": "ATG8 6KO"
+      }
+    },
+    "66aa2df3-a239-4cb4-ab5b-59cc31277876": {
+      "id": "66aa2df3-a239-4cb4-ab5b-59cc31277876",
+      "name": "FIP200 Recruitment/WellF04_ChannelCSU 488,CSU 561_Seq0042.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellF04_ChannelCSU 488,CSU 561_Seq0042.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "no",
+        "Staining": "ATG8 6KO"
+      }
+    },
+    "076e2e97-4b3c-4c53-ba33-2a4651582f96": {
+      "id": "076e2e97-4b3c-4c53-ba33-2a4651582f96",
+      "name": "FIP200 Recruitment/WellF05_ChannelCSU 488,CSU 561_Seq0043.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellF05_ChannelCSU 488,CSU 561_Seq0043.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "Rapalog",
+        "Staining": "ATG8 6KO"
+      }
+    },
+    "dc274f23-038a-4ddf-aa57-d7623e53d49a": {
+      "id": "dc274f23-038a-4ddf-aa57-d7623e53d49a",
+      "name": "FIP200 Recruitment/WellF06_ChannelCSU 488,CSU 561_Seq0044.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellF06_ChannelCSU 488,CSU 561_Seq0044.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "Rapalog",
+        "Staining": "ATG8 6KO"
+      }
+    },
+    "ec4b1b1a-b8da-417b-af8c-56ea1ff89f72": {
+      "id": "ec4b1b1a-b8da-417b-af8c-56ea1ff89f72",
+      "name": "FIP200 Recruitment/WellF07_ChannelCSU 488,CSU 561_Seq0045.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellF07_ChannelCSU 488,CSU 561_Seq0045.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 WT",
+        "Treatment": "Rapalog",
+        "Staining": "ATG8 6KO"
+      }
+    },
+    "427ea85f-1cb1-4b2f-9d30-6f97c4334546": {
+      "id": "427ea85f-1cb1-4b2f-9d30-6f97c4334546",
+      "name": "FIP200 Recruitment/WellG02_ChannelCSU 488,CSU 561_Seq0059.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellG02_ChannelCSU 488,CSU 561_Seq0059.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "no",
+        "Staining": "ATG8 6KO"
+      }
+    },
+    "ef281941-21f9-4c1b-bf80-dbcd7a8ae97f": {
+      "id": "ef281941-21f9-4c1b-bf80-dbcd7a8ae97f",
+      "name": "FIP200 Recruitment/WellG03_ChannelCSU 488,CSU 561_Seq0058.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellG03_ChannelCSU 488,CSU 561_Seq0058.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "no",
+        "Staining": "ATG8 6KO"
+      }
+    },
+    "ab435db8-d0c8-45d6-bbb1-58667585e65e": {
+      "id": "ab435db8-d0c8-45d6-bbb1-58667585e65e",
+      "name": "FIP200 Recruitment/WellG04_ChannelCSU 488,CSU 561_Seq0057.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellG04_ChannelCSU 488,CSU 561_Seq0057.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "no",
+        "Staining": "ATG8 6KO"
+      }
+    },
+    "c1a2535d-4071-401e-a668-07bbbdf9deb3": {
+      "id": "c1a2535d-4071-401e-a668-07bbbdf9deb3",
+      "name": "FIP200 Recruitment/WellG05_ChannelCSU 488,CSU 561_Seq0056.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellG05_ChannelCSU 488,CSU 561_Seq0056.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "Rapalog",
+        "Staining": "ATG8 6KO"
+      }
+    },
+    "4771d18f-5b69-4565-b849-9cb2e43d41c6": {
+      "id": "4771d18f-5b69-4565-b849-9cb2e43d41c6",
+      "name": "FIP200 Recruitment/WellG06_ChannelCSU 488,CSU 561_Seq0055.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellG06_ChannelCSU 488,CSU 561_Seq0055.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "Rapalog",
+        "Staining": "ATG8 6KO"
+      }
+    },
+    "2997af3e-2fec-422d-8ffb-45499449981b": {
+      "id": "2997af3e-2fec-422d-8ffb-45499449981b",
+      "name": "FIP200 Recruitment/WellG07_ChannelCSU 488,CSU 561_Seq0054.nd2",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/619/S-BIAD619/Files/FIP200 Recruitment/WellG07_ChannelCSU 488,CSU 561_Seq0054.nd2",
+      "size_in_bytes": 151015424,
+      "type": null,
+      "attributes": {
+        "Field": "9",
+        "BAIT": "TNIP1 LIR2m",
+        "Treatment": "Rapalog",
+        "Staining": "ATG8 6KO"
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

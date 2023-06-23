@@ -1,0 +1,27 @@
+{
+  "id": "8cd65978-db64-444b-a521-3d852369c808",
+  "accession_id": "S-BSST1009",
+  "name": "mc3/mc3_Image 103.2.czi",
+  "original_relpath": "mc3/mc3_Image 103.2.czi",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BSST1009",
+      "image_id": "8cd65978-db64-444b-a521-3d852369c808",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/009/S-BSST1009/Files/Neonatal VGLUT2 raw data.zip",
+      "size": 1715851328,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "15be9ce3-44c5-4b2f-92f3-894d171bb090"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Description": "Raw images used for Fig. 2f",
+    "Type": "CZI files (confocal images)"
+  }
+}

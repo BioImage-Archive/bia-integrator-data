@@ -1,0 +1,40 @@
+{
+  "id": "e65b205a-3ae4-4477-b794-69dd62f8a829",
+  "accession_id": "S-BIAD368",
+  "name": "CellCycle/CellCycle_Rep3/7_WT_t4ICRFatt0/190321_exp3.25_Slide2_010.nd2",
+  "original_relpath": "CellCycle/CellCycle_Rep3/7_WT_t4ICRFatt0/190321_exp3.25_Slide2_010.nd2",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD368",
+      "image_id": "e65b205a-3ae4-4477-b794-69dd62f8a829",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/368/S-BIAD368/Files/CellCycle/CellCycle_Rep3/7_WT_t4ICRFatt0/190321_exp3.25_Slide2_010.nd2",
+      "size": 44584960,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "c12fdfc9-f707-4eb4-a5fc-c8c90cf9e3bb"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "File_Type": "nd2 image",
+    "Microscope": "Nikon Eclipse Ti Wide-field Fluorescence Microscope",
+    "Cell_Line": "HeLa-S3",
+    "Timepoint": "4hrs early G1",
+    "Treatment": "30uM ICRF-193",
+    "Time_TreatmentAdded": "t0",
+    "Experiment_Type": "Cell Cycle State",
+    "Experimental_Replicate": "3",
+    "Mitotic_Sync_Protocol": "single thymidine block + 12hr nocodazole",
+    "Channel1": "DIC",
+    "Channel2": "GFP",
+    "Channel3": "Cy3",
+    "Channel4": "DAPI",
+    "Stains_Tags": "anti-Tubulin(AF488/GFP channel), anti-LaminA(AF568/Cy3 channel), DAPI",
+    "Analysis_Step": "NA"
+  }
+}

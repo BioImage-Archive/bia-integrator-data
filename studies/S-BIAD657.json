@@ -1,0 +1,233 @@
+{
+  "accession_id": "S-BIAD657",
+  "title": "Multi-site assessment of reproducibility in high-content cell migration imaging data",
+  "description": "This dataset contains the raw images as well as the metadata used in the paper \"Multi-site assessment of reproducibility in high-content live cell imaging data\". ",
+  "authors": [
+    {
+      "name": "Jianjiang Hu"
+    },
+    {
+      "name": "Xavier Serra-Picamal"
+    },
+    {
+      "name": "Gert-Jan Bakker"
+    },
+    {
+      "name": "Marleen Van Troys"
+    },
+    {
+      "name": "Sabina Winograd-katz"
+    },
+    {
+      "name": "Nil Ege"
+    },
+    {
+      "name": "Xiaowei Gong"
+    },
+    {
+      "name": "Yuliia Didan"
+    },
+    {
+      "name": "Inna Grosheva"
+    },
+    {
+      "name": "Omer Polansky"
+    },
+    {
+      "name": "Karima Bakkali"
+    },
+    {
+      "name": "Evelien Van Hamme"
+    },
+    {
+      "name": "Merijn van Erp"
+    },
+    {
+      "name": "Manon Vullings"
+    },
+    {
+      "name": "Felix Weiss"
+    },
+    {
+      "name": "Jarama Clucas"
+    },
+    {
+      "name": "Anna M. Dowbaj"
+    },
+    {
+      "name": "Erik Sahai"
+    },
+    {
+      "name": "Christophe Ampe"
+    },
+    {
+      "name": "Benjamin Geiger"
+    },
+    {
+      "name": "Peter Friedl"
+    },
+    {
+      "name": "Matteo Bottai"
+    },
+    {
+      "name": "Staffan Strömblad"
+    }
+  ],
+  "organism": "Unknown",
+  "release_date": "2023-03-24",
+  "license": "CC BY 4.0",
+  "links": {
+    "Analysis pipelines and codes used in this study": "https://github.com/hujianjiang/Variability"
+  },
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "example_annotation_uri": "",
+  "file_references": {
+    "8f862023-9bed-4650-9aff-31e08e607a73": {
+      "id": "8f862023-9bed-4650-9aff-31e08e607a73",
+      "name": "Variability/2D data/Original data-2D.rar",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/657/S-BIAD657/Files/Variability/2D data/Original data-2D.rar",
+      "size_in_bytes": 451161731169,
+      "type": null,
+      "attributes": {
+        "Description": "This file  contains the raw timelapse images of HT1080 cell line stably expressing H2B-EGFP and Lifeact-mCherry seeded on collagen I coated glass surface. Migration behavior of the cells was recorded in 5 min intervals for 6 h with fluorescent light microscopes equipped with environmental chamber. The experiment was performed by 3 labs, 3 person in each lab, 3 independent experiments by each person, 3 technical replicates in each experiment, and two conditions (control and ROCK inhibition) for each technical repliates. "
+      }
+    },
+    "82030af8-41c8-465c-a875-283f39d64cc9": {
+      "id": "82030af8-41c8-465c-a875-283f39d64cc9",
+      "name": "Variability/2D data/Metadata-2D.rar",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/657/S-BIAD657/Files/Variability/2D data/Metadata-2D.rar",
+      "size_in_bytes": 87372378,
+      "type": null,
+      "attributes": {
+        "Description": "This file contains the meta data of the 2D image data from Lab 1 (KI), Lab2 (WIS), and Lab 3 (UGhent) as well as the ISAcreater software to read the meta data. "
+      }
+    },
+    "eb2f14d7-e30e-4131-a533-3717aab51598": {
+      "id": "eb2f14d7-e30e-4131-a533-3717aab51598",
+      "name": "Variability/3D data/3D Image data from Lab 1.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/657/S-BIAD657/Files/Variability/3D data/3D Image data from Lab 1.zip",
+      "size_in_bytes": 1986523311,
+      "type": null,
+      "attributes": {
+        "Description": "This file contains the raw images and the quantified results of the 3D migration assay from Lab 1. The experiment was performed with HT1080 cell line stably expressing H2B-EGFP and Lifeact-mCherry embedded in 2.5mg/ml or 6mg/ml collagen I gels. The invasion of the cells from 3D spheroid was recorded with confocal microscopy 24 h after seeding. The experiment was performed by 2 labs, 3 independent experiments in each lab, 3 technical replicates in each experiment, and two conditions (2.5 mg/ml and 6 mg/ml of collagen I) for each technical repliates. "
+      }
+    },
+    "d15da15c-0a22-4005-8976-2051b5eab76b": {
+      "id": "d15da15c-0a22-4005-8976-2051b5eab76b",
+      "name": "Variability/3D data/3D Image data from Lab 2.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/657/S-BIAD657/Files/Variability/3D data/3D Image data from Lab 2.zip",
+      "size_in_bytes": 3587044940,
+      "type": null,
+      "attributes": {
+        "Description": "This file contains the raw images and the quantified results of the 3D migration assay from Lab 2. The experiment was performed with HT1080 cell line stably expressing H2B-EGFP and Lifeact-mCherry embedded in 2.5mg/ml or 6mg/ml collagen I gels. The invasion of the cells from 3D spheroid was recorded with confocal microscopy 24 h after seeding. The experiment was performed by 2 labs, 3 independent experiments in each lab, 3 technical replicates in each experiment, and two conditions (2.5 mg/ml and 6 mg/ml of collagen I) for each technical repliates. "
+      }
+    },
+    "fe45cc99-cc0b-43dc-a9a8-edb735e89e15": {
+      "id": "fe45cc99-cc0b-43dc-a9a8-edb735e89e15",
+      "name": "Variability/3D data/Meta data of the 3D experiment.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/657/S-BIAD657/Files/Variability/3D data/Meta data of the 3D experiment.zip",
+      "size_in_bytes": 45644098,
+      "type": null,
+      "attributes": {
+        "Description": "This file contains the meta data of the 3D image data from Lab 1 (Radboudumc) and Lab 2 (Crick) as well as the software to read the meta data. After unzipping, ISAcreator program should be used to read the ISAfiles of Lab 1 or Lab 2."
+      }
+    },
+    "179b7eb6-6dd0-4def-a824-5b54e64e5096": {
+      "id": "179b7eb6-6dd0-4def-a824-5b54e64e5096",
+      "name": "a_2018_3dsphinvasion_ht1080_collagen_spheroid_invasion_assay_microscopy_imaging-N2.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/657/S-BIAD657/Files/Variability/3D data/3D Image data from Lab 1.zip",
+      "size_in_bytes": 695615594,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "This file contains the raw images and the quantified results of the 3D migration assay from Lab 1. The experiment was performed with HT1080 cell line stably expressing H2B-EGFP and Lifeact-mCherry embedded in 2.5mg/ml or 6mg/ml collagen I gels. The invasion of the cells from 3D spheroid was recorded with confocal microscopy 24 h after seeding. The experiment was performed by 2 labs, 3 independent experiments in each lab, 3 technical replicates in each experiment, and two conditions (2.5 mg/ml and 6 mg/ml of collagen I) for each technical repliates. "
+      }
+    },
+    "3b969f1a-5223-45d0-8648-693fba469c54": {
+      "id": "3b969f1a-5223-45d0-8648-693fba469c54",
+      "name": "a_2018_3dsphinvasion_ht1080_collagen_spheroid_invasion_assay_microscopy_imaging-N3.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/657/S-BIAD657/Files/Variability/3D data/3D Image data from Lab 1.zip",
+      "size_in_bytes": 601500909,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "This file contains the raw images and the quantified results of the 3D migration assay from Lab 1. The experiment was performed with HT1080 cell line stably expressing H2B-EGFP and Lifeact-mCherry embedded in 2.5mg/ml or 6mg/ml collagen I gels. The invasion of the cells from 3D spheroid was recorded with confocal microscopy 24 h after seeding. The experiment was performed by 2 labs, 3 independent experiments in each lab, 3 technical replicates in each experiment, and two conditions (2.5 mg/ml and 6 mg/ml of collagen I) for each technical repliates. "
+      }
+    },
+    "f7c4c12d-e5f6-4cd7-b54e-c78593e2e223": {
+      "id": "f7c4c12d-e5f6-4cd7-b54e-c78593e2e223",
+      "name": "a_2018_3dsphinvasion_ht1080_collagen_spheroid_invasion_assay_microscopy_imaging-N4.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/657/S-BIAD657/Files/Variability/3D data/3D Image data from Lab 1.zip",
+      "size_in_bytes": 689405910,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "This file contains the raw images and the quantified results of the 3D migration assay from Lab 1. The experiment was performed with HT1080 cell line stably expressing H2B-EGFP and Lifeact-mCherry embedded in 2.5mg/ml or 6mg/ml collagen I gels. The invasion of the cells from 3D spheroid was recorded with confocal microscopy 24 h after seeding. The experiment was performed by 2 labs, 3 independent experiments in each lab, 3 technical replicates in each experiment, and two conditions (2.5 mg/ml and 6 mg/ml of collagen I) for each technical repliates. "
+      }
+    },
+    "ea98e9d3-1e04-47c3-9065-4d7b66424c27": {
+      "id": "ea98e9d3-1e04-47c3-9065-4d7b66424c27",
+      "name": "a_2018_3dsphinvasion_ht1080_collagen_spheroid_invasion_assay_microscopy_imaging_Crick-N2.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/657/S-BIAD657/Files/Variability/3D data/3D Image data from Lab 2.zip",
+      "size_in_bytes": 1366553588,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "This file contains the raw images and the quantified results of the 3D migration assay from Lab 2. The experiment was performed with HT1080 cell line stably expressing H2B-EGFP and Lifeact-mCherry embedded in 2.5mg/ml or 6mg/ml collagen I gels. The invasion of the cells from 3D spheroid was recorded with confocal microscopy 24 h after seeding. The experiment was performed by 2 labs, 3 independent experiments in each lab, 3 technical replicates in each experiment, and two conditions (2.5 mg/ml and 6 mg/ml of collagen I) for each technical repliates. "
+      }
+    },
+    "a5add06a-340c-4d87-bace-f4ef8f442e4e": {
+      "id": "a5add06a-340c-4d87-bace-f4ef8f442e4e",
+      "name": "a_2018_3dsphinvasion_ht1080_collagen_spheroid_invasion_assay_microscopy_imaging_Crick-N3.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/657/S-BIAD657/Files/Variability/3D data/3D Image data from Lab 2.zip",
+      "size_in_bytes": 935719892,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "This file contains the raw images and the quantified results of the 3D migration assay from Lab 2. The experiment was performed with HT1080 cell line stably expressing H2B-EGFP and Lifeact-mCherry embedded in 2.5mg/ml or 6mg/ml collagen I gels. The invasion of the cells from 3D spheroid was recorded with confocal microscopy 24 h after seeding. The experiment was performed by 2 labs, 3 independent experiments in each lab, 3 technical replicates in each experiment, and two conditions (2.5 mg/ml and 6 mg/ml of collagen I) for each technical repliates. "
+      }
+    },
+    "01912084-948a-4c8d-a4ea-8a71840ea9bc": {
+      "id": "01912084-948a-4c8d-a4ea-8a71840ea9bc",
+      "name": "a_2018_3dsphinvasion_ht1080_collagen_spheroid_invasion_assay_microscopy_imaging_Crick-N1.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/657/S-BIAD657/Files/Variability/3D data/3D Image data from Lab 2.zip",
+      "size_in_bytes": 1284770526,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "This file contains the raw images and the quantified results of the 3D migration assay from Lab 2. The experiment was performed with HT1080 cell line stably expressing H2B-EGFP and Lifeact-mCherry embedded in 2.5mg/ml or 6mg/ml collagen I gels. The invasion of the cells from 3D spheroid was recorded with confocal microscopy 24 h after seeding. The experiment was performed by 2 labs, 3 independent experiments in each lab, 3 technical replicates in each experiment, and two conditions (2.5 mg/ml and 6 mg/ml of collagen I) for each technical repliates. "
+      }
+    },
+    "e79ac2ad-b7c7-467d-b604-9d106ecfecf4": {
+      "id": "e79ac2ad-b7c7-467d-b604-9d106ecfecf4",
+      "name": "ISAfiles_Crick.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/657/S-BIAD657/Files/Variability/3D data/Meta data of the 3D experiment.zip",
+      "size_in_bytes": 703251,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "This file contains the meta data of the 3D image data from Lab 1 (Radboudumc) and Lab 2 (Crick) as well as the software to read the meta data. After unzipping, ISAcreator program should be used to read the ISAfiles of Lab 1 or Lab 2."
+      }
+    },
+    "e74fbd39-899a-47fd-8297-dd6ce40097fc": {
+      "id": "e74fbd39-899a-47fd-8297-dd6ce40097fc",
+      "name": "ISAfiles_Radboudumc.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/657/S-BIAD657/Files/Variability/3D data/Meta data of the 3D experiment.zip",
+      "size_in_bytes": 703241,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "This file contains the meta data of the 3D image data from Lab 1 (Radboudumc) and Lab 2 (Crick) as well as the software to read the meta data. After unzipping, ISAcreator program should be used to read the ISAfiles of Lab 1 or Lab 2."
+      }
+    },
+    "8a5324bc-55c3-4463-813b-0d458b67d349": {
+      "id": "8a5324bc-55c3-4463-813b-0d458b67d349",
+      "name": "ISAcreator-1.7.12b-program.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/657/S-BIAD657/Files/Variability/3D data/Meta data of the 3D experiment.zip",
+      "size_in_bytes": 44237082,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "This file contains the meta data of the 3D image data from Lab 1 (Radboudumc) and Lab 2 (Crick) as well as the software to read the meta data. After unzipping, ISAcreator program should be used to read the ISAfiles of Lab 1 or Lab 2."
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

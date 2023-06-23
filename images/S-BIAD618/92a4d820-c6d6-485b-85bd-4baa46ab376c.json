@@ -1,0 +1,35 @@
+{
+  "id": "92a4d820-c6d6-485b-85bd-4baa46ab376c",
+  "accession_id": "S-BIAD618",
+  "name": "Figure1_datasources/VEGFR-YFP_Adult_Corpus.ims",
+  "original_relpath": "Figure1_datasources/VEGFR-YFP_Adult_Corpus.ims",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD618",
+      "image_id": "92a4d820-c6d6-485b-85bd-4baa46ab376c",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure1_datasources.zip",
+      "size": 2192254,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "15ecd481-bb59-4d06-8a86-8a7ddced4076"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Figures": "VEGFR3-YFP_10DPN_2.ims",
+    "Format": "ims",
+    "Chanels": "1",
+    "Markers": "VEGFR3:YFP",
+    "imaging technic": "Binocular",
+    "Microscope": "Leica binocular magnifier ",
+    "Magnification": "1X",
+    "Analysis": "na",
+    "ROI": "0",
+    "Protocol": "na"
+  }
+}

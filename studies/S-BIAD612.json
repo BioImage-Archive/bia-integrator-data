@@ -1,0 +1,313 @@
+{
+  "accession_id": "S-BIAD612",
+  "title": "Label-free nanoscale mapping of intracellular organelle chemistry",
+  "description": "s-SNOM and TEM images of RPMI-8226 (Multiple myeloma) cells.",
+  "authors": [
+    {
+      "name": "George Greaves"
+    }
+  ],
+  "organism": "Unknown",
+  "release_date": "2023-01-24",
+  "license": "CC BY 4.0",
+  "links": {},
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "example_annotation_uri": "",
+  "file_references": {
+    "4a90cd7f-bb56-4fc5-9d50-464db9fe6940": {
+      "id": "4a90cd7f-bb56-4fc5-9d50-464db9fe6940",
+      "name": "GG_s-SNOM_RPMI-8226_160223/Fig 2/fig2a.gsf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/612/S-BIAD612/Files/GG_s-SNOM_RPMI-8226_160223/Fig 2/fig2a.gsf",
+      "size_in_bytes": 6354548,
+      "type": null,
+      "attributes": {
+        "Imaging modality": "s-SNOM",
+        "Sample": "RPMI-8226 (Multiple Myeloma)",
+        "Channel": "O3P (Phase, 3rd harmonic)"
+      }
+    },
+    "ad24528b-bbcf-4f3f-9bcd-37d8918f3f04": {
+      "id": "ad24528b-bbcf-4f3f-9bcd-37d8918f3f04",
+      "name": "GG_s-SNOM_RPMI-8226_160223/Fig 2/fig2ai.gsf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/612/S-BIAD612/Files/GG_s-SNOM_RPMI-8226_160223/Fig 2/fig2ai.gsf",
+      "size_in_bytes": 6000168,
+      "type": null,
+      "attributes": {
+        "Imaging modality": "s-SNOM",
+        "Sample": "RPMI-8226 (Multiple Myeloma)",
+        "Channel": "O3P (Phase, 3rd harmonic)"
+      }
+    },
+    "5c38f55e-4c61-454c-99d4-db24b577005d": {
+      "id": "5c38f55e-4c61-454c-99d4-db24b577005d",
+      "name": "GG_s-SNOM_RPMI-8226_160223/Fig 2/fig2aii.gsf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/612/S-BIAD612/Files/GG_s-SNOM_RPMI-8226_160223/Fig 2/fig2aii.gsf",
+      "size_in_bytes": 3300156,
+      "type": null,
+      "attributes": {
+        "Imaging modality": "s-SNOM",
+        "Sample": "RPMI-8226 (Multiple Myeloma)",
+        "Channel": "O3P (Phase, 3rd harmonic)"
+      }
+    },
+    "a0dbffa0-eb7e-469a-bd25-67763f488921": {
+      "id": "a0dbffa0-eb7e-469a-bd25-67763f488921",
+      "name": "GG_s-SNOM_RPMI-8226_160223/Fig 2/fig2b.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/612/S-BIAD612/Files/GG_s-SNOM_RPMI-8226_160223/Fig 2/fig2b.tif",
+      "size_in_bytes": 1363956,
+      "type": null,
+      "attributes": {
+        "Imaging modality": "TEM",
+        "Sample": "RPMI-8226 (Multiple Myeloma)",
+        "Channel": "N/A"
+      }
+    },
+    "d8677c0b-d127-4b71-a872-884f3b6df530": {
+      "id": "d8677c0b-d127-4b71-a872-884f3b6df530",
+      "name": "GG_s-SNOM_RPMI-8226_160223/Fig 2/fig2c.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/612/S-BIAD612/Files/GG_s-SNOM_RPMI-8226_160223/Fig 2/fig2c.tif",
+      "size_in_bytes": 107306,
+      "type": null,
+      "attributes": {
+        "Imaging modality": "TEM",
+        "Sample": "RPMI-8226 (Multiple Myeloma)",
+        "Channel": "N/A"
+      }
+    },
+    "d6722ffe-36ea-4231-b6ff-fc398c08eac2": {
+      "id": "d6722ffe-36ea-4231-b6ff-fc398c08eac2",
+      "name": "GG_s-SNOM_RPMI-8226_160223/Fig 3/fig3bi.gsf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/612/S-BIAD612/Files/GG_s-SNOM_RPMI-8226_160223/Fig 3/fig3bi.gsf",
+      "size_in_bytes": 2778028,
+      "type": null,
+      "attributes": {
+        "Imaging modality": "s-SNOM",
+        "Sample": "RPMI-8226 (Multiple Myeloma)",
+        "Channel": "O3P (Phase, 3rd harmonic)"
+      }
+    },
+    "48f9f3db-3d3c-4072-8b82-a27d91b80dc3": {
+      "id": "48f9f3db-3d3c-4072-8b82-a27d91b80dc3",
+      "name": "GG_s-SNOM_RPMI-8226_160223/Fig 3/fig3bii.gsf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/612/S-BIAD612/Files/GG_s-SNOM_RPMI-8226_160223/Fig 3/fig3bii.gsf",
+      "size_in_bytes": 2778028,
+      "type": null,
+      "attributes": {
+        "Imaging modality": "s-SNOM",
+        "Sample": "RPMI-8226 (Multiple Myeloma)",
+        "Channel": "O3P (Phase, 3rd harmonic)"
+      }
+    },
+    "d337bb09-a4b7-4c4b-acfc-f9a650fc8ef1": {
+      "id": "d337bb09-a4b7-4c4b-acfc-f9a650fc8ef1",
+      "name": "GG_s-SNOM_RPMI-8226_160223/Fig 3/fig3biii.gsf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/612/S-BIAD612/Files/GG_s-SNOM_RPMI-8226_160223/Fig 3/fig3biii.gsf",
+      "size_in_bytes": 2778028,
+      "type": null,
+      "attributes": {
+        "Imaging modality": "s-SNOM",
+        "Sample": "RPMI-8226 (Multiple Myeloma)",
+        "Channel": "O3P (Phase, 3rd harmonic)"
+      }
+    },
+    "a366e505-9512-446b-9e90-a14de0d719a5": {
+      "id": "a366e505-9512-446b-9e90-a14de0d719a5",
+      "name": "GG_s-SNOM_RPMI-8226_160223/Fig 3/fig3biv.gsf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/612/S-BIAD612/Files/GG_s-SNOM_RPMI-8226_160223/Fig 3/fig3biv.gsf",
+      "size_in_bytes": 2778028,
+      "type": null,
+      "attributes": {
+        "Imaging modality": "s-SNOM",
+        "Sample": "RPMI-8226 (Multiple Myeloma)",
+        "Channel": "O3P (Phase, 3rd harmonic)"
+      }
+    },
+    "cb69e4a9-2d31-4d2d-b5d7-a6c5b164ebb4": {
+      "id": "cb69e4a9-2d31-4d2d-b5d7-a6c5b164ebb4",
+      "name": "GG_s-SNOM_RPMI-8226_160223/Fig 4/fig4a.gsf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/612/S-BIAD612/Files/GG_s-SNOM_RPMI-8226_160223/Fig 4/fig4a.gsf",
+      "size_in_bytes": 7036964,
+      "type": null,
+      "attributes": {
+        "Imaging modality": "s-SNOM",
+        "Sample": "RPMI-8226 (Multiple Myeloma)",
+        "Channel": "O3P (Phase, 3rd harmonic)"
+      }
+    },
+    "1c180c6c-ffee-4b35-a97e-6d059100afe4": {
+      "id": "1c180c6c-ffee-4b35-a97e-6d059100afe4",
+      "name": "GG_s-SNOM_RPMI-8226_160223/Fig 4/fig4ai.gsf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/612/S-BIAD612/Files/GG_s-SNOM_RPMI-8226_160223/Fig 4/fig4ai.gsf",
+      "size_in_bytes": 337460,
+      "type": null,
+      "attributes": {
+        "Imaging modality": "s-SNOM",
+        "Sample": "RPMI-8226 (Multiple Myeloma)",
+        "Channel": "O3P (Phase, 3rd harmonic)"
+      }
+    },
+    "6b382a7e-77ae-49db-b70f-9c5566c59ee7": {
+      "id": "6b382a7e-77ae-49db-b70f-9c5566c59ee7",
+      "name": "GG_s-SNOM_RPMI-8226_160223/Fig 4/fig4b.gsf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/612/S-BIAD612/Files/GG_s-SNOM_RPMI-8226_160223/Fig 4/fig4b.gsf",
+      "size_in_bytes": 7036964,
+      "type": null,
+      "attributes": {
+        "Imaging modality": "s-SNOM",
+        "Sample": "RPMI-8226 (Multiple Myeloma)",
+        "Channel": "O3P (Phase, 3rd harmonic)"
+      }
+    },
+    "3b10f2cc-489e-44a4-8d93-87c1fb2e3967": {
+      "id": "3b10f2cc-489e-44a4-8d93-87c1fb2e3967",
+      "name": "GG_s-SNOM_RPMI-8226_160223/Fig 4/fig4bii.gsf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/612/S-BIAD612/Files/GG_s-SNOM_RPMI-8226_160223/Fig 4/fig4bii.gsf",
+      "size_in_bytes": 337460,
+      "type": null,
+      "attributes": {
+        "Imaging modality": "s-SNOM",
+        "Sample": "RPMI-8226 (Multiple Myeloma)",
+        "Channel": "O3P (Phase, 3rd harmonic)"
+      }
+    },
+    "545c2a20-27bb-4efa-8096-a6b384223863": {
+      "id": "545c2a20-27bb-4efa-8096-a6b384223863",
+      "name": "GG_s-SNOM_RPMI-8226_160223/S1/s1a.gsf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/612/S-BIAD612/Files/GG_s-SNOM_RPMI-8226_160223/S1/s1a.gsf",
+      "size_in_bytes": 7036964,
+      "type": null,
+      "attributes": {
+        "Imaging modality": "s-SNOM",
+        "Sample": "RPMI-8226 (Multiple Myeloma)",
+        "Channel": "O1P (Phase, 1st harmonic)"
+      }
+    },
+    "bd9be91c-0299-4db3-aee2-7c3019cee513": {
+      "id": "bd9be91c-0299-4db3-aee2-7c3019cee513",
+      "name": "GG_s-SNOM_RPMI-8226_160223/S1/s1b.gsf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/612/S-BIAD612/Files/GG_s-SNOM_RPMI-8226_160223/S1/s1b.gsf",
+      "size_in_bytes": 7036964,
+      "type": null,
+      "attributes": {
+        "Imaging modality": "s-SNOM",
+        "Sample": "RPMI-8226 (Multiple Myeloma)",
+        "Channel": "O2P (Phase, 2nd harmonic)"
+      }
+    },
+    "f6a50a38-c354-45d6-9f17-475f75151a38": {
+      "id": "f6a50a38-c354-45d6-9f17-475f75151a38",
+      "name": "GG_s-SNOM_RPMI-8226_160223/S1/s1c.gsf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/612/S-BIAD612/Files/GG_s-SNOM_RPMI-8226_160223/S1/s1c.gsf",
+      "size_in_bytes": 7036964,
+      "type": null,
+      "attributes": {
+        "Imaging modality": "s-SNOM",
+        "Sample": "RPMI-8226 (Multiple Myeloma)",
+        "Channel": "O3P (Phase, 3rd harmonic)"
+      }
+    },
+    "162c0f62-1bb5-4ad2-815f-8a40391729cd": {
+      "id": "162c0f62-1bb5-4ad2-815f-8a40391729cd",
+      "name": "GG_s-SNOM_RPMI-8226_160223/S1/s1d.gsf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/612/S-BIAD612/Files/GG_s-SNOM_RPMI-8226_160223/S1/s1d.gsf",
+      "size_in_bytes": 7036964,
+      "type": null,
+      "attributes": {
+        "Imaging modality": "s-SNOM",
+        "Sample": "RPMI-8226 (Multiple Myeloma)",
+        "Channel": "O4P (Phase, 4th harmonic)"
+      }
+    },
+    "b636415f-2418-4cf0-a1a8-41e542dc1e38": {
+      "id": "b636415f-2418-4cf0-a1a8-41e542dc1e38",
+      "name": "GG_s-SNOM_RPMI-8226_160223/S2/s2a.gsf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/612/S-BIAD612/Files/GG_s-SNOM_RPMI-8226_160223/S2/s2a.gsf",
+      "size_in_bytes": 7036968,
+      "type": null,
+      "attributes": {
+        "Imaging modality": "s-SNOM",
+        "Sample": "RPMI-8226 (Multiple Myeloma)",
+        "Channel": "Z (topography)"
+      }
+    },
+    "54fcb5a4-a632-4b17-9d30-0274a5d9ed37": {
+      "id": "54fcb5a4-a632-4b17-9d30-0274a5d9ed37",
+      "name": "GG_s-SNOM_RPMI-8226_160223/S2/s2b.gsf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/612/S-BIAD612/Files/GG_s-SNOM_RPMI-8226_160223/S2/s2b.gsf",
+      "size_in_bytes": 7036964,
+      "type": null,
+      "attributes": {
+        "Imaging modality": "s-SNOM",
+        "Sample": "RPMI-8226 (Multiple Myeloma)",
+        "Channel": "O3A (Amplitude, 3rd harmonic)"
+      }
+    },
+    "ad82b133-b60c-4484-b9b8-2714dd336081": {
+      "id": "ad82b133-b60c-4484-b9b8-2714dd336081",
+      "name": "GG_s-SNOM_RPMI-8226_160223/S4/s4ci.gsf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/612/S-BIAD612/Files/GG_s-SNOM_RPMI-8226_160223/S4/s4ci.gsf",
+      "size_in_bytes": 2778028,
+      "type": null,
+      "attributes": {
+        "Imaging modality": "s-SNOM",
+        "Sample": "RPMI-8226 (Multiple Myeloma)",
+        "Channel": "O3P (Phase, 3rd harmonic)"
+      }
+    },
+    "b8c2df2c-149b-46da-a1d6-c15075aeec79": {
+      "id": "b8c2df2c-149b-46da-a1d6-c15075aeec79",
+      "name": "GG_s-SNOM_RPMI-8226_160223/S4/s4cii.gsf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/612/S-BIAD612/Files/GG_s-SNOM_RPMI-8226_160223/S4/s4cii.gsf",
+      "size_in_bytes": 2778028,
+      "type": null,
+      "attributes": {
+        "Imaging modality": "s-SNOM",
+        "Sample": "RPMI-8226 (Multiple Myeloma)",
+        "Channel": "O3P (Phase, 3rd harmonic)"
+      }
+    },
+    "355b65ae-a4ef-48e8-8ce4-340d2cc3ef2f": {
+      "id": "355b65ae-a4ef-48e8-8ce4-340d2cc3ef2f",
+      "name": "GG_s-SNOM_RPMI-8226_160223/S5/S5b.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/612/S-BIAD612/Files/GG_s-SNOM_RPMI-8226_160223/S5/S5b.tif",
+      "size_in_bytes": 880876,
+      "type": null,
+      "attributes": {
+        "Imaging modality": "TEM",
+        "Sample": "RPMI-8226 (Multiple Myeloma)",
+        "Channel": "N/A"
+      }
+    },
+    "f79d47c8-e787-414c-add1-63bedb70dc0d": {
+      "id": "f79d47c8-e787-414c-add1-63bedb70dc0d",
+      "name": "GG_s-SNOM_RPMI-8226_160223/S6/s6Ai.gsf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/612/S-BIAD612/Files/GG_s-SNOM_RPMI-8226_160223/S6/s6Ai.gsf",
+      "size_in_bytes": 1144764,
+      "type": null,
+      "attributes": {
+        "Imaging modality": "s-SNOM",
+        "Sample": "RPMI-8226 (Multiple Myeloma)",
+        "Channel": "O3P (Phase, 3rd harmonic)"
+      }
+    },
+    "b4c4dbdf-9a2f-4e9d-8e61-f96fb199a8e7": {
+      "id": "b4c4dbdf-9a2f-4e9d-8e61-f96fb199a8e7",
+      "name": "GG_s-SNOM_RPMI-8226_160223/S6/s6Bii.gsf",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/612/S-BIAD612/Files/GG_s-SNOM_RPMI-8226_160223/S6/s6Bii.gsf",
+      "size_in_bytes": 1144764,
+      "type": null,
+      "attributes": {
+        "Imaging modality": "s-SNOM",
+        "Sample": "RPMI-8226 (Multiple Myeloma)",
+        "Channel": "O3P (Phase, 3rd harmonic)"
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

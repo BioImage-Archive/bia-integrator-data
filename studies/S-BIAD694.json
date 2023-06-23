@@ -1,0 +1,334 @@
+{
+  "accession_id": "S-BIAD694",
+  "title": "Efficient and rapid fluorescent protein knock-in with universal donors in mouse embryonic stem cells",
+  "description": "Fluorescent protein (FP) tagging is a key method for observing protein distribution, dynamics, and interaction with other proteins in living cells. However, the typical approach using overexpression of tagged proteins can perturb cell behavior and introduce localization artifacts. To preserve native expression, fluorescent proteins can be inserted directly into endogenous genes. This approach has been widely used in yeast for decades, and more recently in invertebrate model organisms with the advent of CRISPR/Cas9. However, endogenous FP tagging has not been widely used in mammalian cells due to inefficient homology-directed repair. Recently, the CRISPaint system has utilized non-homologous end joining for efficient integration of FP tags into native loci, but it only allows C-terminal knock-ins. Here, we enhanced the CRISPaint system by introducing new universal donors for N-terminal insertion and for multicolor tagging with orthogonal selection markers. We adapted the procedure for mouse embryonic stem cells, which can be differentiated into diverse cell types. Our protocol is rapid and efficient, enabling live imaging in less than 2 weeks post-transfection. These improvements increase the versatility and applicability of FP knock-in in mammalian cells.",
+  "authors": [
+    {
+      "name": "Yu Shi"
+    },
+    {
+      "name": "Nitya Kopparapu"
+    },
+    {
+      "name": "Lauren Ohler"
+    },
+    {
+      "name": "Daniel J. Dickinson"
+    }
+  ],
+  "organism": "Unknown",
+  "release_date": "2023-05-17",
+  "license": "CC BY 4.0",
+  "links": {},
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "example_annotation_uri": "",
+  "file_references": {
+    "3c9d2cf5-c685-4876-a83a-684c067dc095": {
+      "id": "3c9d2cf5-c685-4876-a83a-684c067dc095",
+      "name": "my submission/Fig 1F/exp135.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig 1F/exp135.tif",
+      "size_in_bytes": 138318534,
+      "type": null,
+      "attributes": {
+        "Description": "\"Original Image File for Fig1F, Movie 1\""
+      }
+    },
+    "82352956-ac26-4ea2-bec9-74a3508ab26e": {
+      "id": "82352956-ac26-4ea2-bec9-74a3508ab26e",
+      "name": "my submission/Fig 2F/Exp158  myosin NT 60x 10h-20h -2i myh 5c.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig 2F/Exp158  myosin NT 60x 10h-20h -2i myh 5c.tif",
+      "size_in_bytes": 118322493,
+      "type": null,
+      "attributes": {
+        "Description": "\"Original Image File for Fig2F, Movie 2\""
+      }
+    },
+    "e74bb577-8bd4-45f2-afbe-5b10182ead1f": {
+      "id": "e74bb577-8bd4-45f2-afbe-5b10182ead1f",
+      "name": "my submission/Fig 3A/exp172 TPX2 60x_1_MMStack_20.ome-1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig 3A/exp172 TPX2 60x_1_MMStack_20.ome-1.tif",
+      "size_in_bytes": 120973901,
+      "type": null,
+      "attributes": {
+        "Description": "Original Image File for Fig3A"
+      }
+    },
+    "4c7394e7-826e-42d1-a957-49616f0ef0a4": {
+      "id": "4c7394e7-826e-42d1-a957-49616f0ef0a4",
+      "name": "my submission/Fig 3A/exp172 TPX2 20x_2_MMStack_20.ome-1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig 3A/exp172 TPX2 20x_2_MMStack_20.ome-1.tif",
+      "size_in_bytes": 63370649,
+      "type": null,
+      "attributes": {
+        "Description": "Original Image File for Fig3A"
+      }
+    },
+    "4e9de98a-7693-4589-b0fb-889201335d27": {
+      "id": "4e9de98a-7693-4589-b0fb-889201335d27",
+      "name": "my submission/Fig 3B/exp177 b-cat 20h 20x_1_MMStack_20-2.ome-1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig 3B/exp177 b-cat 20h 20x_1_MMStack_20-2.ome-1.tif",
+      "size_in_bytes": 11532602,
+      "type": null,
+      "attributes": {
+        "Description": "Original Image File for Fig3B"
+      }
+    },
+    "9e81309a-9c20-4549-9bfb-5b68a10973f2": {
+      "id": "9e81309a-9c20-4549-9bfb-5b68a10973f2",
+      "name": "my submission/Fig 3B/exp177 b-cat 20h 60x_1_MMStack_20-2.ome-1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig 3B/exp177 b-cat 20h 60x_1_MMStack_20-2.ome-1.tif",
+      "size_in_bytes": 11532668,
+      "type": null,
+      "attributes": {
+        "Description": "Original Image File for Fig3B"
+      }
+    },
+    "d71c90a9-817c-4896-8b64-7c04a341d82b": {
+      "id": "d71c90a9-817c-4896-8b64-7c04a341d82b",
+      "name": "my submission/Fig 3C/exp191 zo1-mNG 30x-1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig 3C/exp191 zo1-mNG 30x-1.tif",
+      "size_in_bytes": 23043091,
+      "type": null,
+      "attributes": {
+        "Description": "Original Image File for Fig3C"
+      }
+    },
+    "8df757f3-7059-40a4-9e08-d2fa9c3fee35": {
+      "id": "8df757f3-7059-40a4-9e08-d2fa9c3fee35",
+      "name": "my submission/Fig 3C/exp191 zo1-mNG 90x-1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig 3C/exp191 zo1-mNG 90x-1.tif",
+      "size_in_bytes": 23043089,
+      "type": null,
+      "attributes": {
+        "Description": "Original Image File for Fig3C"
+      }
+    },
+    "b96a6b0f-c497-46ae-b9a4-ac92414a5095": {
+      "id": "b96a6b0f-c497-46ae-b9a4-ac92414a5095",
+      "name": "my submission/Fig 3D/exp172_tpx2 10-15 60x_-2i-2 t12 5min =-1.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig 3D/exp172_tpx2 10-15 60x_-2i-2 t12 5min =-1.tif",
+      "size_in_bytes": 82782773,
+      "type": null,
+      "attributes": {
+        "Description": "\"Original Image File for Fig3D, Movie 3\""
+      }
+    },
+    "47a61ccc-e19b-4574-8011-76e8783b1462": {
+      "id": "47a61ccc-e19b-4574-8011-76e8783b1462",
+      "name": "my submission/Fig 3E/exp177 b-cat 60x_movie-2-2.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig 3E/exp177 b-cat 60x_movie-2-2.tif",
+      "size_in_bytes": 266643140,
+      "type": null,
+      "attributes": {
+        "Description": "\"Original Image File for Fig3E, Movie 4\""
+      }
+    },
+    "99c3c70f-bb82-423e-b5fa-8a2e50316ee1": {
+      "id": "99c3c70f-bb82-423e-b5fa-8a2e50316ee1",
+      "name": "my submission/Fig 4A/exp177 60x_-2i-10-3 b-cat-mNG.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig 4A/exp177 60x_-2i-10-3 b-cat-mNG.tif",
+      "size_in_bytes": 12820162,
+      "type": null,
+      "attributes": {
+        "Description": "Original Image File for Fig4A"
+      }
+    },
+    "7a260393-878d-4a2f-8778-87ba8f35f6cf": {
+      "id": "7a260393-878d-4a2f-8778-87ba8f35f6cf",
+      "name": "my submission/Fig 4A/exp177 60x_2i-10-2 b-cat-mNG.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig 4A/exp177 60x_2i-10-2 b-cat-mNG.tif",
+      "size_in_bytes": 12820160,
+      "type": null,
+      "attributes": {
+        "Description": "Original Image File for Fig4A"
+      }
+    },
+    "39da33f4-a982-41b2-beed-5942dc33c009": {
+      "id": "39da33f4-a982-41b2-beed-5942dc33c009",
+      "name": "my submission/Fig 4A/Exp181 60x_-2i-zo1-mNG.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig 4A/Exp181 60x_-2i-zo1-mNG.tif",
+      "size_in_bytes": 21782569,
+      "type": null,
+      "attributes": {
+        "Description": "Original Image File for Fig4A"
+      }
+    },
+    "57007d86-511a-4524-a399-ee46e158428f": {
+      "id": "57007d86-511a-4524-a399-ee46e158428f",
+      "name": "my submission/Fig 4A/Exp181 60x_2i-zo1-mNG.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig 4A/Exp181 60x_2i-zo1-mNG.tif",
+      "size_in_bytes": 21782570,
+      "type": null,
+      "attributes": {
+        "Description": "Original Image File for Fig4A"
+      }
+    },
+    "4f8dfc79-d9e7-4ee3-9705-1d45075c4b15": {
+      "id": "4f8dfc79-d9e7-4ee3-9705-1d45075c4b15",
+      "name": "my submission/Fig 4A/EXP192 60x -2i-myh-mNG.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig 4A/EXP192 60x -2i-myh-mNG.tif",
+      "size_in_bytes": 9646966,
+      "type": null,
+      "attributes": {
+        "Description": "Original Image File for Fig4A"
+      }
+    },
+    "71f73741-1851-459b-b242-620d6cb087ee": {
+      "id": "71f73741-1851-459b-b242-620d6cb087ee",
+      "name": "my submission/Fig 4A/EXP192 60x 2i-myh-mNG.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig 4A/EXP192 60x 2i-myh-mNG.tif",
+      "size_in_bytes": 9646964,
+      "type": null,
+      "attributes": {
+        "Description": "Original Image File for Fig4A"
+      }
+    },
+    "17ffbad9-949e-4021-9301-c92c3bc98608": {
+      "id": "17ffbad9-949e-4021-9301-c92c3bc98608",
+      "name": "my submission/Fig 4A/exp188 60x -2i myh-mNG.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig 4A/exp188 60x -2i myh-mNG.tif",
+      "size_in_bytes": 57566302,
+      "type": null,
+      "attributes": {
+        "Description": "Original Image of replicates for Fig4A"
+      }
+    },
+    "44dd5779-4b5a-4ab8-a9f3-7e250b646d6c": {
+      "id": "44dd5779-4b5a-4ab8-a9f3-7e250b646d6c",
+      "name": "my submission/Fig 4A/exp188 60x 2i myh-mNG.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig 4A/exp188 60x 2i myh-mNG.tif",
+      "size_in_bytes": 57566302,
+      "type": null,
+      "attributes": {
+        "Description": "More examples for Fig4A"
+      }
+    },
+    "89e11b35-63e1-4859-bf4c-123bf5eefde5": {
+      "id": "89e11b35-63e1-4859-bf4c-123bf5eefde5",
+      "name": "my submission/Fig 4B/exp 151 60x  PCX 488 phall 555  P-MLC 637_1 -2i.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig 4B/exp 151 60x  PCX 488 phall 555  P-MLC 637_1 -2i.tif",
+      "size_in_bytes": 28311846,
+      "type": null,
+      "attributes": {
+        "Description": "Original Image File for Fig4B"
+      }
+    },
+    "78260c5d-44c6-45a4-a4b9-f7feaf7896a6": {
+      "id": "78260c5d-44c6-45a4-a4b9-f7feaf7896a6",
+      "name": "my submission/Fig 4B/exp 151 60x  PCX 488 phall 555  P-MLC 637_1 2i.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig 4B/exp 151 60x  PCX 488 phall 555  P-MLC 637_1 2i.tif",
+      "size_in_bytes": 215655139,
+      "type": null,
+      "attributes": {
+        "Description": "More examples for Fig4B"
+      }
+    },
+    "0842f182-4a52-4f4d-92a2-84a034358f6c": {
+      "id": "0842f182-4a52-4f4d-92a2-84a034358f6c",
+      "name": "my submission/Fig 5C/EXP192 60x_-2i-b-cat-mNG-zo1-Halo.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig 5C/EXP192 60x_-2i-b-cat-mNG-zo1-Halo.tif",
+      "size_in_bytes": 1512532,
+      "type": null,
+      "attributes": {
+        "Description": "Original Image File for Fig5C"
+      }
+    },
+    "dcd9f10b-5c9e-4edf-a509-ab947da3efa0": {
+      "id": "dcd9f10b-5c9e-4edf-a509-ab947da3efa0",
+      "name": "my submission/Fig 5C/EXP192 60x_-2i-zo1-mNG-b-cat-Halo.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig 5C/EXP192 60x_-2i-zo1-mNG-b-cat-Halo.tif",
+      "size_in_bytes": 3887284,
+      "type": null,
+      "attributes": {
+        "Description": "Original Image File for Fig5C"
+      }
+    },
+    "bc3269b8-603d-469b-a1d2-f86a1cfdc8cc": {
+      "id": "bc3269b8-603d-469b-a1d2-f86a1cfdc8cc",
+      "name": "my submission/Fig S2E/Exp_188_071822_60x_1_MMStack_Myh-NT-1-hetero.ome.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig S2E/Exp_188_071822_60x_1_MMStack_Myh-NT-1-hetero.ome.tif",
+      "size_in_bytes": 44370421,
+      "type": null,
+      "attributes": {
+        "Description": "Original Image File for FigS2E"
+      }
+    },
+    "8bec1afb-3063-4a51-be31-5b2091eed807": {
+      "id": "8bec1afb-3063-4a51-be31-5b2091eed807",
+      "name": "my submission/Fig S2E/Exp_188_071822_60x_1_MMStack_Myh-NT-2-hetero.ome.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig S2E/Exp_188_071822_60x_1_MMStack_Myh-NT-2-hetero.ome.tif",
+      "size_in_bytes": 44369685,
+      "type": null,
+      "attributes": {
+        "Description": "Original Image File for FigS2E"
+      }
+    },
+    "91126157-50b3-4728-9520-8a3afc1a5456": {
+      "id": "91126157-50b3-4728-9520-8a3afc1a5456",
+      "name": "my submission/Fig S2E/Exp_188_071822_60x_1_MMStack_Myh-NT-3-homo.ome.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig S2E/Exp_188_071822_60x_1_MMStack_Myh-NT-3-homo.ome.tif",
+      "size_in_bytes": 44369621,
+      "type": null,
+      "attributes": {
+        "Description": "Original Image File for FigS2E"
+      }
+    },
+    "6feacf88-f755-4845-9bbb-57c629db380c": {
+      "id": "6feacf88-f755-4845-9bbb-57c629db380c",
+      "name": "my submission/Fig S2E/Exp_188_071822_60x_1_MMStack_Myh-NT-8-homo.ome.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig S2E/Exp_188_071822_60x_1_MMStack_Myh-NT-8-homo.ome.tif",
+      "size_in_bytes": 44369973,
+      "type": null,
+      "attributes": {
+        "Description": "Original Image File for FigS2E"
+      }
+    },
+    "3c281ced-0824-44c8-b6d9-070dbb150d3d": {
+      "id": "3c281ced-0824-44c8-b6d9-070dbb150d3d",
+      "name": "my submission/Fig S2E/Exp_188_071822_60x_1_MMStack_Myh-NT6-hetero.ome.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig S2E/Exp_188_071822_60x_1_MMStack_Myh-NT6-hetero.ome.tif",
+      "size_in_bytes": 44369973,
+      "type": null,
+      "attributes": {
+        "Description": "Original Image File for FigS2E"
+      }
+    },
+    "608fce5e-7a35-4d85-9267-8935f74e851c": {
+      "id": "608fce5e-7a35-4d85-9267-8935f74e851c",
+      "name": "my submission/Fig S2E/Exp_188_071822_60x_1_MMStack_Myh-NT11-hetero.ome.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig S2E/Exp_188_071822_60x_1_MMStack_Myh-NT11-hetero.ome.tif",
+      "size_in_bytes": 44370069,
+      "type": null,
+      "attributes": {
+        "Description": "Original Image File for FigS2E"
+      }
+    },
+    "07376b54-c097-484f-9f7a-84715576a31c": {
+      "id": "07376b54-c097-484f-9f7a-84715576a31c",
+      "name": "my submission/Fig S7A/exp230 J1_otx2.ome.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig S7A/exp230 J1_otx2.ome.tif",
+      "size_in_bytes": 126730485,
+      "type": null,
+      "attributes": {
+        "Description": "Original Image File for FigS7A"
+      }
+    },
+    "f8dee900-3bb1-4218-b126-5f165e25ef38": {
+      "id": "f8dee900-3bb1-4218-b126-5f165e25ef38",
+      "name": "my submission/Fig S7B/exp230 b-cat-mNG_otx2.tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/694/S-BIAD694/Files/my submission/Fig S7B/exp230 b-cat-mNG_otx2.tif",
+      "size_in_bytes": 158413054,
+      "type": null,
+      "attributes": {
+        "Description": "Original Image File for FigS7B"
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

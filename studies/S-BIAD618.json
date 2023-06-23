@@ -1,0 +1,4123 @@
+{
+  "accession_id": "S-BIAD618",
+  "title": "Three-dimensional imaging of vascular development in the mouse epididymis : a prerequisite to better understand the post-testicular immune context of spermatozoa",
+  "description": "Long considered an accessory tubule of the male reproductive system, the epididymis is proving to be a key determinant of male fertility. In addition to its secretory role in ensuring functional maturation and survival of spermatozoa, the epididymis has a complex immune function. Indeed, it must manage both peripheral tolerance to sperm antigens foreign to the immune system and the protection of spermatozoa as well as the organ itself against pathogens ascending the epididymal tubule. Although our knowledge of the immunobiology of this organ is beginning to accumulate at the molecular and cellular levels, the organization of blood and lymphatic networks of this tissue, important players in the immune response, remains largely unknown. In the present report, we have taken advantage of a VEGFR3:YFP transgenic mouse model. Using high-resolution three-dimensional (3D) imaging and organ clearing coupled with multiplex immunodetections of lymphatic (LYVE1, PDPN, PROX1) and/or blood (PLVAP/Meca32) markers, we provide for the first time  a simultaneous deep 3D view of the lymphatic and blood epididymal vasculature in the mature adult mouse as well as during postnatal development.",
+  "authors": [
+    {
+      "name": "Antonino Bongiovanni"
+    },
+    {
+      "name": "Christelle Damon-Soubeyrand"
+    },
+    {
+      "name": "Areski Chorfa"
+    },
+    {
+      "name": "Chantal Goubely"
+    },
+    {
+      "name": "Nelly Pirot"
+    },
+    {
+      "name": "Luc Pardanaud"
+    },
+    {
+      "name": "Laurence Pibouin-Fragner"
+    },
+    {
+      "name": "Caroline Vachias"
+    },
+    {
+      "name": "Stéphanie Bravard"
+    },
+    {
+      "name": "Rachel Guiton"
+    },
+    {
+      "name": "Jean-Léon Thomas"
+    },
+    {
+      "name": "Fabrice Saez"
+    },
+    {
+      "name": "Ayhan Kocer"
+    },
+    {
+      "name": "Meryem Tardivel"
+    },
+    {
+      "name": "Joël R. Drevet"
+    },
+    {
+      "name": "Joelle Henry-Berger"
+    }
+  ],
+  "organism": "Unknown",
+  "release_date": "2023-02-03",
+  "license": "CC0",
+  "links": {},
+  "imaging_type": "Unknown",
+  "attributes": {
+    "filetype_breakdown": "{'.zip': {'n': 14, 'size_in_bytes': 87301806497, 'size_human_readable': '81.3GiB'}, '.ims in .zip': {'n': 53, 'size_in_bytes': 86931857687, 'size_human_readable': '81.0GiB'}, '.tif in .zip': {'n': 5, 'size_in_bytes': 20701944, 'size_human_readable': '19.7MiB'}, '.jpg in .zip': {'n': 5, 'size_in_bytes': 1656320, 'size_human_readable': '1.6MiB'}, '.czi in .zip': {'n': 2, 'size_in_bytes': 2260504704, 'size_human_readable': '2.1GiB'}, '.xlsx in .zip': {'n': 1, 'size_in_bytes': 13002, 'size_human_readable': '12.7KiB'}}",
+    "filetype_breakdown_html": "<ul><li>.zip: 14 (81.3GiB)</li><li>Zip contents (not included it study totals above):<ul><li>.czi in .zip: 2 (2.1GiB)</li><li>.ims in .zip: 53 (81.0GiB)</li><li>.jpg in .zip: 5 (1.6MiB)</li><li>.tif in .zip: 5 (19.7MiB)</li><li>.xlsx in .zip: 1 (12.7KiB)</li></ul></ul>",
+    "n_files_excluding_zip_contents": "14",
+    "n_files_including_zip_contents": "80",
+    "study_size": "81.3GiB",
+    "study_size_human_readable": "81.3GiB",
+    "study_size_in_bytes": "87301806497"
+  },
+  "example_image_uri": "",
+  "example_annotation_uri": "",
+  "file_references": {
+    "159ffa61-a595-4d9e-8001-d0439f79462b": {
+      "id": "159ffa61-a595-4d9e-8001-d0439f79462b",
+      "name": "Figure1_datasources.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure1_datasources.zip",
+      "size_in_bytes": 10830736,
+      "type": null,
+      "attributes": {
+        "Figures": "VEGFR3-YFP_10DPN_2.ims",
+        "Format": "ims",
+        "Chanels": "1",
+        "Markers": "VEGFR3:YFP",
+        "imaging technic": "Binocular",
+        "Microscope": "Leica binocular magnifier ",
+        "Magnification": "1X",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "na"
+      }
+    },
+    "ae8f6171-0d90-45cb-bc01-5f096742875a": {
+      "id": "ae8f6171-0d90-45cb-bc01-5f096742875a",
+      "name": "Figure2_datasources.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2_datasources.zip",
+      "size_in_bytes": 6451967586,
+      "type": null,
+      "attributes": {
+        "Figures": "/Figure2_Cauda_4lymph.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP;  LYVE1; PDPN; PROX1",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "9beaa4f1-ebc5-4858-868e-b93c01ca4826": {
+      "id": "9beaa4f1-ebc5-4858-868e-b93c01ca4826",
+      "name": "Figure3_datasources.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure3_datasources.zip",
+      "size_in_bytes": 20763852509,
+      "type": null,
+      "attributes": {
+        "Figures": "Figure3_Cauda.ims",
+        "Format": "ims",
+        "Chanels": "2",
+        "Markers": "VEGFR3:YFP, PLVAP",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "surface rendering",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "e07a0dbd-add0-4484-a553-53f8e1a661e7": {
+      "id": "e07a0dbd-add0-4484-a553-53f8e1a661e7",
+      "name": "Figure4_datasources.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure4_datasources.zip",
+      "size_in_bytes": 4492296863,
+      "type": null,
+      "attributes": {
+        "Figures": "Figure4_Caput_40DPN.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "VEGFR3:YFP; PLVAP, LYVE4",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "1ad972be-c95f-4872-99be-223afe4e1601": {
+      "id": "1ad972be-c95f-4872-99be-223afe4e1601",
+      "name": "figure5_datasouces.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure5_datasouces.zip",
+      "size_in_bytes": 4608422,
+      "type": null,
+      "attributes": {
+        "Figures": "Figure5_Covariance.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "stats"
+      }
+    },
+    "84062ea5-16ac-44c9-95b2-b3da1be87b6a": {
+      "id": "84062ea5-16ac-44c9-95b2-b3da1be87b6a",
+      "name": "figure6_datasources.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+      "size_in_bytes": 2645966380,
+      "type": null,
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence"
+      }
+    },
+    "a1001233-5f9e-44eb-963b-472b67cd557c": {
+      "id": "a1001233-5f9e-44eb-963b-472b67cd557c",
+      "name": "Figure7_datasources.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure7_datasources.zip",
+      "size_in_bytes": 1520027788,
+      "type": null,
+      "attributes": {
+        "Figures": "Figure7B_Adult.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP; LYVE1; PDPN; PLVAP",
+        "imaging technic": "Ultra microscope 6",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "20X",
+        "Analysis": "Surface rendering",
+        "ROI": "1",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "4e095c27-99e4-4d5a-a68c-6ccd29bcd242": {
+      "id": "4e095c27-99e4-4d5a-a68c-6ccd29bcd242",
+      "name": "Figure11_datasources.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure11_datasources.zip",
+      "size_in_bytes": 10525,
+      "type": null,
+      "attributes": {
+        "Figures": "Figure11B_datasources.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "na",
+        "Protocol": "na"
+      }
+    },
+    "86d22371-5f4b-404c-bc72-c6948a41dafe": {
+      "id": "86d22371-5f4b-404c-bc72-c6948a41dafe",
+      "name": "Figure2_fig-suppl1_datasources.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2_fig-suppl1_datasources.zip",
+      "size_in_bytes": 530567988,
+      "type": null,
+      "attributes": {
+        "Figures": "Figure2-figSuppl1C.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "A488; A555; A647; Chromeo494",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4X",
+        "Analysis": "Surface rendering",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "5e8f599a-4300-448b-8fb3-4160251d5791": {
+      "id": "5e8f599a-4300-448b-8fb3-4160251d5791",
+      "name": "Figure2_figSuppl2_datasources.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2_figSuppl2_datasources.zip",
+      "size_in_bytes": 4654388836,
+      "type": null,
+      "attributes": {
+        "Figures": "Figure2-figSuppl2_epididymis.ims",
+        "Format": "ims",
+        "Chanels": "2",
+        "Markers": "VEGFR3:YFP; LYVE1",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "2X",
+        "Analysis": "Surface rendering",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "a8964753-1fcd-4ac0-880f-40918739144e": {
+      "id": "a8964753-1fcd-4ac0-880f-40918739144e",
+      "name": "Figure2-figSuppl3_datasources.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2-figSuppl3_datasources.zip",
+      "size_in_bytes": 10102278025,
+      "type": null,
+      "attributes": {
+        "Figures": "Figure2-Suppl3B_IS_12X Z0000.ims",
+        "Format": "ims",
+        "Chanels": "2",
+        "Markers": "VEGFR3:YFP; PLVAP",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "Surface rendering",
+        "ROI": "1",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "b080cb06-8cdd-4e40-881f-dc0c793b8b66": {
+      "id": "b080cb06-8cdd-4e40-881f-dc0c793b8b66",
+      "name": "Figure4_fig-suppl1_datasources_partA.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure4_fig-suppl1_datasources_partA.zip",
+      "size_in_bytes": 13333472538,
+      "type": null,
+      "attributes": {
+        "Figures": "Figure4_Cauda_20DPN.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP; PLVAP, LYVE1, PDPN",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "3f2a4892-2a52-4dd6-8a23-972fdfd80e13": {
+      "id": "3f2a4892-2a52-4dd6-8a23-972fdfd80e13",
+      "name": "figure4_figSuppl1_datasources_partB.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure4_figSuppl1_datasources_partB.zip",
+      "size_in_bytes": 10848975684,
+      "type": null,
+      "attributes": {
+        "Figures": "Figure4_Cauda_40DPN.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP ; PLVAP, LYVE1, PDPN",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "3d306407-405f-4586-b808-d3d2ca2b8701": {
+      "id": "3d306407-405f-4586-b808-d3d2ca2b8701",
+      "name": "Figures2-Videos_Datasources.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figures2-Videos_Datasources.zip",
+      "size_in_bytes": 11942562617,
+      "type": null,
+      "attributes": {
+        "Figures": "Figure2-Video3.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "PLVAP, VEGFR3:YFP; LYVE1; PDPN ",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "9e9aeeac-7f37-487f-a655-2c3235535e03": {
+      "id": "9e9aeeac-7f37-487f-a655-2c3235535e03",
+      "name": "Figure1_datasources/VEGFR3_YFP_Adult.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure1_datasources.zip",
+      "size_in_bytes": 2979201,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "VEGFR3-YFP_10DPN_2.ims",
+        "Format": "ims",
+        "Chanels": "1",
+        "Markers": "VEGFR3:YFP",
+        "imaging technic": "Binocular",
+        "Microscope": "Leica binocular magnifier ",
+        "Magnification": "1X",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "na"
+      }
+    },
+    "1bea9170-f91b-4b6d-a1b5-7ffbc7aad11a": {
+      "id": "1bea9170-f91b-4b6d-a1b5-7ffbc7aad11a",
+      "name": "Figure1_datasources/VEGFR3_YFP_Adult_Corpus_Zoom.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure1_datasources.zip",
+      "size_in_bytes": 1539991,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "VEGFR3-YFP_10DPN_2.ims",
+        "Format": "ims",
+        "Chanels": "1",
+        "Markers": "VEGFR3:YFP",
+        "imaging technic": "Binocular",
+        "Microscope": "Leica binocular magnifier ",
+        "Magnification": "1X",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "na"
+      }
+    },
+    "1011183b-678f-4139-8c89-0d7871cee46f": {
+      "id": "1011183b-678f-4139-8c89-0d7871cee46f",
+      "name": "Figure1_datasources/VEGFR3-YFP_10DPN.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure1_datasources.zip",
+      "size_in_bytes": 2497875,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "VEGFR3-YFP_10DPN_2.ims",
+        "Format": "ims",
+        "Chanels": "1",
+        "Markers": "VEGFR3:YFP",
+        "imaging technic": "Binocular",
+        "Microscope": "Leica binocular magnifier ",
+        "Magnification": "1X",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "na"
+      }
+    },
+    "5f1f5a22-b6df-4d1f-865f-4053bdda874e": {
+      "id": "5f1f5a22-b6df-4d1f-865f-4053bdda874e",
+      "name": "Figure1_datasources/VEGFR3-YFP_10DPN_2.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure1_datasources.zip",
+      "size_in_bytes": 1481774,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "VEGFR3-YFP_10DPN_2.ims",
+        "Format": "ims",
+        "Chanels": "1",
+        "Markers": "VEGFR3:YFP",
+        "imaging technic": "Binocular",
+        "Microscope": "Leica binocular magnifier ",
+        "Magnification": "1X",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "na"
+      }
+    },
+    "25cc4a23-51b8-4e37-9651-a7cdf6c70923": {
+      "id": "25cc4a23-51b8-4e37-9651-a7cdf6c70923",
+      "name": "Figure1_datasources/VEGFR3-YFP_Adult_Caput.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure1_datasources.zip",
+      "size_in_bytes": 1302113,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "VEGFR3-YFP_10DPN_2.ims",
+        "Format": "ims",
+        "Chanels": "1",
+        "Markers": "VEGFR3:YFP",
+        "imaging technic": "Binocular",
+        "Microscope": "Leica binocular magnifier ",
+        "Magnification": "1X",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "na"
+      }
+    },
+    "4940ed9d-bf07-493a-a5a5-778cbf14c65f": {
+      "id": "4940ed9d-bf07-493a-a5a5-778cbf14c65f",
+      "name": "Figure1_datasources/VEGFR3-YFP_Adult_Cauda.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure1_datasources.zip",
+      "size_in_bytes": 2232718,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "VEGFR3-YFP_10DPN_2.ims",
+        "Format": "ims",
+        "Chanels": "1",
+        "Markers": "VEGFR3:YFP",
+        "imaging technic": "Binocular",
+        "Microscope": "Leica binocular magnifier ",
+        "Magnification": "1X",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "na"
+      }
+    },
+    "87ce7e4c-a159-479f-9fad-efd9a8426a31": {
+      "id": "87ce7e4c-a159-479f-9fad-efd9a8426a31",
+      "name": "Figure1_datasources/VEGFR3-YFP_Adult_Cauda-2.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure1_datasources.zip",
+      "size_in_bytes": 1256496,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "VEGFR3-YFP_10DPN_2.ims",
+        "Format": "ims",
+        "Chanels": "1",
+        "Markers": "VEGFR3:YFP",
+        "imaging technic": "Binocular",
+        "Microscope": "Leica binocular magnifier ",
+        "Magnification": "1X",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "na"
+      }
+    },
+    "15ecd481-bb59-4d06-8a86-8a7ddced4076": {
+      "id": "15ecd481-bb59-4d06-8a86-8a7ddced4076",
+      "name": "Figure1_datasources/VEGFR-YFP_Adult_Corpus.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure1_datasources.zip",
+      "size_in_bytes": 2192254,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "VEGFR3-YFP_10DPN_2.ims",
+        "Format": "ims",
+        "Chanels": "1",
+        "Markers": "VEGFR3:YFP",
+        "imaging technic": "Binocular",
+        "Microscope": "Leica binocular magnifier ",
+        "Magnification": "1X",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "na"
+      }
+    },
+    "15d442d2-c581-44fe-9df8-e12bafce7c90": {
+      "id": "15d442d2-c581-44fe-9df8-e12bafce7c90",
+      "name": "8bits/Figure2_Caput_4Lymph.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2_datasources.zip",
+      "size_in_bytes": 1489917088,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "/Figure2_Cauda_4lymph.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP;  LYVE1; PDPN; PROX1",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "8b7da8f6-e900-4424-a6ec-c9b2cf7c0e15": {
+      "id": "8b7da8f6-e900-4424-a6ec-c9b2cf7c0e15",
+      "name": "8bits/Figure2_Caput_Blood_3Lymph.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2_datasources.zip",
+      "size_in_bytes": 2119815873,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "/Figure2_Cauda_4lymph.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP;  LYVE1; PDPN; PROX1",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "e9bbe2e0-76aa-4278-b6ac-ed560ee2b4b6": {
+      "id": "e9bbe2e0-76aa-4278-b6ac-ed560ee2b4b6",
+      "name": "8bits/Figure2_Cauda_4Lymph.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2_datasources.zip",
+      "size_in_bytes": 1110198062,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "/Figure2_Cauda_4lymph.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP;  LYVE1; PDPN; PROX1",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "459ccee3-8164-4482-8a49-c649f49d942c": {
+      "id": "459ccee3-8164-4482-8a49-c649f49d942c",
+      "name": "8bits/Figure2_Cauda_Blood_3lymph.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2_datasources.zip",
+      "size_in_bytes": 1829420123,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "/Figure2_Cauda_4lymph.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP;  LYVE1; PDPN; PROX1",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "8164d1d9-87cb-477e-b5ad-793ebbebfe51": {
+      "id": "8164d1d9-87cb-477e-b5ad-793ebbebfe51",
+      "name": "8bits/Figure3_Caput.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure3_datasources.zip",
+      "size_in_bytes": 1796274757,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure3_Cauda.ims",
+        "Format": "ims",
+        "Chanels": "2",
+        "Markers": "VEGFR3:YFP, PLVAP",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "surface rendering",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "ca041f77-a232-4e38-9203-7356c9ed8435": {
+      "id": "ca041f77-a232-4e38-9203-7356c9ed8435",
+      "name": "8bits/Figure3_cauda.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure3_datasources.zip",
+      "size_in_bytes": 19893885257,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure3_Cauda.ims",
+        "Format": "ims",
+        "Chanels": "2",
+        "Markers": "VEGFR3:YFP, PLVAP",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "surface rendering",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "ced8cbd0-f2cc-4387-9c79-aa90980aeb58": {
+      "id": "ced8cbd0-f2cc-4387-9c79-aa90980aeb58",
+      "name": "8bits/Figure4_Caput_10DPN.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure4_datasources.zip",
+      "size_in_bytes": 163369927,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure4_Caput_40DPN.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "VEGFR3:YFP; PLVAP, LYVE4",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "5b258eba-304a-42c8-959d-ef086572a50e": {
+      "id": "5b258eba-304a-42c8-959d-ef086572a50e",
+      "name": "8bits/Figure4_Caput_20DPN.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure4_datasources.zip",
+      "size_in_bytes": 1566950567,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure4_Caput_40DPN.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "VEGFR3:YFP; PLVAP, LYVE4",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "6979e10b-c211-47d7-9352-7c53cc8e93ae": {
+      "id": "6979e10b-c211-47d7-9352-7c53cc8e93ae",
+      "name": "8bits/Figure4_Caput_30DPN.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure4_datasources.zip",
+      "size_in_bytes": 1674162304,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure4_Caput_40DPN.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "VEGFR3:YFP; PLVAP, LYVE4",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "53adfb6c-20a1-4ac0-a67e-e704037c5a79": {
+      "id": "53adfb6c-20a1-4ac0-a67e-e704037c5a79",
+      "name": "8bits/Figure4_Caput_40DPN.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure4_datasources.zip",
+      "size_in_bytes": 1221346279,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure4_Caput_40DPN.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "VEGFR3:YFP; PLVAP, LYVE4",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "b2314ec8-f539-4367-83e4-f8cc1952272c": {
+      "id": "b2314ec8-f539-4367-83e4-f8cc1952272c",
+      "name": "figure5_datasouces/Figure5_VEGF-A_GAPDH/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure5_datasouces.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure5_Covariance.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "stats"
+      }
+    },
+    "9d0f515b-149c-464d-9605-ef0fb7c85628": {
+      "id": "9d0f515b-149c-464d-9605-ef0fb7c85628",
+      "name": "figure5_datasouces/Figure5_VEGF-A_GAPDH/GAPDH rep 1 - 2 for VEGFA 2021-03-15 09h14m15s(Chemiluminescence).tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure5_datasouces.zip",
+      "size_in_bytes": 4896804,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure5_Covariance.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "stats"
+      }
+    },
+    "b082b59f-0466-4e3e-871f-a8f3471f42e7": {
+      "id": "b082b59f-0466-4e3e-871f-a8f3471f42e7",
+      "name": "figure5_datasouces/Figure5_VEGF-A_GAPDH/VEGFA REP 12021-03-14 10h54m25s(Chemiluminescence)(1).jpg",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure5_datasouces.zip",
+      "size_in_bytes": 391790,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure5_Covariance.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "stats"
+      }
+    },
+    "3f412663-5398-42d3-9d5b-e89b9fec0999": {
+      "id": "3f412663-5398-42d3-9d5b-e89b9fec0999",
+      "name": "figure5_datasouces/Figure5_VEGF-A_GAPDH/VEGFA REP 2 2021-03-14 11h00m49s(Chemiluminescence)(1).jpg",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure5_datasouces.zip",
+      "size_in_bytes": 326445,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure5_Covariance.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "stats"
+      }
+    },
+    "afd58022-a7c3-4236-adaa-1d34980df4d0": {
+      "id": "afd58022-a7c3-4236-adaa-1d34980df4d0",
+      "name": "figure5_datasouces/Figure5_VEGF-C_GAPDH/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure5_datasouces.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure5_Covariance.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "stats"
+      }
+    },
+    "8e47c554-844c-4abc-8f0d-fdac0ed13eef": {
+      "id": "8e47c554-844c-4abc-8f0d-fdac0ed13eef",
+      "name": "figure5_datasouces/Figure5_VEGF-C_GAPDH/GAPDH REP_ 1&2  For VEGFC  2020-12-06 13h28m24s(Chemiluminescence).tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure5_datasouces.zip",
+      "size_in_bytes": 4896804,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure5_Covariance.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "stats"
+      }
+    },
+    "5094232d-5ea6-491f-866a-19aa825b8385": {
+      "id": "5094232d-5ea6-491f-866a-19aa825b8385",
+      "name": "figure5_datasouces/Figure5_VEGF-C_GAPDH/VEGFC REP_ 1&2 2020-12-06 09h47m27s(Chemiluminescence).tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure5_datasouces.zip",
+      "size_in_bytes": 1114728,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure5_Covariance.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "stats"
+      }
+    },
+    "d45d4648-72bb-44bd-903a-082524ea8254": {
+      "id": "d45d4648-72bb-44bd-903a-082524ea8254",
+      "name": "figure5_datasouces/Figure5_VEGF-D_GAPDH/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure5_datasouces.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure5_Covariance.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "stats"
+      }
+    },
+    "4417de3f-922f-410a-8445-caa7a176d630": {
+      "id": "4417de3f-922f-410a-8445-caa7a176d630",
+      "name": "figure5_datasouces/Figure5_VEGF-D_GAPDH/GAPDH  REP 1& 2 for VEGFD 2020-12-06 13h21m38s(Chemiluminescence).jpg",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure5_datasouces.zip",
+      "size_in_bytes": 336056,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure5_Covariance.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "stats"
+      }
+    },
+    "0049d06c-0d52-421b-be1b-c9d419addeaa": {
+      "id": "0049d06c-0d52-421b-be1b-c9d419addeaa",
+      "name": "figure5_datasouces/Figure5_VEGF-D_GAPDH/VEGFD REP 1&2 2020-12-06 09h31m01s(Chemiluminescence).jpg",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure5_datasouces.zip",
+      "size_in_bytes": 331407,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure5_Covariance.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "stats"
+      }
+    },
+    "4b90c8a0-da76-47db-947a-536f0ef37c36": {
+      "id": "4b90c8a0-da76-47db-947a-536f0ef37c36",
+      "name": "figure5_datasouces/Figure5_VEGFR3_GAPDH/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure5_datasouces.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure5_Covariance.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "stats"
+      }
+    },
+    "b263151a-d2a8-4f59-bfa4-aeb5da77e8c6": {
+      "id": "b263151a-d2a8-4f59-bfa4-aeb5da77e8c6",
+      "name": "figure5_datasouces/Figure5_VEGFR3_GAPDH/GAPDH  REP 1&2 for VEGFR3 2020-12-07 08h21m33s(Chemiluminescence).tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure5_datasouces.zip",
+      "size_in_bytes": 4896804,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure5_Covariance.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "stats"
+      }
+    },
+    "3439c2ae-fb0b-404e-8b58-ad12304da090": {
+      "id": "3439c2ae-fb0b-404e-8b58-ad12304da090",
+      "name": "figure5_datasouces/Figure5_VEGFR3_GAPDH/VEFR3 REP 1&2 Cut gel_ 2020-12-07 08h58m29s(Chemiluminescence).tif",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure5_datasouces.zip",
+      "size_in_bytes": 4896804,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure5_Covariance.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "stats"
+      }
+    },
+    "0c62a2c9-fb55-4d0f-8769-4e8e173b2960": {
+      "id": "0c62a2c9-fb55-4d0f-8769-4e8e173b2960",
+      "name": "figure5_datasouces/Figure5_VEGFR3_GAPDH/VEGFR3 Rep 1&2 Whole gel 2020-12-07 08h25m38s(Chemiluminescence).jpg",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure5_datasouces.zip",
+      "size_in_bytes": 270622,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure5_Covariance.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "stats"
+      }
+    },
+    "88476f78-3464-4b11-8876-dc6c99f468a7": {
+      "id": "88476f78-3464-4b11-8876-dc6c99f468a7",
+      "name": "figure6_datasources/Figure6_A_VEGF-A_Caput.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+      "size_in_bytes": 32582545,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence"
+      }
+    },
+    "a6dec80d-a360-4da7-a8f7-703a8495eba4": {
+      "id": "a6dec80d-a360-4da7-a8f7-703a8495eba4",
+      "name": "figure6_datasources/Figure6_A_VEGFA_Cauda.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+      "size_in_bytes": 30808859,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence"
+      }
+    },
+    "ae5f391d-193a-49ba-8385-e34cbfee7409": {
+      "id": "ae5f391d-193a-49ba-8385-e34cbfee7409",
+      "name": "figure6_datasources/Figure6_A_VEGF-A_Corpus.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+      "size_in_bytes": 34420721,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence"
+      }
+    },
+    "b8557c49-eb34-4505-9c24-229cdc34f634": {
+      "id": "b8557c49-eb34-4505-9c24-229cdc34f634",
+      "name": "figure6_datasources/Figure6_A_VEGF-A_IS.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+      "size_in_bytes": 34838257,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence"
+      }
+    },
+    "0c81db27-99a8-4c43-8806-776b4d28e9ed": {
+      "id": "0c81db27-99a8-4c43-8806-776b4d28e9ed",
+      "name": "figure6_datasources/Figure6_A_VEGF-A_organ_scan .czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+      "size_in_bytes": 920865728,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence"
+      }
+    },
+    "fceb78e8-2caa-4790-af7c-774d88c50071": {
+      "id": "fceb78e8-2caa-4790-af7c-774d88c50071",
+      "name": "figure6_datasources/Figure6_A_VEGFR2.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+      "size_in_bytes": 76504651,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence"
+      }
+    },
+    "710c2070-a425-47c4-a157-d952cad71f06": {
+      "id": "710c2070-a425-47c4-a157-d952cad71f06",
+      "name": "figure6_datasources/Figure6_B1_VEGF-C_VEGF-D_organ_scan .czi",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+      "size_in_bytes": 1339638976,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence"
+      }
+    },
+    "8860d0cc-ef53-4e58-8807-eb0be42a8b9a": {
+      "id": "8860d0cc-ef53-4e58-8807-eb0be42a8b9a",
+      "name": "figure6_datasources/Figure6_B2_VEGF-C_VEGF-D.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+      "size_in_bytes": 32794310,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence"
+      }
+    },
+    "464b0839-1038-466e-b294-97ed7745855d": {
+      "id": "464b0839-1038-466e-b294-97ed7745855d",
+      "name": "figure6_datasources/Figure6_B3_VEGF-C_VEGF-D.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+      "size_in_bytes": 23925846,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence"
+      }
+    },
+    "45d7ae58-3957-4851-b8be-33150a6dc73b": {
+      "id": "45d7ae58-3957-4851-b8be-33150a6dc73b",
+      "name": "figure6_datasources/Figure6_B4_VEGF-C_VEGF-D.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+      "size_in_bytes": 28368286,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence"
+      }
+    },
+    "90abec6a-90cb-4801-82f1-585aff691885": {
+      "id": "90abec6a-90cb-4801-82f1-585aff691885",
+      "name": "figure6_datasources/Figure6_B5_VEGF-C_VEGF-D.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+      "size_in_bytes": 36962943,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence"
+      }
+    },
+    "2461260f-c2ea-4a37-be7d-0ab6c1aaee9d": {
+      "id": "2461260f-c2ea-4a37-be7d-0ab6c1aaee9d",
+      "name": "figure6_datasources/Figure6_B6_VEGF-C_VEGF-D.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+      "size_in_bytes": 25138198,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence"
+      }
+    },
+    "f087b0ee-b492-47ef-890f-c5110115bcd1": {
+      "id": "f087b0ee-b492-47ef-890f-c5110115bcd1",
+      "name": "figure6_datasources/Figure6_B7_VEGF-C_VEGF-D.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+      "size_in_bytes": 27158645,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence"
+      }
+    },
+    "32247d39-9e4b-4153-b4ed-1a6d80ceed15": {
+      "id": "32247d39-9e4b-4153-b4ed-1a6d80ceed15",
+      "name": "figure6_datasources/Figure6_B8_VEGF-C_VEGF-D.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+      "size_in_bytes": 25953411,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence"
+      }
+    },
+    "7957bdbb-466c-4edb-b53a-5b57a0a20200": {
+      "id": "7957bdbb-466c-4edb-b53a-5b57a0a20200",
+      "name": "figure6_datasources/Figure6_B9_Control.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+      "size_in_bytes": 27004542,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence"
+      }
+    },
+    "60db8ad6-7010-4836-842c-062dcc3eb31c": {
+      "id": "60db8ad6-7010-4836-842c-062dcc3eb31c",
+      "name": "Figure7_datasources/Figure 7A.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure7_datasources.zip",
+      "size_in_bytes": 267452834,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure7B_Adult.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP; LYVE1; PDPN; PLVAP",
+        "imaging technic": "Ultra microscope 6",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "20X",
+        "Analysis": "Surface rendering",
+        "ROI": "1",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "69dbe71d-a2a4-4e51-acf2-8d4c89647bbd": {
+      "id": "69dbe71d-a2a4-4e51-acf2-8d4c89647bbd",
+      "name": "Figure7_datasources/Figure7B_10DPN.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure7_datasources.zip",
+      "size_in_bytes": 257362758,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure7B_Adult.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP; LYVE1; PDPN; PLVAP",
+        "imaging technic": "Ultra microscope 6",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "20X",
+        "Analysis": "Surface rendering",
+        "ROI": "1",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "b099e2ae-fd03-4334-8405-67b97aee24e3": {
+      "id": "b099e2ae-fd03-4334-8405-67b97aee24e3",
+      "name": "Figure7_datasources/Figure7B_20DPN.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure7_datasources.zip",
+      "size_in_bytes": 225174937,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure7B_Adult.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP; LYVE1; PDPN; PLVAP",
+        "imaging technic": "Ultra microscope 6",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "20X",
+        "Analysis": "Surface rendering",
+        "ROI": "1",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "8267f24c-6ba6-405d-8866-d1fef833d756": {
+      "id": "8267f24c-6ba6-405d-8866-d1fef833d756",
+      "name": "Figure7_datasources/Figure7B_30DPN.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure7_datasources.zip",
+      "size_in_bytes": 243071247,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure7B_Adult.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP; LYVE1; PDPN; PLVAP",
+        "imaging technic": "Ultra microscope 6",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "20X",
+        "Analysis": "Surface rendering",
+        "ROI": "1",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "104044d6-a01f-426c-829d-8ee9ec61d8e9": {
+      "id": "104044d6-a01f-426c-829d-8ee9ec61d8e9",
+      "name": "Figure7_datasources/Figure7B_40DPN.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure7_datasources.zip",
+      "size_in_bytes": 289655264,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure7B_Adult.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP; LYVE1; PDPN; PLVAP",
+        "imaging technic": "Ultra microscope 6",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "20X",
+        "Analysis": "Surface rendering",
+        "ROI": "1",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "24dc47ba-63ef-4783-b988-c128bf7bd598": {
+      "id": "24dc47ba-63ef-4783-b988-c128bf7bd598",
+      "name": "Figure7_datasources/Figure7B_Adulte.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure7_datasources.zip",
+      "size_in_bytes": 267124671,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure7B_Adult.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP; LYVE1; PDPN; PLVAP",
+        "imaging technic": "Ultra microscope 6",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "20X",
+        "Analysis": "Surface rendering",
+        "ROI": "1",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "cd1c4224-27c1-4e76-ad1c-88a89874cfe4": {
+      "id": "cd1c4224-27c1-4e76-ad1c-88a89874cfe4",
+      "name": "Figure11_datasources/Figure11B_datasources.xlsx",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure11_datasources.zip",
+      "size_in_bytes": 13002,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure11B_datasources.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "na",
+        "Protocol": "na"
+      }
+    },
+    "39c5bb07-e3d1-4551-b8bd-97b2b8beb0f6": {
+      "id": "39c5bb07-e3d1-4551-b8bd-97b2b8beb0f6",
+      "name": "Figure2_fig-suppl1_datasources/Figure2-figSuppl1A_datasources.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2_fig-suppl1_datasources.zip",
+      "size_in_bytes": 19734247,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure2-figSuppl1C.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "A488; A555; A647; Chromeo494",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4X",
+        "Analysis": "Surface rendering",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "9f54bb51-c97a-4350-b5f1-669e0328004a": {
+      "id": "9f54bb51-c97a-4350-b5f1-669e0328004a",
+      "name": "Figure2_fig-suppl1_datasources/Figure2-figSuppl1B_datasources.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2_fig-suppl1_datasources.zip",
+      "size_in_bytes": 12724639,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure2-figSuppl1C.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "A488; A555; A647; Chromeo494",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4X",
+        "Analysis": "Surface rendering",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "8a7b2915-8e33-476b-90a5-9b778e6ae56e": {
+      "id": "8a7b2915-8e33-476b-90a5-9b778e6ae56e",
+      "name": "Figure2_fig-suppl1_datasources/Figure2-figSuppl1C_datasources.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2_fig-suppl1_datasources.zip",
+      "size_in_bytes": 511296738,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure2-figSuppl1C.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "A488; A555; A647; Chromeo494",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4X",
+        "Analysis": "Surface rendering",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "6638a873-40bd-45c0-8225-b56bd47580ee": {
+      "id": "6638a873-40bd-45c0-8225-b56bd47580ee",
+      "name": "Figure2_fig-suppl2_datasources/Figure2_FigSuppl2_Epididymis.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2_figSuppl2_datasources.zip",
+      "size_in_bytes": 4704775703,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure2-figSuppl2_epididymis.ims",
+        "Format": "ims",
+        "Chanels": "2",
+        "Markers": "VEGFR3:YFP; LYVE1",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "2X",
+        "Analysis": "Surface rendering",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "ee2686d9-3fee-435d-9181-fc5f14f913b4": {
+      "id": "ee2686d9-3fee-435d-9181-fc5f14f913b4",
+      "name": "8bits/Figure2-figSuppl3A_Caput_4lymphatics.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2-figSuppl3_datasources.zip",
+      "size_in_bytes": 1489872469,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure2-Suppl3B_IS_12X Z0000.ims",
+        "Format": "ims",
+        "Chanels": "2",
+        "Markers": "VEGFR3:YFP; PLVAP",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "Surface rendering",
+        "ROI": "1",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "118d39b1-0833-4d57-9be9-d972ec53d23e": {
+      "id": "118d39b1-0833-4d57-9be9-d972ec53d23e",
+      "name": "8bits/Figure2-figSuppl3A_Caput_Blood_3Lymph.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2-figSuppl3_datasources.zip",
+      "size_in_bytes": 2025031884,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure2-Suppl3B_IS_12X Z0000.ims",
+        "Format": "ims",
+        "Chanels": "2",
+        "Markers": "VEGFR3:YFP; PLVAP",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "Surface rendering",
+        "ROI": "1",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "27673f35-9ae4-4ae4-b414-0fa8c240910d": {
+      "id": "27673f35-9ae4-4ae4-b414-0fa8c240910d",
+      "name": "8bits/Figure2-figSuppl3A_Cauda_4Lymphatics.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2-figSuppl3_datasources.zip",
+      "size_in_bytes": 989044882,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure2-Suppl3B_IS_12X Z0000.ims",
+        "Format": "ims",
+        "Chanels": "2",
+        "Markers": "VEGFR3:YFP; PLVAP",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "Surface rendering",
+        "ROI": "1",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "cfcf5544-d4ce-4d49-9858-2a5a1d33667b": {
+      "id": "cfcf5544-d4ce-4d49-9858-2a5a1d33667b",
+      "name": "8bits/Figure2-figSuppl3A_Cauda_Blood_3lymph.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2-figSuppl3_datasources.zip",
+      "size_in_bytes": 1825146527,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure2-Suppl3B_IS_12X Z0000.ims",
+        "Format": "ims",
+        "Chanels": "2",
+        "Markers": "VEGFR3:YFP; PLVAP",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "Surface rendering",
+        "ROI": "1",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "26c4ca3e-2537-4852-8d22-edaeeb2b0f57": {
+      "id": "26c4ca3e-2537-4852-8d22-edaeeb2b0f57",
+      "name": "8bits/Figure2-Suppl3B_IS_12X Z0000.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2-figSuppl3_datasources.zip",
+      "size_in_bytes": 3959608087,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure2-Suppl3B_IS_12X Z0000.ims",
+        "Format": "ims",
+        "Chanels": "2",
+        "Markers": "VEGFR3:YFP; PLVAP",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "Surface rendering",
+        "ROI": "1",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "d413fd0d-dc5c-4437-b255-f232379363b8": {
+      "id": "d413fd0d-dc5c-4437-b255-f232379363b8",
+      "name": "Figure4_fig-suppl1A_datasources/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure4_fig-suppl1_datasources_partA.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure4_Cauda_20DPN.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP; PLVAP, LYVE1, PDPN",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "8b75e609-cf77-4dee-b6a8-de5821dcc39d": {
+      "id": "8b75e609-cf77-4dee-b6a8-de5821dcc39d",
+      "name": "Figure4_fig-suppl1A_datasources/Figure4_FigSuppl1_Cauda_10DPN.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure4_fig-suppl1_datasources_partA.zip",
+      "size_in_bytes": 5020801194,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure4_Cauda_20DPN.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP; PLVAP, LYVE1, PDPN",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "782e94f7-9c82-48a4-a083-3c8db4fdd469": {
+      "id": "782e94f7-9c82-48a4-a083-3c8db4fdd469",
+      "name": "Figure4_fig-suppl1A_datasources/Figure4_FigSuppl1_Cauda_20DPN.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure4_fig-suppl1_datasources_partA.zip",
+      "size_in_bytes": 8320328312,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure4_Cauda_20DPN.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP; PLVAP, LYVE1, PDPN",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "90d1bd92-2808-4738-b555-384358b9d040": {
+      "id": "90d1bd92-2808-4738-b555-384358b9d040",
+      "name": "figure4_figSuppl1B_datasources/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure4_figSuppl1_datasources_partB.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure4_Cauda_40DPN.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP ; PLVAP, LYVE1, PDPN",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "84221c0a-86bb-457d-b9b2-038c291fe5f4": {
+      "id": "84221c0a-86bb-457d-b9b2-038c291fe5f4",
+      "name": "figure4_figSuppl1B_datasources/Figure4_FigSuppl1_Cauda_30DPN.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure4_figSuppl1_datasources_partB.zip",
+      "size_in_bytes": 8972140177,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure4_Cauda_40DPN.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP ; PLVAP, LYVE1, PDPN",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "6864d7cb-92c5-4775-8416-3598b58e1c09": {
+      "id": "6864d7cb-92c5-4775-8416-3598b58e1c09",
+      "name": "figure4_figSuppl1B_datasources/Figure4_FigSuppl1_Cauda_40DPN.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure4_figSuppl1_datasources_partB.zip",
+      "size_in_bytes": 1896508877,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure4_Cauda_40DPN.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP ; PLVAP, LYVE1, PDPN",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "76e1e04c-9f65-4211-aadd-7ff58d3ca47b": {
+      "id": "76e1e04c-9f65-4211-aadd-7ff58d3ca47b",
+      "name": "Figures2-Videos_Datasources/Figure2-Video1.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figures2-Videos_Datasources.zip",
+      "size_in_bytes": 3492435946,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure2-Video3.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "PLVAP, VEGFR3:YFP; LYVE1; PDPN ",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "d204e4f8-61e5-4f8c-b305-95558d1f6896": {
+      "id": "d204e4f8-61e5-4f8c-b305-95558d1f6896",
+      "name": "Figures2-Videos_Datasources/Figure2-Video2.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figures2-Videos_Datasources.zip",
+      "size_in_bytes": 7016996204,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure2-Video3.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "PLVAP, VEGFR3:YFP; LYVE1; PDPN ",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    },
+    "d46b3b8e-b57a-4ef4-9ce0-a53b197bfbbc": {
+      "id": "d46b3b8e-b57a-4ef4-9ce0-a53b197bfbbc",
+      "name": "Figures2-Videos_Datasources/Figure2-Video3.ims",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figures2-Videos_Datasources.zip",
+      "size_in_bytes": 1808286217,
+      "type": "file_in_zip",
+      "attributes": {
+        "Figures": "Figure2-Video3.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "PLVAP, VEGFR3:YFP; LYVE1; PDPN ",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO"
+      }
+    }
+  },
+  "images": {
+    "04e49ef1-dbb0-450f-9af5-5ae6f3db05eb": {
+      "id": "04e49ef1-dbb0-450f-9af5-5ae6f3db05eb",
+      "accession_id": "S-BIAD618",
+      "name": "figure5_datasouces/Figure5_VEGFR3_GAPDH/GAPDH  REP 1&2 for VEGFR3 2020-12-07 08h21m33s(Chemiluminescence).tif",
+      "original_relpath": "figure5_datasouces/Figure5_VEGFR3_GAPDH/GAPDH  REP 1&2 for VEGFR3 2020-12-07 08h21m33s(Chemiluminescence).tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "04e49ef1-dbb0-450f-9af5-5ae6f3db05eb",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure5_datasouces.zip",
+          "size": 4896804,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "b263151a-d2a8-4f59-bfa4-aeb5da77e8c6"
+            ]
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "04e49ef1-dbb0-450f-9af5-5ae6f3db05eb",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD618/04e49ef1-dbb0-450f-9af5-5ae6f3db05eb/04e49ef1-dbb0-450f-9af5-5ae6f3db05eb.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "04e49ef1-dbb0-450f-9af5-5ae6f3db05eb",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD618/04e49ef1-dbb0-450f-9af5-5ae6f3db05eb/04e49ef1-dbb0-450f-9af5-5ae6f3db05eb-thumbnail-128-128.png",
+          "size": 0,
+          "type": "thumbnail",
+          "dimensions": "(128, 128)",
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure5_Covariance.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "stats",
+        "download_size": "In 4.4MiB zip"
+      }
+    },
+    "088b6c54-651b-4aba-ad39-9d426e15fdeb": {
+      "id": "088b6c54-651b-4aba-ad39-9d426e15fdeb",
+      "accession_id": "S-BIAD618",
+      "name": "Figure1_datasources/VEGFR3_YFP_Adult.ims",
+      "original_relpath": "Figure1_datasources/VEGFR3_YFP_Adult.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "088b6c54-651b-4aba-ad39-9d426e15fdeb",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure1_datasources.zip",
+          "size": 2979201,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "9e9aeeac-7f37-487f-a655-2c3235535e03"
+            ]
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "088b6c54-651b-4aba-ad39-9d426e15fdeb",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD618/088b6c54-651b-4aba-ad39-9d426e15fdeb/088b6c54-651b-4aba-ad39-9d426e15fdeb.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "088b6c54-651b-4aba-ad39-9d426e15fdeb",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD618/088b6c54-651b-4aba-ad39-9d426e15fdeb/088b6c54-651b-4aba-ad39-9d426e15fdeb-thumbnail-128-128.png",
+          "size": 0,
+          "type": "thumbnail",
+          "dimensions": "(128, 128)",
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "VEGFR3-YFP_10DPN_2.ims",
+        "Format": "ims",
+        "Chanels": "1",
+        "Markers": "VEGFR3:YFP",
+        "imaging technic": "Binocular",
+        "Microscope": "Leica binocular magnifier ",
+        "Magnification": "1X",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "na",
+        "download_size": "In 10.3MiB zip"
+      }
+    },
+    "0c2651ab-5d88-41a7-8f8b-95815d68a40a": {
+      "id": "0c2651ab-5d88-41a7-8f8b-95815d68a40a",
+      "accession_id": "S-BIAD618",
+      "name": "8bits/Figure2_Caput_4Lymph.ims",
+      "original_relpath": "8bits/Figure2_Caput_4Lymph.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "0c2651ab-5d88-41a7-8f8b-95815d68a40a",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2_datasources.zip",
+          "size": 1489917088,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "15d442d2-c581-44fe-9df8-e12bafce7c90"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "/Figure2_Cauda_4lymph.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP;  LYVE1; PDPN; PROX1",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 6.0GiB zip"
+      }
+    },
+    "1912f7bf-354d-4532-8693-b7ade3b5de74": {
+      "id": "1912f7bf-354d-4532-8693-b7ade3b5de74",
+      "accession_id": "S-BIAD618",
+      "name": "figure6_datasources/Figure6_B2_VEGF-C_VEGF-D.ims",
+      "original_relpath": "figure6_datasources/Figure6_B2_VEGF-C_VEGF-D.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "1912f7bf-354d-4532-8693-b7ade3b5de74",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+          "size": 32794310,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "8860d0cc-ef53-4e58-8807-eb0be42a8b9a"
+            ]
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "1912f7bf-354d-4532-8693-b7ade3b5de74",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD618/1912f7bf-354d-4532-8693-b7ade3b5de74/1912f7bf-354d-4532-8693-b7ade3b5de74.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "1912f7bf-354d-4532-8693-b7ade3b5de74",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD618/1912f7bf-354d-4532-8693-b7ade3b5de74/1912f7bf-354d-4532-8693-b7ade3b5de74-thumbnail-128-128.png",
+          "size": 0,
+          "type": "thumbnail",
+          "dimensions": "(128, 128)",
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence",
+        "download_size": "In 2.5GiB zip"
+      }
+    },
+    "194247c5-2925-4227-bf7b-26d4afcb9e29": {
+      "id": "194247c5-2925-4227-bf7b-26d4afcb9e29",
+      "accession_id": "S-BIAD618",
+      "name": "8bits/Figure3_Caput.ims",
+      "original_relpath": "8bits/Figure3_Caput.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "194247c5-2925-4227-bf7b-26d4afcb9e29",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure3_datasources.zip",
+          "size": 1796274757,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "8164d1d9-87cb-477e-b5ad-793ebbebfe51"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure3_Cauda.ims",
+        "Format": "ims",
+        "Chanels": "2",
+        "Markers": "VEGFR3:YFP, PLVAP",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "surface rendering",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 19.3GiB zip"
+      }
+    },
+    "20babc0c-f0ae-4b54-8e5e-15c58285ae9d": {
+      "id": "20babc0c-f0ae-4b54-8e5e-15c58285ae9d",
+      "accession_id": "S-BIAD618",
+      "name": "Figure7_datasources/Figure 7A.ims",
+      "original_relpath": "Figure7_datasources/Figure 7A.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "20babc0c-f0ae-4b54-8e5e-15c58285ae9d",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure7_datasources.zip",
+          "size": 267452834,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "60db8ad6-7010-4836-842c-062dcc3eb31c"
+            ]
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "20babc0c-f0ae-4b54-8e5e-15c58285ae9d",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD618/20babc0c-f0ae-4b54-8e5e-15c58285ae9d/20babc0c-f0ae-4b54-8e5e-15c58285ae9d.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure7B_Adult.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP; LYVE1; PDPN; PLVAP",
+        "imaging technic": "Ultra microscope 6",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "20X",
+        "Analysis": "Surface rendering",
+        "ROI": "1",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 1.4GiB zip"
+      }
+    },
+    "21405998-f5e3-4ce2-ac52-a7d50258ead3": {
+      "id": "21405998-f5e3-4ce2-ac52-a7d50258ead3",
+      "accession_id": "S-BIAD618",
+      "name": "figure6_datasources/Figure6_B7_VEGF-C_VEGF-D.ims",
+      "original_relpath": "figure6_datasources/Figure6_B7_VEGF-C_VEGF-D.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "21405998-f5e3-4ce2-ac52-a7d50258ead3",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+          "size": 27158645,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "f087b0ee-b492-47ef-890f-c5110115bcd1"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence",
+        "download_size": "In 2.5GiB zip"
+      }
+    },
+    "2bf9d786-9d8d-41b8-b386-e5dee233fef2": {
+      "id": "2bf9d786-9d8d-41b8-b386-e5dee233fef2",
+      "accession_id": "S-BIAD618",
+      "name": "8bits/Figure4_Caput_40DPN.ims",
+      "original_relpath": "8bits/Figure4_Caput_40DPN.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "2bf9d786-9d8d-41b8-b386-e5dee233fef2",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure4_datasources.zip",
+          "size": 1221346279,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "53adfb6c-20a1-4ac0-a67e-e704037c5a79"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure4_Caput_40DPN.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "VEGFR3:YFP; PLVAP, LYVE4",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 4.2GiB zip"
+      }
+    },
+    "2e07aff4-0347-43be-8346-6b503df0df6e": {
+      "id": "2e07aff4-0347-43be-8346-6b503df0df6e",
+      "accession_id": "S-BIAD618",
+      "name": "8bits/Figure3_cauda.ims",
+      "original_relpath": "8bits/Figure3_cauda.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "2e07aff4-0347-43be-8346-6b503df0df6e",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure3_datasources.zip",
+          "size": 19893885257,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "ca041f77-a232-4e38-9203-7356c9ed8435"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure3_Cauda.ims",
+        "Format": "ims",
+        "Chanels": "2",
+        "Markers": "VEGFR3:YFP, PLVAP",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "surface rendering",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 19.3GiB zip"
+      }
+    },
+    "2e142ffd-b869-42d2-8b7e-c79721093b05": {
+      "id": "2e142ffd-b869-42d2-8b7e-c79721093b05",
+      "accession_id": "S-BIAD618",
+      "name": "8bits/Figure4_Caput_20DPN.ims",
+      "original_relpath": "8bits/Figure4_Caput_20DPN.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "2e142ffd-b869-42d2-8b7e-c79721093b05",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure4_datasources.zip",
+          "size": 1566950567,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "5b258eba-304a-42c8-959d-ef086572a50e"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure4_Caput_40DPN.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "VEGFR3:YFP; PLVAP, LYVE4",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 4.2GiB zip"
+      }
+    },
+    "2ff4a105-0be1-4f4d-b0e2-875d38882234": {
+      "id": "2ff4a105-0be1-4f4d-b0e2-875d38882234",
+      "accession_id": "S-BIAD618",
+      "name": "figure4_figSuppl1B_datasources/Figure4_FigSuppl1_Cauda_30DPN.ims",
+      "original_relpath": "figure4_figSuppl1B_datasources/Figure4_FigSuppl1_Cauda_30DPN.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "2ff4a105-0be1-4f4d-b0e2-875d38882234",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure4_figSuppl1_datasources_partB.zip",
+          "size": 8972140177,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "84221c0a-86bb-457d-b9b2-038c291fe5f4"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure4_Cauda_40DPN.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP ; PLVAP, LYVE1, PDPN",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 10.1GiB zip"
+      }
+    },
+    "31fbac5d-668d-46dc-a3e2-64def3fdc7cb": {
+      "id": "31fbac5d-668d-46dc-a3e2-64def3fdc7cb",
+      "accession_id": "S-BIAD618",
+      "name": "8bits/Figure2-figSuppl3A_Cauda_Blood_3lymph.ims",
+      "original_relpath": "8bits/Figure2-figSuppl3A_Cauda_Blood_3lymph.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "31fbac5d-668d-46dc-a3e2-64def3fdc7cb",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2-figSuppl3_datasources.zip",
+          "size": 1825146527,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "cfcf5544-d4ce-4d49-9858-2a5a1d33667b"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure2-Suppl3B_IS_12X Z0000.ims",
+        "Format": "ims",
+        "Chanels": "2",
+        "Markers": "VEGFR3:YFP; PLVAP",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "Surface rendering",
+        "ROI": "1",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 9.4GiB zip"
+      }
+    },
+    "35863b1e-7253-4199-bfb7-42c9b86165e2": {
+      "id": "35863b1e-7253-4199-bfb7-42c9b86165e2",
+      "accession_id": "S-BIAD618",
+      "name": "8bits/Figure4_Caput_10DPN.ims",
+      "original_relpath": "8bits/Figure4_Caput_10DPN.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "35863b1e-7253-4199-bfb7-42c9b86165e2",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure4_datasources.zip",
+          "size": 163369927,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "ced8cbd0-f2cc-4387-9c79-aa90980aeb58"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure4_Caput_40DPN.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "VEGFR3:YFP; PLVAP, LYVE4",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 4.2GiB zip"
+      }
+    },
+    "3b4aece2-386e-442b-9563-88eaa23fc73b": {
+      "id": "3b4aece2-386e-442b-9563-88eaa23fc73b",
+      "accession_id": "S-BIAD618",
+      "name": "Figure1_datasources/VEGFR3_YFP_Adult_Corpus_Zoom.ims",
+      "original_relpath": "Figure1_datasources/VEGFR3_YFP_Adult_Corpus_Zoom.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "3b4aece2-386e-442b-9563-88eaa23fc73b",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure1_datasources.zip",
+          "size": 1539991,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "1bea9170-f91b-4b6d-a1b5-7ffbc7aad11a"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "VEGFR3-YFP_10DPN_2.ims",
+        "Format": "ims",
+        "Chanels": "1",
+        "Markers": "VEGFR3:YFP",
+        "imaging technic": "Binocular",
+        "Microscope": "Leica binocular magnifier ",
+        "Magnification": "1X",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "na",
+        "download_size": "In 10.3MiB zip"
+      }
+    },
+    "3c482e3b-b718-4d2e-9677-c9f68b6424f3": {
+      "id": "3c482e3b-b718-4d2e-9677-c9f68b6424f3",
+      "accession_id": "S-BIAD618",
+      "name": "figure4_figSuppl1B_datasources/Figure4_FigSuppl1_Cauda_40DPN.ims",
+      "original_relpath": "figure4_figSuppl1B_datasources/Figure4_FigSuppl1_Cauda_40DPN.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "3c482e3b-b718-4d2e-9677-c9f68b6424f3",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure4_figSuppl1_datasources_partB.zip",
+          "size": 1896508877,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "6864d7cb-92c5-4775-8416-3598b58e1c09"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure4_Cauda_40DPN.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP ; PLVAP, LYVE1, PDPN",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 10.1GiB zip"
+      }
+    },
+    "4615fce8-0683-4bd2-9172-b00328d3d781": {
+      "id": "4615fce8-0683-4bd2-9172-b00328d3d781",
+      "accession_id": "S-BIAD618",
+      "name": "8bits/Figure2-Suppl3B_IS_12X Z0000.ims",
+      "original_relpath": "8bits/Figure2-Suppl3B_IS_12X Z0000.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "4615fce8-0683-4bd2-9172-b00328d3d781",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2-figSuppl3_datasources.zip",
+          "size": 3959608087,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "26c4ca3e-2537-4852-8d22-edaeeb2b0f57"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure2-Suppl3B_IS_12X Z0000.ims",
+        "Format": "ims",
+        "Chanels": "2",
+        "Markers": "VEGFR3:YFP; PLVAP",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "Surface rendering",
+        "ROI": "1",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 9.4GiB zip"
+      }
+    },
+    "4697e334-fd00-4c00-9573-40b944863891": {
+      "id": "4697e334-fd00-4c00-9573-40b944863891",
+      "accession_id": "S-BIAD618",
+      "name": "Figure1_datasources/VEGFR3-YFP_Adult_Cauda-2.ims",
+      "original_relpath": "Figure1_datasources/VEGFR3-YFP_Adult_Cauda-2.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "4697e334-fd00-4c00-9573-40b944863891",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure1_datasources.zip",
+          "size": 1256496,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "87ce7e4c-a159-479f-9fad-efd9a8426a31"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "VEGFR3-YFP_10DPN_2.ims",
+        "Format": "ims",
+        "Chanels": "1",
+        "Markers": "VEGFR3:YFP",
+        "imaging technic": "Binocular",
+        "Microscope": "Leica binocular magnifier ",
+        "Magnification": "1X",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "na",
+        "download_size": "In 10.3MiB zip"
+      }
+    },
+    "47a62e36-1d21-497b-8493-f27fcd40eb40": {
+      "id": "47a62e36-1d21-497b-8493-f27fcd40eb40",
+      "accession_id": "S-BIAD618",
+      "name": "figure6_datasources/Figure6_A_VEGF-A_organ_scan .czi",
+      "original_relpath": "figure6_datasources/Figure6_A_VEGF-A_organ_scan .czi",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "47a62e36-1d21-497b-8493-f27fcd40eb40",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+          "size": 920865728,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "0c81db27-99a8-4c43-8806-776b4d28e9ed"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence",
+        "download_size": "In 2.5GiB zip"
+      }
+    },
+    "499c816c-7f62-40c4-9e41-6ab606247a8d": {
+      "id": "499c816c-7f62-40c4-9e41-6ab606247a8d",
+      "accession_id": "S-BIAD618",
+      "name": "Figure2_fig-suppl1_datasources/Figure2-figSuppl1A_datasources.ims",
+      "original_relpath": "Figure2_fig-suppl1_datasources/Figure2-figSuppl1A_datasources.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "499c816c-7f62-40c4-9e41-6ab606247a8d",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2_fig-suppl1_datasources.zip",
+          "size": 19734247,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "39c5bb07-e3d1-4551-b8bd-97b2b8beb0f6"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure2-figSuppl1C.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "A488; A555; A647; Chromeo494",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4X",
+        "Analysis": "Surface rendering",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 506.0MiB zip"
+      }
+    },
+    "49a5af38-e252-41ac-a4f1-9d384021823d": {
+      "id": "49a5af38-e252-41ac-a4f1-9d384021823d",
+      "accession_id": "S-BIAD618",
+      "name": "Figure4_fig-suppl1A_datasources/Figure4_FigSuppl1_Cauda_20DPN.ims",
+      "original_relpath": "Figure4_fig-suppl1A_datasources/Figure4_FigSuppl1_Cauda_20DPN.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "49a5af38-e252-41ac-a4f1-9d384021823d",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure4_fig-suppl1_datasources_partA.zip",
+          "size": 8320328312,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "782e94f7-9c82-48a4-a083-3c8db4fdd469"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure4_Cauda_20DPN.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP; PLVAP, LYVE1, PDPN",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 12.4GiB zip"
+      }
+    },
+    "4ae3bb0d-0d40-4ebc-a36e-cde9cd3314ac": {
+      "id": "4ae3bb0d-0d40-4ebc-a36e-cde9cd3314ac",
+      "accession_id": "S-BIAD618",
+      "name": "Figures2-Videos_Datasources/Figure2-Video1.ims",
+      "original_relpath": "Figures2-Videos_Datasources/Figure2-Video1.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "4ae3bb0d-0d40-4ebc-a36e-cde9cd3314ac",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figures2-Videos_Datasources.zip",
+          "size": 3492435946,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "76e1e04c-9f65-4211-aadd-7ff58d3ca47b"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure2-Video3.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "PLVAP, VEGFR3:YFP; LYVE1; PDPN ",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 11.1GiB zip"
+      }
+    },
+    "4fdf80c0-4bc0-4e1a-a6f4-5246fd2647f7": {
+      "id": "4fdf80c0-4bc0-4e1a-a6f4-5246fd2647f7",
+      "accession_id": "S-BIAD618",
+      "name": "figure6_datasources/Figure6_B6_VEGF-C_VEGF-D.ims",
+      "original_relpath": "figure6_datasources/Figure6_B6_VEGF-C_VEGF-D.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "4fdf80c0-4bc0-4e1a-a6f4-5246fd2647f7",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+          "size": 25138198,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "2461260f-c2ea-4a37-be7d-0ab6c1aaee9d"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence",
+        "download_size": "In 2.5GiB zip"
+      }
+    },
+    "58ba4d61-730b-4c9a-a4b4-bac320a91cd5": {
+      "id": "58ba4d61-730b-4c9a-a4b4-bac320a91cd5",
+      "accession_id": "S-BIAD618",
+      "name": "figure6_datasources/Figure6_B4_VEGF-C_VEGF-D.ims",
+      "original_relpath": "figure6_datasources/Figure6_B4_VEGF-C_VEGF-D.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "58ba4d61-730b-4c9a-a4b4-bac320a91cd5",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+          "size": 28368286,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "45d7ae58-3957-4851-b8be-33150a6dc73b"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence",
+        "download_size": "In 2.5GiB zip"
+      }
+    },
+    "60ed1c5b-cdf1-4229-b3b1-17ac823fe225": {
+      "id": "60ed1c5b-cdf1-4229-b3b1-17ac823fe225",
+      "accession_id": "S-BIAD618",
+      "name": "figure5_datasouces/Figure5_VEGF-A_GAPDH/GAPDH rep 1 - 2 for VEGFA 2021-03-15 09h14m15s(Chemiluminescence).tif",
+      "original_relpath": "figure5_datasouces/Figure5_VEGF-A_GAPDH/GAPDH rep 1 - 2 for VEGFA 2021-03-15 09h14m15s(Chemiluminescence).tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "60ed1c5b-cdf1-4229-b3b1-17ac823fe225",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure5_datasouces.zip",
+          "size": 4896804,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "9d0f515b-149c-464d-9605-ef0fb7c85628"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure5_Covariance.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "stats",
+        "download_size": "In 4.4MiB zip"
+      }
+    },
+    "647e445c-710d-46cb-ba00-7365e0f3be17": {
+      "id": "647e445c-710d-46cb-ba00-7365e0f3be17",
+      "accession_id": "S-BIAD618",
+      "name": "Figure2_fig-suppl2_datasources/Figure2_FigSuppl2_Epididymis.ims",
+      "original_relpath": "Figure2_fig-suppl2_datasources/Figure2_FigSuppl2_Epididymis.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "647e445c-710d-46cb-ba00-7365e0f3be17",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2_figSuppl2_datasources.zip",
+          "size": 4704775703,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "6638a873-40bd-45c0-8225-b56bd47580ee"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure2-figSuppl2_epididymis.ims",
+        "Format": "ims",
+        "Chanels": "2",
+        "Markers": "VEGFR3:YFP; LYVE1",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "2X",
+        "Analysis": "Surface rendering",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 4.3GiB zip"
+      }
+    },
+    "6d2c15f1-fbae-411b-8af5-9b15350fcbc5": {
+      "id": "6d2c15f1-fbae-411b-8af5-9b15350fcbc5",
+      "accession_id": "S-BIAD618",
+      "name": "8bits/Figure2-figSuppl3A_Caput_4lymphatics.ims",
+      "original_relpath": "8bits/Figure2-figSuppl3A_Caput_4lymphatics.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "6d2c15f1-fbae-411b-8af5-9b15350fcbc5",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2-figSuppl3_datasources.zip",
+          "size": 1489872469,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "ee2686d9-3fee-435d-9181-fc5f14f913b4"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure2-Suppl3B_IS_12X Z0000.ims",
+        "Format": "ims",
+        "Chanels": "2",
+        "Markers": "VEGFR3:YFP; PLVAP",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "Surface rendering",
+        "ROI": "1",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 9.4GiB zip"
+      }
+    },
+    "70899cbb-a31a-41b3-b69f-7201cdcb2530": {
+      "id": "70899cbb-a31a-41b3-b69f-7201cdcb2530",
+      "accession_id": "S-BIAD618",
+      "name": "figure5_datasouces/Figure5_VEGFR3_GAPDH/VEFR3 REP 1&2 Cut gel_ 2020-12-07 08h58m29s(Chemiluminescence).tif",
+      "original_relpath": "figure5_datasouces/Figure5_VEGFR3_GAPDH/VEFR3 REP 1&2 Cut gel_ 2020-12-07 08h58m29s(Chemiluminescence).tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "70899cbb-a31a-41b3-b69f-7201cdcb2530",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure5_datasouces.zip",
+          "size": 4896804,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "3439c2ae-fb0b-404e-8b58-ad12304da090"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure5_Covariance.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "stats",
+        "download_size": "In 4.4MiB zip"
+      }
+    },
+    "75311c09-7905-4205-8451-b85c85b599da": {
+      "id": "75311c09-7905-4205-8451-b85c85b599da",
+      "accession_id": "S-BIAD618",
+      "name": "figure5_datasouces/Figure5_VEGF-D_GAPDH/VEGFD REP 1&2 2020-12-06 09h31m01s(Chemiluminescence).jpg",
+      "original_relpath": "figure5_datasouces/Figure5_VEGF-D_GAPDH/VEGFD REP 1&2 2020-12-06 09h31m01s(Chemiluminescence).jpg",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "75311c09-7905-4205-8451-b85c85b599da",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure5_datasouces.zip",
+          "size": 331407,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "0049d06c-0d52-421b-be1b-c9d419addeaa"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure5_Covariance.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "stats",
+        "download_size": "In 4.4MiB zip"
+      }
+    },
+    "768ec2dc-29fc-4850-b9c2-c4cfefb3d7c2": {
+      "id": "768ec2dc-29fc-4850-b9c2-c4cfefb3d7c2",
+      "accession_id": "S-BIAD618",
+      "name": "Figure1_datasources/VEGFR3-YFP_Adult_Caput.ims",
+      "original_relpath": "Figure1_datasources/VEGFR3-YFP_Adult_Caput.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "768ec2dc-29fc-4850-b9c2-c4cfefb3d7c2",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure1_datasources.zip",
+          "size": 1302113,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "25cc4a23-51b8-4e37-9651-a7cdf6c70923"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "VEGFR3-YFP_10DPN_2.ims",
+        "Format": "ims",
+        "Chanels": "1",
+        "Markers": "VEGFR3:YFP",
+        "imaging technic": "Binocular",
+        "Microscope": "Leica binocular magnifier ",
+        "Magnification": "1X",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "na",
+        "download_size": "In 10.3MiB zip"
+      }
+    },
+    "7d37f820-5cef-466a-a610-3730d2046031": {
+      "id": "7d37f820-5cef-466a-a610-3730d2046031",
+      "accession_id": "S-BIAD618",
+      "name": "Figure7_datasources/Figure7B_Adulte.ims",
+      "original_relpath": "Figure7_datasources/Figure7B_Adulte.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "7d37f820-5cef-466a-a610-3730d2046031",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure7_datasources.zip",
+          "size": 267124671,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "24dc47ba-63ef-4783-b988-c128bf7bd598"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure7B_Adult.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP; LYVE1; PDPN; PLVAP",
+        "imaging technic": "Ultra microscope 6",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "20X",
+        "Analysis": "Surface rendering",
+        "ROI": "1",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 1.4GiB zip"
+      }
+    },
+    "7daba15f-ddef-43c6-95bd-4d4df75abb32": {
+      "id": "7daba15f-ddef-43c6-95bd-4d4df75abb32",
+      "accession_id": "S-BIAD618",
+      "name": "8bits/Figure2_Cauda_Blood_3lymph.ims",
+      "original_relpath": "8bits/Figure2_Cauda_Blood_3lymph.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "7daba15f-ddef-43c6-95bd-4d4df75abb32",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2_datasources.zip",
+          "size": 1829420123,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "459ccee3-8164-4482-8a49-c649f49d942c"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "/Figure2_Cauda_4lymph.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP;  LYVE1; PDPN; PROX1",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 6.0GiB zip"
+      }
+    },
+    "863433c9-f4c3-4c89-aefb-1679822de9ac": {
+      "id": "863433c9-f4c3-4c89-aefb-1679822de9ac",
+      "accession_id": "S-BIAD618",
+      "name": "figure5_datasouces/Figure5_VEGF-C_GAPDH/GAPDH REP_ 1&2  For VEGFC  2020-12-06 13h28m24s(Chemiluminescence).tif",
+      "original_relpath": "figure5_datasouces/Figure5_VEGF-C_GAPDH/GAPDH REP_ 1&2  For VEGFC  2020-12-06 13h28m24s(Chemiluminescence).tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "863433c9-f4c3-4c89-aefb-1679822de9ac",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure5_datasouces.zip",
+          "size": 4896804,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "8e47c554-844c-4abc-8f0d-fdac0ed13eef"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure5_Covariance.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "stats",
+        "download_size": "In 4.4MiB zip"
+      }
+    },
+    "874f5cfd-338e-4b6f-827c-48802c924cfe": {
+      "id": "874f5cfd-338e-4b6f-827c-48802c924cfe",
+      "accession_id": "S-BIAD618",
+      "name": "8bits/Figure4_Caput_30DPN.ims",
+      "original_relpath": "8bits/Figure4_Caput_30DPN.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "874f5cfd-338e-4b6f-827c-48802c924cfe",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure4_datasources.zip",
+          "size": 1674162304,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "6979e10b-c211-47d7-9352-7c53cc8e93ae"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure4_Caput_40DPN.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "VEGFR3:YFP; PLVAP, LYVE4",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 4.2GiB zip"
+      }
+    },
+    "8d2a32eb-90d8-4904-b772-f36c12368b98": {
+      "id": "8d2a32eb-90d8-4904-b772-f36c12368b98",
+      "accession_id": "S-BIAD618",
+      "name": "figure5_datasouces/Figure5_VEGF-A_GAPDH/VEGFA REP 12021-03-14 10h54m25s(Chemiluminescence)(1).jpg",
+      "original_relpath": "figure5_datasouces/Figure5_VEGF-A_GAPDH/VEGFA REP 12021-03-14 10h54m25s(Chemiluminescence)(1).jpg",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "8d2a32eb-90d8-4904-b772-f36c12368b98",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure5_datasouces.zip",
+          "size": 391790,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "b082b59f-0466-4e3e-871f-a8f3471f42e7"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure5_Covariance.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "stats",
+        "download_size": "In 4.4MiB zip"
+      }
+    },
+    "8dc7e7fc-6ef9-4354-8112-e9b57c2f0ea5": {
+      "id": "8dc7e7fc-6ef9-4354-8112-e9b57c2f0ea5",
+      "accession_id": "S-BIAD618",
+      "name": "Figure1_datasources/VEGFR3-YFP_10DPN_2.ims",
+      "original_relpath": "Figure1_datasources/VEGFR3-YFP_10DPN_2.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "8dc7e7fc-6ef9-4354-8112-e9b57c2f0ea5",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure1_datasources.zip",
+          "size": 1481774,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "5f1f5a22-b6df-4d1f-865f-4053bdda874e"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "VEGFR3-YFP_10DPN_2.ims",
+        "Format": "ims",
+        "Chanels": "1",
+        "Markers": "VEGFR3:YFP",
+        "imaging technic": "Binocular",
+        "Microscope": "Leica binocular magnifier ",
+        "Magnification": "1X",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "na",
+        "download_size": "In 10.3MiB zip"
+      }
+    },
+    "8f726a35-43c8-4b9f-93a0-1cfe2b8690e0": {
+      "id": "8f726a35-43c8-4b9f-93a0-1cfe2b8690e0",
+      "accession_id": "S-BIAD618",
+      "name": "Figure2_fig-suppl1_datasources/Figure2-figSuppl1C_datasources.ims",
+      "original_relpath": "Figure2_fig-suppl1_datasources/Figure2-figSuppl1C_datasources.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "8f726a35-43c8-4b9f-93a0-1cfe2b8690e0",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2_fig-suppl1_datasources.zip",
+          "size": 511296738,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "8a7b2915-8e33-476b-90a5-9b778e6ae56e"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure2-figSuppl1C.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "A488; A555; A647; Chromeo494",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4X",
+        "Analysis": "Surface rendering",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 506.0MiB zip"
+      }
+    },
+    "9127d358-803a-4122-829c-d7d0a19d4795": {
+      "id": "9127d358-803a-4122-829c-d7d0a19d4795",
+      "accession_id": "S-BIAD618",
+      "name": "figure6_datasources/Figure6_B3_VEGF-C_VEGF-D.ims",
+      "original_relpath": "figure6_datasources/Figure6_B3_VEGF-C_VEGF-D.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "9127d358-803a-4122-829c-d7d0a19d4795",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+          "size": 23925846,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "464b0839-1038-466e-b294-97ed7745855d"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence",
+        "download_size": "In 2.5GiB zip"
+      }
+    },
+    "92a4d820-c6d6-485b-85bd-4baa46ab376c": {
+      "id": "92a4d820-c6d6-485b-85bd-4baa46ab376c",
+      "accession_id": "S-BIAD618",
+      "name": "Figure1_datasources/VEGFR-YFP_Adult_Corpus.ims",
+      "original_relpath": "Figure1_datasources/VEGFR-YFP_Adult_Corpus.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "92a4d820-c6d6-485b-85bd-4baa46ab376c",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure1_datasources.zip",
+          "size": 2192254,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "15ecd481-bb59-4d06-8a86-8a7ddced4076"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "VEGFR3-YFP_10DPN_2.ims",
+        "Format": "ims",
+        "Chanels": "1",
+        "Markers": "VEGFR3:YFP",
+        "imaging technic": "Binocular",
+        "Microscope": "Leica binocular magnifier ",
+        "Magnification": "1X",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "na",
+        "download_size": "In 10.3MiB zip"
+      }
+    },
+    "932c667a-829c-4869-97dd-9df360b614db": {
+      "id": "932c667a-829c-4869-97dd-9df360b614db",
+      "accession_id": "S-BIAD618",
+      "name": "figure6_datasources/Figure6_A_VEGFR2.ims",
+      "original_relpath": "figure6_datasources/Figure6_A_VEGFR2.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "932c667a-829c-4869-97dd-9df360b614db",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+          "size": 76504651,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "fceb78e8-2caa-4790-af7c-774d88c50071"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence",
+        "download_size": "In 2.5GiB zip"
+      }
+    },
+    "95904501-716c-40d6-afa1-908543d9a550": {
+      "id": "95904501-716c-40d6-afa1-908543d9a550",
+      "accession_id": "S-BIAD618",
+      "name": "figure6_datasources/Figure6_B1_VEGF-C_VEGF-D_organ_scan .czi",
+      "original_relpath": "figure6_datasources/Figure6_B1_VEGF-C_VEGF-D_organ_scan .czi",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "95904501-716c-40d6-afa1-908543d9a550",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+          "size": 1339638976,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "710c2070-a425-47c4-a157-d952cad71f06"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence",
+        "download_size": "In 2.5GiB zip"
+      }
+    },
+    "9690fef1-2660-4c67-a1b7-2403329fb6ff": {
+      "id": "9690fef1-2660-4c67-a1b7-2403329fb6ff",
+      "accession_id": "S-BIAD618",
+      "name": "Figures2-Videos_Datasources/Figure2-Video3.ims",
+      "original_relpath": "Figures2-Videos_Datasources/Figure2-Video3.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "9690fef1-2660-4c67-a1b7-2403329fb6ff",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figures2-Videos_Datasources.zip",
+          "size": 1808286217,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "d46b3b8e-b57a-4ef4-9ce0-a53b197bfbbc"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure2-Video3.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "PLVAP, VEGFR3:YFP; LYVE1; PDPN ",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 11.1GiB zip"
+      }
+    },
+    "9cf64530-654a-4848-886c-d87e328f7fb0": {
+      "id": "9cf64530-654a-4848-886c-d87e328f7fb0",
+      "accession_id": "S-BIAD618",
+      "name": "Figures2-Videos_Datasources/Figure2-Video2.ims",
+      "original_relpath": "Figures2-Videos_Datasources/Figure2-Video2.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "9cf64530-654a-4848-886c-d87e328f7fb0",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figures2-Videos_Datasources.zip",
+          "size": 7016996204,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "d204e4f8-61e5-4f8c-b305-95558d1f6896"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure2-Video3.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "PLVAP, VEGFR3:YFP; LYVE1; PDPN ",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 11.1GiB zip"
+      }
+    },
+    "a1176540-9d69-4b67-a718-afaf811aa072": {
+      "id": "a1176540-9d69-4b67-a718-afaf811aa072",
+      "accession_id": "S-BIAD618",
+      "name": "figure6_datasources/Figure6_A_VEGF-A_Corpus.ims",
+      "original_relpath": "figure6_datasources/Figure6_A_VEGF-A_Corpus.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "a1176540-9d69-4b67-a718-afaf811aa072",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+          "size": 34420721,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "ae5f391d-193a-49ba-8385-e34cbfee7409"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence",
+        "download_size": "In 2.5GiB zip"
+      }
+    },
+    "a133dc36-86da-42d1-9f1d-d05f749edc3f": {
+      "id": "a133dc36-86da-42d1-9f1d-d05f749edc3f",
+      "accession_id": "S-BIAD618",
+      "name": "figure6_datasources/Figure6_A_VEGFA_Cauda.ims",
+      "original_relpath": "figure6_datasources/Figure6_A_VEGFA_Cauda.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "a133dc36-86da-42d1-9f1d-d05f749edc3f",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+          "size": 30808859,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "a6dec80d-a360-4da7-a8f7-703a8495eba4"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence",
+        "download_size": "In 2.5GiB zip"
+      }
+    },
+    "a7fd2323-787b-4d12-b909-6305dced70a1": {
+      "id": "a7fd2323-787b-4d12-b909-6305dced70a1",
+      "accession_id": "S-BIAD618",
+      "name": "8bits/Figure2-figSuppl3A_Cauda_4Lymphatics.ims",
+      "original_relpath": "8bits/Figure2-figSuppl3A_Cauda_4Lymphatics.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "a7fd2323-787b-4d12-b909-6305dced70a1",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2-figSuppl3_datasources.zip",
+          "size": 989044882,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "27673f35-9ae4-4ae4-b414-0fa8c240910d"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure2-Suppl3B_IS_12X Z0000.ims",
+        "Format": "ims",
+        "Chanels": "2",
+        "Markers": "VEGFR3:YFP; PLVAP",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "Surface rendering",
+        "ROI": "1",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 9.4GiB zip"
+      }
+    },
+    "b1c744a2-bcc7-475d-a023-bdcb816d7c97": {
+      "id": "b1c744a2-bcc7-475d-a023-bdcb816d7c97",
+      "accession_id": "S-BIAD618",
+      "name": "8bits/Figure2_Caput_Blood_3Lymph.ims",
+      "original_relpath": "8bits/Figure2_Caput_Blood_3Lymph.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "b1c744a2-bcc7-475d-a023-bdcb816d7c97",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2_datasources.zip",
+          "size": 2119815873,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "8b7da8f6-e900-4424-a6ec-c9b2cf7c0e15"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "/Figure2_Cauda_4lymph.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP;  LYVE1; PDPN; PROX1",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 6.0GiB zip"
+      }
+    },
+    "b24a1419-52b6-4828-bed1-b633254ee8f7": {
+      "id": "b24a1419-52b6-4828-bed1-b633254ee8f7",
+      "accession_id": "S-BIAD618",
+      "name": "figure6_datasources/Figure6_B5_VEGF-C_VEGF-D.ims",
+      "original_relpath": "figure6_datasources/Figure6_B5_VEGF-C_VEGF-D.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "b24a1419-52b6-4828-bed1-b633254ee8f7",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+          "size": 36962943,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "90abec6a-90cb-4801-82f1-585aff691885"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence",
+        "download_size": "In 2.5GiB zip"
+      }
+    },
+    "b2c907a9-5f60-4b43-acd7-f676ec32231f": {
+      "id": "b2c907a9-5f60-4b43-acd7-f676ec32231f",
+      "accession_id": "S-BIAD618",
+      "name": "8bits/Figure2-figSuppl3A_Caput_Blood_3Lymph.ims",
+      "original_relpath": "8bits/Figure2-figSuppl3A_Caput_Blood_3Lymph.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "b2c907a9-5f60-4b43-acd7-f676ec32231f",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2-figSuppl3_datasources.zip",
+          "size": 2025031884,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "118d39b1-0833-4d57-9be9-d972ec53d23e"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure2-Suppl3B_IS_12X Z0000.ims",
+        "Format": "ims",
+        "Chanels": "2",
+        "Markers": "VEGFR3:YFP; PLVAP",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "Surface rendering",
+        "ROI": "1",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 9.4GiB zip"
+      }
+    },
+    "b5fc140d-f834-4c47-b5d2-4a06ab61f688": {
+      "id": "b5fc140d-f834-4c47-b5d2-4a06ab61f688",
+      "accession_id": "S-BIAD618",
+      "name": "Figure7_datasources/Figure7B_20DPN.ims",
+      "original_relpath": "Figure7_datasources/Figure7B_20DPN.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "b5fc140d-f834-4c47-b5d2-4a06ab61f688",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure7_datasources.zip",
+          "size": 225174937,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "b099e2ae-fd03-4334-8405-67b97aee24e3"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure7B_Adult.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP; LYVE1; PDPN; PLVAP",
+        "imaging technic": "Ultra microscope 6",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "20X",
+        "Analysis": "Surface rendering",
+        "ROI": "1",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 1.4GiB zip"
+      }
+    },
+    "b79a976f-1478-4a59-8ef6-ebaaac7b6e66": {
+      "id": "b79a976f-1478-4a59-8ef6-ebaaac7b6e66",
+      "accession_id": "S-BIAD618",
+      "name": "figure6_datasources/Figure6_B9_Control.ims",
+      "original_relpath": "figure6_datasources/Figure6_B9_Control.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "b79a976f-1478-4a59-8ef6-ebaaac7b6e66",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+          "size": 27004542,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "7957bdbb-466c-4edb-b53a-5b57a0a20200"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence",
+        "download_size": "In 2.5GiB zip"
+      }
+    },
+    "b9f3606f-2fee-4bc0-b314-9c0999ddcd93": {
+      "id": "b9f3606f-2fee-4bc0-b314-9c0999ddcd93",
+      "accession_id": "S-BIAD618",
+      "name": "figure5_datasouces/Figure5_VEGFR3_GAPDH/VEGFR3 Rep 1&2 Whole gel 2020-12-07 08h25m38s(Chemiluminescence).jpg",
+      "original_relpath": "figure5_datasouces/Figure5_VEGFR3_GAPDH/VEGFR3 Rep 1&2 Whole gel 2020-12-07 08h25m38s(Chemiluminescence).jpg",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "b9f3606f-2fee-4bc0-b314-9c0999ddcd93",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure5_datasouces.zip",
+          "size": 270622,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "0c62a2c9-fb55-4d0f-8769-4e8e173b2960"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure5_Covariance.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "stats",
+        "download_size": "In 4.4MiB zip"
+      }
+    },
+    "bf5bd98f-049f-4f51-b4a3-77901a8bebc6": {
+      "id": "bf5bd98f-049f-4f51-b4a3-77901a8bebc6",
+      "accession_id": "S-BIAD618",
+      "name": "figure6_datasources/Figure6_B8_VEGF-C_VEGF-D.ims",
+      "original_relpath": "figure6_datasources/Figure6_B8_VEGF-C_VEGF-D.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "bf5bd98f-049f-4f51-b4a3-77901a8bebc6",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+          "size": 25953411,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "32247d39-9e4b-4153-b4ed-1a6d80ceed15"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence",
+        "download_size": "In 2.5GiB zip"
+      }
+    },
+    "bfdb2c77-c4f2-4779-8e83-8382f0b3f6e4": {
+      "id": "bfdb2c77-c4f2-4779-8e83-8382f0b3f6e4",
+      "accession_id": "S-BIAD618",
+      "name": "figure6_datasources/Figure6_A_VEGF-A_IS.ims",
+      "original_relpath": "figure6_datasources/Figure6_A_VEGF-A_IS.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "bfdb2c77-c4f2-4779-8e83-8382f0b3f6e4",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+          "size": 34838257,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "b8557c49-eb34-4505-9c24-229cdc34f634"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence",
+        "download_size": "In 2.5GiB zip"
+      }
+    },
+    "c463712a-81a5-486c-8cdf-4b85f03034ad": {
+      "id": "c463712a-81a5-486c-8cdf-4b85f03034ad",
+      "accession_id": "S-BIAD618",
+      "name": "Figure4_fig-suppl1A_datasources/Figure4_FigSuppl1_Cauda_10DPN.ims",
+      "original_relpath": "Figure4_fig-suppl1A_datasources/Figure4_FigSuppl1_Cauda_10DPN.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "c463712a-81a5-486c-8cdf-4b85f03034ad",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure4_fig-suppl1_datasources_partA.zip",
+          "size": 5020801194,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "8b75e609-cf77-4dee-b6a8-de5821dcc39d"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure4_Cauda_20DPN.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP; PLVAP, LYVE1, PDPN",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 12.4GiB zip"
+      }
+    },
+    "c4e231ce-f0b1-4c42-bcc9-70d3b43934cc": {
+      "id": "c4e231ce-f0b1-4c42-bcc9-70d3b43934cc",
+      "accession_id": "S-BIAD618",
+      "name": "figure5_datasouces/Figure5_VEGF-A_GAPDH/VEGFA REP 2 2021-03-14 11h00m49s(Chemiluminescence)(1).jpg",
+      "original_relpath": "figure5_datasouces/Figure5_VEGF-A_GAPDH/VEGFA REP 2 2021-03-14 11h00m49s(Chemiluminescence)(1).jpg",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "c4e231ce-f0b1-4c42-bcc9-70d3b43934cc",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure5_datasouces.zip",
+          "size": 326445,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "3f412663-5398-42d3-9d5b-e89b9fec0999"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure5_Covariance.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "stats",
+        "download_size": "In 4.4MiB zip"
+      }
+    },
+    "cc76dc94-b806-4b4a-9b28-080440f36167": {
+      "id": "cc76dc94-b806-4b4a-9b28-080440f36167",
+      "accession_id": "S-BIAD618",
+      "name": "Figure7_datasources/Figure7B_40DPN.ims",
+      "original_relpath": "Figure7_datasources/Figure7B_40DPN.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "cc76dc94-b806-4b4a-9b28-080440f36167",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure7_datasources.zip",
+          "size": 289655264,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "104044d6-a01f-426c-829d-8ee9ec61d8e9"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure7B_Adult.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP; LYVE1; PDPN; PLVAP",
+        "imaging technic": "Ultra microscope 6",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "20X",
+        "Analysis": "Surface rendering",
+        "ROI": "1",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 1.4GiB zip"
+      }
+    },
+    "d61e9b46-c7d3-4a37-808a-c37cdf63029d": {
+      "id": "d61e9b46-c7d3-4a37-808a-c37cdf63029d",
+      "accession_id": "S-BIAD618",
+      "name": "Figure1_datasources/VEGFR3-YFP_10DPN.ims",
+      "original_relpath": "Figure1_datasources/VEGFR3-YFP_10DPN.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "d61e9b46-c7d3-4a37-808a-c37cdf63029d",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure1_datasources.zip",
+          "size": 2497875,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "1011183b-678f-4139-8c89-0d7871cee46f"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "VEGFR3-YFP_10DPN_2.ims",
+        "Format": "ims",
+        "Chanels": "1",
+        "Markers": "VEGFR3:YFP",
+        "imaging technic": "Binocular",
+        "Microscope": "Leica binocular magnifier ",
+        "Magnification": "1X",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "na",
+        "download_size": "In 10.3MiB zip"
+      }
+    },
+    "d9cd0aa6-35fd-4fc8-a5d2-5149aed9fa8f": {
+      "id": "d9cd0aa6-35fd-4fc8-a5d2-5149aed9fa8f",
+      "accession_id": "S-BIAD618",
+      "name": "figure5_datasouces/Figure5_VEGF-C_GAPDH/VEGFC REP_ 1&2 2020-12-06 09h47m27s(Chemiluminescence).tif",
+      "original_relpath": "figure5_datasouces/Figure5_VEGF-C_GAPDH/VEGFC REP_ 1&2 2020-12-06 09h47m27s(Chemiluminescence).tif",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "d9cd0aa6-35fd-4fc8-a5d2-5149aed9fa8f",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure5_datasouces.zip",
+          "size": 1114728,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "5094232d-5ea6-491f-866a-19aa825b8385"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure5_Covariance.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "stats",
+        "download_size": "In 4.4MiB zip"
+      }
+    },
+    "dbeaac8a-0e59-4694-a917-c385cb30e789": {
+      "id": "dbeaac8a-0e59-4694-a917-c385cb30e789",
+      "accession_id": "S-BIAD618",
+      "name": "Figure7_datasources/Figure7B_30DPN.ims",
+      "original_relpath": "Figure7_datasources/Figure7B_30DPN.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "dbeaac8a-0e59-4694-a917-c385cb30e789",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure7_datasources.zip",
+          "size": 243071247,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "8267f24c-6ba6-405d-8866-d1fef833d756"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure7B_Adult.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP; LYVE1; PDPN; PLVAP",
+        "imaging technic": "Ultra microscope 6",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "20X",
+        "Analysis": "Surface rendering",
+        "ROI": "1",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 1.4GiB zip"
+      }
+    },
+    "ded18c3e-0626-4aed-8d20-ee8a0d0d34c7": {
+      "id": "ded18c3e-0626-4aed-8d20-ee8a0d0d34c7",
+      "accession_id": "S-BIAD618",
+      "name": "Figure2_fig-suppl1_datasources/Figure2-figSuppl1B_datasources.ims",
+      "original_relpath": "Figure2_fig-suppl1_datasources/Figure2-figSuppl1B_datasources.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "ded18c3e-0626-4aed-8d20-ee8a0d0d34c7",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2_fig-suppl1_datasources.zip",
+          "size": 12724639,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "9f54bb51-c97a-4350-b5f1-669e0328004a"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure2-figSuppl1C.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "A488; A555; A647; Chromeo494",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4X",
+        "Analysis": "Surface rendering",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 506.0MiB zip"
+      }
+    },
+    "e6cd7320-ae14-4aac-8349-1f25f9251b71": {
+      "id": "e6cd7320-ae14-4aac-8349-1f25f9251b71",
+      "accession_id": "S-BIAD618",
+      "name": "figure5_datasouces/Figure5_VEGF-D_GAPDH/GAPDH  REP 1& 2 for VEGFD 2020-12-06 13h21m38s(Chemiluminescence).jpg",
+      "original_relpath": "figure5_datasouces/Figure5_VEGF-D_GAPDH/GAPDH  REP 1& 2 for VEGFD 2020-12-06 13h21m38s(Chemiluminescence).jpg",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "e6cd7320-ae14-4aac-8349-1f25f9251b71",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure5_datasouces.zip",
+          "size": 336056,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "4417de3f-922f-410a-8445-caa7a176d630"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure5_Covariance.xlsx",
+        "Format": "xlsx",
+        "Chanels": "na",
+        "Markers": "na",
+        "imaging technic": "na",
+        "Microscope": "na",
+        "Magnification": "na",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "stats",
+        "download_size": "In 4.4MiB zip"
+      }
+    },
+    "f7caa8a5-f304-4da6-ad0a-ebd0f5999c72": {
+      "id": "f7caa8a5-f304-4da6-ad0a-ebd0f5999c72",
+      "accession_id": "S-BIAD618",
+      "name": "Figure1_datasources/VEGFR3-YFP_Adult_Cauda.ims",
+      "original_relpath": "Figure1_datasources/VEGFR3-YFP_Adult_Cauda.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "f7caa8a5-f304-4da6-ad0a-ebd0f5999c72",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure1_datasources.zip",
+          "size": 2232718,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "4940ed9d-bf07-493a-a5a5-778cbf14c65f"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "VEGFR3-YFP_10DPN_2.ims",
+        "Format": "ims",
+        "Chanels": "1",
+        "Markers": "VEGFR3:YFP",
+        "imaging technic": "Binocular",
+        "Microscope": "Leica binocular magnifier ",
+        "Magnification": "1X",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "na",
+        "download_size": "In 10.3MiB zip"
+      }
+    },
+    "f903d6af-7baa-47ff-aa16-f294281f7e7b": {
+      "id": "f903d6af-7baa-47ff-aa16-f294281f7e7b",
+      "accession_id": "S-BIAD618",
+      "name": "Figure7_datasources/Figure7B_10DPN.ims",
+      "original_relpath": "Figure7_datasources/Figure7B_10DPN.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "f903d6af-7baa-47ff-aa16-f294281f7e7b",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure7_datasources.zip",
+          "size": 257362758,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "69dbe71d-a2a4-4e51-acf2-8d4c89647bbd"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure7B_Adult.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP; LYVE1; PDPN; PLVAP",
+        "imaging technic": "Ultra microscope 6",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "20X",
+        "Analysis": "Surface rendering",
+        "ROI": "1",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 1.4GiB zip"
+      }
+    },
+    "f92171b7-a62b-432d-9e39-8f43bda47b6f": {
+      "id": "f92171b7-a62b-432d-9e39-8f43bda47b6f",
+      "accession_id": "S-BIAD618",
+      "name": "figure6_datasources/Figure6_A_VEGF-A_Caput.ims",
+      "original_relpath": "figure6_datasources/Figure6_A_VEGF-A_Caput.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "f92171b7-a62b-432d-9e39-8f43bda47b6f",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/figure6_datasources.zip",
+          "size": 32582545,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "88476f78-3464-4b11-8876-dc6c99f468a7"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "Figure6_B9_Control.ims",
+        "Format": "ims",
+        "Chanels": "3",
+        "Markers": "A488 ; A555 ; Hoechst",
+        "imaging technic": "Confocal",
+        "Microscope": "Leica",
+        "Magnification": "40x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Paraffin, Immunofluorescence",
+        "download_size": "In 2.5GiB zip"
+      }
+    },
+    "fddbba69-79e5-4292-b457-af35039614ab": {
+      "id": "fddbba69-79e5-4292-b457-af35039614ab",
+      "accession_id": "S-BIAD618",
+      "name": "8bits/Figure2_Cauda_4Lymph.ims",
+      "original_relpath": "8bits/Figure2_Cauda_4Lymph.ims",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD618",
+          "image_id": "fddbba69-79e5-4292-b457-af35039614ab",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/618/S-BIAD618/Files/Figure2_datasources.zip",
+          "size": 1110198062,
+          "type": "fire_object",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "e9bbe2e0-76aa-4278-b6ac-ed560ee2b4b6"
+            ]
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "Figures": "/Figure2_Cauda_4lymph.ims",
+        "Format": "ims",
+        "Chanels": "4",
+        "Markers": "VEGFR3:YFP;  LYVE1; PDPN; PROX1",
+        "imaging technic": "Ultra microscope 1",
+        "Microscope": "LaVision Biotec",
+        "Magnification": "4x",
+        "Analysis": "na",
+        "ROI": "0",
+        "Protocol": "Whole-mount + 3DISCO",
+        "download_size": "In 6.0GiB zip"
+      }
+    }
+  },
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

@@ -1,0 +1,1952 @@
+{
+  "accession_id": "S-BSST1008",
+  "title": "Ventricular fold oscillations lower the vocal pitch in rhesus macaques",
+  "description": "Vocalizations of rhesus macaques recorded under ex-vio and in-vivo experimental conditions.\n\nEx-vio experiments: Laryngeal samples were extracted from fresh cadavers of 6 adult rhesus macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). Each larynx was mounted on a vertical tracheal tube, to which warm humid air was injected from an air pump. To induce the vocal fold oscillations, the glottal air space was closed by manually adducting the arytenoid cartilages. The dynamics of the vocal and ventricular folds was monitored using a high-speed video camera (Fastcam Nova S6, Photron, Tokyo, Japan) with a borescope (BAL-72718HT, Shodensha, Osaka, Japan). The acoustic sound and the sound pressure level (SPL) were measured by an omnidirectional microphone (Type 4192, Bruel and Kjaer, Tokyo, Japan) and a sound level meter (Type 2250-A, Bruel and Kjaer), respectively. The subglottal pressure was monitored using a pressure transducer (PDS 70GA, Kyowa, Osaka, Japan), which was mounted flush with the inner wall of the tracheal tube, 2 cm upstream of the excised larynx. Electroglottography (EGG) signals were also recorded with an electroglottograph (EGG-A100, Laryngograph Ltd., Greater London, UK). All signals were recorded with a sampling frequency of 12.5 kHz.\n\nIn-vivo experiments: Three adult rhesus macaques (Mm7, Mm8, Mm9) were examined. Each subject was anesthetized with ketamine hydrochloride (2.5 mg/kg body weight) and medetomidine (0.1 mg/kg body weight) and seated in a primate chair with their head fixed in a stereotaxic frame attached to the chair. Following a partial removal of the skull, a tungsten microelectrode (FHC Inc., Bowdoin, ME, USA) was inserted into the brain. As a brain region to evoke vocalizations, the periaqueductal grey (PAG) and its surrounding areas were mapped using an electric stimulation. When the brain was stimulated, the glottal behavior was recorded using the borescope attached to the high-speed camera. ",
+  "authors": [
+    {
+      "name": "Isao Tokuda"
+    }
+  ],
+  "organism": "Macaca mulatta (rhesus monkey)",
+  "release_date": "2023-01-28",
+  "license": "CC0",
+  "links": {
+    "Author's home page": "https://www.ritsumei.ac.jp/~isao"
+  },
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "example_annotation_uri": "",
+  "file_references": {
+    "01b784f4-26b0-452b-959d-fffc48519eb0": {
+      "id": "01b784f4-26b0-452b-959d-fffc48519eb0",
+      "name": "Exvivo748_VentricularFold.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Exvivo748_VentricularFold.mp4",
+      "size_in_bytes": 33870701,
+      "type": null,
+      "attributes": {
+        "Description": "High-speed filming of vocal-ventricular fold co-oscillations in excised macaque larynx (10000 FPS)",
+        "Type": "MP4"
+      }
+    },
+    "19d27921-9e6d-4cbe-ad59-c28c0ca442ee": {
+      "id": "19d27921-9e6d-4cbe-ad59-c28c0ca442ee",
+      "name": "Exvivo748_VentricularFold.wav",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Exvivo748_VentricularFold.wav",
+      "size_in_bytes": 303528,
+      "type": null,
+      "attributes": {
+        "Description": "Microphone recording of vocal-ventricular fold co-oscillations in excised macaque larynx (12.5 kHz sampling frequency)",
+        "Type": "WAV"
+      }
+    },
+    "3e9ed373-3bcd-478f-9b6c-e4f222757df8": {
+      "id": "3e9ed373-3bcd-478f-9b6c-e4f222757df8",
+      "name": "Exvivo766_VocalFold.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Exvivo766_VocalFold.mp4",
+      "size_in_bytes": 33942001,
+      "type": null,
+      "attributes": {
+        "Description": "High-speed filming of vocal fold oscillations in excised macaque larynx (10000 FPS)",
+        "Type": "MP4"
+      }
+    },
+    "549f9aa4-2a77-4110-8cac-279bbb5b6640": {
+      "id": "549f9aa4-2a77-4110-8cac-279bbb5b6640",
+      "name": "Exvivo766_VocalFold.wav",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Exvivo766_VocalFold.wav",
+      "size_in_bytes": 294972,
+      "type": null,
+      "attributes": {
+        "Description": "Microphone recording of vocal fold oscillations in excised macaque larynx (12.5 kHz sampling frequency)",
+        "Type": "WAV"
+      }
+    },
+    "5592f53b-cb15-4f72-b23e-f9e48c83395f": {
+      "id": "5592f53b-cb15-4f72-b23e-f9e48c83395f",
+      "name": "Exvivo772_Chaos.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Exvivo772_Chaos.mp4",
+      "size_in_bytes": 47562978,
+      "type": null,
+      "attributes": {
+        "Description": "High-speed filming of chaotic vocal-ventricular fold oscillations in excised macaque larynx (10000 FPS)",
+        "Type": "MP4"
+      }
+    },
+    "52949aeb-c90f-4e66-a5c4-3722ba1ff40b": {
+      "id": "52949aeb-c90f-4e66-a5c4-3722ba1ff40b",
+      "name": "Exvivo772_Chaos.wav",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Exvivo772_Chaos.wav",
+      "size_in_bytes": 297468,
+      "type": null,
+      "attributes": {
+        "Description": "Microphone recording of chaotic vocal-ventricular fold oscillations in excised macaque larynx (12.5 kHz sampling frequency)",
+        "Type": "WAV"
+      }
+    },
+    "d6e6146b-2e49-4135-a502-63af1399e5bb": {
+      "id": "d6e6146b-2e49-4135-a502-63af1399e5bb",
+      "name": "Exvivo754_Transition.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Exvivo754_Transition.mp4",
+      "size_in_bytes": 67842179,
+      "type": null,
+      "attributes": {
+        "Description": "High-speed filming of transition from vocal fold oscillations to vocal-ventricular fold oscillations in excised macaque larynx (10000 FPS)",
+        "Type": "MP4"
+      }
+    },
+    "f348c2ff-79b3-431d-991d-1534fcb30676": {
+      "id": "f348c2ff-79b3-431d-991d-1534fcb30676",
+      "name": "Exvivo754_Transition.wav",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Exvivo754_Transition.wav",
+      "size_in_bytes": 307468,
+      "type": null,
+      "attributes": {
+        "Description": "Microphone recording of transition from vocal fold oscillations to vocal-ventricular fold oscillations in excised macaque larynx (12.5 kHz sampling frequency)",
+        "Type": "WAV"
+      }
+    },
+    "a54f2895-0f0a-48a2-a5a7-606bbd1463f6": {
+      "id": "a54f2895-0f0a-48a2-a5a7-606bbd1463f6",
+      "name": "Invivo2204_VentricularFold.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Invivo2204_VentricularFold.mp4",
+      "size_in_bytes": 15272992,
+      "type": null,
+      "attributes": {
+        "Description": "High-speed filming of vocal-ventricular fold co-oscillations in in-vivo macaque (20000 FPS)",
+        "Type": "MP4"
+      }
+    },
+    "4cb69bab-b5e5-4d17-a94b-aec1fe6c00ef": {
+      "id": "4cb69bab-b5e5-4d17-a94b-aec1fe6c00ef",
+      "name": "Invivo2110_VocalFold.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Invivo2110_VocalFold.mp4",
+      "size_in_bytes": 141864744,
+      "type": null,
+      "attributes": {
+        "Description": "High-speed filming of vocal fold co-oscillations in in-vivo macaque (20000 FPS)",
+        "Type": "MP4"
+      }
+    },
+    "87ae9123-bb90-4873-a5e0-02448237cad9": {
+      "id": "87ae9123-bb90-4873-a5e0-02448237cad9",
+      "name": "Invivo2110_Chaos.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Invivo2110_Chaos.mp4",
+      "size_in_bytes": 91492974,
+      "type": null,
+      "attributes": {
+        "Description": "High-speed filming of chaotic vocal-ventricular fold oscillations in in-vivo macaque (20000 FPS)",
+        "Type": "MP4"
+      }
+    },
+    "fb75c6e8-7bdc-433b-bf40-7ad6402efabb": {
+      "id": "fb75c6e8-7bdc-433b-bf40-7ad6402efabb",
+      "name": "Mm1_Video.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm1_Video.zip",
+      "size_in_bytes": 31524897,
+      "type": null,
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm1, sampling rate: 20000 FPS, image resolution: 160*256)",
+        "Type": "MP4"
+      }
+    },
+    "76d06557-5309-4e59-8b6b-4cd479438b66": {
+      "id": "76d06557-5309-4e59-8b6b-4cd479438b66",
+      "name": "Mm2_Video.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm2_Video.zip",
+      "size_in_bytes": 31520891,
+      "type": null,
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm2, sampling rate: 20000 FPS, image resolution: 160*256)",
+        "Type": "MP4"
+      }
+    },
+    "e300eda6-88fb-4f55-a311-4da4741166ba": {
+      "id": "e300eda6-88fb-4f55-a311-4da4741166ba",
+      "name": "Mm3_Video.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm3_Video.zip",
+      "size_in_bytes": 43667748,
+      "type": null,
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm3, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "04e6d8a8-e219-49b4-a144-198e77104203": {
+      "id": "04e6d8a8-e219-49b4-a144-198e77104203",
+      "name": "Mm4_Video.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm4_Video.zip",
+      "size_in_bytes": 82179017,
+      "type": null,
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm4, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "a02641ec-a95e-45c8-aedf-1adbc9a9ecbb": {
+      "id": "a02641ec-a95e-45c8-aedf-1adbc9a9ecbb",
+      "name": "Mm5_Video.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm5_Video.zip",
+      "size_in_bytes": 87109548,
+      "type": null,
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm5, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "e9a4d396-50b4-410d-a45c-4cd59a7d9e3d": {
+      "id": "e9a4d396-50b4-410d-a45c-4cd59a7d9e3d",
+      "name": "Mm6_Video.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm6_Video.zip",
+      "size_in_bytes": 27330986,
+      "type": null,
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm6, sampling rate: 10000 FPS, image resolution: 160*256)",
+        "Type": "MP4"
+      }
+    },
+    "a3ec8d74-f58e-4e0a-8795-9e33d04990a8": {
+      "id": "a3ec8d74-f58e-4e0a-8795-9e33d04990a8",
+      "name": "CSV.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 1292627805,
+      "type": null,
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "fc239a41-885b-4bcb-b87f-8dc53551501e": {
+      "id": "fc239a41-885b-4bcb-b87f-8dc53551501e",
+      "name": "Mm7_Video.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm7_Video.zip",
+      "size_in_bytes": 423706895,
+      "type": null,
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm7) (sampling rate: 9000 FPS for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 8000 FPS for other data) (image resolution: 336*384 for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "71c0dbc8-4ff0-49e7-95ef-db3e2dcf6ce6": {
+      "id": "71c0dbc8-4ff0-49e7-95ef-db3e2dcf6ce6",
+      "name": "Mm8_Video.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm8_Video.zip",
+      "size_in_bytes": 13332469,
+      "type": null,
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm8) (sampling rate: 40000 FPS) (image resolution: 336*384)",
+        "Type": "MP4"
+      }
+    },
+    "b4549b3b-796c-4a4f-a047-4d24f323b9bc": {
+      "id": "b4549b3b-796c-4a4f-a047-4d24f323b9bc",
+      "name": "Mm9_Video.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm9_Video.zip",
+      "size_in_bytes": 775607502,
+      "type": null,
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm9) (sampling rate: 15000 FPS for Mm9_1.mp4; 10000 FPS for Mm9_16.mp4, Mm9_17.mp4, Mm9_18.mp4; 20000 FPS for other data) (image resolution: 256*256 for Mm9_2.mp4, Mm9_3.mp4; 480*640 for Mm9_15.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "62f146ff-e6ec-416d-8b20-3e67b9888b1c": {
+      "id": "62f146ff-e6ec-416d-8b20-3e67b9888b1c",
+      "name": "Mm1_1a.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm1_Video.zip",
+      "size_in_bytes": 4198967,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm1, sampling rate: 20000 FPS, image resolution: 160*256)",
+        "Type": "MP4"
+      }
+    },
+    "3bc1177e-fd72-4830-862a-37687c766aed": {
+      "id": "3bc1177e-fd72-4830-862a-37687c766aed",
+      "name": "Mm1_1b.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm1_Video.zip",
+      "size_in_bytes": 4200216,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm1, sampling rate: 20000 FPS, image resolution: 160*256)",
+        "Type": "MP4"
+      }
+    },
+    "8a728c1e-ef0d-46dc-be43-7e7beba8f417": {
+      "id": "8a728c1e-ef0d-46dc-be43-7e7beba8f417",
+      "name": "Mm1_3.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm1_Video.zip",
+      "size_in_bytes": 4209502,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm1, sampling rate: 20000 FPS, image resolution: 160*256)",
+        "Type": "MP4"
+      }
+    },
+    "64448198-fa9a-4cd4-a4cd-ad4d11721155": {
+      "id": "64448198-fa9a-4cd4-a4cd-ad4d11721155",
+      "name": "Mm1_2.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm1_Video.zip",
+      "size_in_bytes": 8408751,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm1, sampling rate: 20000 FPS, image resolution: 160*256)",
+        "Type": "MP4"
+      }
+    },
+    "3f9963f2-62bc-4089-9ce3-3e7f523da995": {
+      "id": "3f9963f2-62bc-4089-9ce3-3e7f523da995",
+      "name": "Mm1_5.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm1_Video.zip",
+      "size_in_bytes": 4202505,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm1, sampling rate: 20000 FPS, image resolution: 160*256)",
+        "Type": "MP4"
+      }
+    },
+    "de75b609-b0ae-4c71-9ec0-2bdfa6855d33": {
+      "id": "de75b609-b0ae-4c71-9ec0-2bdfa6855d33",
+      "name": "Mm1_4.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm1_Video.zip",
+      "size_in_bytes": 6304956,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm1, sampling rate: 20000 FPS, image resolution: 160*256)",
+        "Type": "MP4"
+      }
+    },
+    "9ee880b4-efb8-4d65-b5d5-0d422f001569": {
+      "id": "9ee880b4-efb8-4d65-b5d5-0d422f001569",
+      "name": "Mm2_1.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm2_Video.zip",
+      "size_in_bytes": 4206194,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm2, sampling rate: 20000 FPS, image resolution: 160*256)",
+        "Type": "MP4"
+      }
+    },
+    "1cd9accf-51fb-451b-a333-dc41161cfcda": {
+      "id": "1cd9accf-51fb-451b-a333-dc41161cfcda",
+      "name": "Mm2_2.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm2_Video.zip",
+      "size_in_bytes": 6299740,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm2, sampling rate: 20000 FPS, image resolution: 160*256)",
+        "Type": "MP4"
+      }
+    },
+    "44a6eb8f-428a-4193-88fb-3e8b0a2685da": {
+      "id": "44a6eb8f-428a-4193-88fb-3e8b0a2685da",
+      "name": "Mm2_3.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm2_Video.zip",
+      "size_in_bytes": 6304849,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm2, sampling rate: 20000 FPS, image resolution: 160*256)",
+        "Type": "MP4"
+      }
+    },
+    "f615c73d-b59f-40f1-9dc4-00118aa3bd29": {
+      "id": "f615c73d-b59f-40f1-9dc4-00118aa3bd29",
+      "name": "Mm2_4.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm2_Video.zip",
+      "size_in_bytes": 6300076,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm2, sampling rate: 20000 FPS, image resolution: 160*256)",
+        "Type": "MP4"
+      }
+    },
+    "e5dd9aa3-48ea-4046-87fd-53eb133cf840": {
+      "id": "e5dd9aa3-48ea-4046-87fd-53eb133cf840",
+      "name": "Mm2_5.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm2_Video.zip",
+      "size_in_bytes": 8410032,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm2, sampling rate: 20000 FPS, image resolution: 160*256)",
+        "Type": "MP4"
+      }
+    },
+    "5e539305-5519-4073-89fd-c08bba0bca01": {
+      "id": "5e539305-5519-4073-89fd-c08bba0bca01",
+      "name": "Mm3_10.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm3_Video.zip",
+      "size_in_bytes": 3356207,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm3, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "7f1e0c9b-5540-4e23-8039-1e5a29750b96": {
+      "id": "7f1e0c9b-5540-4e23-8039-1e5a29750b96",
+      "name": "Mm3_11.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm3_Video.zip",
+      "size_in_bytes": 3363472,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm3, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "86af24d4-ae94-4445-959a-12a5baff3f1c": {
+      "id": "86af24d4-ae94-4445-959a-12a5baff3f1c",
+      "name": "Mm3_8.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm3_Video.zip",
+      "size_in_bytes": 3364200,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm3, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "7f23b13d-9754-4b74-ad40-71af5373a400": {
+      "id": "7f23b13d-9754-4b74-ad40-71af5373a400",
+      "name": "Mm3_9.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm3_Video.zip",
+      "size_in_bytes": 3355565,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm3, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "155290ac-6be0-41f7-861d-f49c7b27d9d7": {
+      "id": "155290ac-6be0-41f7-861d-f49c7b27d9d7",
+      "name": "Mm3_2.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm3_Video.zip",
+      "size_in_bytes": 3354435,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm3, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "adc3fe26-c4cf-402d-9930-71d55cf3d641": {
+      "id": "adc3fe26-c4cf-402d-9930-71d55cf3d641",
+      "name": "Mm3_3.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm3_Video.zip",
+      "size_in_bytes": 6717150,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm3, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "a132253b-f207-475a-b154-c726b5b9235e": {
+      "id": "a132253b-f207-475a-b154-c726b5b9235e",
+      "name": "Mm3_1.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm3_Video.zip",
+      "size_in_bytes": 6716017,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm3, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "288978eb-6aa8-4cbe-b25a-004c04faa04d": {
+      "id": "288978eb-6aa8-4cbe-b25a-004c04faa04d",
+      "name": "Mm3_4.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm3_Video.zip",
+      "size_in_bytes": 3356263,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm3, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "f352dbab-6735-4c40-a998-e80c374b42ac": {
+      "id": "f352dbab-6735-4c40-a998-e80c374b42ac",
+      "name": "Mm3_5.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm3_Video.zip",
+      "size_in_bytes": 3361392,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm3, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "82a7ec4a-8642-49b2-a23f-e57650e06c16": {
+      "id": "82a7ec4a-8642-49b2-a23f-e57650e06c16",
+      "name": "Mm3_7.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm3_Video.zip",
+      "size_in_bytes": 3365574,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm3, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "c783ae27-9f79-479e-905f-13f202979cf5": {
+      "id": "c783ae27-9f79-479e-905f-13f202979cf5",
+      "name": "Mm3_6.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm3_Video.zip",
+      "size_in_bytes": 3357473,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm3, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "8d13a936-2078-4e43-9747-1fba52723a77": {
+      "id": "8d13a936-2078-4e43-9747-1fba52723a77",
+      "name": "Mm4_8b.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm4_Video.zip",
+      "size_in_bytes": 5026206,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm4, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "3b2c185f-b2b0-47be-96a3-c56a31467e45": {
+      "id": "3b2c185f-b2b0-47be-96a3-c56a31467e45",
+      "name": "Mm4_10b.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm4_Video.zip",
+      "size_in_bytes": 6700552,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm4, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "be7a4e58-c994-4b39-8619-d833e4df5ca4": {
+      "id": "be7a4e58-c994-4b39-8619-d833e4df5ca4",
+      "name": "Mm4_10a.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm4_Video.zip",
+      "size_in_bytes": 3353356,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm4, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "21b2289e-3d5a-4a98-87ed-da777e5ca6e2": {
+      "id": "21b2289e-3d5a-4a98-87ed-da777e5ca6e2",
+      "name": "Mm4_8a.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm4_Video.zip",
+      "size_in_bytes": 3354493,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm4, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "34ef43bf-f589-4b2d-a41c-f856f9a4b258": {
+      "id": "34ef43bf-f589-4b2d-a41c-f856f9a4b258",
+      "name": "Mm4_5b.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm4_Video.zip",
+      "size_in_bytes": 6716113,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm4, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "187bf28a-4da5-47db-abef-4a55a73e568b": {
+      "id": "187bf28a-4da5-47db-abef-4a55a73e568b",
+      "name": "Mm4_9.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm4_Video.zip",
+      "size_in_bytes": 3353020,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm4, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "98347f62-6b79-4a3b-9058-6e205b153e7b": {
+      "id": "98347f62-6b79-4a3b-9058-6e205b153e7b",
+      "name": "Mm4_5a.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm4_Video.zip",
+      "size_in_bytes": 3359457,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm4, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "91273a54-679a-469f-a752-f9519396a3ce": {
+      "id": "91273a54-679a-469f-a752-f9519396a3ce",
+      "name": "Mm4_2b.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm4_Video.zip",
+      "size_in_bytes": 6712850,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm4, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "e6cc8054-ecdb-4f32-bb42-c202eca2a211": {
+      "id": "e6cc8054-ecdb-4f32-bb42-c202eca2a211",
+      "name": "Mm4_2a.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm4_Video.zip",
+      "size_in_bytes": 3360338,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm4, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "5c37046b-c358-48d6-b691-3e82291fb4c9": {
+      "id": "5c37046b-c358-48d6-b691-3e82291fb4c9",
+      "name": "Mm4_3a.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm4_Video.zip",
+      "size_in_bytes": 3361171,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm4, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "5ce680a5-16a9-4460-9b1e-ceb7fa96b816": {
+      "id": "5ce680a5-16a9-4460-9b1e-ceb7fa96b816",
+      "name": "Mm4_3b.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm4_Video.zip",
+      "size_in_bytes": 5029046,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm4, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "6900bbe4-583c-4884-a447-bc1a3b96b272": {
+      "id": "6900bbe4-583c-4884-a447-bc1a3b96b272",
+      "name": "Mm4_11.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm4_Video.zip",
+      "size_in_bytes": 6709768,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm4, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "14196467-99da-462a-8a8e-2d0f78ff1f98": {
+      "id": "14196467-99da-462a-8a8e-2d0f78ff1f98",
+      "name": "Mm4_1a.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm4_Video.zip",
+      "size_in_bytes": 5022583,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm4, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "a51ef860-7e37-4af1-9276-7bc7a36d0921": {
+      "id": "a51ef860-7e37-4af1-9276-7bc7a36d0921",
+      "name": "Mm4_1b.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm4_Video.zip",
+      "size_in_bytes": 6711716,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm4, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "62f8f6a5-097a-405c-9079-04297af9063f": {
+      "id": "62f8f6a5-097a-405c-9079-04297af9063f",
+      "name": "Mm4_7.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm4_Video.zip",
+      "size_in_bytes": 3357593,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm4, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "e554e38c-e92e-4ae2-bdf3-824fd730333a": {
+      "id": "e554e38c-e92e-4ae2-bdf3-824fd730333a",
+      "name": "Mm4_6.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm4_Video.zip",
+      "size_in_bytes": 5028411,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm4, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "d570dc37-60a5-4a72-978a-fc09090d0c27": {
+      "id": "d570dc37-60a5-4a72-978a-fc09090d0c27",
+      "name": "Mm4_4.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm4_Video.zip",
+      "size_in_bytes": 5022344,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm4, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "77894b91-3230-4661-b19e-dd5f2c35f039": {
+      "id": "77894b91-3230-4661-b19e-dd5f2c35f039",
+      "name": "Mm5_12.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm5_Video.zip",
+      "size_in_bytes": 8384938,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm5, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "6573a8fd-d890-4fba-b5cc-f06776b9270c": {
+      "id": "6573a8fd-d890-4fba-b5cc-f06776b9270c",
+      "name": "Mm5_11.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm5_Video.zip",
+      "size_in_bytes": 8366868,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm5, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "5383802f-0e57-40e7-ae66-e70af7c66adc": {
+      "id": "5383802f-0e57-40e7-ae66-e70af7c66adc",
+      "name": "Mm5_10.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm5_Video.zip",
+      "size_in_bytes": 3354752,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm5, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "60d8e880-1af6-4eb4-a98e-46d092163637": {
+      "id": "60d8e880-1af6-4eb4-a98e-46d092163637",
+      "name": "Mm5_7a.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm5_Video.zip",
+      "size_in_bytes": 3345423,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm5, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "2eed0068-7650-45c7-b667-a188863f4c17": {
+      "id": "2eed0068-7650-45c7-b667-a188863f4c17",
+      "name": "Mm5_7b.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm5_Video.zip",
+      "size_in_bytes": 3349091,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm5, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "39cb4054-edd7-4515-a57f-b2c98312df24": {
+      "id": "39cb4054-edd7-4515-a57f-b2c98312df24",
+      "name": "Mm5_9.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm5_Video.zip",
+      "size_in_bytes": 6701019,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm5, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "43c9b751-98e0-4b5e-b34a-d96300e38b09": {
+      "id": "43c9b751-98e0-4b5e-b34a-d96300e38b09",
+      "name": "Mm5_8a.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm5_Video.zip",
+      "size_in_bytes": 3359019,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm5, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "706a8b23-c301-4928-a975-337d34da1cd9": {
+      "id": "706a8b23-c301-4928-a975-337d34da1cd9",
+      "name": "Mm5_4b.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm5_Video.zip",
+      "size_in_bytes": 5020898,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm5, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "3f6ab69e-76ce-43c3-b2bb-c155a63cb7d2": {
+      "id": "3f6ab69e-76ce-43c3-b2bb-c155a63cb7d2",
+      "name": "Mm5_8b.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm5_Video.zip",
+      "size_in_bytes": 6702084,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm5, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "d7a04ef2-3b6c-4c09-9421-45fb8f569717": {
+      "id": "d7a04ef2-3b6c-4c09-9421-45fb8f569717",
+      "name": "Mm5_4a.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm5_Video.zip",
+      "size_in_bytes": 5021067,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm5, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "3d606fd1-ca23-48d7-98df-5c8095391cf5": {
+      "id": "3d606fd1-ca23-48d7-98df-5c8095391cf5",
+      "name": "Mm5_6.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm5_Video.zip",
+      "size_in_bytes": 3360496,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm5, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "44fb66e2-a729-45ff-b00a-5a508cff3f50": {
+      "id": "44fb66e2-a729-45ff-b00a-5a508cff3f50",
+      "name": "Mm5_2.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm5_Video.zip",
+      "size_in_bytes": 3354361,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm5, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "86069977-4254-4b90-a5b7-e806d3bcd339": {
+      "id": "86069977-4254-4b90-a5b7-e806d3bcd339",
+      "name": "Mm5_5a.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm5_Video.zip",
+      "size_in_bytes": 6690409,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm5, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "e139cf22-1129-4e95-b373-71c5ccdf21b4": {
+      "id": "e139cf22-1129-4e95-b373-71c5ccdf21b4",
+      "name": "Mm5_1.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm5_Video.zip",
+      "size_in_bytes": 3350095,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm5, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "172157d2-8895-4945-bb37-90c47f72069f": {
+      "id": "172157d2-8895-4945-bb37-90c47f72069f",
+      "name": "Mm5_5b.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm5_Video.zip",
+      "size_in_bytes": 6706593,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm5, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "f6b74066-92e6-42f3-8079-45a55c71169c": {
+      "id": "f6b74066-92e6-42f3-8079-45a55c71169c",
+      "name": "Mm5_3b.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm5_Video.zip",
+      "size_in_bytes": 5018419,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm5, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "8a3c5fd8-0ea6-4a73-8c1a-862a070a8b7a": {
+      "id": "8a3c5fd8-0ea6-4a73-8c1a-862a070a8b7a",
+      "name": "Mm5_3a.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm5_Video.zip",
+      "size_in_bytes": 5024016,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm5, sampling rate: 10000 FPS, image resolution: 256*256)",
+        "Type": "MP4"
+      }
+    },
+    "b4fbaece-381b-4734-b3a2-c1b697eb4e4a": {
+      "id": "b4fbaece-381b-4734-b3a2-c1b697eb4e4a",
+      "name": "Mm6_9.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm6_Video.zip",
+      "size_in_bytes": 2983078,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm6, sampling rate: 10000 FPS, image resolution: 160*256)",
+        "Type": "MP4"
+      }
+    },
+    "44a13e3e-69f8-4a86-9331-09344d4ee9b7": {
+      "id": "44a13e3e-69f8-4a86-9331-09344d4ee9b7",
+      "name": "Mm6_8.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm6_Video.zip",
+      "size_in_bytes": 3029584,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm6, sampling rate: 10000 FPS, image resolution: 160*256)",
+        "Type": "MP4"
+      }
+    },
+    "1c015573-98a5-42a0-aff5-1d4394d43339": {
+      "id": "1c015573-98a5-42a0-aff5-1d4394d43339",
+      "name": "Mm6_10.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm6_Video.zip",
+      "size_in_bytes": 1388157,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm6, sampling rate: 10000 FPS, image resolution: 160*256)",
+        "Type": "MP4"
+      }
+    },
+    "df69cf9f-7278-4565-bee5-cc5a3251720a": {
+      "id": "df69cf9f-7278-4565-bee5-cc5a3251720a",
+      "name": "Mm6_11.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm6_Video.zip",
+      "size_in_bytes": 1377018,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm6, sampling rate: 10000 FPS, image resolution: 160*256)",
+        "Type": "MP4"
+      }
+    },
+    "6f7c7305-07b8-4066-8c61-2c5d70b55329": {
+      "id": "6f7c7305-07b8-4066-8c61-2c5d70b55329",
+      "name": "Mm6_5.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm6_Video.zip",
+      "size_in_bytes": 1463618,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm6, sampling rate: 10000 FPS, image resolution: 160*256)",
+        "Type": "MP4"
+      }
+    },
+    "35aa0933-f5be-4467-8961-186d6417f66e": {
+      "id": "35aa0933-f5be-4467-8961-186d6417f66e",
+      "name": "Mm6_4.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm6_Video.zip",
+      "size_in_bytes": 3131072,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm6, sampling rate: 10000 FPS, image resolution: 160*256)",
+        "Type": "MP4"
+      }
+    },
+    "37f990ee-fdf8-429f-82e0-e72ba7e345af": {
+      "id": "37f990ee-fdf8-429f-82e0-e72ba7e345af",
+      "name": "Mm6_6.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm6_Video.zip",
+      "size_in_bytes": 2252381,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm6, sampling rate: 10000 FPS, image resolution: 160*256)",
+        "Type": "MP4"
+      }
+    },
+    "98cdd936-2645-4aa7-9c99-fa263bc0cd30": {
+      "id": "98cdd936-2645-4aa7-9c99-fa263bc0cd30",
+      "name": "Mm6_7.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm6_Video.zip",
+      "size_in_bytes": 2177085,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm6, sampling rate: 10000 FPS, image resolution: 160*256)",
+        "Type": "MP4"
+      }
+    },
+    "12d6ebb5-20eb-4078-a3cd-5e34ff15f53f": {
+      "id": "12d6ebb5-20eb-4078-a3cd-5e34ff15f53f",
+      "name": "Mm6_3.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm6_Video.zip",
+      "size_in_bytes": 3012921,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm6, sampling rate: 10000 FPS, image resolution: 160*256)",
+        "Type": "MP4"
+      }
+    },
+    "e7707e80-4c7a-45f6-947a-5724abeb7cef": {
+      "id": "e7707e80-4c7a-45f6-947a-5724abeb7cef",
+      "name": "Mm6_2.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm6_Video.zip",
+      "size_in_bytes": 3228919,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm6, sampling rate: 10000 FPS, image resolution: 160*256)",
+        "Type": "MP4"
+      }
+    },
+    "7e7a858f-2654-493f-a17e-56aa1a85942e": {
+      "id": "7e7a858f-2654-493f-a17e-56aa1a85942e",
+      "name": "Mm6_1.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm6_Video.zip",
+      "size_in_bytes": 3287153,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of excised macaque larynx (macaque individual: Mm6, sampling rate: 10000 FPS, image resolution: 160*256)",
+        "Type": "MP4"
+      }
+    },
+    "d5a05bd5-9227-4f8f-ba96-ffd05a524c99": {
+      "id": "d5a05bd5-9227-4f8f-ba96-ffd05a524c99",
+      "name": "Mm5_12.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 24762503,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "0ee3254b-795f-421d-883b-c6d5485c4776": {
+      "id": "0ee3254b-795f-421d-883b-c6d5485c4776",
+      "name": "Mm5_10.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 22280091,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "5b1c7a78-0c56-4b6b-bf55-517cc8afa01f": {
+      "id": "5b1c7a78-0c56-4b6b-bf55-517cc8afa01f",
+      "name": "Mm5_11.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 24203986,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "c29da747-e99a-40d2-997c-f8b87e54adf5": {
+      "id": "c29da747-e99a-40d2-997c-f8b87e54adf5",
+      "name": "Mm4_9.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 15994063,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "32860742-cc99-4e38-8cfa-0e0c0eca7ac3": {
+      "id": "32860742-cc99-4e38-8cfa-0e0c0eca7ac3",
+      "name": "Mm4_8.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 16612478,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "a2623d36-7d16-4548-8353-5bf01737f661": {
+      "id": "a2623d36-7d16-4548-8353-5bf01737f661",
+      "name": "Mm3_11.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 43879085,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "99167974-024a-4c6d-8c5f-61231196214c": {
+      "id": "99167974-024a-4c6d-8c5f-61231196214c",
+      "name": "Mm3_10.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 43870154,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "40826e96-4b21-487e-a349-94de652e3a09": {
+      "id": "40826e96-4b21-487e-a349-94de652e3a09",
+      "name": "Mm3_9.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 44358440,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "488f96b8-4a2b-43c3-86d1-82e9bf56fe40": {
+      "id": "488f96b8-4a2b-43c3-86d1-82e9bf56fe40",
+      "name": "Mm3_8.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 44221555,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "56009ebb-4b64-485d-ab94-58c11416dac9": {
+      "id": "56009ebb-4b64-485d-ab94-58c11416dac9",
+      "name": "Mm5_9.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 23843862,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "d07d6dcd-fc1b-4042-80bb-e840ef2ee9a2": {
+      "id": "d07d6dcd-fc1b-4042-80bb-e840ef2ee9a2",
+      "name": "Mm5_8.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 23773071,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "f733742a-c063-47b9-8c8e-e8cb0ea0836e": {
+      "id": "f733742a-c063-47b9-8c8e-e8cb0ea0836e",
+      "name": "Mm1_1.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 11704454,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "c7e898a3-361c-4360-9fb2-83f4b81c732b": {
+      "id": "c7e898a3-361c-4360-9fb2-83f4b81c732b",
+      "name": "Mm3_3.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 44804154,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "08cbcaa8-cb95-4645-87d5-64842f48f3e5": {
+      "id": "08cbcaa8-cb95-4645-87d5-64842f48f3e5",
+      "name": "Mm5_5.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 24231970,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "43c8dd17-0b99-4378-8f3c-0585a39793f5": {
+      "id": "43c8dd17-0b99-4378-8f3c-0585a39793f5",
+      "name": "Mm4_11.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 16123098,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "156e7bcd-2794-42c3-949e-981bf21e7be2": {
+      "id": "156e7bcd-2794-42c3-949e-981bf21e7be2",
+      "name": "Mm4_10.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 16186875,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "fea020ac-261a-4662-a1e4-b8f64ab25126": {
+      "id": "fea020ac-261a-4662-a1e4-b8f64ab25126",
+      "name": "Mm5_4.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 25761507,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "9fd6bb1d-c01e-41e1-ae45-81425887058c": {
+      "id": "9fd6bb1d-c01e-41e1-ae45-81425887058c",
+      "name": "Mm3_2.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 45138246,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "1b0fa3f8-71e2-43d3-bba5-494e1f3806ae": {
+      "id": "1b0fa3f8-71e2-43d3-bba5-494e1f3806ae",
+      "name": "Mm1_2.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 18181436,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "cca69901-8da1-412f-8780-5cb1827b87de": {
+      "id": "cca69901-8da1-412f-8780-5cb1827b87de",
+      "name": "Mm5_6.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 24060466,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "b617c6bd-3e97-4d7b-a3b1-26fb66ecfb73": {
+      "id": "b617c6bd-3e97-4d7b-a3b1-26fb66ecfb73",
+      "name": "Mm5_7.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 24284516,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "62f7e223-6fee-4594-bb75-d75e312fe534": {
+      "id": "62f7e223-6fee-4594-bb75-d75e312fe534",
+      "name": "Mm3_1.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 44314940,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "ef2e5362-5122-4223-843a-a7ad804024e3": {
+      "id": "ef2e5362-5122-4223-843a-a7ad804024e3",
+      "name": "Mm1_3.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 17626546,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "a493113c-592f-4e80-a29f-bc01aeaf6216": {
+      "id": "a493113c-592f-4e80-a29f-bc01aeaf6216",
+      "name": "Mm3_5.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 44132488,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "1f55ddda-b77d-48c8-82b9-412d0c7f30a2": {
+      "id": "1f55ddda-b77d-48c8-82b9-412d0c7f30a2",
+      "name": "Mm5_3.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 26141307,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "c3223b12-27aa-44bf-b25e-e0bfaf9595a2": {
+      "id": "c3223b12-27aa-44bf-b25e-e0bfaf9595a2",
+      "name": "Mm5_2.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 24386089,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "c3d9ccbd-9758-40cd-bcae-4b632ac59f59": {
+      "id": "c3d9ccbd-9758-40cd-bcae-4b632ac59f59",
+      "name": "Mm3_4.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 44264718,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "56a4a671-6c8e-44b2-9d87-400c67ae583a": {
+      "id": "56a4a671-6c8e-44b2-9d87-400c67ae583a",
+      "name": "Mm1_4.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 21579539,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "9f55cb98-58ed-4222-a049-f979d1f8bfd0": {
+      "id": "9f55cb98-58ed-4222-a049-f979d1f8bfd0",
+      "name": "Mm3_6.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 16943677,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "4f45f61d-9d3e-43ec-9c61-5d9c6d688402": {
+      "id": "4f45f61d-9d3e-43ec-9c61-5d9c6d688402",
+      "name": "Mm5_1.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 24382927,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "d59bff96-bb66-4d5a-897c-b0fba7216e37": {
+      "id": "d59bff96-bb66-4d5a-897c-b0fba7216e37",
+      "name": "Mm3_7.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 44378950,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "f594d950-58a9-45d6-9995-423e3f0aeba4": {
+      "id": "f594d950-58a9-45d6-9995-423e3f0aeba4",
+      "name": "Mm1_5.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 21365409,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "7a994746-c6ec-43a0-88ab-b508565200cf": {
+      "id": "7a994746-c6ec-43a0-88ab-b508565200cf",
+      "name": "Mm4_6.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 16623187,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "83a9d6f9-3554-4eb9-b7c5-cdc25b585ad4": {
+      "id": "83a9d6f9-3554-4eb9-b7c5-cdc25b585ad4",
+      "name": "Mm2_1.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 15425685,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "96c3037c-a641-426d-9078-689f679a604f": {
+      "id": "96c3037c-a641-426d-9078-689f679a604f",
+      "name": "Mm4_7.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 15494804,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "7335fa8c-1b99-4321-a14f-88fb7c42ed5b": {
+      "id": "7335fa8c-1b99-4321-a14f-88fb7c42ed5b",
+      "name": "Mm4_5.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 15876935,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "127cf623-141c-4f89-948d-c96123f733d4": {
+      "id": "127cf623-141c-4f89-948d-c96123f733d4",
+      "name": "Mm2_3.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 21012717,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "a153cece-690a-4ecd-a453-a20a59d9b6f5": {
+      "id": "a153cece-690a-4ecd-a453-a20a59d9b6f5",
+      "name": "Mm2_2.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 17651309,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "ec6f65c8-07d4-43c1-9927-41377bfd7963": {
+      "id": "ec6f65c8-07d4-43c1-9927-41377bfd7963",
+      "name": "Mm4_4.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 16028512,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "ffd1c38c-a1bf-4839-9b20-053baf474425": {
+      "id": "ffd1c38c-a1bf-4839-9b20-053baf474425",
+      "name": "Mm4_1.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 16439941,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "5a808fe2-7dde-4395-ad1e-8b2f8aad8b2c": {
+      "id": "5a808fe2-7dde-4395-ad1e-8b2f8aad8b2c",
+      "name": "Mm4_3.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 16646701,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "d481ef15-f12c-4f5b-9867-b156709604a3": {
+      "id": "d481ef15-f12c-4f5b-9867-b156709604a3",
+      "name": "Mm2_5.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 19847901,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "6f695b6c-6f78-4b72-839b-ea79613e1c39": {
+      "id": "6f695b6c-6f78-4b72-839b-ea79613e1c39",
+      "name": "Mm2_4.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 19104590,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "095a4bc3-31f6-4137-b965-14ca27d183f9": {
+      "id": "095a4bc3-31f6-4137-b965-14ca27d183f9",
+      "name": "Mm4_2.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 16356193,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "e16da5f8-7a38-4146-8e63-2d69db454725": {
+      "id": "e16da5f8-7a38-4146-8e63-2d69db454725",
+      "name": "Mm6_1.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 16682706,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "9a75ef66-b31a-456a-9d09-06df9a0dee56": {
+      "id": "9a75ef66-b31a-456a-9d09-06df9a0dee56",
+      "name": "Mm6_2.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 16363467,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "4bb3eb9c-d5d6-41bf-9e63-897b7f1cf538": {
+      "id": "4bb3eb9c-d5d6-41bf-9e63-897b7f1cf538",
+      "name": "Mm6_3.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 17002294,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "ff17f8a6-7c8b-4181-9010-0ea91ee57fb5": {
+      "id": "ff17f8a6-7c8b-4181-9010-0ea91ee57fb5",
+      "name": "Mm6_4.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 16752732,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "d9de0ae8-664d-4de8-a124-25b8eff2cb25": {
+      "id": "d9de0ae8-664d-4de8-a124-25b8eff2cb25",
+      "name": "Mm6_5.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 15861365,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "c84b644c-5edc-4c78-8d55-6efec2c7f850": {
+      "id": "c84b644c-5edc-4c78-8d55-6efec2c7f850",
+      "name": "Mm6_6.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 15584712,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "b4add8c4-80e4-44ae-96de-a4f132e1feaa": {
+      "id": "b4add8c4-80e4-44ae-96de-a4f132e1feaa",
+      "name": "Mm6_7.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 16268602,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "ae256908-29c3-47b9-9ac5-a5e3a62d14ab": {
+      "id": "ae256908-29c3-47b9-9ac5-a5e3a62d14ab",
+      "name": "Mm6_8.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 15834301,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "b46595dd-eb75-4159-b7a2-65f282541714": {
+      "id": "b46595dd-eb75-4159-b7a2-65f282541714",
+      "name": "Mm6_9.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 16167584,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "a5870384-c771-4a91-a93d-dd3eac7664c2": {
+      "id": "a5870384-c771-4a91-a93d-dd3eac7664c2",
+      "name": "Mm6_10.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 15598046,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "bcb071fe-e51b-4401-8ed8-6493c06a7fc5": {
+      "id": "bcb071fe-e51b-4401-8ed8-6493c06a7fc5",
+      "name": "Mm6_11.csv",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/CSV.zip",
+      "size_in_bytes": 16210921,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Acoustic signals (microphone sound, sound pressure level, subglottal pressure, flow rate etc.) recorded from excised larynges of 6 macaques (Mm1, Mm2, Mm3, Mm4, Mm5, Mm6). The sampling frequency is 12.5 kHz. The physical units are [sec] for time, [dB] for SPL, [l/min] for flow, [Pascal] for pressure, and [Voltage] for microphone, flash, and EGG.",
+        "Type": "CSV"
+      }
+    },
+    "0c802fdd-f262-4024-9131-0401ce1a23c7": {
+      "id": "0c802fdd-f262-4024-9131-0401ce1a23c7",
+      "name": "Mm7_11.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm7_Video.zip",
+      "size_in_bytes": 29892778,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm7) (sampling rate: 9000 FPS for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 8000 FPS for other data) (image resolution: 336*384 for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "a08750ca-aa25-4a8a-b26e-b28c51a76462": {
+      "id": "a08750ca-aa25-4a8a-b26e-b28c51a76462",
+      "name": "Mm7_10.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm7_Video.zip",
+      "size_in_bytes": 33640030,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm7) (sampling rate: 9000 FPS for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 8000 FPS for other data) (image resolution: 336*384 for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "e01f9ba3-0902-4136-8b2e-4c2049b00a93": {
+      "id": "e01f9ba3-0902-4136-8b2e-4c2049b00a93",
+      "name": "Mm7_12.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm7_Video.zip",
+      "size_in_bytes": 34800827,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm7) (sampling rate: 9000 FPS for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 8000 FPS for other data) (image resolution: 336*384 for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "6f8a17db-f80c-4d1c-8c05-d2a1860c111a": {
+      "id": "6f8a17db-f80c-4d1c-8c05-d2a1860c111a",
+      "name": "Mm7_13.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm7_Video.zip",
+      "size_in_bytes": 10928908,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm7) (sampling rate: 9000 FPS for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 8000 FPS for other data) (image resolution: 336*384 for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "61ff229f-48bf-4598-a3ff-53801280eb85": {
+      "id": "61ff229f-48bf-4598-a3ff-53801280eb85",
+      "name": "Mm7_9.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm7_Video.zip",
+      "size_in_bytes": 24087517,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm7) (sampling rate: 9000 FPS for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 8000 FPS for other data) (image resolution: 336*384 for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "7f94468a-0d42-4fe3-9db4-8c4b8b68aea2": {
+      "id": "7f94468a-0d42-4fe3-9db4-8c4b8b68aea2",
+      "name": "Mm7_8.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm7_Video.zip",
+      "size_in_bytes": 32301000,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm7) (sampling rate: 9000 FPS for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 8000 FPS for other data) (image resolution: 336*384 for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "2088b808-7d06-476f-8ea9-d43cae7da0e5": {
+      "id": "2088b808-7d06-476f-8ea9-d43cae7da0e5",
+      "name": "Mm7_6.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm7_Video.zip",
+      "size_in_bytes": 43785981,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm7) (sampling rate: 9000 FPS for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 8000 FPS for other data) (image resolution: 336*384 for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "f06a0f81-306c-478b-b89f-de44f1655099": {
+      "id": "f06a0f81-306c-478b-b89f-de44f1655099",
+      "name": "Mm7_7.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm7_Video.zip",
+      "size_in_bytes": 34157607,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm7) (sampling rate: 9000 FPS for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 8000 FPS for other data) (image resolution: 336*384 for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "4272a043-c648-47c7-94a5-f6381aab0ec8": {
+      "id": "4272a043-c648-47c7-94a5-f6381aab0ec8",
+      "name": "Mm7_5.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm7_Video.zip",
+      "size_in_bytes": 44486763,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm7) (sampling rate: 9000 FPS for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 8000 FPS for other data) (image resolution: 336*384 for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "a5475b49-e9b3-484d-bfa9-d3bc845b0483": {
+      "id": "a5475b49-e9b3-484d-bfa9-d3bc845b0483",
+      "name": "Mm7_4.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm7_Video.zip",
+      "size_in_bytes": 40979986,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm7) (sampling rate: 9000 FPS for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 8000 FPS for other data) (image resolution: 336*384 for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "790c7ed3-707b-401e-b878-d707c0e70ed7": {
+      "id": "790c7ed3-707b-401e-b878-d707c0e70ed7",
+      "name": "Mm7_1.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm7_Video.zip",
+      "size_in_bytes": 33752331,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm7) (sampling rate: 9000 FPS for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 8000 FPS for other data) (image resolution: 336*384 for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "59594d10-fd9d-4019-9b9a-45572b717b5d": {
+      "id": "59594d10-fd9d-4019-9b9a-45572b717b5d",
+      "name": "Mm7_3.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm7_Video.zip",
+      "size_in_bytes": 40830797,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm7) (sampling rate: 9000 FPS for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 8000 FPS for other data) (image resolution: 336*384 for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "3ccd8b9c-3579-4a73-a354-06858a1e68a1": {
+      "id": "3ccd8b9c-3579-4a73-a354-06858a1e68a1",
+      "name": "Mm7_2.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm7_Video.zip",
+      "size_in_bytes": 20062370,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm7) (sampling rate: 9000 FPS for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 8000 FPS for other data) (image resolution: 336*384 for Mm7_1.mp4, Mm7_2.mp4, Mm7_13.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "822e32ba-e375-4484-8f4e-7e4dafaf08ff": {
+      "id": "822e32ba-e375-4484-8f4e-7e4dafaf08ff",
+      "name": "Mm8_1.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm8_Video.zip",
+      "size_in_bytes": 13332469,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm8) (sampling rate: 40000 FPS) (image resolution: 336*384)",
+        "Type": "MP4"
+      }
+    },
+    "6fb8d207-bc0f-42af-b124-acd596ed0001": {
+      "id": "6fb8d207-bc0f-42af-b124-acd596ed0001",
+      "name": "Mm9_12.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm9_Video.zip",
+      "size_in_bytes": 30475657,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm9) (sampling rate: 15000 FPS for Mm9_1.mp4; 10000 FPS for Mm9_16.mp4, Mm9_17.mp4, Mm9_18.mp4; 20000 FPS for other data) (image resolution: 256*256 for Mm9_2.mp4, Mm9_3.mp4; 480*640 for Mm9_15.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "96685280-75ad-4aab-832b-7a18f6fac862": {
+      "id": "96685280-75ad-4aab-832b-7a18f6fac862",
+      "name": "Mm9_13.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm9_Video.zip",
+      "size_in_bytes": 38014978,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm9) (sampling rate: 15000 FPS for Mm9_1.mp4; 10000 FPS for Mm9_16.mp4, Mm9_17.mp4, Mm9_18.mp4; 20000 FPS for other data) (image resolution: 256*256 for Mm9_2.mp4, Mm9_3.mp4; 480*640 for Mm9_15.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "165cb4cb-a112-4687-8881-f50e46ab8097": {
+      "id": "165cb4cb-a112-4687-8881-f50e46ab8097",
+      "name": "Mm9_11.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm9_Video.zip",
+      "size_in_bytes": 37850640,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm9) (sampling rate: 15000 FPS for Mm9_1.mp4; 10000 FPS for Mm9_16.mp4, Mm9_17.mp4, Mm9_18.mp4; 20000 FPS for other data) (image resolution: 256*256 for Mm9_2.mp4, Mm9_3.mp4; 480*640 for Mm9_15.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "2a64b044-ff2b-4423-8422-8829dff31835": {
+      "id": "2a64b044-ff2b-4423-8422-8829dff31835",
+      "name": "Mm9_10.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm9_Video.zip",
+      "size_in_bytes": 35250816,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm9) (sampling rate: 15000 FPS for Mm9_1.mp4; 10000 FPS for Mm9_16.mp4, Mm9_17.mp4, Mm9_18.mp4; 20000 FPS for other data) (image resolution: 256*256 for Mm9_2.mp4, Mm9_3.mp4; 480*640 for Mm9_15.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "78b5a385-28e8-4cf2-9cac-869ce61564b8": {
+      "id": "78b5a385-28e8-4cf2-9cac-869ce61564b8",
+      "name": "Mm9_14.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm9_Video.zip",
+      "size_in_bytes": 25356252,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm9) (sampling rate: 15000 FPS for Mm9_1.mp4; 10000 FPS for Mm9_16.mp4, Mm9_17.mp4, Mm9_18.mp4; 20000 FPS for other data) (image resolution: 256*256 for Mm9_2.mp4, Mm9_3.mp4; 480*640 for Mm9_15.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "28f93b3b-796f-42d7-a99c-86342595ae71": {
+      "id": "28f93b3b-796f-42d7-a99c-86342595ae71",
+      "name": "Mm9_15.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm9_Video.zip",
+      "size_in_bytes": 172984971,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm9) (sampling rate: 15000 FPS for Mm9_1.mp4; 10000 FPS for Mm9_16.mp4, Mm9_17.mp4, Mm9_18.mp4; 20000 FPS for other data) (image resolution: 256*256 for Mm9_2.mp4, Mm9_3.mp4; 480*640 for Mm9_15.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "9c613886-e638-4261-aa27-ffe195d84ee5": {
+      "id": "9c613886-e638-4261-aa27-ffe195d84ee5",
+      "name": "Mm9_17.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm9_Video.zip",
+      "size_in_bytes": 61041033,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm9) (sampling rate: 15000 FPS for Mm9_1.mp4; 10000 FPS for Mm9_16.mp4, Mm9_17.mp4, Mm9_18.mp4; 20000 FPS for other data) (image resolution: 256*256 for Mm9_2.mp4, Mm9_3.mp4; 480*640 for Mm9_15.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "61b281c3-fdf3-46b0-a240-8593ad2c2832": {
+      "id": "61b281c3-fdf3-46b0-a240-8593ad2c2832",
+      "name": "Mm9_16.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm9_Video.zip",
+      "size_in_bytes": 40654652,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm9) (sampling rate: 15000 FPS for Mm9_1.mp4; 10000 FPS for Mm9_16.mp4, Mm9_17.mp4, Mm9_18.mp4; 20000 FPS for other data) (image resolution: 256*256 for Mm9_2.mp4, Mm9_3.mp4; 480*640 for Mm9_15.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "754dfc9c-51c2-4244-8b3c-6ca33f69c856": {
+      "id": "754dfc9c-51c2-4244-8b3c-6ca33f69c856",
+      "name": "Mm9_1.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm9_Video.zip",
+      "size_in_bytes": 43155212,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm9) (sampling rate: 15000 FPS for Mm9_1.mp4; 10000 FPS for Mm9_16.mp4, Mm9_17.mp4, Mm9_18.mp4; 20000 FPS for other data) (image resolution: 256*256 for Mm9_2.mp4, Mm9_3.mp4; 480*640 for Mm9_15.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "2aae4615-2715-419b-a392-35327f9e6619": {
+      "id": "2aae4615-2715-419b-a392-35327f9e6619",
+      "name": "Mm9_3.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm9_Video.zip",
+      "size_in_bytes": 43795237,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm9) (sampling rate: 15000 FPS for Mm9_1.mp4; 10000 FPS for Mm9_16.mp4, Mm9_17.mp4, Mm9_18.mp4; 20000 FPS for other data) (image resolution: 256*256 for Mm9_2.mp4, Mm9_3.mp4; 480*640 for Mm9_15.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "ddad7e81-2a88-4406-9b91-ae9e331efe43": {
+      "id": "ddad7e81-2a88-4406-9b91-ae9e331efe43",
+      "name": "Mm9_2.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm9_Video.zip",
+      "size_in_bytes": 56402026,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm9) (sampling rate: 15000 FPS for Mm9_1.mp4; 10000 FPS for Mm9_16.mp4, Mm9_17.mp4, Mm9_18.mp4; 20000 FPS for other data) (image resolution: 256*256 for Mm9_2.mp4, Mm9_3.mp4; 480*640 for Mm9_15.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "85036fed-90b5-41c7-98ed-94a53aa4288d": {
+      "id": "85036fed-90b5-41c7-98ed-94a53aa4288d",
+      "name": "Mm9_6.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm9_Video.zip",
+      "size_in_bytes": 10238737,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm9) (sampling rate: 15000 FPS for Mm9_1.mp4; 10000 FPS for Mm9_16.mp4, Mm9_17.mp4, Mm9_18.mp4; 20000 FPS for other data) (image resolution: 256*256 for Mm9_2.mp4, Mm9_3.mp4; 480*640 for Mm9_15.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "110bcb4a-8275-4c0e-a5f7-da2066e962f7": {
+      "id": "110bcb4a-8275-4c0e-a5f7-da2066e962f7",
+      "name": "Mm9_7.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm9_Video.zip",
+      "size_in_bytes": 10131381,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm9) (sampling rate: 15000 FPS for Mm9_1.mp4; 10000 FPS for Mm9_16.mp4, Mm9_17.mp4, Mm9_18.mp4; 20000 FPS for other data) (image resolution: 256*256 for Mm9_2.mp4, Mm9_3.mp4; 480*640 for Mm9_15.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "354274e3-c53e-46f1-9d70-80b6957aafbc": {
+      "id": "354274e3-c53e-46f1-9d70-80b6957aafbc",
+      "name": "Mm9_5.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm9_Video.zip",
+      "size_in_bytes": 20315286,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm9) (sampling rate: 15000 FPS for Mm9_1.mp4; 10000 FPS for Mm9_16.mp4, Mm9_17.mp4, Mm9_18.mp4; 20000 FPS for other data) (image resolution: 256*256 for Mm9_2.mp4, Mm9_3.mp4; 480*640 for Mm9_15.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "7f1ffd57-eae2-4c68-aaeb-ae4a8eefae07": {
+      "id": "7f1ffd57-eae2-4c68-aaeb-ae4a8eefae07",
+      "name": "Mm9_4.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm9_Video.zip",
+      "size_in_bytes": 48170869,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm9) (sampling rate: 15000 FPS for Mm9_1.mp4; 10000 FPS for Mm9_16.mp4, Mm9_17.mp4, Mm9_18.mp4; 20000 FPS for other data) (image resolution: 256*256 for Mm9_2.mp4, Mm9_3.mp4; 480*640 for Mm9_15.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "f8eabe3e-cd19-4751-8eb6-2046f377f034": {
+      "id": "f8eabe3e-cd19-4751-8eb6-2046f377f034",
+      "name": "Mm9_9.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm9_Video.zip",
+      "size_in_bytes": 15272992,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm9) (sampling rate: 15000 FPS for Mm9_1.mp4; 10000 FPS for Mm9_16.mp4, Mm9_17.mp4, Mm9_18.mp4; 20000 FPS for other data) (image resolution: 256*256 for Mm9_2.mp4, Mm9_3.mp4; 480*640 for Mm9_15.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "6e0ac26f-5f81-4011-a082-ed6e19ab5606": {
+      "id": "6e0ac26f-5f81-4011-a082-ed6e19ab5606",
+      "name": "Mm9_8.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm9_Video.zip",
+      "size_in_bytes": 15352435,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm9) (sampling rate: 15000 FPS for Mm9_1.mp4; 10000 FPS for Mm9_16.mp4, Mm9_17.mp4, Mm9_18.mp4; 20000 FPS for other data) (image resolution: 256*256 for Mm9_2.mp4, Mm9_3.mp4; 480*640 for Mm9_15.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    },
+    "68fa835b-7765-400e-ada1-a989d282619d": {
+      "id": "68fa835b-7765-400e-ada1-a989d282619d",
+      "name": "Mm9_18.mp4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/008/S-BSST1008/Files/Mm9_Video.zip",
+      "size_in_bytes": 71144328,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "High-speed filming of in-vivo macaque larynx (macaque individual: Mm9) (sampling rate: 15000 FPS for Mm9_1.mp4; 10000 FPS for Mm9_16.mp4, Mm9_17.mp4, Mm9_18.mp4; 20000 FPS for other data) (image resolution: 256*256 for Mm9_2.mp4, Mm9_3.mp4; 480*640 for Mm9_15.mp4; 384*384 for other data)",
+        "Type": "MP4"
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

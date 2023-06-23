@@ -1,0 +1,27 @@
+{
+  "id": "c19f1bea-6a8d-42a1-9a4b-df8f4516eece",
+  "accession_id": "S-BSST1009",
+  "name": "naive m1/Image 45.lsm",
+  "original_relpath": "naive m1/Image 45.lsm",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BSST1009",
+      "image_id": "c19f1bea-6a8d-42a1-9a4b-df8f4516eece",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/009/S-BSST1009/Files/VGLUT1CreAi9 adult raw data.zip",
+      "size": 88928328,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "bcc36452-7f54-4977-b70f-956e4a954768"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Description": "Raw images used for Fig. S1",
+    "Type": "CZI files (confocal images)"
+  }
+}

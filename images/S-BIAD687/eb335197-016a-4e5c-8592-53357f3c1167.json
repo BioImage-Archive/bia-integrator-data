@@ -1,0 +1,34 @@
+{
+  "id": "eb335197-016a-4e5c-8592-53357f3c1167",
+  "accession_id": "S-BIAD687",
+  "name": "Infected HAE sample 4.tif",
+  "original_relpath": "Infected HAE sample 4.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD687",
+      "image_id": "eb335197-016a-4e5c-8592-53357f3c1167",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/687/S-BIAD687/Files/Figure 1A and Quant EVF1C.zip",
+      "size": 3145958,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "354c86fd-df11-4566-a0d5-e212104e4c71"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Figure": "1A",
+    "Quantification shown in Figure": "EVF1C",
+    "Cells": "HAE (primary)",
+    "Green": "Spike",
+    "Red": "Tetherin",
+    "White": "Phalloidin",
+    "imaging method": "confocal",
+    "Analysis": "Mean fl intensity (tetherin)/ cell",
+    "Comparitor": "Spike: - vs +"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "accession_id": "S-BIAD626",
+  "image_id": "0404c215-f264-4d0d-b1de-cad6c992d37b",
+  "key": "channels",
+  "value": "[{'id': 'Channel:0:0', 'acquisition_mode': 'LaserScanningConfocalMicroscopy', 'color': '#1000ff', 'detector_settings': {'id': 'Detector:GaAsP-Pmt1'}, 'emission_wavelength': 432.0, 'emission_wavelength_unit': 'nm', 'excitation_wavelength': 254.0, 'excitation_wavelength_unit': 'nm', 'fluor': 'Calcofluor white 2MR', 'illumination_type': 'Epifluorescence', 'name': 'CW2MR', 'pinhole_size': 50.397860967342, 'pinhole_size_unit': 'µm', 'samples_per_pixel': 1}, {'id': 'Channel:0:1', 'acquisition_mode': 'LaserScanningConfocalMicroscopy', 'color': 'lightgrey', 'detector_settings': {'id': 'Detector:ESIDDetector'}, 'fluor': 'Dye2', 'illumination_type': 'Transmitted', 'name': 'ESID', 'pinhole_size': 50.397860967342, 'pinhole_size_unit': 'µm', 'samples_per_pixel': 1}]"
+}

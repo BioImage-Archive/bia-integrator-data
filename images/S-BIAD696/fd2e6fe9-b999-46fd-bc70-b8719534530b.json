@@ -1,0 +1,27 @@
+{
+  "id": "fd2e6fe9-b999-46fd-bc70-b8719534530b",
+  "accession_id": "S-BIAD696",
+  "name": "WM3451/3451_40nM_0503.tiff",
+  "original_relpath": "WM3451/3451_40nM_0503.tiff",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD696",
+      "image_id": "fd2e6fe9-b999-46fd-bc70-b8719534530b",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/696/S-BIAD696/Files/NRASDoseCurve.zip",
+      "size": 5269122,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "29548eb3-d5d2-4135-8792-16cdcd0068dc"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "SecondaryFileStructure": "WM3451; WM3623",
+    "DataDescription": "Brightfield images of resistant clones across drug doses"
+  }
+}

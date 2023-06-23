@@ -1,0 +1,6 @@
+{
+  "accession_id": "S-BSST1009",
+  "image_id": "005b4bd2-994d-4a65-bda9-5b1d20dbbb78",
+  "key": "channels",
+  "value": "[{'id': 'Channel:0:0', 'acquisition_mode': 'LaserScanningConfocalMicroscopy', 'color': 'lime', 'detector_settings': {'id': 'Detector:0:0', 'binning': '1x1'}, 'emission_wavelength': 516.005, 'emission_wavelength_unit': 'nm', 'excitation_wavelength': 488.00000000000006, 'excitation_wavelength_unit': 'nm', 'fluor': 'Cy2', 'illumination_type': 'Epifluorescence', 'name': 'Ch2 GaAsP-T1', 'samples_per_pixel': 1}, {'id': 'Channel:0:1', 'acquisition_mode': 'LaserScanningConfocalMicroscopy', 'color': 'white', 'detector_settings': {'id': 'Detector:0:1', 'binning': '1x1'}, 'emission_wavelength': 623.3700000000002, 'emission_wavelength_unit': 'nm', 'excitation_wavelength': 561.0, 'excitation_wavelength_unit': 'nm', 'fluor': 'Cy5', 'illumination_type': 'Epifluorescence', 'name': 'Ch3-T1', 'samples_per_pixel': 1}, {'id': 'Channel:0:2', 'acquisition_mode': 'LaserScanningConfocalMicroscopy', 'color': 'red', 'detector_settings': {'id': 'Detector:1:0', 'binning': '1x1'}, 'emission_wavelength': 623.3700000000002, 'emission_wavelength_unit': 'nm', 'excitation_wavelength': 561.0, 'excitation_wavelength_unit': 'nm', 'fluor': 'Cy3', 'illumination_type': 'Epifluorescence', 'name': 'Ch3-T2', 'samples_per_pixel': 1}]"
+}

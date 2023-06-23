@@ -1,0 +1,34 @@
+{
+  "id": "bd58bd11-08c8-4164-8262-96c62ac630a6",
+  "accession_id": "S-BIAD623",
+  "name": "DrugMatrix/E14956.JPG",
+  "original_relpath": "DrugMatrix/E14956.JPG",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD623",
+      "image_id": "bd58bd11-08c8-4164-8262-96c62ac630a6",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/623/S-BIAD623/Files/DrugMatrix/E14956.JPG",
+      "size": 253033,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "539ccf9b-fe53-4c2a-aeff-412733f69d99"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Diagnosis": "\"HEPATOCYTE, PERIPORTAL, HYPERTROPHY \"",
+    "SEVERITY": "3",
+    "ANIMAL_ID": "R021008-119",
+    "TEST_ARTICLE": "Etodolac",
+    "Dose_mg_per_kg_y": "24",
+    "VEHICLE": ".5 % CMC",
+    "TREATMENT": "Chemical",
+    "SEX": "Male",
+    "TISSUE": "Liver"
+  }
+}

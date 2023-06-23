@@ -1,0 +1,27 @@
+{
+  "id": "11d7cac8-4472-435a-8c5d-4dc91e1f0c82",
+  "accession_id": "S-BSST1009",
+  "name": "mc3/VGAT_mc3_Image 8.2.lsm",
+  "original_relpath": "mc3/VGAT_mc3_Image 8.2.lsm",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BSST1009",
+      "image_id": "11d7cac8-4472-435a-8c5d-4dc91e1f0c82",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/009/S-BSST1009/Files/Neonatal VGAT raw data.zip",
+      "size": 2222571313,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "c8f9a6bd-f2cf-4c1f-8184-9800c0f25c83"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Description": "Raw images used for Fig. 2g",
+    "Type": "CZI files (confocal images)"
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "accession_id": "S-BSST929",
+  "title": "Single-cell Transcriptomic Analysis of Oral Masticatory and Lining Mucosa-derived Mesenchymal Stromal Cells",
+  "description": "Aims\nTo reveal the heterogeneity of ex vivo-cultured human mesenchymal stromal cells derived from either masticatory or lining oral mucosa.\nMaterials and methods\nCells were retrieved from the lamina propria of the hard palate and alveolar mucosa of three individuals. The analysis of transcriptomic level differences was accomplished using single-cell RNA-sequencing.\nResults\nCluster analysis clearly distinguished between cells from the masticatory and lining oral mucosa and revealed eleven distinct cell subpopulations, annotated as fibroblasts, smooth muscle cells, or mesenchymal stem cells. Interestingly, cells presenting a mesenchymal stem cell-like gene expression pattern were predominantly found in masticatory mucosa. While cells of masticatory mucosa origin were highly enriched for biological processes associated with wound healing, those from the lining oral mucosa were highly enriched for biological processes associated with regulation of epithelial cells.\nConclusions\nOur previous work demonstrated that cells from the lining and masticatory oral mucosae are phenotypically heterogeneous. Here, we extend these findings to show that these changes are not the results of differences in averages, but rather represent two distinct cell populations with mesenchymal stem cells more common in masticatory mucosa. These features may contribute to specific physiological functions and have relevance for potential therapeutic interventions.\n",
+  "authors": [
+    {
+      "name": "Daniel Bar"
+    }
+  ],
+  "organism": "Homo sapiens (human)",
+  "release_date": "2023-04-02",
+  "license": "CC0",
+  "links": {},
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "example_annotation_uri": "",
+  "file_references": {
+    "0e2c2489-283f-4977-9338-0563757c64b3": {
+      "id": "0e2c2489-283f-4977-9338-0563757c64b3",
+      "name": "seurObj_integrated_norm_PCA_UMAP.rds",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/929/S-BSST929/Files/seurObj_integrated_norm_PCA_UMAP.rds",
+      "size_in_bytes": 915043811,
+      "type": null,
+      "attributes": {
+        "Description": "Seurat single cell objects",
+        "Type": "Seurat objects"
+      }
+    },
+    "3ec07b0e-8ea7-4947-8b53-c29ff82e6917": {
+      "id": "3ec07b0e-8ea7-4947-8b53-c29ff82e6917",
+      "name": "seurObj_integrated_afterCellcycle_norm_PCA_UMAP.rds",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/929/S-BSST929/Files/seurObj_integrated_afterCellcycle_norm_PCA_UMAP.rds",
+      "size_in_bytes": 994626334,
+      "type": null,
+      "attributes": {
+        "Description": "Seurat single cell objects after cell cycle normalization",
+        "Type": "Seurat objects"
+      }
+    },
+    "d79f7455-4092-46db-9da3-3271274e58fd": {
+      "id": "d79f7455-4092-46db-9da3-3271274e58fd",
+      "name": "P6_Exp44_filtered_feature_bc_matrix.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/929/S-BSST929/Files/P6_Exp44_filtered_feature_bc_matrix.zip",
+      "size_in_bytes": 107183933,
+      "type": null,
+      "attributes": {
+        "Description": "Feature matrix including barcodes, features and the single cell matrix"
+      }
+    },
+    "872cc0fe-1539-44b9-9b22-35db1096962f": {
+      "id": "872cc0fe-1539-44b9-9b22-35db1096962f",
+      "name": "P5_exp43_filtered_feature_bc_matrix.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/929/S-BSST929/Files/P5_exp43_filtered_feature_bc_matrix.zip",
+      "size_in_bytes": 105423515,
+      "type": null,
+      "attributes": {
+        "Description": "Feature matrix including barcodes, features and the single cell matrix"
+      }
+    },
+    "5437631a-22a2-4ddc-bd4e-4f5204db23e8": {
+      "id": "5437631a-22a2-4ddc-bd4e-4f5204db23e8",
+      "name": "P4_exp43_filtered_feature_bc_matrix.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/929/S-BSST929/Files/P4_exp43_filtered_feature_bc_matrix.zip",
+      "size_in_bytes": 88900188,
+      "type": null,
+      "attributes": {
+        "Description": "Feature matrix including barcodes, features and the single cell matrix"
+      }
+    },
+    "0e0543e9-ab32-4248-bf81-140fe9178644": {
+      "id": "0e0543e9-ab32-4248-bf81-140fe9178644",
+      "name": "hd5_files.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/929/S-BSST929/Files/hd5_files.zip",
+      "size_in_bytes": 338918199,
+      "type": null,
+      "attributes": {
+        "Description": "HDF5 Feature-Barcode Matrix Format",
+        "Type": "HD5"
+      }
+    },
+    "16c870bc-97b4-419b-b96f-5cf905588b31": {
+      "id": "16c870bc-97b4-419b-b96f-5cf905588b31",
+      "name": "P6_Exp44_filtered_feature_bc_matrix/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/929/S-BSST929/Files/P6_Exp44_filtered_feature_bc_matrix.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Feature matrix including barcodes, features and the single cell matrix"
+      }
+    },
+    "a0fe0c07-a9ad-4bfa-a591-8c3699029718": {
+      "id": "a0fe0c07-a9ad-4bfa-a591-8c3699029718",
+      "name": "P6_Exp44_filtered_feature_bc_matrix/barcodes.tsv.gz",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/929/S-BSST929/Files/P6_Exp44_filtered_feature_bc_matrix.zip",
+      "size_in_bytes": 42793,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Feature matrix including barcodes, features and the single cell matrix"
+      }
+    },
+    "a4223fd6-79b4-4a59-8511-0892067daa01": {
+      "id": "a4223fd6-79b4-4a59-8511-0892067daa01",
+      "name": "P6_Exp44_filtered_feature_bc_matrix/features.tsv.gz",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/929/S-BSST929/Files/P6_Exp44_filtered_feature_bc_matrix.zip",
+      "size_in_bytes": 333437,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Feature matrix including barcodes, features and the single cell matrix"
+      }
+    },
+    "449f85c5-0d5b-4437-baba-c81a0e08d5df": {
+      "id": "449f85c5-0d5b-4437-baba-c81a0e08d5df",
+      "name": "P6_Exp44_filtered_feature_bc_matrix/matrix.mtx.gz",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/929/S-BSST929/Files/P6_Exp44_filtered_feature_bc_matrix.zip",
+      "size_in_bytes": 106774210,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Feature matrix including barcodes, features and the single cell matrix"
+      }
+    },
+    "d0c6432c-d574-48cd-8881-06e2986b1789": {
+      "id": "d0c6432c-d574-48cd-8881-06e2986b1789",
+      "name": "filtered_feature_bc_matrix/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/929/S-BSST929/Files/P5_exp43_filtered_feature_bc_matrix.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Feature matrix including barcodes, features and the single cell matrix"
+      }
+    },
+    "070713d6-facd-47f8-8bc2-39e7ee028b99": {
+      "id": "070713d6-facd-47f8-8bc2-39e7ee028b99",
+      "name": "filtered_feature_bc_matrix/barcodes.tsv.gz",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/929/S-BSST929/Files/P5_exp43_filtered_feature_bc_matrix.zip",
+      "size_in_bytes": 43358,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Feature matrix including barcodes, features and the single cell matrix"
+      }
+    },
+    "b1bd5e11-34ad-4f9c-b86f-f9ed5d47acb2": {
+      "id": "b1bd5e11-34ad-4f9c-b86f-f9ed5d47acb2",
+      "name": "filtered_feature_bc_matrix/features.tsv.gz",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/929/S-BSST929/Files/P5_exp43_filtered_feature_bc_matrix.zip",
+      "size_in_bytes": 333437,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Feature matrix including barcodes, features and the single cell matrix"
+      }
+    },
+    "be5f7d8f-9471-4124-bfb1-f5b1e95f463e": {
+      "id": "be5f7d8f-9471-4124-bfb1-f5b1e95f463e",
+      "name": "filtered_feature_bc_matrix/matrix.mtx.gz",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/929/S-BSST929/Files/P5_exp43_filtered_feature_bc_matrix.zip",
+      "size_in_bytes": 105013712,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Feature matrix including barcodes, features and the single cell matrix"
+      }
+    },
+    "e440f2ff-0320-4c6b-bb54-ee5bf98521be": {
+      "id": "e440f2ff-0320-4c6b-bb54-ee5bf98521be",
+      "name": "filtered_feature_bc_matrix/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/929/S-BSST929/Files/P4_exp43_filtered_feature_bc_matrix.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Feature matrix including barcodes, features and the single cell matrix"
+      }
+    },
+    "a6f92344-c262-4514-bcea-e60e31da31ee": {
+      "id": "a6f92344-c262-4514-bcea-e60e31da31ee",
+      "name": "filtered_feature_bc_matrix/barcodes.tsv.gz",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/929/S-BSST929/Files/P4_exp43_filtered_feature_bc_matrix.zip",
+      "size_in_bytes": 37353,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Feature matrix including barcodes, features and the single cell matrix"
+      }
+    },
+    "e5d0b0b8-672e-4348-9b12-14da93ab37bc": {
+      "id": "e5d0b0b8-672e-4348-9b12-14da93ab37bc",
+      "name": "filtered_feature_bc_matrix/features.tsv.gz",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/929/S-BSST929/Files/P4_exp43_filtered_feature_bc_matrix.zip",
+      "size_in_bytes": 333437,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Feature matrix including barcodes, features and the single cell matrix"
+      }
+    },
+    "3c5fcfd4-a7e8-4f51-86f8-1700b032adec": {
+      "id": "3c5fcfd4-a7e8-4f51-86f8-1700b032adec",
+      "name": "filtered_feature_bc_matrix/matrix.mtx.gz",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/929/S-BSST929/Files/P4_exp43_filtered_feature_bc_matrix.zip",
+      "size_in_bytes": 88501430,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "Feature matrix including barcodes, features and the single cell matrix"
+      }
+    },
+    "b0ed00b6-664e-448b-b74a-244a3f02351a": {
+      "id": "b0ed00b6-664e-448b-b74a-244a3f02351a",
+      "name": "hd5_files/",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/929/S-BSST929/Files/hd5_files.zip",
+      "size_in_bytes": 0,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "HDF5 Feature-Barcode Matrix Format",
+        "Type": "HD5"
+      }
+    },
+    "0015e23e-bb70-4004-9989-ba84c978cd5e": {
+      "id": "0015e23e-bb70-4004-9989-ba84c978cd5e",
+      "name": "hd5_files/1M_exp33.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/929/S-BSST929/Files/hd5_files.zip",
+      "size_in_bytes": 56557458,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "HDF5 Feature-Barcode Matrix Format",
+        "Type": "HD5"
+      }
+    },
+    "a98eb8d4-bcb0-49fd-872a-da0a7de4600b": {
+      "id": "a98eb8d4-bcb0-49fd-872a-da0a7de4600b",
+      "name": "hd5_files/2L_exp33.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/929/S-BSST929/Files/hd5_files.zip",
+      "size_in_bytes": 70235792,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "HDF5 Feature-Barcode Matrix Format",
+        "Type": "HD5"
+      }
+    },
+    "0c1943ab-e6fa-4e40-9344-8ba104ffc686": {
+      "id": "0c1943ab-e6fa-4e40-9344-8ba104ffc686",
+      "name": "hd5_files/3M_exp37.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/929/S-BSST929/Files/hd5_files.zip",
+      "size_in_bytes": 51102011,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "HDF5 Feature-Barcode Matrix Format",
+        "Type": "HD5"
+      }
+    },
+    "5bfa346b-a8dc-4cab-a16e-f674d3726a04": {
+      "id": "5bfa346b-a8dc-4cab-a16e-f674d3726a04",
+      "name": "hd5_files/4L_exp37.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/929/S-BSST929/Files/hd5_files.zip",
+      "size_in_bytes": 47420093,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "HDF5 Feature-Barcode Matrix Format",
+        "Type": "HD5"
+      }
+    },
+    "5c47260f-8210-41fb-8bcc-61dcf93dc662": {
+      "id": "5c47260f-8210-41fb-8bcc-61dcf93dc662",
+      "name": "hd5_files/5M_exp39.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/929/S-BSST929/Files/hd5_files.zip",
+      "size_in_bytes": 57471461,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "HDF5 Feature-Barcode Matrix Format",
+        "Type": "HD5"
+      }
+    },
+    "987f0281-cd49-48bb-a453-bfea48c1a1ce": {
+      "id": "987f0281-cd49-48bb-a453-bfea48c1a1ce",
+      "name": "hd5_files/6L_exp39.h5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/929/S-BSST929/Files/hd5_files.zip",
+      "size_in_bytes": 56129890,
+      "type": "file_in_zip",
+      "attributes": {
+        "Description": "HDF5 Feature-Barcode Matrix Format",
+        "Type": "HD5"
+      }
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}
