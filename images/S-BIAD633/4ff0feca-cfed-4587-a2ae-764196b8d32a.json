@@ -1,0 +1,35 @@
+{
+  "id": "4ff0feca-cfed-4587-a2ae-764196b8d32a",
+  "accession_id": "S-BIAD633",
+  "name": "Timecourses/Individual_cells/Sequence_ 221019 DMSO014 - Deconvolved, Type Automatic-MaxIP.nd2_crop1 - 133 x 132 x 1 x 1 - 2 ch (double).tif",
+  "original_relpath": "Timecourses/Individual_cells/Sequence_ 221019 DMSO014 - Deconvolved, Type Automatic-MaxIP.nd2_crop1 - 133 x 132 x 1 x 1 - 2 ch (double).tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD633",
+      "image_id": "4ff0feca-cfed-4587-a2ae-764196b8d32a",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/633/S-BIAD633/Files/Timecourses/Individual_cells/Sequence_ 221019 DMSO014 - Deconvolved, Type Automatic-MaxIP.nd2_crop1 - 133 x 132 x 1 x 1 - 2 ch (double).tif",
+      "size": 134016,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "2bae0a20-aaee-4305-a4d8-b4f83a30ffee"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Filetype": "ISOLATED_CELL",
+    "Experiment ID": "TIME_ML10_04_13_41",
+    "Assay Type": "Gametogenesis_timecourse",
+    "Sample type": "DMSO control",
+    "Time treated post induction (min)": "20",
+    "Compound identifier": "NA",
+    "TCAMS identifier": "NA",
+    "ChEMBL identifier": "NA",
+    "Compound linkout": "NA",
+    "Concentration (uM)": "NA"
+  }
+}

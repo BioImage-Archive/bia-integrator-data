@@ -1,0 +1,27 @@
+{
+  "id": "4d83771a-dfb9-49ab-a118-fadc7bc412db",
+  "accession_id": "S-BSST448",
+  "name": "ROI_3972-1956-438.tiff",
+  "original_relpath": "ROI_3972-1956-438.tiff",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BSST448",
+      "image_id": "4d83771a-dfb9-49ab-a118-fadc7bc412db",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/S-BSSTxxx448/S-BSST448/Files/Aggregations.zip",
+      "size": 2586955,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "e3f834d4-55f5-4c28-a028-71172a3ec04c"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Description": "Segmentations generated from Aggregated Citizen Science data using Contour Regression by Interior Averages (CRIA) algorithm",
+    "Type": "Directory containing 18 TIFF stacks (LZW compressed)"
+  }
+}
