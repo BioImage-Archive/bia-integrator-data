@@ -1,0 +1,34 @@
+{
+  "id": "8d6622b0-d5c3-42e1-9aab-6b6004ed202f",
+  "accession_id": "S-BIAD633",
+  "name": "Primary_Screen/Individual_cells/Sequence_ 200130 MB T20 0005-MaxIP.nd2 (series 1)_crop1 - 199 x 96 x 1 x 1 - 2 ch (16 bits).tif",
+  "original_relpath": "Primary_Screen/Individual_cells/Sequence_ 200130 MB T20 0005-MaxIP.nd2 (series 1)_crop1 - 199 x 96 x 1 x 1 - 2 ch (16 bits).tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD633",
+      "image_id": "8d6622b0-d5c3-42e1-9aab-6b6004ed202f",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/633/S-BIAD633/Files/Primary_Screen/Individual_cells/Sequence_ 200130 MB T20 0005-MaxIP.nd2 (series 1)_crop1 - 199 x 96 x 1 x 1 - 2 ch (16 bits).tif",
+      "size": 89341,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "0f8e2f86-7ca4-481f-a534-1afa8b3a859a"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Filetype": "ISOLATED_CELL",
+    "Experiment ID": "primary_screen",
+    "Assay Type": "24h preincubation",
+    "Sample Type": "Experimental",
+    "Compound identifier": "Methylene Blue",
+    "TCAMS identifier": "NA",
+    "ChEMBL identifier": "CHEMBL191083",
+    "Compound linkout": "https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL191083/",
+    "Concentration (uM)": "10"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "0331a1b4-fcbc-4b71-bbc8-2b3bbfa29826",
+  "accession_id": "S-BIAD633",
+  "name": "Timecourses/Masked/Sequence_ TC23 T2 013-MaxIP.nd2 - 2048 x 2044 x 1 x 1 - 2 ch (double).tif",
+  "original_relpath": "Timecourses/Masked/Sequence_ TC23 T2 013-MaxIP.nd2 - 2048 x 2044 x 1 x 1 - 2 ch (double).tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD633",
+      "image_id": "0331a1b4-fcbc-4b71-bbc8-2b3bbfa29826",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/633/S-BIAD633/Files/Timecourses/Masked/Sequence_ TC23 T2 013-MaxIP.nd2 - 2048 x 2044 x 1 x 1 - 2 ch (double).tif",
+      "size": 23037440,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "843c00da-be6a-455c-b277-00cb2b79e088"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Filetype": "BACK_COR_Image",
+    "Experiment ID": "TIME_02_05_23",
+    "Assay Type": "Gametogenesis_timecourse",
+    "Sample type": "Experimental",
+    "Time treated post induction (min)": "2",
+    "Compound identifier": "TC23",
+    "TCAMS identifier": "TCMDC-132869",
+    "ChEMBL identifier": "CHEMBL547713",
+    "Compound linkout": "https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL547713/",
+    "Concentration (uM)": "20"
+  }
+}

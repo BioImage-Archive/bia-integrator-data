@@ -1,0 +1,35 @@
+{
+  "id": "7117f56d-f50f-43a6-a1ec-05eb1ce898a4",
+  "accession_id": "S-BIAD633",
+  "name": "Timecourses/Individual_cells/Sequence_ 221019 ML10 T05-10 003 - Deconvolved, Type Automatic-MaxIP.nd2_crop2 - 118 x 121 x 1 x 1 - 2 ch (double).tif",
+  "original_relpath": "Timecourses/Individual_cells/Sequence_ 221019 ML10 T05-10 003 - Deconvolved, Type Automatic-MaxIP.nd2_crop2 - 118 x 121 x 1 x 1 - 2 ch (double).tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD633",
+      "image_id": "7117f56d-f50f-43a6-a1ec-05eb1ce898a4",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/633/S-BIAD633/Files/Timecourses/Individual_cells/Sequence_ 221019 ML10 T05-10 003 - Deconvolved, Type Automatic-MaxIP.nd2_crop2 - 118 x 121 x 1 x 1 - 2 ch (double).tif",
+      "size": 113008,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "bf0bafa9-b97b-4f83-81b0-492836151d7d"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Filetype": "ISOLATED_CELL",
+    "Experiment ID": "TIME_ML10_04_13_41",
+    "Assay Type": "Gametogenesis_timecourse",
+    "Sample type": "Experimental",
+    "Time treated post induction (min)": "10",
+    "Compound identifier": "ML10",
+    "TCAMS identifier": "NA",
+    "ChEMBL identifier": "NA",
+    "Compound linkout": "NA",
+    "Concentration (uM)": "1"
+  }
+}

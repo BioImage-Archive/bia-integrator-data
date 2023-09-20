@@ -1,0 +1,35 @@
+{
+  "id": "350ee699-126b-43c5-9536-05b2d5836975",
+  "accession_id": "S-BIAD633",
+  "name": "Timecourses/Individual_cells/Sequence_ TCMDC-123880 t15 08.nd2 (channels 0 1)_crop2 - 153 x 197 x 1 x 1 - 2 ch (double).tif",
+  "original_relpath": "Timecourses/Individual_cells/Sequence_ TCMDC-123880 t15 08.nd2 (channels 0 1)_crop2 - 153 x 197 x 1 x 1 - 2 ch (double).tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD633",
+      "image_id": "350ee699-126b-43c5-9536-05b2d5836975",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/633/S-BIAD633/Files/Timecourses/Individual_cells/Sequence_ TCMDC-123880 t15 08.nd2 (channels 0 1)_crop2 - 153 x 197 x 1 x 1 - 2 ch (double).tif",
+      "size": 214378,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "42a6550a-6de1-462f-9547-d7bb3c5d4cca"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Filetype": "ISOLATED_CELL",
+    "Experiment ID": "TIME_VB_39",
+    "Assay Type": "Gametogenesis_timecourse",
+    "Sample type": "Experimental",
+    "Time treated post induction (min)": "15",
+    "Compound identifier": "TC39",
+    "TCAMS identifier": "TCMDC-123880",
+    "ChEMBL identifier": "CHEMBL588378",
+    "Compound linkout": "https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL588378/",
+    "Concentration (uM)": "10"
+  }
+}

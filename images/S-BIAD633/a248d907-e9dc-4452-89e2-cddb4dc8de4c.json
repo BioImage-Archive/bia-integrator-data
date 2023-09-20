@@ -1,0 +1,35 @@
+{
+  "id": "a248d907-e9dc-4452-89e2-cddb4dc8de4c",
+  "accession_id": "S-BIAD633",
+  "name": "Timecourses/Masked/Sequence_ VB T03 12.nd2 (channels 0 1) - 2560 x 2160 x 1 x 1 - 2 ch (double).tif",
+  "original_relpath": "Timecourses/Masked/Sequence_ VB T03 12.nd2 (channels 0 1) - 2560 x 2160 x 1 x 1 - 2 ch (double).tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD633",
+      "image_id": "a248d907-e9dc-4452-89e2-cddb4dc8de4c",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/633/S-BIAD633/Files/Timecourses/Masked/Sequence_ VB T03 12.nd2 (channels 0 1) - 2560 x 2160 x 1 x 1 - 2 ch (double).tif",
+      "size": 28133309,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "ebb4ede4-be11-47ae-ba6c-9075adf39f10"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Filetype": "BACK_COR_Image",
+    "Experiment ID": "TIME_VB_39",
+    "Assay Type": "Gametogenesis_timecourse",
+    "Sample type": "Experimental",
+    "Time treated post induction (min)": "3",
+    "Compound identifier": "Vinblastine",
+    "TCAMS identifier": "NA",
+    "ChEMBL identifier": "CHEMBL159",
+    "Compound linkout": "https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL159/",
+    "Concentration (uM)": "1"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "7c3fc077-4ce8-4805-b348-dcadde2f170c",
+  "accession_id": "S-BIAD633",
+  "name": "Timecourses/Individual_cells/Sequence_ TC14 T0 006 - Deconvolved, Type Automatic-MaxIP.nd2_crop1 - 436 x 178 x 1 x 1 - 2 ch (double).tif",
+  "original_relpath": "Timecourses/Individual_cells/Sequence_ TC14 T0 006 - Deconvolved, Type Automatic-MaxIP.nd2_crop1 - 436 x 178 x 1 x 1 - 2 ch (double).tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD633",
+      "image_id": "7c3fc077-4ce8-4805-b348-dcadde2f170c",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/633/S-BIAD633/Files/Timecourses/Individual_cells/Sequence_ TC14 T0 006 - Deconvolved, Type Automatic-MaxIP.nd2_crop1 - 436 x 178 x 1 x 1 - 2 ch (double).tif",
+      "size": 487711,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "733c1115-e374-4f9b-b849-7bb746857ff5"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Filetype": "ISOLATED_CELL",
+    "Experiment ID": "TIME_11_14_16",
+    "Assay Type": "Gametogenesis_timecourse",
+    "Sample type": "Experimental",
+    "Time treated post induction (min)": "0",
+    "Compound identifier": "TC14",
+    "TCAMS identifier": "TCMDC-135214",
+    "ChEMBL identifier": "CHEMBL528191",
+    "Compound linkout": "https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL528191/",
+    "Concentration (uM)": "6"
+  }
+}

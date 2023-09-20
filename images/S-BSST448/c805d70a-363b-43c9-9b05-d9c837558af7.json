@@ -1,0 +1,27 @@
+{
+  "id": "c805d70a-363b-43c9-9b05-d9c837558af7",
+  "accession_id": "S-BSST448",
+  "name": "ROI_3624-2712-201.tif",
+  "original_relpath": "ROI_3624-2712-201.tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BSST448",
+      "image_id": "c805d70a-363b-43c9-9b05-d9c837558af7",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/S-BSSTxxx448/S-BSST448/Files/Expert.zip",
+      "size": 3752671,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "2e7a439d-1461-483e-b8ea-7f3121703e95"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Description": "Segmentations manually created by an Expert",
+    "Type": "Directory containing 2 TIFF stacks (LZW compressed)"
+  }
+}

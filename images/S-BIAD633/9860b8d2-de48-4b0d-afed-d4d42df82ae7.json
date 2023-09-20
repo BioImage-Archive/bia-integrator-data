@@ -1,0 +1,34 @@
+{
+  "id": "9860b8d2-de48-4b0d-afed-d4d42df82ae7",
+  "accession_id": "S-BIAD633",
+  "name": "Primary_Screen/Masked/Sequence_ 200218 TC15 T20 0002-MaxIP.nd2 (series 1) - 2048 x 2044 x 1 x 1 - 2 ch (16 bits).tif",
+  "original_relpath": "Primary_Screen/Masked/Sequence_ 200218 TC15 T20 0002-MaxIP.nd2 (series 1) - 2048 x 2044 x 1 x 1 - 2 ch (16 bits).tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD633",
+      "image_id": "9860b8d2-de48-4b0d-afed-d4d42df82ae7",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/633/S-BIAD633/Files/Primary_Screen/Masked/Sequence_ 200218 TC15 T20 0002-MaxIP.nd2 (series 1) - 2048 x 2044 x 1 x 1 - 2 ch (16 bits).tif",
+      "size": 10385976,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "abf10380-0094-46a3-944b-8a01bae00db6"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Filetype": "BACK_COR_Image",
+    "Experiment ID": "primary_screen",
+    "Assay Type": "24h preincubation",
+    "Sample type": "Experimental",
+    "Compound identifier": "TC15",
+    "TCAMS identifier": "TCMDC-124805",
+    "ChEMBL identifier": "CHEMBL549075",
+    "Compound linkout": "https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL549075/",
+    "Concentration (uM)": "4"
+  }
+}

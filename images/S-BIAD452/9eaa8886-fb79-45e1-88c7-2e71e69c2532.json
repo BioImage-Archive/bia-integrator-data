@@ -1,0 +1,28 @@
+{
+  "id": "9eaa8886-fb79-45e1-88c7-2e71e69c2532",
+  "accession_id": "S-BIAD452",
+  "name": "human_wbc_ifc/original/sample2_early/sample2_early.cif",
+  "original_relpath": "human_wbc_ifc/original/sample2_early/sample2_early.cif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD452",
+      "image_id": "9eaa8886-fb79-45e1-88c7-2e71e69c2532",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/452/S-BIAD452/Files/human_wbc_ifc/original/sample2_early/sample2_early.cif",
+      "size": 2019314342,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "e52cb89f-0829-428a-80f7-081b88d256a2"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Channels": "BF1, CD15, Siglec8, CD14, CD19, SSC, CD3, CD45, BF2, CD4, CD56, CD8",
+    "Description": "Compensated imaging flow cytometry data",
+    "File type": "IDEAS proprietary file format"
+  }
+}

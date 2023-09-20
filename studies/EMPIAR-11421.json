@@ -1,0 +1,690 @@
+{
+  "accession_id": "EMPIAR-11421",
+  "title": "Cryo serial FIB/SEM of RPE-1 cells",
+  "description": "Cryo serial FIB/SEM of RPE-1 cells",
+  "authors": [
+    {
+      "name": "Dumoux M"
+    },
+    {
+      "name": "Glen T"
+    },
+    {
+      "name": "Smith JLR"
+    },
+    {
+      "name": "Ho EML"
+    },
+    {
+      "name": "Perdigão LMA"
+    },
+    {
+      "name": "Pennington A"
+    },
+    {
+      "name": "Klumpe S"
+    },
+    {
+      "name": "Yee NBY"
+    },
+    {
+      "name": "Farmer DA"
+    },
+    {
+      "name": "Lai PYA"
+    },
+    {
+      "name": "Bowles W"
+    },
+    {
+      "name": "Kelley R"
+    },
+    {
+      "name": "Plitzko JM"
+    },
+    {
+      "name": "Wu L"
+    },
+    {
+      "name": "Basham M"
+    },
+    {
+      "name": "Clare DK"
+    },
+    {
+      "name": "Siebert CA"
+    },
+    {
+      "name": "Darrow MC"
+    },
+    {
+      "name": "Naismith JH"
+    },
+    {
+      "name": "Grange M"
+    }
+  ],
+  "organism": "Unknown",
+  "release_date": "2023-02-28",
+  "license": "CC0",
+  "links": {},
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "example_annotation_uri": "",
+  "file_references": {
+    "1aa113c1-e989-4573-9812-a0cb0bad7347": {
+      "id": "1aa113c1-e989-4573-9812-a0cb0bad7347",
+      "name": "RPE-1/Search Map/Fused.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Fused.tif",
+      "size_in_bytes": 114181250,
+      "type": null,
+      "attributes": {}
+    },
+    "e887da79-16b0-4fef-816f-9b8056ea4311": {
+      "id": "e887da79-16b0-4fef-816f-9b8056ea4311",
+      "name": "RPE-1/Search Map/SearchMap.dm",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/SearchMap.dm",
+      "size_in_bytes": 21382,
+      "type": null,
+      "attributes": {}
+    },
+    "1ea84d96-8aa3-476d-a78a-13b158b63387": {
+      "id": "1ea84d96-8aa3-476d-a78a-13b158b63387",
+      "name": "RPE-1/Search Map/SearchMap.jpg",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/SearchMap.jpg",
+      "size_in_bytes": 47149,
+      "type": null,
+      "attributes": {}
+    },
+    "73667282-2866-4e3e-8a31-1f98caeb91e7": {
+      "id": "73667282-2866-4e3e-8a31-1f98caeb91e7",
+      "name": "RPE-1/Search Map/SearchMap.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/SearchMap.mrc",
+      "size_in_bytes": 128947506,
+      "type": null,
+      "attributes": {}
+    },
+    "9dad705b-17ec-48e6-a0f0-3cb27d33177d": {
+      "id": "9dad705b-17ec-48e6-a0f0-3cb27d33177d",
+      "name": "RPE-1/Search Map/SearchMap.xml",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/SearchMap.xml",
+      "size_in_bytes": 9213,
+      "type": null,
+      "attributes": {}
+    },
+    "09fb3f11-d424-40e7-9102-56dfe1943c4f": {
+      "id": "09fb3f11-d424-40e7-9102-56dfe1943c4f",
+      "name": "RPE-1/Search Map/TileConfiguration.registered.txt",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/TileConfiguration.registered.txt",
+      "size_in_bytes": 831,
+      "type": null,
+      "attributes": {}
+    },
+    "2cc4ee28-ccaf-45f4-940e-5e5307285ab1": {
+      "id": "2cc4ee28-ccaf-45f4-940e-5e5307285ab1",
+      "name": "RPE-1/Search Map/TileConfiguration.txt",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/TileConfiguration.txt",
+      "size_in_bytes": 520,
+      "type": null,
+      "attributes": {}
+    },
+    "d4dad309-1ff2-44d9-9bb6-0a1f6583d53e": {
+      "id": "d4dad309-1ff2-44d9-9bb6-0a1f6583d53e",
+      "name": "RPE-1/Search Map/TileSetAcquisitionOptions.xml",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/TileSetAcquisitionOptions.xml",
+      "size_in_bytes": 527,
+      "type": null,
+      "attributes": {}
+    },
+    "e5d0b30f-e9b9-456a-924c-03366bf86f60": {
+      "id": "e5d0b30f-e9b9-456a-924c-03366bf86f60",
+      "name": "RPE-1/Search Map/Tile_13436452_1.jpg",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436452_1.jpg",
+      "size_in_bytes": 102716,
+      "type": null,
+      "attributes": {}
+    },
+    "0bdb96af-19fa-4c87-ab0a-535ea8916864": {
+      "id": "0bdb96af-19fa-4c87-ab0a-535ea8916864",
+      "name": "RPE-1/Search Map/Tile_13436452_1.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436452_1.mrc",
+      "size_in_bytes": 9176064,
+      "type": null,
+      "attributes": {}
+    },
+    "f29382ca-21ae-4511-9751-c19efd54c6bc": {
+      "id": "f29382ca-21ae-4511-9751-c19efd54c6bc",
+      "name": "RPE-1/Search Map/Tile_13436452_1.xml",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436452_1.xml",
+      "size_in_bytes": 13501,
+      "type": null,
+      "attributes": {}
+    },
+    "36133bd3-09b1-4795-9512-458ae5cb302c": {
+      "id": "36133bd3-09b1-4795-9512-458ae5cb302c",
+      "name": "RPE-1/Search Map/Tile_13436462_2.jpg",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436462_2.jpg",
+      "size_in_bytes": 106654,
+      "type": null,
+      "attributes": {}
+    },
+    "4d9e5fc3-bd89-4a5e-9d00-c38b2c28bd22": {
+      "id": "4d9e5fc3-bd89-4a5e-9d00-c38b2c28bd22",
+      "name": "RPE-1/Search Map/Tile_13436462_2.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436462_2.mrc",
+      "size_in_bytes": 9176064,
+      "type": null,
+      "attributes": {}
+    },
+    "7e4e2f1d-d706-4ed1-9613-87e99a2865e0": {
+      "id": "7e4e2f1d-d706-4ed1-9613-87e99a2865e0",
+      "name": "RPE-1/Search Map/Tile_13436462_2.xml",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436462_2.xml",
+      "size_in_bytes": 13499,
+      "type": null,
+      "attributes": {}
+    },
+    "6d8a7444-579e-4650-bc96-0796ad80dd49": {
+      "id": "6d8a7444-579e-4650-bc96-0796ad80dd49",
+      "name": "RPE-1/Search Map/Tile_13436472_3.jpg",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436472_3.jpg",
+      "size_in_bytes": 135162,
+      "type": null,
+      "attributes": {}
+    },
+    "2533fab2-5b0a-4728-aa04-39fc498929b1": {
+      "id": "2533fab2-5b0a-4728-aa04-39fc498929b1",
+      "name": "RPE-1/Search Map/Tile_13436472_3.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436472_3.mrc",
+      "size_in_bytes": 9176064,
+      "type": null,
+      "attributes": {}
+    },
+    "84dc6fec-f28b-4a20-9d22-cf515164d3e0": {
+      "id": "84dc6fec-f28b-4a20-9d22-cf515164d3e0",
+      "name": "RPE-1/Search Map/Tile_13436472_3.xml",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436472_3.xml",
+      "size_in_bytes": 13496,
+      "type": null,
+      "attributes": {}
+    },
+    "b8c942f0-73ac-422e-92a7-1fbadaeac779": {
+      "id": "b8c942f0-73ac-422e-92a7-1fbadaeac779",
+      "name": "RPE-1/Search Map/Tile_13436481_4.jpg",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436481_4.jpg",
+      "size_in_bytes": 100027,
+      "type": null,
+      "attributes": {}
+    },
+    "40a0eca2-7348-4bc4-b44d-30bd00bb7c74": {
+      "id": "40a0eca2-7348-4bc4-b44d-30bd00bb7c74",
+      "name": "RPE-1/Search Map/Tile_13436481_4.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436481_4.mrc",
+      "size_in_bytes": 9176064,
+      "type": null,
+      "attributes": {}
+    },
+    "054a3c67-80aa-44db-99b0-63826a88e34e": {
+      "id": "054a3c67-80aa-44db-99b0-63826a88e34e",
+      "name": "RPE-1/Search Map/Tile_13436481_4.xml",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436481_4.xml",
+      "size_in_bytes": 13497,
+      "type": null,
+      "attributes": {}
+    },
+    "46fa8c3c-7488-418f-8a8b-d346952f8a52": {
+      "id": "46fa8c3c-7488-418f-8a8b-d346952f8a52",
+      "name": "RPE-1/Search Map/Tile_13436490_5.jpg",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436490_5.jpg",
+      "size_in_bytes": 104512,
+      "type": null,
+      "attributes": {}
+    },
+    "1f9b8e3e-2468-4de1-bc6b-880d11309389": {
+      "id": "1f9b8e3e-2468-4de1-bc6b-880d11309389",
+      "name": "RPE-1/Search Map/Tile_13436490_5.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436490_5.mrc",
+      "size_in_bytes": 9176064,
+      "type": null,
+      "attributes": {}
+    },
+    "f736819c-e96b-4c63-85ce-720d5a3f1cb5": {
+      "id": "f736819c-e96b-4c63-85ce-720d5a3f1cb5",
+      "name": "RPE-1/Search Map/Tile_13436490_5.xml",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436490_5.xml",
+      "size_in_bytes": 13493,
+      "type": null,
+      "attributes": {}
+    },
+    "7198d13c-e4d3-4203-916e-a185976e7c97": {
+      "id": "7198d13c-e4d3-4203-916e-a185976e7c97",
+      "name": "RPE-1/Search Map/Tile_13436499_6.jpg",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436499_6.jpg",
+      "size_in_bytes": 152545,
+      "type": null,
+      "attributes": {}
+    },
+    "490f6631-6e63-40c2-a64d-c84144fb2ecd": {
+      "id": "490f6631-6e63-40c2-a64d-c84144fb2ecd",
+      "name": "RPE-1/Search Map/Tile_13436499_6.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436499_6.mrc",
+      "size_in_bytes": 9176064,
+      "type": null,
+      "attributes": {}
+    },
+    "7f06468e-38cc-4fd7-b47a-9362ef0d5496": {
+      "id": "7f06468e-38cc-4fd7-b47a-9362ef0d5496",
+      "name": "RPE-1/Search Map/Tile_13436499_6.xml",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436499_6.xml",
+      "size_in_bytes": 13496,
+      "type": null,
+      "attributes": {}
+    },
+    "6a20d925-317c-46db-8701-4be426bec129": {
+      "id": "6a20d925-317c-46db-8701-4be426bec129",
+      "name": "RPE-1/Search Map/Tile_13436508_7.jpg",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436508_7.jpg",
+      "size_in_bytes": 152889,
+      "type": null,
+      "attributes": {}
+    },
+    "c5051d34-fc6c-47a7-9f7d-92a13eec257e": {
+      "id": "c5051d34-fc6c-47a7-9f7d-92a13eec257e",
+      "name": "RPE-1/Search Map/Tile_13436508_7.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436508_7.mrc",
+      "size_in_bytes": 9176064,
+      "type": null,
+      "attributes": {}
+    },
+    "a668a544-003b-4dd0-8941-1ce5c4b9bc40": {
+      "id": "a668a544-003b-4dd0-8941-1ce5c4b9bc40",
+      "name": "RPE-1/Search Map/Tile_13436508_7.xml",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436508_7.xml",
+      "size_in_bytes": 13499,
+      "type": null,
+      "attributes": {}
+    },
+    "9d5c4756-a998-48c2-a61d-4c348510a493": {
+      "id": "9d5c4756-a998-48c2-a61d-4c348510a493",
+      "name": "RPE-1/Search Map/Tile_13436518_8.jpg",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436518_8.jpg",
+      "size_in_bytes": 151966,
+      "type": null,
+      "attributes": {}
+    },
+    "1d5ea3c4-a14c-4a7b-8f42-656fba76b94e": {
+      "id": "1d5ea3c4-a14c-4a7b-8f42-656fba76b94e",
+      "name": "RPE-1/Search Map/Tile_13436518_8.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436518_8.mrc",
+      "size_in_bytes": 9176064,
+      "type": null,
+      "attributes": {}
+    },
+    "9f3f5c22-6711-4a48-82ac-78257e9e9848": {
+      "id": "9f3f5c22-6711-4a48-82ac-78257e9e9848",
+      "name": "RPE-1/Search Map/Tile_13436518_8.xml",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436518_8.xml",
+      "size_in_bytes": 13498,
+      "type": null,
+      "attributes": {}
+    },
+    "58e94e23-4dd4-4c82-a449-7a42908f0ffd": {
+      "id": "58e94e23-4dd4-4c82-a449-7a42908f0ffd",
+      "name": "RPE-1/Search Map/Tile_13436527_9.jpg",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436527_9.jpg",
+      "size_in_bytes": 60665,
+      "type": null,
+      "attributes": {}
+    },
+    "cbffa275-1549-4512-9684-00cc7b57f7d9": {
+      "id": "cbffa275-1549-4512-9684-00cc7b57f7d9",
+      "name": "RPE-1/Search Map/Tile_13436527_9.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436527_9.mrc",
+      "size_in_bytes": 9176064,
+      "type": null,
+      "attributes": {}
+    },
+    "4f5c0ad7-ab96-4950-a430-95453e86c032": {
+      "id": "4f5c0ad7-ab96-4950-a430-95453e86c032",
+      "name": "RPE-1/Search Map/Tile_13436527_9.xml",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436527_9.xml",
+      "size_in_bytes": 13501,
+      "type": null,
+      "attributes": {}
+    },
+    "8a4fa564-cc48-4330-b75b-7ba9d19c4656": {
+      "id": "8a4fa564-cc48-4330-b75b-7ba9d19c4656",
+      "name": "RPE-1/Search Map/Tile_13436536_10.jpg",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436536_10.jpg",
+      "size_in_bytes": 52087,
+      "type": null,
+      "attributes": {}
+    },
+    "bef14ff6-c0d9-44b0-837c-9e4b7e603386": {
+      "id": "bef14ff6-c0d9-44b0-837c-9e4b7e603386",
+      "name": "RPE-1/Search Map/Tile_13436536_10.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436536_10.mrc",
+      "size_in_bytes": 9176064,
+      "type": null,
+      "attributes": {}
+    },
+    "f132a41b-a28e-495f-acbf-fba48248d59b": {
+      "id": "f132a41b-a28e-495f-acbf-fba48248d59b",
+      "name": "RPE-1/Search Map/Tile_13436536_10.xml",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436536_10.xml",
+      "size_in_bytes": 13502,
+      "type": null,
+      "attributes": {}
+    },
+    "e3e8ce42-3abe-4b6b-98b2-9ae30011f810": {
+      "id": "e3e8ce42-3abe-4b6b-98b2-9ae30011f810",
+      "name": "RPE-1/Search Map/Tile_13436545_11.jpg",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436545_11.jpg",
+      "size_in_bytes": 115741,
+      "type": null,
+      "attributes": {}
+    },
+    "bceb67a1-30c7-4b2b-b329-fb28101ac002": {
+      "id": "bceb67a1-30c7-4b2b-b329-fb28101ac002",
+      "name": "RPE-1/Search Map/Tile_13436545_11.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436545_11.mrc",
+      "size_in_bytes": 9176064,
+      "type": null,
+      "attributes": {}
+    },
+    "7ab4d488-6700-4223-a447-b2b21bff7155": {
+      "id": "7ab4d488-6700-4223-a447-b2b21bff7155",
+      "name": "RPE-1/Search Map/Tile_13436545_11.xml",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436545_11.xml",
+      "size_in_bytes": 13498,
+      "type": null,
+      "attributes": {}
+    },
+    "1541a6dd-89b5-48b6-b871-b075a85fe0dc": {
+      "id": "1541a6dd-89b5-48b6-b871-b075a85fe0dc",
+      "name": "RPE-1/Search Map/Tile_13436554_12.jpg",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436554_12.jpg",
+      "size_in_bytes": 143405,
+      "type": null,
+      "attributes": {}
+    },
+    "aa8991d0-9435-46f0-858a-c5a06d4a9a09": {
+      "id": "aa8991d0-9435-46f0-858a-c5a06d4a9a09",
+      "name": "RPE-1/Search Map/Tile_13436554_12.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436554_12.mrc",
+      "size_in_bytes": 9176064,
+      "type": null,
+      "attributes": {}
+    },
+    "87a17293-e81a-42c5-9137-9498a1c19866": {
+      "id": "87a17293-e81a-42c5-9137-9498a1c19866",
+      "name": "RPE-1/Search Map/Tile_13436554_12.xml",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436554_12.xml",
+      "size_in_bytes": 13498,
+      "type": null,
+      "attributes": {}
+    },
+    "ce8c2d73-8f39-4d2e-b65a-b57e13b51d70": {
+      "id": "ce8c2d73-8f39-4d2e-b65a-b57e13b51d70",
+      "name": "RPE-1/Search Map/Tile_13436563_13.jpg",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436563_13.jpg",
+      "size_in_bytes": 92347,
+      "type": null,
+      "attributes": {}
+    },
+    "29a2825c-355f-45f0-ba03-9150c31cfcb6": {
+      "id": "29a2825c-355f-45f0-ba03-9150c31cfcb6",
+      "name": "RPE-1/Search Map/Tile_13436563_13.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436563_13.mrc",
+      "size_in_bytes": 9176064,
+      "type": null,
+      "attributes": {}
+    },
+    "c078f2cb-e103-4801-992b-0bdcf90cbbf2": {
+      "id": "c078f2cb-e103-4801-992b-0bdcf90cbbf2",
+      "name": "RPE-1/Search Map/Tile_13436563_13.xml",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436563_13.xml",
+      "size_in_bytes": 13498,
+      "type": null,
+      "attributes": {}
+    },
+    "6b9d85c6-712a-4824-82a1-f9c928c9d746": {
+      "id": "6b9d85c6-712a-4824-82a1-f9c928c9d746",
+      "name": "RPE-1/Search Map/Tile_13436573_14.jpg",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436573_14.jpg",
+      "size_in_bytes": 122306,
+      "type": null,
+      "attributes": {}
+    },
+    "82701bb6-1903-43f3-8573-9c0359a07658": {
+      "id": "82701bb6-1903-43f3-8573-9c0359a07658",
+      "name": "RPE-1/Search Map/Tile_13436573_14.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436573_14.mrc",
+      "size_in_bytes": 9176064,
+      "type": null,
+      "attributes": {}
+    },
+    "ce982ff6-9a0f-4d5c-9639-03c4786d1466": {
+      "id": "ce982ff6-9a0f-4d5c-9639-03c4786d1466",
+      "name": "RPE-1/Search Map/Tile_13436573_14.xml",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436573_14.xml",
+      "size_in_bytes": 13498,
+      "type": null,
+      "attributes": {}
+    },
+    "04296d86-baf9-4839-b371-b901ddded6b1": {
+      "id": "04296d86-baf9-4839-b371-b901ddded6b1",
+      "name": "RPE-1/Search Map/Tile_13436582_15.jpg",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436582_15.jpg",
+      "size_in_bytes": 131462,
+      "type": null,
+      "attributes": {}
+    },
+    "1e922cc6-e54a-4ece-913b-3d274d00d2ef": {
+      "id": "1e922cc6-e54a-4ece-913b-3d274d00d2ef",
+      "name": "RPE-1/Search Map/Tile_13436582_15.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436582_15.mrc",
+      "size_in_bytes": 9176064,
+      "type": null,
+      "attributes": {}
+    },
+    "8a006fb8-5024-4c86-a8a5-9378a605afcb": {
+      "id": "8a006fb8-5024-4c86-a8a5-9378a605afcb",
+      "name": "RPE-1/Search Map/Tile_13436582_15.xml",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436582_15.xml",
+      "size_in_bytes": 13497,
+      "type": null,
+      "attributes": {}
+    },
+    "27d87024-fca4-4ef6-97a3-585eff48c801": {
+      "id": "27d87024-fca4-4ef6-97a3-585eff48c801",
+      "name": "RPE-1/Search Map/Tile_13436591_16.jpg",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436591_16.jpg",
+      "size_in_bytes": 101947,
+      "type": null,
+      "attributes": {}
+    },
+    "2929a299-38cb-4486-a2f4-b1b24b099ef0": {
+      "id": "2929a299-38cb-4486-a2f4-b1b24b099ef0",
+      "name": "RPE-1/Search Map/Tile_13436591_16.mrc",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436591_16.mrc",
+      "size_in_bytes": 9176064,
+      "type": null,
+      "attributes": {}
+    },
+    "18b1f4d7-483a-44e9-a826-d581c61b1d5b": {
+      "id": "18b1f4d7-483a-44e9-a826-d581c61b1d5b",
+      "name": "RPE-1/Search Map/Tile_13436591_16.xml",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/Search Map/Tile_13436591_16.xml",
+      "size_in_bytes": 13497,
+      "type": null,
+      "attributes": {}
+    },
+    "9ad51aa2-df49-4c6b-ad3a-c69a1e5c4f0d": {
+      "id": "9ad51aa2-df49-4c6b-ad3a-c69a1e5c4f0d",
+      "name": "RPE-1/movie aligned cropped filtered/Aligned 18 of 18-1.avi",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/movie aligned cropped filtered/Aligned 18 of 18-1.avi",
+      "size_in_bytes": 17612092,
+      "type": null,
+      "attributes": {}
+    },
+    "fb88bb70-5995-444b-879f-d0ec52678ccb": {
+      "id": "fb88bb70-5995-444b-879f-d0ec52678ccb",
+      "name": "RPE-1/raw SEM images/SEM Image - SliceImage - 001.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/raw SEM images/SEM Image - SliceImage - 001.tif",
+      "size_in_bytes": 25379023,
+      "type": null,
+      "attributes": {}
+    },
+    "c12ac9b6-6199-4a3e-bf04-70f8c04f4fdf": {
+      "id": "c12ac9b6-6199-4a3e-bf04-70f8c04f4fdf",
+      "name": "RPE-1/raw SEM images/SEM Image - SliceImage - 002.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/raw SEM images/SEM Image - SliceImage - 002.tif",
+      "size_in_bytes": 25379023,
+      "type": null,
+      "attributes": {}
+    },
+    "d3d1953e-d100-4e44-afa3-712762566154": {
+      "id": "d3d1953e-d100-4e44-afa3-712762566154",
+      "name": "RPE-1/raw SEM images/SEM Image - SliceImage - 003.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/raw SEM images/SEM Image - SliceImage - 003.tif",
+      "size_in_bytes": 25379024,
+      "type": null,
+      "attributes": {}
+    },
+    "e8db117d-d145-4224-910b-428af45fbd58": {
+      "id": "e8db117d-d145-4224-910b-428af45fbd58",
+      "name": "RPE-1/raw SEM images/SEM Image - SliceImage - 004.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/raw SEM images/SEM Image - SliceImage - 004.tif",
+      "size_in_bytes": 25379024,
+      "type": null,
+      "attributes": {}
+    },
+    "d996c3b5-6969-4df7-be0e-e38e8f0ed59f": {
+      "id": "d996c3b5-6969-4df7-be0e-e38e8f0ed59f",
+      "name": "RPE-1/raw SEM images/SEM Image - SliceImage - 005.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/raw SEM images/SEM Image - SliceImage - 005.tif",
+      "size_in_bytes": 25379015,
+      "type": null,
+      "attributes": {}
+    },
+    "0c4f2155-0cbc-40f9-95c4-f5aa44179cc6": {
+      "id": "0c4f2155-0cbc-40f9-95c4-f5aa44179cc6",
+      "name": "RPE-1/raw SEM images/SEM Image - SliceImage - 006.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/raw SEM images/SEM Image - SliceImage - 006.tif",
+      "size_in_bytes": 25379035,
+      "type": null,
+      "attributes": {}
+    },
+    "a08b6aac-29df-4f72-abc4-230588ec11db": {
+      "id": "a08b6aac-29df-4f72-abc4-230588ec11db",
+      "name": "RPE-1/raw SEM images/SEM Image - SliceImage - 007.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/raw SEM images/SEM Image - SliceImage - 007.tif",
+      "size_in_bytes": 25379016,
+      "type": null,
+      "attributes": {}
+    },
+    "396d2456-94f9-4c80-b42f-820c764677cf": {
+      "id": "396d2456-94f9-4c80-b42f-820c764677cf",
+      "name": "RPE-1/raw SEM images/SEM Image - SliceImage - 008.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/raw SEM images/SEM Image - SliceImage - 008.tif",
+      "size_in_bytes": 25379032,
+      "type": null,
+      "attributes": {}
+    },
+    "dfd00be0-cea9-44cc-8af3-383aaa9cca5c": {
+      "id": "dfd00be0-cea9-44cc-8af3-383aaa9cca5c",
+      "name": "RPE-1/raw SEM images/SEM Image - SliceImage - 009.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/raw SEM images/SEM Image - SliceImage - 009.tif",
+      "size_in_bytes": 25379004,
+      "type": null,
+      "attributes": {}
+    },
+    "6daa5d29-4d6a-45fd-bc49-67e5f657bd8c": {
+      "id": "6daa5d29-4d6a-45fd-bc49-67e5f657bd8c",
+      "name": "RPE-1/raw SEM images/SEM Image - SliceImage - 010.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/raw SEM images/SEM Image - SliceImage - 010.tif",
+      "size_in_bytes": 25379020,
+      "type": null,
+      "attributes": {}
+    },
+    "8349dbb3-5d2c-4a9c-9d7a-31d5b936ab84": {
+      "id": "8349dbb3-5d2c-4a9c-9d7a-31d5b936ab84",
+      "name": "RPE-1/raw SEM images/SEM Image - SliceImage - 011.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/raw SEM images/SEM Image - SliceImage - 011.tif",
+      "size_in_bytes": 25379024,
+      "type": null,
+      "attributes": {}
+    },
+    "75c2fa27-94eb-451d-b88a-0e89728f2465": {
+      "id": "75c2fa27-94eb-451d-b88a-0e89728f2465",
+      "name": "RPE-1/raw SEM images/SEM Image - SliceImage - 012.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/raw SEM images/SEM Image - SliceImage - 012.tif",
+      "size_in_bytes": 25379027,
+      "type": null,
+      "attributes": {}
+    },
+    "a735d89d-a7e8-4003-9e56-6e1a50abd77d": {
+      "id": "a735d89d-a7e8-4003-9e56-6e1a50abd77d",
+      "name": "RPE-1/raw SEM images/SEM Image - SliceImage - 013.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/raw SEM images/SEM Image - SliceImage - 013.tif",
+      "size_in_bytes": 25379012,
+      "type": null,
+      "attributes": {}
+    },
+    "11c72694-c7ac-434a-9dc1-956a21f3bb8a": {
+      "id": "11c72694-c7ac-434a-9dc1-956a21f3bb8a",
+      "name": "RPE-1/raw SEM images/SEM Image - SliceImage - 014.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/raw SEM images/SEM Image - SliceImage - 014.tif",
+      "size_in_bytes": 25379019,
+      "type": null,
+      "attributes": {}
+    },
+    "ade3388c-723b-412f-8d86-e2ef52bd7525": {
+      "id": "ade3388c-723b-412f-8d86-e2ef52bd7525",
+      "name": "RPE-1/raw SEM images/SEM Image - SliceImage - 015.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/raw SEM images/SEM Image - SliceImage - 015.tif",
+      "size_in_bytes": 25379040,
+      "type": null,
+      "attributes": {}
+    },
+    "b865e68a-ccef-4ed3-a400-d23c08d418e6": {
+      "id": "b865e68a-ccef-4ed3-a400-d23c08d418e6",
+      "name": "RPE-1/raw SEM images/SEM Image - SliceImage - 016.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/raw SEM images/SEM Image - SliceImage - 016.tif",
+      "size_in_bytes": 25379016,
+      "type": null,
+      "attributes": {}
+    },
+    "3b9e157b-3155-4736-9832-46b63f8f2e10": {
+      "id": "3b9e157b-3155-4736-9832-46b63f8f2e10",
+      "name": "RPE-1/raw SEM images/SEM Image - SliceImage - 017.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/raw SEM images/SEM Image - SliceImage - 017.tif",
+      "size_in_bytes": 25379027,
+      "type": null,
+      "attributes": {}
+    },
+    "1e7157b1-e8c3-43e5-8b5b-87241568c54a": {
+      "id": "1e7157b1-e8c3-43e5-8b5b-87241568c54a",
+      "name": "RPE-1/raw SEM images/SEM Image - SliceImage - 018.tif",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/raw SEM images/SEM Image - SliceImage - 018.tif",
+      "size_in_bytes": 25379024,
+      "type": null,
+      "attributes": {}
+    },
+    "b61bccfe-541d-41db-8a5e-f2ce29fc0341": {
+      "id": "b61bccfe-541d-41db-8a5e-f2ce29fc0341",
+      "name": "RPE-1/raw SEM images/param.pdf",
+      "uri": "https://ftp.ebi.ac.uk/empiar/world_availability/11421/data/RPE-1/raw SEM images/param.pdf",
+      "size_in_bytes": 239121,
+      "type": null,
+      "attributes": {}
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

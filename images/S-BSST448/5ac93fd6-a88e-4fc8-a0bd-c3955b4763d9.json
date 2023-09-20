@@ -1,0 +1,27 @@
+{
+  "id": "5ac93fd6-a88e-4fc8-a0bd-c3955b4763d9",
+  "accession_id": "S-BSST448",
+  "name": "ROI_3588-3972-1.tiff",
+  "original_relpath": "ROI_3588-3972-1.tiff",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BSST448",
+      "image_id": "5ac93fd6-a88e-4fc8-a0bd-c3955b4763d9",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/S-BSSTxxx448/S-BSST448/Files/Predictions.zip",
+      "size": 1471595,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "fb0adc6a-131d-4f65-8943-0b17462bd59b"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Description": "Segmentations generated from output of trained U-Net",
+    "Type": "Directory containing 18 TIFF stacks (LZW compressed)"
+  }
+}

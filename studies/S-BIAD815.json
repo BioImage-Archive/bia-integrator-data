@@ -1,0 +1,67 @@
+{
+  "accession_id": "S-BIAD815",
+  "title": "In Toto Cell Tracking using Lightsheet Microscopy of the Neuromesodermal Progenitor Zone of the Zebrafish Tailbud from the 21st Somite Stage (OME-NGFF)",
+  "description": "OME-NGFF converted study from idr0051.  Light sheet microscopy has been previously used to image and directly study the process of gastrulation in a zebrafish embryo. Before now it was not possible to use this method to study late-stage somatogenesis, due to the movement of the embryo, resulting in displacement from the field of view. Here we achieve 4D light sheet imaging with online, image based registration to maintain the field of view during long timelapses, with emphasis on the tailbud. The zebrafish tailbud is of special interest as it contains a population of bipotent progenitor cells, neuromesodermal progenitors (NMps), competent to enter either the mesodermal or neural lineages. This dataset provides in toto tracking of the tailbud of the developing zebrafish whilst also demonstrating the potential of online tracking during developing to maintain high magnification images whilst tracking a growing object.",
+  "authors": [
+    {
+      "name": "Image Data Resource (IDR)"
+    }
+  ],
+  "organism": "Unknown",
+  "release_date": "2023-07-12",
+  "license": "CC BY 4.0",
+  "links": {
+    "Original study from IDR (idr0051)": "https://doi.org/10.17867/10000117"
+  },
+  "imaging_type": "Unknown",
+  "attributes": {},
+  "example_image_uri": "",
+  "example_annotation_uri": "",
+  "file_references": {
+    "b185186c-d3b3-4548-a58a-22430b4424c7": {
+      "id": "b185186c-d3b3-4548-a58a-22430b4424c7",
+      "name": "idr0051/180712_H2B_22ss_Courtney1_20180712-163837_p00_c00_preview.ome.zarr.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/815/S-BIAD815/Files/idr0051/180712_H2B_22ss_Courtney1_20180712-163837_p00_c00_preview.ome.zarr.zip",
+      "size_in_bytes": 1906978462,
+      "type": null,
+      "attributes": {}
+    },
+    "4293565f-2af1-4219-8c32-c04a35a191f3": {
+      "id": "4293565f-2af1-4219-8c32-c04a35a191f3",
+      "name": "idr0051/180712_H2B_22ss_Courtney_p00_c00_reg_preview.klb.ome.zarr.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/815/S-BIAD815/Files/idr0051/180712_H2B_22ss_Courtney_p00_c00_reg_preview.klb.ome.zarr.zip",
+      "size_in_bytes": 5694584710,
+      "type": null,
+      "attributes": {}
+    },
+    "fb6b28fa-3f08-4933-8715-c920063064e7": {
+      "id": "fb6b28fa-3f08-4933-8715-c920063064e7",
+      "name": "idr0051/2018-06-28_21ss_DMSO_TF_20180628-185945_p00_c00_reg_preview.ome.zarr.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/815/S-BIAD815/Files/idr0051/2018-06-28_21ss_DMSO_TF_20180628-185945_p00_c00_reg_preview.ome.zarr.zip",
+      "size_in_bytes": 920829538,
+      "type": null,
+      "attributes": {}
+    },
+    "abc6a09e-a109-4639-8e84-6b9b72c9dffa": {
+      "id": "abc6a09e-a109-4639-8e84-6b9b72c9dffa",
+      "name": "idr0051/embryo_dmso_2_new_17-00-44_p00_c00_reg_preview.klb.ome.zarr.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/815/S-BIAD815/Files/idr0051/embryo_dmso_2_new_17-00-44_p00_c00_reg_preview.klb.ome.zarr.zip",
+      "size_in_bytes": 2261446170,
+      "type": null,
+      "attributes": {}
+    },
+    "e1526e21-3b76-4342-a799-de7b1808bd87": {
+      "id": "e1526e21-3b76-4342-a799-de7b1808bd87",
+      "name": "idr0051/embryo_dmso_2_new_17-00-44_p00_c00_reg_preview.ome.zarr.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/815/S-BIAD815/Files/idr0051/embryo_dmso_2_new_17-00-44_p00_c00_reg_preview.ome.zarr.zip",
+      "size_in_bytes": 2258096604,
+      "type": null,
+      "attributes": {}
+    }
+  },
+  "images": {},
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

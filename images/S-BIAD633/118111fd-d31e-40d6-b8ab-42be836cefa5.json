@@ -1,0 +1,34 @@
+{
+  "id": "118111fd-d31e-40d6-b8ab-42be836cefa5",
+  "accession_id": "S-BIAD633",
+  "name": "Primary_Screen/Individual_cells/Sequence_ 200130 MMV73 T20 0005-MaxIP.nd2 (series 1)_crop2 - 128 x 127 x 1 x 1 - 2 ch (16 bits).tif",
+  "original_relpath": "Primary_Screen/Individual_cells/Sequence_ 200130 MMV73 T20 0005-MaxIP.nd2 (series 1)_crop2 - 128 x 127 x 1 x 1 - 2 ch (16 bits).tif",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD633",
+      "image_id": "118111fd-d31e-40d6-b8ab-42be836cefa5",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/633/S-BIAD633/Files/Primary_Screen/Individual_cells/Sequence_ 200130 MMV73 T20 0005-MaxIP.nd2 (series 1)_crop2 - 128 x 127 x 1 x 1 - 2 ch (16 bits).tif",
+      "size": 76711,
+      "type": "fire_object",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "ec8bd0e8-af61-45d0-90a2-58ef44712dc0"
+        ]
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {
+    "Filetype": "ISOLATED_CELL",
+    "Experiment ID": "primary_screen",
+    "Assay Type": "24h preincubation",
+    "Sample Type": "Experimental",
+    "Compound identifier": "Cipargamin",
+    "TCAMS identifier": "NA",
+    "ChEMBL identifier": "CHEMBL1082723",
+    "Compound linkout": "https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1082723/",
+    "Concentration (uM)": "1"
+  }
+}
