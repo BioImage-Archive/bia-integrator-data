@@ -1,0 +1,135 @@
+{
+  "accession_id": "S-BIAD800",
+  "title": "Imaging Mass Cytometry of human tonsil sections (OME-NGFF)",
+  "description": "OME-NGFF converted study from idr0054.  Original study analysed the in situ localisation of immune cell types in human tonsils using imaging mass cytometry.",
+  "authors": [
+    {
+      "name": "Image Data Resource (IDR)"
+    }
+  ],
+  "organism": "Homo sapiens (human)",
+  "release_date": "2023-07-07",
+  "license": "CC BY 4.0",
+  "links": {
+    "Original study from IDR (idr0054)": "https://doi.org/10.17867/10000122"
+  },
+  "imaging_type": "imaging mass cytometry",
+  "attributes": {
+    "filetype_breakdown": "{'.ome.zarr.zip': {'n': 3, 'size_in_bytes': 309455113, 'size_human_readable': '295.1MiB'}}",
+    "filetype_breakdown_html": "<ul><li>.ome.zarr.zip: 3 (295.1MiB)</li></ul>",
+    "n_files_excluding_zip_contents": "3",
+    "n_files_including_zip_contents": "3",
+    "study_size": "295.1MiB",
+    "study_size_human_readable": "295.1MiB",
+    "study_size_in_bytes": "309455113"
+  },
+  "example_image_uri": "",
+  "example_annotation_uri": "",
+  "file_references": {
+    "3c15fd13-73b1-42ff-91f8-33fcfe9aeed0": {
+      "id": "3c15fd13-73b1-42ff-91f8-33fcfe9aeed0",
+      "name": "idr0054/Tonsil 1.ome.zarr.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/800/S-BIAD800/Files/idr0054/Tonsil 1.ome.zarr.zip",
+      "size_in_bytes": 100250459,
+      "type": "file",
+      "attributes": {}
+    },
+    "e4e8ba28-ca24-4311-8f25-462a343c64e4": {
+      "id": "e4e8ba28-ca24-4311-8f25-462a343c64e4",
+      "name": "idr0054/Tonsil 2.ome.zarr.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/800/S-BIAD800/Files/idr0054/Tonsil 2.ome.zarr.zip",
+      "size_in_bytes": 95126131,
+      "type": "file",
+      "attributes": {}
+    },
+    "214cd1c9-488c-4198-8e39-227aff2fee0e": {
+      "id": "214cd1c9-488c-4198-8e39-227aff2fee0e",
+      "name": "idr0054/Tonsil 3.ome.zarr.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/800/S-BIAD800/Files/idr0054/Tonsil 3.ome.zarr.zip",
+      "size_in_bytes": 114078523,
+      "type": "file",
+      "attributes": {}
+    }
+  },
+  "images": {
+    "a0e1b9c0-5c07-4600-b114-7b4697900e39": {
+      "id": "a0e1b9c0-5c07-4600-b114-7b4697900e39",
+      "accession_id": "S-BIAD800",
+      "name": "idr0054/Tonsil 1.ome.zarr.zip",
+      "original_relpath": "idr0054/Tonsil 1.ome.zarr.zip",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD800",
+          "image_id": "a0e1b9c0-5c07-4600-b114-7b4697900e39",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/800/S-BIAD800/Files/idr0054/Tonsil 1.ome.zarr.zip",
+          "size": 100250459,
+          "type": "zipped_zarr",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "3c15fd13-73b1-42ff-91f8-33fcfe9aeed0"
+            ],
+            "path_in_zarr": "/0"
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {}
+    },
+    "e24d29ea-0e39-4368-a2e4-5e6320c91573": {
+      "id": "e24d29ea-0e39-4368-a2e4-5e6320c91573",
+      "accession_id": "S-BIAD800",
+      "name": "idr0054/Tonsil 2.ome.zarr.zip",
+      "original_relpath": "idr0054/Tonsil 2.ome.zarr.zip",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD800",
+          "image_id": "e24d29ea-0e39-4368-a2e4-5e6320c91573",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/800/S-BIAD800/Files/idr0054/Tonsil 2.ome.zarr.zip",
+          "size": 95126131,
+          "type": "zipped_zarr",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "e4e8ba28-ca24-4311-8f25-462a343c64e4"
+            ],
+            "path_in_zarr": "/0"
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {}
+    },
+    "f49ada41-43bf-47ff-99b9-bdf8cc311ce3": {
+      "id": "f49ada41-43bf-47ff-99b9-bdf8cc311ce3",
+      "accession_id": "S-BIAD800",
+      "name": "idr0054/Tonsil 3.ome.zarr.zip",
+      "original_relpath": "idr0054/Tonsil 3.ome.zarr.zip",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD800",
+          "image_id": "f49ada41-43bf-47ff-99b9-bdf8cc311ce3",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/800/S-BIAD800/Files/idr0054/Tonsil 3.ome.zarr.zip",
+          "size": 114078523,
+          "type": "zipped_zarr",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "214cd1c9-488c-4198-8e39-227aff2fee0e"
+            ],
+            "path_in_zarr": "/0"
+          },
+          "rendering": null
+        }
+      ],
+      "attributes": {}
+    }
+  },
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

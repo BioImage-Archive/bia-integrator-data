@@ -1,0 +1,31 @@
+{
+  "id": "4b2c77b0-1f05-49a9-8811-df9c1f1b620d",
+  "accession_id": "S-BIAD882",
+  "name": "idr0090/190306.ome.zarr.zip",
+  "original_relpath": "idr0090/190306.ome.zarr.zip",
+  "dimensions": null,
+  "representations": [
+    {
+      "accession_id": "S-BIAD882",
+      "image_id": "4b2c77b0-1f05-49a9-8811-df9c1f1b620d",
+      "uri": [
+        "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/882/S-BIAD882/Files/idr0090/190306.ome.zarr.zip.001",
+        "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/882/S-BIAD882/Files/idr0090/190306.ome.zarr.zip.002",
+        "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/882/S-BIAD882/Files/idr0090/190306.ome.zarr.zip.003"
+      ],
+      "size": 290051213595,
+      "type": "zipped_zarr",
+      "dimensions": null,
+      "attributes": {
+        "fileref_ids": [
+          "177c8b4f-9376-43fd-9c0e-d6a20b365fe9",
+          "ea50f2e3-dae1-4d9b-938d-79dff11704bd",
+          "1260031e-8205-4386-ac1b-c05626b00126"
+        ],
+        "path_in_zarr": "/0"
+      },
+      "rendering": null
+    }
+  ],
+  "attributes": {}
+}

@@ -7,15 +7,23 @@
       "name": "Image Data Resource (IDR)"
     }
   ],
-  "organism": "Unknown",
+  "organism": "Danio rerio (zebrafish)",
   "release_date": "2023-07-12",
   "license": "CC BY 4.0",
   "links": {
     "Original study from IDR (idr0051)": "https://doi.org/10.17867/10000117"
   },
-  "imaging_type": "Unknown",
-  "attributes": {},
-  "example_image_uri": "",
+  "imaging_type": "SPIM",
+  "attributes": {
+    "filetype_breakdown": "{'.ome.zarr.zip': {'n': 5, 'size_in_bytes': 13041935484, 'size_human_readable': '12.1GiB'}}",
+    "filetype_breakdown_html": "<ul><li>.ome.zarr.zip: 5 (12.1GiB)</li></ul>",
+    "n_files_excluding_zip_contents": "5",
+    "n_files_including_zip_contents": "5",
+    "study_size": "12.1GiB",
+    "study_size_human_readable": "12.1GiB",
+    "study_size_in_bytes": "13041935484"
+  },
+  "example_image_uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD815/51afff7c-eed4-44b4-95c7-1437d8807b97/51afff7c-eed4-44b4-95c7-1437d8807b97-representative-512-512.png",
   "example_annotation_uri": "",
   "file_references": {
     "b185186c-d3b3-4548-a58a-22430b4424c7": {
@@ -23,7 +31,7 @@
       "name": "idr0051/180712_H2B_22ss_Courtney1_20180712-163837_p00_c00_preview.ome.zarr.zip",
       "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/815/S-BIAD815/Files/idr0051/180712_H2B_22ss_Courtney1_20180712-163837_p00_c00_preview.ome.zarr.zip",
       "size_in_bytes": 1906978462,
-      "type": null,
+      "type": "file",
       "attributes": {}
     },
     "4293565f-2af1-4219-8c32-c04a35a191f3": {
@@ -31,7 +39,7 @@
       "name": "idr0051/180712_H2B_22ss_Courtney_p00_c00_reg_preview.klb.ome.zarr.zip",
       "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/815/S-BIAD815/Files/idr0051/180712_H2B_22ss_Courtney_p00_c00_reg_preview.klb.ome.zarr.zip",
       "size_in_bytes": 5694584710,
-      "type": null,
+      "type": "file",
       "attributes": {}
     },
     "fb6b28fa-3f08-4933-8715-c920063064e7": {
@@ -39,7 +47,7 @@
       "name": "idr0051/2018-06-28_21ss_DMSO_TF_20180628-185945_p00_c00_reg_preview.ome.zarr.zip",
       "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/815/S-BIAD815/Files/idr0051/2018-06-28_21ss_DMSO_TF_20180628-185945_p00_c00_reg_preview.ome.zarr.zip",
       "size_in_bytes": 920829538,
-      "type": null,
+      "type": "file",
       "attributes": {}
     },
     "abc6a09e-a109-4639-8e84-6b9b72c9dffa": {
@@ -47,7 +55,7 @@
       "name": "idr0051/embryo_dmso_2_new_17-00-44_p00_c00_reg_preview.klb.ome.zarr.zip",
       "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/815/S-BIAD815/Files/idr0051/embryo_dmso_2_new_17-00-44_p00_c00_reg_preview.klb.ome.zarr.zip",
       "size_in_bytes": 2261446170,
-      "type": null,
+      "type": "file",
       "attributes": {}
     },
     "e1526e21-3b76-4342-a799-de7b1808bd87": {
@@ -55,11 +63,331 @@
       "name": "idr0051/embryo_dmso_2_new_17-00-44_p00_c00_reg_preview.ome.zarr.zip",
       "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/815/S-BIAD815/Files/idr0051/embryo_dmso_2_new_17-00-44_p00_c00_reg_preview.ome.zarr.zip",
       "size_in_bytes": 2258096604,
-      "type": null,
+      "type": "file",
       "attributes": {}
     }
   },
-  "images": {},
+  "images": {
+    "51afff7c-eed4-44b4-95c7-1437d8807b97": {
+      "id": "51afff7c-eed4-44b4-95c7-1437d8807b97",
+      "accession_id": "S-BIAD815",
+      "name": "idr0051/180712_H2B_22ss_Courtney_p00_c00_reg_preview.klb.ome.zarr.zip",
+      "original_relpath": "idr0051/180712_H2B_22ss_Courtney_p00_c00_reg_preview.klb.ome.zarr.zip",
+      "dimensions": "(206, 1, 418, 700, 527)",
+      "representations": [
+        {
+          "accession_id": "S-BIAD815",
+          "image_id": "51afff7c-eed4-44b4-95c7-1437d8807b97",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/815/S-BIAD815/Files/idr0051/180712_H2B_22ss_Courtney_p00_c00_reg_preview.klb.ome.zarr.zip",
+          "size": 5694584710,
+          "type": "zipped_zarr",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "4293565f-2af1-4219-8c32-c04a35a191f3"
+            ],
+            "path_in_zarr": "/0"
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD815",
+          "image_id": "51afff7c-eed4-44b4-95c7-1437d8807b97",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD815/51afff7c-eed4-44b4-95c7-1437d8807b97/51afff7c-eed4-44b4-95c7-1437d8807b97.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD815",
+          "image_id": "51afff7c-eed4-44b4-95c7-1437d8807b97",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD815/51afff7c-eed4-44b4-95c7-1437d8807b97/51afff7c-eed4-44b4-95c7-1437d8807b97-representative-512-512.png",
+          "size": 0,
+          "type": "representative",
+          "dimensions": "(512, 512)",
+          "attributes": null,
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD815",
+          "image_id": "51afff7c-eed4-44b4-95c7-1437d8807b97",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD815/51afff7c-eed4-44b4-95c7-1437d8807b97/51afff7c-eed4-44b4-95c7-1437d8807b97-thumbnail-128-128.png",
+          "size": 0,
+          "type": "thumbnail",
+          "dimensions": "(128, 128)",
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "SizeC": "1",
+        "SizeT": "206",
+        "SizeX": "527",
+        "SizeY": "700",
+        "SizeZ": "418",
+        "big_endian": "True",
+        "channels": "[{'id': 'Channel:0:0', 'color': 'white', 'samples_per_pixel': 1}]",
+        "dimension_order": "XYZCT",
+        "download_size": "5.3GiB",
+        "interleaved": "False",
+        "metadata_only": "True",
+        "physical_size_x": "1.0",
+        "physical_size_x_unit": "µm",
+        "physical_size_y": "1.0",
+        "physical_size_y_unit": "µm",
+        "physical_size_z": "1.0",
+        "physical_size_z_unit": "µm",
+        "significant_bits": "16",
+        "size_c": "1",
+        "size_t": "206",
+        "size_x": "527",
+        "size_y": "700",
+        "size_z": "418",
+        "type": "uint16"
+      }
+    },
+    "863bc512-1911-4ba3-838c-8ed044ce656c": {
+      "id": "863bc512-1911-4ba3-838c-8ed044ce656c",
+      "accession_id": "S-BIAD815",
+      "name": "idr0051/embryo_dmso_2_new_17-00-44_p00_c00_reg_preview.ome.zarr.zip",
+      "original_relpath": "idr0051/embryo_dmso_2_new_17-00-44_p00_c00_reg_preview.ome.zarr.zip",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD815",
+          "image_id": "863bc512-1911-4ba3-838c-8ed044ce656c",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/815/S-BIAD815/Files/idr0051/embryo_dmso_2_new_17-00-44_p00_c00_reg_preview.ome.zarr.zip",
+          "size": 2258096604,
+          "type": "zipped_zarr",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "e1526e21-3b76-4342-a799-de7b1808bd87"
+            ],
+            "path_in_zarr": "/0"
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD815",
+          "image_id": "863bc512-1911-4ba3-838c-8ed044ce656c",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD815/863bc512-1911-4ba3-838c-8ed044ce656c/863bc512-1911-4ba3-838c-8ed044ce656c.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "download_size": "2.1GiB"
+      }
+    },
+    "b2633930-86b0-489e-a845-d2a7afe6ff15": {
+      "id": "b2633930-86b0-489e-a845-d2a7afe6ff15",
+      "accession_id": "S-BIAD815",
+      "name": "idr0051/embryo_dmso_2_new_17-00-44_p00_c00_reg_preview.klb.ome.zarr.zip",
+      "original_relpath": "idr0051/embryo_dmso_2_new_17-00-44_p00_c00_reg_preview.klb.ome.zarr.zip",
+      "dimensions": "(147, 1, 451, 472, 384)",
+      "representations": [
+        {
+          "accession_id": "S-BIAD815",
+          "image_id": "b2633930-86b0-489e-a845-d2a7afe6ff15",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/815/S-BIAD815/Files/idr0051/embryo_dmso_2_new_17-00-44_p00_c00_reg_preview.klb.ome.zarr.zip",
+          "size": 2261446170,
+          "type": "zipped_zarr",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "abc6a09e-a109-4639-8e84-6b9b72c9dffa"
+            ],
+            "path_in_zarr": "/0"
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD815",
+          "image_id": "b2633930-86b0-489e-a845-d2a7afe6ff15",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD815/b2633930-86b0-489e-a845-d2a7afe6ff15/b2633930-86b0-489e-a845-d2a7afe6ff15.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD815",
+          "image_id": "b2633930-86b0-489e-a845-d2a7afe6ff15",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD815/b2633930-86b0-489e-a845-d2a7afe6ff15/b2633930-86b0-489e-a845-d2a7afe6ff15-thumbnail-128-128.png",
+          "size": 0,
+          "type": "thumbnail",
+          "dimensions": "(128, 128)",
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "SizeC": "1",
+        "SizeT": "147",
+        "SizeX": "384",
+        "SizeY": "472",
+        "SizeZ": "451",
+        "big_endian": "True",
+        "channels": "[{'id': 'Channel:0:0', 'color': 'white', 'samples_per_pixel': 1}]",
+        "dimension_order": "XYZCT",
+        "download_size": "2.1GiB",
+        "interleaved": "False",
+        "metadata_only": "True",
+        "physical_size_x": "1.0",
+        "physical_size_x_unit": "µm",
+        "physical_size_y": "1.0",
+        "physical_size_y_unit": "µm",
+        "physical_size_z": "1.0",
+        "physical_size_z_unit": "µm",
+        "significant_bits": "16",
+        "size_c": "1",
+        "size_t": "147",
+        "size_x": "384",
+        "size_y": "472",
+        "size_z": "451",
+        "type": "uint16"
+      }
+    },
+    "c49efcfd-e767-4ae5-adbf-299cafd92120": {
+      "id": "c49efcfd-e767-4ae5-adbf-299cafd92120",
+      "accession_id": "S-BIAD815",
+      "name": "idr0051/180712_H2B_22ss_Courtney1_20180712-163837_p00_c00_preview.ome.zarr.zip",
+      "original_relpath": "idr0051/180712_H2B_22ss_Courtney1_20180712-163837_p00_c00_preview.ome.zarr.zip",
+      "dimensions": "(79, 1, 201, 333, 333)",
+      "representations": [
+        {
+          "accession_id": "S-BIAD815",
+          "image_id": "c49efcfd-e767-4ae5-adbf-299cafd92120",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/815/S-BIAD815/Files/idr0051/180712_H2B_22ss_Courtney1_20180712-163837_p00_c00_preview.ome.zarr.zip",
+          "size": 1906978462,
+          "type": "zipped_zarr",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "b185186c-d3b3-4548-a58a-22430b4424c7"
+            ],
+            "path_in_zarr": "/0"
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD815",
+          "image_id": "c49efcfd-e767-4ae5-adbf-299cafd92120",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD815/c49efcfd-e767-4ae5-adbf-299cafd92120/c49efcfd-e767-4ae5-adbf-299cafd92120.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD815",
+          "image_id": "c49efcfd-e767-4ae5-adbf-299cafd92120",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD815/c49efcfd-e767-4ae5-adbf-299cafd92120/c49efcfd-e767-4ae5-adbf-299cafd92120-thumbnail-128-128.png",
+          "size": 0,
+          "type": "thumbnail",
+          "dimensions": "(128, 128)",
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "SizeC": "1",
+        "SizeT": "79",
+        "SizeX": "333",
+        "SizeY": "333",
+        "SizeZ": "201",
+        "big_endian": "True",
+        "channels": "[{'id': 'Channel:0:0', 'color': 'white', 'samples_per_pixel': 1}]",
+        "dimension_order": "XYZCT",
+        "download_size": "1.8GiB",
+        "interleaved": "False",
+        "metadata_only": "True",
+        "significant_bits": "16",
+        "size_c": "1",
+        "size_t": "79",
+        "size_x": "333",
+        "size_y": "333",
+        "size_z": "201",
+        "type": "uint16"
+      }
+    },
+    "e12a8e2a-4fce-4579-a78b-b0c4597c3ada": {
+      "id": "e12a8e2a-4fce-4579-a78b-b0c4597c3ada",
+      "accession_id": "S-BIAD815",
+      "name": "idr0051/2018-06-28_21ss_DMSO_TF_20180628-185945_p00_c00_reg_preview.ome.zarr.zip",
+      "original_relpath": "idr0051/2018-06-28_21ss_DMSO_TF_20180628-185945_p00_c00_reg_preview.ome.zarr.zip",
+      "dimensions": "(32, 1, 264, 426, 427)",
+      "representations": [
+        {
+          "accession_id": "S-BIAD815",
+          "image_id": "e12a8e2a-4fce-4579-a78b-b0c4597c3ada",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/815/S-BIAD815/Files/idr0051/2018-06-28_21ss_DMSO_TF_20180628-185945_p00_c00_reg_preview.ome.zarr.zip",
+          "size": 920829538,
+          "type": "zipped_zarr",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "fb6b28fa-3f08-4933-8715-c920063064e7"
+            ],
+            "path_in_zarr": "/0"
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD815",
+          "image_id": "e12a8e2a-4fce-4579-a78b-b0c4597c3ada",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD815/e12a8e2a-4fce-4579-a78b-b0c4597c3ada/e12a8e2a-4fce-4579-a78b-b0c4597c3ada.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD815",
+          "image_id": "e12a8e2a-4fce-4579-a78b-b0c4597c3ada",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD815/e12a8e2a-4fce-4579-a78b-b0c4597c3ada/e12a8e2a-4fce-4579-a78b-b0c4597c3ada-thumbnail-128-128.png",
+          "size": 0,
+          "type": "thumbnail",
+          "dimensions": "(128, 128)",
+          "attributes": null,
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "SizeC": "1",
+        "SizeT": "32",
+        "SizeX": "427",
+        "SizeY": "426",
+        "SizeZ": "264",
+        "big_endian": "True",
+        "channels": "[{'id': 'Channel:0:0', 'color': 'white', 'samples_per_pixel': 1}]",
+        "dimension_order": "XYZCT",
+        "download_size": "878.2MiB",
+        "interleaved": "False",
+        "metadata_only": "True",
+        "physical_size_x": "352.77777777777777",
+        "physical_size_x_unit": "µm",
+        "physical_size_y": "352.77777777777777",
+        "physical_size_y_unit": "µm",
+        "significant_bits": "16",
+        "size_c": "1",
+        "size_t": "32",
+        "size_x": "427",
+        "size_y": "426",
+        "size_z": "264",
+        "type": "uint16"
+      }
+    }
+  },
   "archive_files": {},
   "other_files": {},
   "image_aliases": {},

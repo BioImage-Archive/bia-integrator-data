@@ -1,0 +1,169 @@
+{
+  "accession_id": "S-BIAD846",
+  "title": "Systematic validation of antibody binding and protein subcellular localization using siRNA and confocal microscopy (OME-NGFF)",
+  "description": "OME-NGFF converted study from idr0025.  We have developed a platform for validation of antibody binding and protein subcellular localization data obtained from immunofluorescence using siRNA technology combined with automated confocal microscopy and image analysis. By combining the siRNA technology with automated sample preparation, automated imaging and quantitative image analysis, a high-throughput assay has been set-up to enable confirmation of accurate protein binding and localization in a systematic manner. Here, we describe the analysis and validation of the subcellular location of 65 human proteins, targeted by 75 antibodies and silenced by 130 siRNAs. A large fraction of (80%) the subcellular locations, including locations of several previously uncharacterized proteins, could be confirmed by the significant down-regulation of the antibody signal after the siRNA silencing. A quantitative analysis was set-up using automated image analysis to facilitate studies of targets found in more than one compartment. The results obtained using the platform demonstrate that siRNA silencing in combination with quantitative image analysis of antibody signals in different compartments of the cells is an attractive approach for ensuring accurate protein localization as well as antibody binding using immunofluorescence. With a large fraction of the human proteome still unexplored, we suggest this approach to be of great importance under the continued work of mapping the human proteome on a subcellular level.",
+  "authors": [
+    {
+      "name": "Image Data Resource (IDR)"
+    }
+  ],
+  "organism": "Homo sapiens (human)",
+  "release_date": "2023-08-15",
+  "license": "CC BY-SA 3.0",
+  "links": {},
+  "imaging_type": "confocal microscopy",
+  "attributes": {
+    "filetype_breakdown": "{'.ome.zarr.zip': {'n': 3, 'size_in_bytes': 2708880694, 'size_human_readable': '2.5GiB'}}",
+    "filetype_breakdown_html": "<ul><li>.ome.zarr.zip: 3 (2.5GiB)</li></ul>",
+    "n_files_excluding_zip_contents": "3",
+    "n_files_including_zip_contents": "3",
+    "study_size": "2.5GiB",
+    "study_size_human_readable": "2.5GiB",
+    "study_size_in_bytes": "2708880694"
+  },
+  "example_image_uri": "",
+  "example_annotation_uri": "",
+  "file_references": {
+    "1d9a867a-dcd6-452e-97a7-8aadf068b7f2": {
+      "id": "1d9a867a-dcd6-452e-97a7-8aadf068b7f2",
+      "name": "idr0025/10x images plate 1.ome.zarr.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/846/S-BIAD846/Files/idr0025/10x images plate 1.ome.zarr.zip",
+      "size_in_bytes": 1070467636,
+      "type": "file",
+      "attributes": {}
+    },
+    "56f40740-020f-4de3-96a1-7c8aebaa95d5": {
+      "id": "56f40740-020f-4de3-96a1-7c8aebaa95d5",
+      "name": "idr0025/10x images plate 2.ome.zarr.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/846/S-BIAD846/Files/idr0025/10x images plate 2.ome.zarr.zip",
+      "size_in_bytes": 765443404,
+      "type": "file",
+      "attributes": {}
+    },
+    "e0454f9c-88f1-45cc-8ee4-fb1be035d3f7": {
+      "id": "e0454f9c-88f1-45cc-8ee4-fb1be035d3f7",
+      "name": "idr0025/10x images plate 3.ome.zarr.zip",
+      "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/846/S-BIAD846/Files/idr0025/10x images plate 3.ome.zarr.zip",
+      "size_in_bytes": 872969654,
+      "type": "file",
+      "attributes": {}
+    }
+  },
+  "images": {
+    "3c534b4f-12be-4881-a84a-af6b65e142ea": {
+      "id": "3c534b4f-12be-4881-a84a-af6b65e142ea",
+      "accession_id": "S-BIAD846",
+      "name": "idr0025/10x images plate 3.ome.zarr.zip",
+      "original_relpath": "idr0025/10x images plate 3.ome.zarr.zip",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD846",
+          "image_id": "3c534b4f-12be-4881-a84a-af6b65e142ea",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/846/S-BIAD846/Files/idr0025/10x images plate 3.ome.zarr.zip",
+          "size": 872969654,
+          "type": "zipped_zarr",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "e0454f9c-88f1-45cc-8ee4-fb1be035d3f7"
+            ],
+            "path_in_zarr": "/0"
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD846",
+          "image_id": "3c534b4f-12be-4881-a84a-af6b65e142ea",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD846/3c534b4f-12be-4881-a84a-af6b65e142ea/3c534b4f-12be-4881-a84a-af6b65e142ea.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "download_size": "832.5MiB"
+      }
+    },
+    "52304cdf-4eba-4f0a-84b1-690e0d66add9": {
+      "id": "52304cdf-4eba-4f0a-84b1-690e0d66add9",
+      "accession_id": "S-BIAD846",
+      "name": "idr0025/10x images plate 1.ome.zarr.zip",
+      "original_relpath": "idr0025/10x images plate 1.ome.zarr.zip",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD846",
+          "image_id": "52304cdf-4eba-4f0a-84b1-690e0d66add9",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/846/S-BIAD846/Files/idr0025/10x images plate 1.ome.zarr.zip",
+          "size": 1070467636,
+          "type": "zipped_zarr",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "1d9a867a-dcd6-452e-97a7-8aadf068b7f2"
+            ],
+            "path_in_zarr": "/0"
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD846",
+          "image_id": "52304cdf-4eba-4f0a-84b1-690e0d66add9",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD846/52304cdf-4eba-4f0a-84b1-690e0d66add9/52304cdf-4eba-4f0a-84b1-690e0d66add9.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "download_size": "1020.9MiB"
+      }
+    },
+    "72cc291b-a4e0-4807-bd23-22e9ad75c0dd": {
+      "id": "72cc291b-a4e0-4807-bd23-22e9ad75c0dd",
+      "accession_id": "S-BIAD846",
+      "name": "idr0025/10x images plate 2.ome.zarr.zip",
+      "original_relpath": "idr0025/10x images plate 2.ome.zarr.zip",
+      "dimensions": null,
+      "representations": [
+        {
+          "accession_id": "S-BIAD846",
+          "image_id": "72cc291b-a4e0-4807-bd23-22e9ad75c0dd",
+          "uri": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/846/S-BIAD846/Files/idr0025/10x images plate 2.ome.zarr.zip",
+          "size": 765443404,
+          "type": "zipped_zarr",
+          "dimensions": null,
+          "attributes": {
+            "fileref_ids": [
+              "56f40740-020f-4de3-96a1-7c8aebaa95d5"
+            ],
+            "path_in_zarr": "/0"
+          },
+          "rendering": null
+        },
+        {
+          "accession_id": "S-BIAD846",
+          "image_id": "72cc291b-a4e0-4807-bd23-22e9ad75c0dd",
+          "uri": "https://uk1s3.embassy.ebi.ac.uk/bia-integrator-data/S-BIAD846/72cc291b-a4e0-4807-bd23-22e9ad75c0dd/72cc291b-a4e0-4807-bd23-22e9ad75c0dd.zarr/0",
+          "size": 0,
+          "type": "ome_ngff",
+          "dimensions": null,
+          "attributes": {},
+          "rendering": null
+        }
+      ],
+      "attributes": {
+        "download_size": "730.0MiB"
+      }
+    }
+  },
+  "archive_files": {},
+  "other_files": {},
+  "image_aliases": {},
+  "tags": []
+}

@@ -1,0 +1,6 @@
+{
+  "accession_id": "S-BIAD882",
+  "image_id": "4b2c77b0-1f05-49a9-8811-df9c1f1b620d",
+  "key": "channels",
+  "value": "[{'id': 'Channel:0:0', 'color': 'white', 'detector_settings': {'id': 'Detector:0:0'}, 'emission_wavelength': 630.0, 'emission_wavelength_unit': 'nm', 'name': 'BF', 'samples_per_pixel': 1}, {'id': 'Channel:0:1', 'color': 'cyan', 'detector_settings': {'id': 'Detector:0:0'}, 'emission_wavelength': 450.0, 'emission_wavelength_unit': 'nm', 'name': 'DAPI', 'samples_per_pixel': 1}, {'id': 'Channel:0:2', 'color': '#5f0', 'detector_settings': {'id': 'Detector:0:0'}, 'emission_wavelength': 525.0, 'emission_wavelength_unit': 'nm', 'name': 'GFP', 'samples_per_pixel': 1}, {'id': 'Channel:0:3', 'color': 'red', 'detector_settings': {'id': 'Detector:0:0'}, 'emission_wavelength': 630.0, 'emission_wavelength_unit': 'nm', 'name': 'Cy3', 'samples_per_pixel': 1}, {'id': 'Channel:0:4', 'color': 'magenta', 'detector_settings': {'id': 'Detector:0:0'}, 'emission_wavelength': 630.0, 'emission_wavelength_unit': 'nm', 'name': 'Cy5', 'samples_per_pixel': 1}]"
+}
